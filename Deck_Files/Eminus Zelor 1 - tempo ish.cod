@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="3" name="Quick Thinking"/>
+        <card number="3" name="Eminus Zelor Directive"/>
+        <card number="3" name="Fireball"/>
+        <card number="2" name="Spontaneous Combustion"/>
+        <card number="2" name="Radiating Force"/>
+        <card number="2" name="Resupply"/>
+        <card number="1" name="Simeon, Patient Forerunner"/>
+        <card number="3" name="Respected Mage"/>
+        <card number="2" name="Everyone Forgets"/>
+        <card number="2" name="Astral Speculation"/>
+        <card number="1" name="Wave of Doubt"/>
+        <card number="3" name="The Great Heron"/>
+        <card number="1" name="Ancient Volcano"/>
+        <card number="3" name="Lively Cathedral"/>
+        <card number="1" name="Heat Wave"/>
+        <card number="1" name="Paralyze"/>
+        <card number="3" name="Try Again"/>
+        <card number="1" name="Nullify Magic"/>
+        <card number="3" name="Familiar Hollow"/>
+        <card number="1" name="Eminus Zelor Starting Location"/>
+        <card number="1" name="Supply Cache"/>
+        <card number="1" name="Zombie"/>
+        <card number="1" name="Golem"/>
+        <card number="1" name="Three Paths"/>
+        <card number="1" name="Energy Flask"/>
+        <card number="1" name="Knight of Redemption"/>
+        <card number="1" name="Rift"/>
+        <card number="1" name="Village"/>
+        <card number="1" name="Grove"/>
+        <card number="1" name="Ruins"/>
+        <card number="1" name="Dreamscape"/>
+    </zone>
+</cockatrice_deck>

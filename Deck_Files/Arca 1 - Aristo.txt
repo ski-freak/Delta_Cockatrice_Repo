@@ -15,6 +15,7 @@
 3 Eye for an Eye
 3 Toxic Swamp
 
+side
 1 Oruva
 1 Supply Cache
 1 Zombie

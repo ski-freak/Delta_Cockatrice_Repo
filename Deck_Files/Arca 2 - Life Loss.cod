@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="2" name="Volcanic Giant"/>
+        <card number="2" name="Familiar Shadow"/>
+        <card number="2" name="Nameless Vampire"/>
+        <card number="2" name="Death Elemental"/>
+        <card number="2" name="Spooky Wraith"/>
+        <card number="2" name="Pain Conduit"/>
+        <card number="2" name="Arca Insights"/>
+        <card number="1" name="Lekvian Valet"/>
+        <card number="2" name="Lekvian Butler"/>
+        <card number="2" name="Absorb"/>
+        <card number="2" name="Borrow Time"/>
+        <card number="2" name="Gaston, Lekvian Squire"/>
+        <card number="2" name="Give Lifesteal"/>
+        <card number="2" name="Final Strike"/>
+        <card number="1" name="Handy Hammer"/>
+        <card number="2" name="Healing Potion"/>
+        <card number="1" name="Squish"/>
+        <card number="2" name="Void Snap"/>
+        <card number="1" name="Eudoxia Unshackled"/>
+        <card number="2" name="Calibrated Rift"/>
+        <card number="2" name="Wounded Ruins"/>
+        <card number="2" name="Life Manipulation"/>
+        <card number="1" name="Oruva"/>
+        <card number="1" name="Supply Cache"/>
+        <card number="1" name="Zombie"/>
+        <card number="1" name="Golem"/>
+        <card number="1" name="Three Paths"/>
+        <card number="1" name="Energy Flask"/>
+        <card number="1" name="Knight of Redemption"/>
+        <card number="1" name="Rift"/>
+        <card number="1" name="Village"/>
+        <card number="1" name="Grove"/>
+        <card number="1" name="Ruins"/>
+        <card number="1" name="Dreamscape"/>
+    </zone>
+</cockatrice_deck>

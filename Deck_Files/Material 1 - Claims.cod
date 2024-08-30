@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="3" name="Geoexplosion"/>
+        <card number="3" name="Bermuda Triangle"/>
+        <card number="2" name="Living Earth"/>
+        <card number="2" name="Disappearing Land"/>
+        <card number="3" name="Aulvan Ranger"/>
+        <card number="3" name="Zombie Contagion"/>
+        <card number="3" name="Materialized Landscape"/>
+        <card number="3" name="Aggressive Development"/>
+        <card number="3" name="Unexpected Conquest"/>
+        <card number="3" name="Conqueror's Tower"/>
+        <card number="3" name="Sinkhole"/>
+        <card number="3" name="The Winding Trail"/>
+        <card number="3" name="Peaceful Woods"/>
+        <card number="3" name="Tranquil Grove"/>
+        <card number="1" name="Svet"/>
+        <card number="1" name="Supply Cache"/>
+        <card number="1" name="Zombie"/>
+        <card number="1" name="Golem"/>
+        <card number="1" name="Three Paths"/>
+        <card number="1" name="Energy Flask"/>
+        <card number="1" name="Knight of Redemption"/>
+        <card number="1" name="Rift"/>
+        <card number="1" name="Village"/>
+        <card number="1" name="Grove"/>
+        <card number="1" name="Ruins"/>
+        <card number="1" name="Dreamscape"/>
+    </zone>
+</cockatrice_deck>
