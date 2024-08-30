@@ -1,0 +1,27 @@
+3 Geoexplosion
+3 Bermuda Triangle
+2 Living Earth
+2 Disappearing Land
+3 Aulvan Ranger
+3 Zombie Contagion
+3 Materialized Landscape
+3 Aggressive Development
+3 Unexpected Conquest
+3 Conqueror's Tower
+3 Sinkhole
+3 The Winding Trail
+3 Peaceful Woods
+3 Tranquil Grove
+
+1 Svet
+1 Supply Cache
+1 Zombie
+1 Golem
+1 Three Paths
+1 Energy Flask
+1 Knight of Redemption
+1 Rift
+1 Village
+1 Grove
+1 Ruins
+1 Dreamscape
