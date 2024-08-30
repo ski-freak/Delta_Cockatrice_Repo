@@ -20,7 +20,7 @@
 2 Combo Slice
 2 Wayward Guardian
 
-
+side
 1 Aton
 1 Supply Cache
 1 Zombie

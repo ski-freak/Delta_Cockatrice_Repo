@@ -18,6 +18,7 @@
 1 Nullify Magic
 3 Familiar Hollow
 
+side
 1 Eminus Zelor Starting Location
 1 Supply Cache
 1 Zombie

@@ -22,6 +22,8 @@
         <card number="3" name="Try Again"/>
         <card number="1" name="Nullify Magic"/>
         <card number="3" name="Familiar Hollow"/>
+    </zone>
+    <zone name="side">
         <card number="1" name="Eminus Zelor Starting Location"/>
         <card number="1" name="Supply Cache"/>
         <card number="1" name="Zombie"/>

@@ -13,6 +13,7 @@
 3 Peaceful Woods
 3 Tranquil Grove
 
+side
 1 Svet
 1 Supply Cache
 1 Zombie

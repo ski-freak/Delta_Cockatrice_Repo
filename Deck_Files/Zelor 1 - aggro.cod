@@ -24,6 +24,8 @@
         <card number="2" name="Fiery Pit"/>
         <card number="2" name="Combo Slice"/>
         <card number="2" name="Wayward Guardian"/>
+    </zone>
+    <zone name="side">
         <card number="1" name="Aton"/>
         <card number="1" name="Supply Cache"/>
         <card number="1" name="Zombie"/>
