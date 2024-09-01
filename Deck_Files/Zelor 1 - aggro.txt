@@ -16,9 +16,9 @@
 2 Flame Oracle
 2 Mesa Guide
 2 Unquenchable Fire
-2 Fiery Pit
 2 Combo Slice
 2 Wayward Guardian
+2 Ping Dude
 
 side
 1 Aton

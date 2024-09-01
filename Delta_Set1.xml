@@ -94,6 +94,10 @@
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Arca%20Zelor%20Directive.png">Del1</set>
     </card>
     <card>
+        <name>Arcane Chains</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Arcane%20Chains.png">Del1</set>
+    </card>
+    <card>
         <name>Arcane Goldfish</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Arcane%20Goldfish.png">Del1</set>
     </card>
@@ -746,6 +750,10 @@
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Gateway%20Archer.png">Del1</set>
     </card>
     <card>
+        <name>Gather Supplies</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Gather%20Supplies.png">Del1</set>
+    </card>
+    <card>
         <name>Gelatinous Cube</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Gelatinous%20Cube.png">Del1</set>
     </card>
@@ -870,6 +878,10 @@
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Infinity%20Vessel.png">Del1</set>
     </card>
     <card>
+        <name>Injury to Insult</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Injury%20to%20Insult.png">Del1</set>
+    </card>
+    <card>
         <name>Inkblood Conjuring</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Inkblood%20Conjuring.png">Del1</set>
     </card>
@@ -962,6 +974,10 @@
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Lavasmith.png">Del1</set>
     </card>
     <card>
+        <name>Leave me Alone</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Leave%20me%20Alone.png">Del1</set>
+    </card>
+    <card>
         <name>Legion Supply Courier</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Legion%20Supply%20Courier.png">Del1</set>
     </card>
@@ -1016,6 +1032,10 @@
     <card>
         <name>Living Earth</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Living%20Earth.png">Del1</set>
+    </card>
+    <card>
+        <name>Lost Tome</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Lost%20Tome.png">Del1</set>
     </card>
     <card>
         <name>Lost Traveler</name>
@@ -1260,6 +1280,10 @@
     <card>
         <name>Pick and Ban</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Pick%20and%20Ban.png">Del1</set>
+    </card>
+    <card>
+        <name>Ping Dude</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Ping%20Dude.png">Del1</set>
     </card>
     <card>
         <name>Ping</name>

@@ -5,21 +5,19 @@
 2 Spooky Wraith
 2 Pain Conduit
 2 Arca Insights
-1 Lekvian Valet
 2 Lekvian Butler
 2 Absorb
 2 Borrow Time
 2 Gaston, Lekvian Squire
-2 Give Lifesteal
 2 Final Strike
-1 Handy Hammer
+2 Handy Hammer
 2 Healing Potion
-1 Squish
+2 Squish
 2 Void Snap
-1 Eudoxia Unshackled
-2 Calibrated Rift
-2 Wounded Ruins
 2 Life Manipulation
+2 Void Spike
+2 Arcane Chains
+2 Injury to Insult
 
 side
 1 Oruva
