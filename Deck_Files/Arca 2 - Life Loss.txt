@@ -19,7 +19,6 @@
 2 Arcane Chains
 2 Injury to Insult
 
-side
 1 Oruva
 1 Supply Cache
 1 Zombie
