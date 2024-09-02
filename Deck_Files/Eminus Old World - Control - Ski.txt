@@ -1,0 +1,31 @@
+
+multi
+2 Eminus Old World Directive
+
+int
+2 Old World Spellbook ---
+2 Eminus Spellbook ---
+2 Arbiter's Spellbook ---
+2 Embargo
+2 Invisible Haze
+2 Out of Mind
+2 Glimpse Disaster
+2 Frost Eruption
+2 Cyclone
+2 Shrinkify
+2 Unfortunate Timing
+
+other
+2 The Dreamer
+2 The Plan
+2 The Great Heron
+
+claims
+2 Overgrown Watchtower
+
+
+
+
+
+
+1 The Arbiters' Stronghold
