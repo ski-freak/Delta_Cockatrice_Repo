@@ -22,6 +22,7 @@ other
 
 claims
 2 Overgrown Watchtower
+2 Quiet Gate
 
 
 
