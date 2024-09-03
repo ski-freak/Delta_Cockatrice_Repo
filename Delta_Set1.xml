@@ -74,6 +74,10 @@
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Ancient%20Volcano.png">Del1</set>
     </card>
     <card>
+        <name>Arbiter's Spellbook</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Arbiter's%20Spellbook.png">Del1</set>
+    </card>
+    <card>
         <name>Arca Eminus Directive</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Arca%20Eminus%20Directive.png">Del1</set>
     </card>
@@ -1400,6 +1404,10 @@
     <card>
         <name>Quick Thinking</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Quick%20Thinking.png">Del1</set>
+    </card>
+    <card>
+        <name>Quiet Gate</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Quiet%20Gate.png">Del1</set>
     </card>
     <card>
         <name>Radiating Force</name>
