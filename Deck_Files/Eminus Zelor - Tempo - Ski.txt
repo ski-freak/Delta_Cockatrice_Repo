@@ -1,22 +1,25 @@
-3 Quick Thinking
-3 Eminus Zelor Directive
-3 Fireball
-2 Spontaneous Combustion
-2 Radiating Force
-2 Resupply
-1 Simeon, Patient Forerunner
-3 Respected Mage
+2 Quick Thinking
+2 Eminus Zelor Directive
+2 Simeon, Patient Forerunner
+2 Respected Mage
 2 Everyone Forgets
-2 Astral Speculation
 1 Wave of Doubt
-3 The Great Heron
-1 Ancient Volcano
-3 Lively Cathedral
-1 Heat Wave
-1 Paralyze
-3 Try Again
-1 Nullify Magic
-3 Familiar Hollow
+2 The Great Heron
+2 Lively Cathedral
+2 Try again
+2 Nullify Magic
+2 Familiar Hollow
+2 Seasoned Loremaster
+1 Swipe
+2 Divine Uppercut
+2 Knights' Ambush
+1 Unyielding Blade
+1 Speed Check
+2 Moment of Rage
+2 Spontaneous Combustion
+2 Fireball
+2 Redemption Spellbook
+2 Recuperate
 
 side
 1 Eminus Zelor Starting Location

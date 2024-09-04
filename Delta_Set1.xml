@@ -274,6 +274,10 @@
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Burning%20Storehouse.png">Del1</set>
     </card>
     <card>
+        <name>Burst of Speed</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Burst%20of%20Speed.png">Del1</set>
+    </card>
+    <card>
         <name>Calibrated Rift</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Calibrated%20Rift.png">Del1</set>
     </card>
@@ -1512,6 +1516,10 @@
     <card>
         <name>Recurring Menace</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Recurring%20Menace.png">Del1</set>
+    </card>
+    <card>
+        <name>Redemption Spellbook</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Redemption%20Spellbook.png">Del1</set>
     </card>
     <card>
         <name>Reflect</name>
