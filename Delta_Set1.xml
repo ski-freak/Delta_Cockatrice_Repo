@@ -130,6 +130,10 @@
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Aton.png">Del1</set>
     </card>
     <card>
+        <name>Atonian Phoenix</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Atonian%20Phoenix.png">Del1</set>
+    </card>
+    <card>
         <name>Aulva Spellsplitter</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Aulva%20Spellsplitter.png">Del1</set>
     </card>
@@ -438,6 +442,10 @@
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Devastating%20Decoy.png">Del1</set>
     </card>
     <card>
+        <name>Devil's Fury</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Devil's%20Fury.png">Del1</set>
+    </card>
+    <card>
         <name>Devout Arbiter</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Devout%20Arbiter.png">Del1</set>
     </card>
@@ -704,6 +712,10 @@
     <card>
         <name>Flank</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Flank.png">Del1</set>
+    </card>
+    <card>
+        <name>Flashback Attack</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Flashback%20Attack.png">Del1</set>
     </card>
     <card>
         <name>Flashback</name>
@@ -1156,6 +1168,10 @@
     <card>
         <name>Mind Reader</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Mind%20Reader.png">Del1</set>
+    </card>
+    <card>
+        <name>Mind Reading</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Mind%20Reading.png">Del1</set>
     </card>
     <card>
         <name>Mind Thief</name>
