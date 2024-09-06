@@ -5,7 +5,6 @@
 2 Astral Speculation
 2 Bard's Lesson
 2 Library Raid
-2 Yeet
 2 Psychic Intrusion
 2 Self Destructing Message
 2 Flame elemental
@@ -17,7 +16,6 @@
 2 Inspired Encore
 2 Devil's Fury
 2 Flashback Attack
-2 Mind Reading
 2 Atonian Phoenix
 
 
