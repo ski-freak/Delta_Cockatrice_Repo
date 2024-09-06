@@ -22,7 +22,7 @@
 
 
 1 Aton
-1 Supply Cache
+1 Spare Supplies
 1 Zombie
 1 Golem
 1 Three Paths
