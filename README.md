@@ -1,7 +1,13 @@
 ## To use/update, download the Delta_Set1.xml file and place it in Cockatrice\data\customsets
 
-Deck files are in the deck files folder if you would like to grab some. If you have any you would like to submit just dm or ping @skifreak on discord.
+Info on current testing method
+1. Download [Cockatrice](https://cockatrice.github.io/) and install it (I used the portable install)
+2. Grab from this repo the latest set file and deck files.
+	1. Grab the Delta_Set1.xml file and drop it in `Cockatrice\data\customsets` 
+	2. Decks go in `Cockatrice\data\decks` 
+3. If you haven't before, in Cockatrice, go to Card Database -> Manage Sets, disable all, then enable Delta_Set1.
+4. Connect to the cockatrice rooster ranges server in the menu Cockatrice -> Connect. You may need to create an account first (Cockatrice -> Register to Server, you only need to enter username, email, and password).
 
 Note: When cards are updated, you will need to go to Cockatrice -> Card Sources -> Delete Downloaded Images in the menus for them to refresh on your client.
 
-If you have old image files for this set from back before this repo was created, you may need to remove them from Cockatrice\data\pics\CUSTOM
+If you make your own decks, you can send them to @skifreak to be added to the repo.
