@@ -30,6 +30,10 @@
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Abomination%20Spellbook.png">Del1</set>
     </card>
     <card>
+        <name>Absorb Magic</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Absorb%20Magic.png">Del1</set>
+    </card>
+    <card>
         <name>Absorb</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Absorb.png">Del1</set>
     </card>
@@ -74,6 +78,14 @@
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Ancient%20Dreamshaper.png">Del1</set>
     </card>
     <card>
+        <name>Ancient Mentor</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Ancient%20Mentor.png">Del1</set>
+    </card>
+    <card>
+        <name>Annual Feast</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Annual%20Feast.png">Del1</set>
+    </card>
+    <card>
         <name>Antimagic</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Antimagic.png">Del1</set>
     </card>
@@ -110,12 +122,32 @@
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Arca%20Zelor%20Directive.png">Del1</set>
     </card>
     <card>
+        <name>Arcane Abomination</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Arcane%20Abomination.png">Del1</set>
+    </card>
+    <card>
+        <name>Arcane Arbiter</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Arcane%20Arbiter.png">Del1</set>
+    </card>
+    <card>
         <name>Arcane Chains</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Arcane%20Chains.png">Del1</set>
     </card>
     <card>
         <name>Arcane Goldfish</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Arcane%20Goldfish.png">Del1</set>
+    </card>
+    <card>
+        <name>Arcane Knight</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Arcane%20Knight.png">Del1</set>
+    </card>
+    <card>
+        <name>Arcane Nightmare</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Arcane%20Nightmare.png">Del1</set>
+    </card>
+    <card>
+        <name>Arcane Outlander</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Arcane%20Outlander.png">Del1</set>
     </card>
     <card>
         <name>Arena Daredevil</name>
@@ -210,6 +242,10 @@
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Blinding%20Flash.png">Del1</set>
     </card>
     <card>
+        <name>Blizzard Elemental</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Blizzard%20Elemental.png">Del1</set>
+    </card>
+    <card>
         <name>Blood Channeler</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Blood%20Channeler.png">Del1</set>
     </card>
@@ -286,12 +322,20 @@
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Bring%20it%20On.png">Del1</set>
     </card>
     <card>
+        <name>BSOD</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/BSOD.png">Del1</set>
+    </card>
+    <card>
         <name>Burning Ascent</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Burning%20Ascent.png">Del1</set>
     </card>
     <card>
         <name>Burning Lich</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Burning%20Lich.png">Del1</set>
+    </card>
+    <card>
+        <name>Burning Plain Directive</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Burning%20Plain%20Directive.png">Del1</set>
     </card>
     <card>
         <name>Burning Plain Spellbook</name>
@@ -322,6 +366,10 @@
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Cannon%20Barrage.png">Del1</set>
     </card>
     <card>
+        <name>Centrifuge</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Centrifuge.png">Del1</set>
+    </card>
+    <card>
         <name>Challenge</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Challenge.png">Del1</set>
     </card>
@@ -348,6 +396,10 @@
     <card>
         <name>Coffee Shop</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Coffee%20Shop.png">Del1</set>
+    </card>
+    <card>
+        <name>College of Dreams Directive</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/College%20of%20Dreams%20Directive.png">Del1</set>
     </card>
     <card>
         <name>College of Dreams Spellbook</name>
@@ -384,6 +436,10 @@
     <card>
         <name>Corrupted Ancient</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Corrupted%20Ancient.png">Del1</set>
+    </card>
+    <card>
+        <name>Corrupted Lifeline</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Corrupted%20Lifeline.png">Del1</set>
     </card>
     <card>
         <name>Cosmic Contemplation</name>
@@ -434,6 +490,10 @@
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Dangerous%20Distraction.png">Del1</set>
     </card>
     <card>
+        <name>Dangerous Prowler</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Dangerous%20Prowler.png">Del1</set>
+    </card>
+    <card>
         <name>Dark Aperture</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Dark%20Aperture.png">Del1</set>
     </card>
@@ -452,6 +512,10 @@
     <card>
         <name>Deathless Zombie</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Deathless%20Zombie.png">Del1</set>
+    </card>
+    <card>
+        <name>Deconstructor</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Deconstructor.png">Del1</set>
     </card>
     <card>
         <name>Defense Matrix</name>
@@ -514,6 +578,10 @@
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Distant%20Titans.png">Del1</set>
     </card>
     <card>
+        <name>Distress Beacon</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Distress%20Beacon.png">Del1</set>
+    </card>
+    <card>
         <name>Divine Uppercut</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Divine%20Uppercut.png">Del1</set>
     </card>
@@ -554,6 +622,10 @@
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Dune%20Paladin.png">Del1</set>
     </card>
     <card>
+        <name>Dungeon Diver</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Dungeon%20Diver.png">Del1</set>
+    </card>
+    <card>
         <name>Eclectic Giant</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Eclectic%20Giant.png">Del1</set>
     </card>
@@ -566,8 +638,16 @@
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Eerie%20Graveyard.png">Del1</set>
     </card>
     <card>
+        <name>Elder Artificer</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Elder%20Artificer.png">Del1</set>
+    </card>
+    <card>
         <name>Eliminate</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Eliminate.png">Del1</set>
+    </card>
+    <card>
+        <name>Elite Arbiter</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Elite%20Arbiter.png">Del1</set>
     </card>
     <card>
         <name>Elite Scout</name>
@@ -604,6 +684,10 @@
     <card>
         <name>Eminus Zelor Starting Location</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Eminus%20Zelor%20Starting%20Location.png">Del1</set>
+    </card>
+    <card>
+        <name>Emmisary of Fear</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Emmisary%20of%20Fear.png">Del1</set>
     </card>
     <card>
         <name>Energy Bank</name>
@@ -646,8 +730,16 @@
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Eternal%20Guard.png">Del1</set>
     </card>
     <card>
+        <name>Ether Charge</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Ether%20Charge.png">Del1</set>
+    </card>
+    <card>
         <name>Ether Wind</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Ether%20Wind.png">Del1</set>
+    </card>
+    <card>
+        <name>Ethereal Knight</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Ethereal%20Knight.png">Del1</set>
     </card>
     <card>
         <name>Eudoxia Unshackled</name>
@@ -700,6 +792,10 @@
     <card>
         <name>Familiar Shadow</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Familiar%20Shadow.png">Del1</set>
+    </card>
+    <card>
+        <name>Famous Fighter</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Famous%20Fighter.png">Del1</set>
     </card>
     <card>
         <name>Farsight Telescope</name>
@@ -786,12 +882,20 @@
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Forgotten%20Hunter.png">Del1</set>
     </card>
     <card>
+        <name>Forgotten Lich</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Forgotten%20Lich.png">Del1</set>
+    </card>
+    <card>
         <name>Forgotten Relic</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Forgotten%20Relic.png">Del1</set>
     </card>
     <card>
         <name>Forsaken Warlock</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Forsaken%20Warlock.png">Del1</set>
+    </card>
+    <card>
+        <name>Fost Feac Directive</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Fost%20Feac%20Directive.png">Del1</set>
     </card>
     <card>
         <name>Fost Feac Spellbook</name>
@@ -902,6 +1006,14 @@
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Golem.png">Del1</set>
     </card>
     <card>
+        <name>Grab Some Friends</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Grab%20Some%20Friends.png">Del1</set>
+    </card>
+    <card>
+        <name>Grand Paladin</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Grand%20Paladin.png">Del1</set>
+    </card>
+    <card>
         <name>Grand Protector</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Grand%20Protector.png">Del1</set>
     </card>
@@ -918,6 +1030,10 @@
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Grim%20Meddling.png">Del1</set>
     </card>
     <card>
+        <name>Grim Squire</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Grim%20Squire.png">Del1</set>
+    </card>
+    <card>
         <name>Grove</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Grove.png">Del1</set>
     </card>
@@ -928,6 +1044,10 @@
     <card>
         <name>Handy Hammer</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Handy%20Hammer.png">Del1</set>
+    </card>
+    <card>
+        <name>Harvest Season</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Harvest%20Season.png">Del1</set>
     </card>
     <card>
         <name>Haunted Warlock</name>
@@ -950,12 +1070,24 @@
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Heat%20Wave.png">Del1</set>
     </card>
     <card>
+        <name>Heroic Warrior</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Heroic%20Warrior.png">Del1</set>
+    </card>
+    <card>
         <name>High Voltage</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/High%20Voltage.png">Del1</set>
     </card>
     <card>
+        <name>Hired Bodyguard</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Hired%20Bodyguard.png">Del1</set>
+    </card>
+    <card>
         <name>Horstace, Royal Tax Collector</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Horstace,%20Royal%20Tax%20Collector.png">Del1</set>
+    </card>
+    <card>
+        <name>Imaginary Ghost</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Imaginary%20Ghost.png">Del1</set>
     </card>
     <card>
         <name>Improvised Armaments</name>
@@ -1102,6 +1234,10 @@
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Lekvian%20Valet.png">Del1</set>
     </card>
     <card>
+        <name>Lentholm Directive</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Lentholm%20Directive.png">Del1</set>
+    </card>
+    <card>
         <name>Lentholm Spellbook</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Lentholm%20Spellbook.png">Del1</set>
     </card>
@@ -1126,6 +1262,10 @@
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Lieutenant%20Rusker.png">Del1</set>
     </card>
     <card>
+        <name>Liev Arbiter</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Liev%20Arbiter.png">Del1</set>
+    </card>
+    <card>
         <name>Liev Grappler</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Liev%20Grappler.png">Del1</set>
     </card>
@@ -1136,6 +1276,10 @@
     <card>
         <name>Life Manipulation</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Life%20Manipulation.png">Del1</set>
+    </card>
+    <card>
+        <name>Lifeforce</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Lifeforce.png">Del1</set>
     </card>
     <card>
         <name>Lightning Generator</name>
@@ -1230,6 +1374,10 @@
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Menacing%20Mirror.png">Del1</set>
     </card>
     <card>
+        <name>Menacing Nightmare</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Menacing%20Nightmare.png">Del1</set>
+    </card>
+    <card>
         <name>Menacing Stormshark</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Menacing%20Stormshark.png">Del1</set>
     </card>
@@ -1256,6 +1404,10 @@
     <card>
         <name>Mind Reading</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Mind%20Reading.png">Del1</set>
+    </card>
+    <card>
+        <name>Mind Tempest</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Mind%20Tempest.png">Del1</set>
     </card>
     <card>
         <name>Mind Thief</name>
@@ -1330,6 +1482,10 @@
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Night%20Horror.png">Del1</set>
     </card>
     <card>
+        <name>Night of the Dead</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Night%20of%20the%20Dead.png">Del1</set>
+    </card>
+    <card>
         <name>Nightfall</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Nightfall.png">Del1</set>
     </card>
@@ -1352,6 +1508,10 @@
     <card>
         <name>Nullify Magic</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Nullify%20Magic.png">Del1</set>
+    </card>
+    <card>
+        <name>Oasis Traveler</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Oasis%20Traveler.png">Del1</set>
     </card>
     <card>
         <name>Ogre Druid</name>
@@ -1398,8 +1558,16 @@
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Outlander's%20Spellbook.png">Del1</set>
     </card>
     <card>
+        <name>Outlands Accountant</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Outlands%20Accountant.png">Del1</set>
+    </card>
+    <card>
         <name>Outlands Burglar</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Outlands%20Burglar.png">Del1</set>
+    </card>
+    <card>
+        <name>Outlands Guardian</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Outlands%20Guardian.png">Del1</set>
     </card>
     <card>
         <name>Outlast</name>
@@ -1426,6 +1594,10 @@
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Pain%20Conduit.png">Del1</set>
     </card>
     <card>
+        <name>Pale Mountain Directive</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Pale%20Mountain%20Directive.png">Del1</set>
+    </card>
+    <card>
         <name>Pale Mountain Spellbook</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Pale%20Mountain%20Spellbook.png">Del1</set>
     </card>
@@ -1436,6 +1608,18 @@
     <card>
         <name>Paralyze</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Paralyze.png">Del1</set>
+    </card>
+    <card>
+        <name>Passive Income Scheme</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Passive%20Income%20Scheme.png">Del1</set>
+    </card>
+    <card>
+        <name>Pax Directive</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Pax%20Directive.png">Del1</set>
+    </card>
+    <card>
+        <name>Pax Nova Directive</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Pax%20Nova%20Directive.png">Del1</set>
     </card>
     <card>
         <name>Pax Nova Garrison</name>
@@ -1510,6 +1694,10 @@
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Portal%20to%20Dream.png">Del1</set>
     </card>
     <card>
+        <name>Postmortem Revenge</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Postmortem%20Revenge.png">Del1</set>
+    </card>
+    <card>
         <name>Power of Foresight</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Power%20of%20Foresight.png">Del1</set>
     </card>
@@ -1560,6 +1748,10 @@
     <card>
         <name>Pyrus, Returned</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Pyrus,%20Returned.png">Del1</set>
+    </card>
+    <card>
+        <name>Quest for the Artifact</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Quest%20for%20the%20Artifact.png">Del1</set>
     </card>
     <card>
         <name>Questing Adventurer</name>
@@ -1654,6 +1846,10 @@
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Repurpose.png">Del1</set>
     </card>
     <card>
+        <name>Research Notebook</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Research%20Notebook.png">Del1</set>
+    </card>
+    <card>
         <name>Respected Mage</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Respected%20Mage.png">Del1</set>
     </card>
@@ -1742,6 +1938,10 @@
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Scrap%20Attack.png">Del1</set>
     </card>
     <card>
+        <name>Scrap Merchant</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Scrap%20Merchant.png">Del1</set>
+    </card>
+    <card>
         <name>Scrapmaster</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Scrapmaster.png">Del1</set>
     </card>
@@ -1776,6 +1976,10 @@
     <card>
         <name>Set Ablaze</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Set%20Ablaze.png">Del1</set>
+    </card>
+    <card>
+        <name>Shadowy Deluge</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Shadowy%20Deluge.png">Del1</set>
     </card>
     <card>
         <name>Shapeshift</name>
@@ -1814,6 +2018,14 @@
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Simeon,%20Patient%20Forerunner.png">Del1</set>
     </card>
     <card>
+        <name>Simple Traveler</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Simple%20Traveler.png">Del1</set>
+    </card>
+    <card>
+        <name>Singularity</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Singularity.png">Del1</set>
+    </card>
+    <card>
         <name>Sinkhole</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Sinkhole.png">Del1</set>
     </card>
@@ -1824,6 +2036,10 @@
     <card>
         <name>Sir Horus The Prepared</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Sir%20Horus%20The%20Prepared.png">Del1</set>
+    </card>
+    <card>
+        <name>Skyhaven Directive</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Skyhaven%20Directive.png">Del1</set>
     </card>
     <card>
         <name>Skyhaven Merchant</name>
@@ -1910,12 +2126,20 @@
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Spellmuncher.png">Del1</set>
     </card>
     <card>
+        <name>Spire Navigator</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Spire%20Navigator.png">Del1</set>
+    </card>
+    <card>
         <name>Spirit Guide</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Spirit%20Guide.png">Del1</set>
     </card>
     <card>
         <name>Spontaneous Combustion</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Spontaneous%20Combustion.png">Del1</set>
+    </card>
+    <card>
+        <name>Spooky Guy</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Spooky%20Guy.png">Del1</set>
     </card>
     <card>
         <name>Spooky Wraith</name>
@@ -1950,8 +2174,20 @@
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Stash%20Away.png">Del1</set>
     </card>
     <card>
+        <name>Steadfast Arbiter</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Steadfast%20Arbiter.png">Del1</set>
+    </card>
+    <card>
         <name>Stop Right There</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Stop%20Right%20There.png">Del1</set>
+    </card>
+    <card>
+        <name>Stronghold Directive</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Stronghold%20Directive.png">Del1</set>
+    </card>
+    <card>
+        <name>Stronghold Guard</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Stronghold%20Guard.png">Del1</set>
     </card>
     <card>
         <name>Stronghold Spellbook</name>
@@ -2014,6 +2250,10 @@
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Swift%20Looter.png">Del1</set>
     </card>
     <card>
+        <name>Swift Messenger</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Swift%20Messenger.png">Del1</set>
+    </card>
+    <card>
         <name>Swift Rescue</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Swift%20Rescue.png">Del1</set>
     </card>
@@ -2062,12 +2302,20 @@
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Temporary%20Disappearance.png">Del1</set>
     </card>
     <card>
+        <name>Terrifying Nightmare</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Terrifying%20Nightmare.png">Del1</set>
+    </card>
+    <card>
         <name>The Arbiters' Stronghold</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/The%20Arbiters'%20Stronghold.png">Del1</set>
     </card>
     <card>
         <name>The Burning Plain</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/The%20Burning%20Plain.png">Del1</set>
+    </card>
+    <card>
+        <name>The Chosen One</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/The%20Chosen%20One.png">Del1</set>
     </card>
     <card>
         <name>The College of Dreams</name>
@@ -2084,6 +2332,10 @@
     <card>
         <name>The Dreamer</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/The%20Dreamer.png">Del1</set>
+    </card>
+    <card>
+        <name>The End</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/The%20End.png">Del1</set>
     </card>
     <card>
         <name>The Gardener</name>
@@ -2210,6 +2462,14 @@
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Traverse%20the%20Dreamscape.png">Del1</set>
     </card>
     <card>
+        <name>Trinket Breaker</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Trinket%20Breaker.png">Del1</set>
+    </card>
+    <card>
+        <name>Trinket</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Trinket.png">Del1</set>
+    </card>
+    <card>
         <name>Triple Spell</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Triple%20Spell.png">Del1</set>
     </card>
@@ -2218,8 +2478,16 @@
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Try%20again.png">Del1</set>
     </card>
     <card>
+        <name>Tundra Arbiter</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Tundra%20Arbiter.png">Del1</set>
+    </card>
+    <card>
         <name>Turtle's Shell</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Turtle's%20Shell.png">Del1</set>
+    </card>
+    <card>
+        <name>Twilight Isle Directive</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Twilight%20Isle%20Directive.png">Del1</set>
     </card>
     <card>
         <name>Twilight Isle Spellbook</name>
@@ -2262,6 +2530,10 @@
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Unquenchable%20Fire.png">Del1</set>
     </card>
     <card>
+        <name>Unstoppable Force</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Unstoppable%20Force.png">Del1</set>
+    </card>
+    <card>
         <name>Unyielding Blade</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Unyielding%20Blade.png">Del1</set>
     </card>
@@ -2298,8 +2570,20 @@
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Visionary's%20Call.png">Del1</set>
     </card>
     <card>
+        <name>Visions of the Past</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Visions%20of%20the%20Past.png">Del1</set>
+    </card>
+    <card>
+        <name>Vivid Nightmare</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Vivid%20Nightmare.png">Del1</set>
+    </card>
+    <card>
         <name>Void Capsule</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Void%20Capsule.png">Del1</set>
+    </card>
+    <card>
+        <name>Void Demon</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Void%20Demon.png">Del1</set>
     </card>
     <card>
         <name>Void Drake</name>
@@ -2392,6 +2676,10 @@
     <card>
         <name>Wolkk Twinspear</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Wolkk%20Twinspear.png">Del1</set>
+    </card>
+    <card>
+        <name>Woodland Spectre</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Woodland%20Spectre.png">Del1</set>
     </card>
     <card>
         <name>Workshop Reactor</name>
