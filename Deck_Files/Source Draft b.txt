@@ -1,3 +1,4 @@
+Arca
 1 Calibrated Rift
 1 Memory Wraith
 1 Lekvian Butler
@@ -61,6 +62,8 @@
 1 Foundry Horror
 1 Deserted Soul
 1 Skyhaven Menace
+
+Eminus
 1 Postmortem Revenge
 1 Swift Rescue
 1 College of Dreams Directive
@@ -122,6 +125,8 @@
 1 Dedicated Combatant
 1 Grand Protector
 1 Arbiter Marshal
+
+Material
 1 Fost Feac Directive
 1 Tower Thief
 1 Leave me Alone
@@ -182,6 +187,8 @@
 1 Outlands Accountant
 1 Staff of Teleportation
 1 Wild Tactics
+
+Old World
 1 Arbiter Squadron
 1 Novice Law-Binder
 1 Steadfast Arbiter
@@ -222,7 +229,7 @@
 1 Void Shift
 1 A Difficult Choice
 1 Adapt
-1 Walk the plank!
+1 Walk the Plank
 1 Brace for Impact
 1 Seismic Sinkhole
 1 Pax Directive
@@ -233,8 +240,8 @@
 1 Graceful Arbiter
 1 Demolish
 1 Pale Mountain Directive
-1 Amatuer Sentinel
-1 Wayward Monster
+
+Zelor
 1 Murderous Intent
 1 Lentholm Directive
 1 Simple Traveler
@@ -270,7 +277,6 @@
 1 Lieutenant Rusker
 1 Menacing Dragon
 1 Knightly Challenger
-1 Wayward Monster
 1 Terrifying Nightmare
 1 Sweet Dreams
 1 Reckless Traveler
@@ -305,3 +311,5 @@
 1 Trade Insight
 1 Traverse the Dreamscape
 1 Wayward Guardian
+1 Amatuer Sentinel
+1 Wayward Monster

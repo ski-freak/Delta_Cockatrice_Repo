@@ -1,0 +1,110 @@
+LINKMULTI = Quantity
+linknew=(break)
+LINK = 1P_IGyPv14UEZOkVQugCYmcnnVDAZZrKr_ahsaL9D_nI
+
+
+; settings
+BORDER=RECTANGLE
+UNIT=INCH
+PAGE=8.5,11,PORTRAIT,HV
+DPI=300
+CARDSIZE=2.5,3.5
+BASERANGE=,ON
+
+
+; Icon fix <> to ())
+;[text]=replace([RULESTEXT],<CHAR(10)>,<br>)
+;[text]=replace([RULESTEXT],CHAR(10),<br>)
+;[text]=replace([RULESTEXT],|,&#10072;)
+
+; icons
+HTMLIMAGE = , (offense), offense.png, 0.15, 0.15, P
+HTMLIMAGE = , (defense), defense.png, 0.15, 0.15, P
+HTMLIMAGE = , (energy), energy.png, 0.15, 0.15, P
+HTMLIMAGE = , (speed), speed.png, 0.15, 0.15, P
+HTMLIMAGE = , (infinity), infinity.png, 0.15, 0.15, P
+
+;HTMLIMAGE = , (X), X.png, 0.15, 0.15, P
+
+HTMLIMAGE = , (arca), arca.png, 0.15, 0.15, P
+HTMLIMAGE = , (eminus), eminus.png, 0.15, 0.15, P
+HTMLIMAGE = , (material), material.png, 0.15, 0.15, P
+HTMLIMAGE = , (oldworld), oldworld.png, 0.15, 0.15, P
+HTMLIMAGE = , (zelor), zelor.png, 0.15, 0.15, P
+
+HTMLIMAGE = , (reality), reality.png, 0.15, 0.15, P
+HTMLIMAGE = , (deck), deck.png, 0.15, 0.15, P
+HTMLIMAGE = , (hand), hand.png, 0.15, 0.15, P
+HTMLIMAGE = , (memory), memory.png, 0.15, 0.15, P
+HTMLIMAGE = , (void), void.png, 0.15, 0.15, P
+HTMLIMAGE = , (channel), channel.png, 0.15, 0.15, P
+HTMLIMAGE = , (dream), dream.png, 0.15, 0.15, P
+HTMLIMAGE = , (any), any.png, 0.15, 0.15, P
+
+;linknew=<br>
+
+;htmlfont=default,inter,12,,#000000
+;htmltext=1-{(text)},[rulestext],0,0,100%,100%,#FFFFFF,0,BE,100,default
+;htmlmargins=default,0,0,0,0,top,150
+
+;linknew=<br>
+;[all]=1-{(RULESTEXT)}
+;htmlfont=fnt1,arial,12,,#000000
+;htmlmargins=fnt1,0,0,0,0,top,150
+;htmltext=[all],0,0,100%,50%,#FFFFFF,0,E,100,fnt1
+
+[all]=1-{(RULESTEXT)}
+;[all]=1-{(text)}
+htmlfont=fnt1,arial,10,,#000000
+;htmlmargins=fnt1,0,0,0,0,top,150
+
+htmlfont=break,arial,10,,#000000,left
+htmlmargins=break,0,0,0,0.1
+htmlkey=[all],(break),,break
+
+
+VISUAL=, 10, 10
+;FontBig
+FONT=Inter,10,T,#000000
+;TextEnergy
+TEXT="1-{(ENERGY COST)}",[ENERGY COST],7.5%,-46%,100%,100%,LEFT
+;TextSpeed
+TEXT="1-{(SPEED)}",[SPEED],7.5%,-32%,100%,100%,LEFT
+;Text_Defense
+TEXT="1-{(DEFENSE)}",[DEFENSE],-8%,-46%,100%,100%,RIGHT
+;Text_Offense
+TEXT="1-{(OFFENSE)}",[OFFENSE],-8%,-39%,100%,100%,RIGHT
+;TextName
+TEXT="1-{(name)}",[name],0%,-46%,100%,100%,CENTER
+;FontSmall
+FONT=Inter,6,T,#000000
+;Text_Rules
+HTMLTEXT=[all],[RULESTEXT],1%,63%,98%,98%,#FFFFFF,0,BE,100,fnt1
+;ImageSourceType
+IMAGE="1-{(IMAGESOURCETYPE)}",[IMAGESOURCETYPE],-44.2%,22%,100%,40%,0,P
+;ImageSourceTypeRight
+IMAGE="1-{(IMAGESOURCETYPE)}",[IMAGESOURCETYPE],44.2%,22%,100%,40%,0,P
+;ImageName
+IMAGE="1-{(imagename)}",[imagename],14%,{94/7}%,{18033/250}%,{17033/350}%,0,P
+;Image_line
+IMAGE=,"horizontallinetest.png",15.2%,-20%,69.6%,{380/7}%,0,P
+;Text_Dash
+TEXT=,"[TYPE] - [SUBTYPE]",0%,{-4019/100}%,100%,100%,CENTER
+;Image_Speed
+IMAGE=,"speed.png",0%,{1419/100}%,8%,{5599/700}%,0,P
+;Image_Defense
+IMAGE=,"defense.png",{23133/250}%,{33/350}%,{2033/250}%,{2833/350}%,0,P
+;Image_Offense
+IMAGE=,"Offense.png",92.4%,{2833/350}%,{1833/250}%,{1833/350}%,0,P
+;Image_Energy
+IMAGE=,"Energy.png",0%,{4/7}%,8%,8%,0,P
+;Image_SpellBorder
+IMAGE=,"[IMAGETYPE]_border.png",0%,0%,100%,100%,0
+;SourceIcons
+HTMLTEXT="1-{(SOURCEICONS)}",[SOURCEICONS],0%,{62/7}%,98%,98%,#FFFFFF,0,T
+ENDVISUAL
+
+SAVE=,join("Output\",[NAME],".png"),0,0,100%,100%
+
+;SAVE=,"Output\{§Z000}.png"
+
