@@ -1,0 +1,149 @@
+1 Malicious Receptionist
+1 Leave me Alone
+1 Sublimate
+1 Unfortunate Accident
+1 Remove from History
+1 Savage Snare
+1 Sinkhole
+1 Embittered Scribe
+1 Defiant Scribe
+1 Sour Mathematician
+1 Bermuda Triangle
+1 Siphon Power
+1 Wealthy Trader
+1 Ancient Greatsword
+1 Autonomous Trader
+1 Field Expedition
+1 Substitute
+1 Intimidating Scribe
+1 Honorable Scribe
+1 Outlands Accountant
+1 Prepared Scribe
+1 Bob, the Lightning Rod
+1 Tollgate Scribe
+1 Hallway Scribe
+1 Vexing Scribe
+1 Annoying Scribe
+1 Aggravating Scribe
+1 Deconstructor
+1 Ethereal Construct
+1 Pathway Sentry
+1 Self Improver
+1 Metallic Axe
+1 Wild Vision
+1 Explorer's Knife
+1 Artificer's Staff
+1 A Difficult Choice
+1 Mechanical Heart
+1 Metallic Cloak
+1 Graveyard Golem
+1 Instant Shield
+1 Vampire's Grasp
+1 Ancient Squire
+1 Clockwork Soldier
+1 Menacing Automaton
+1 Mechanical Menace
+1 Mechanical Vampire
+1 Desert Sentinel
+1 Fortress Automaton
+1 Workshop Automaton
+1 Furious Automaton
+1 Recycling
+1 Forbidden Knowledge
+1 Demonic Mirror
+1 The Dreamer
+1 Embargo
+1 The Plan
+1 Invisible Haze
+1 Out of Mind
+1 Moment of Silence
+1 Dead on Arrival
+1 Airdrop
+1 Scrap Merchant
+1 Termination
+1 Economy of Scale
+1 Centrifuge
+1 Outlands Commander
+1 Stronghold Dispatch
+1 Train Station
+1 Quick Thinking
+1 Collective Knowledge
+1 Helpful Automaton
+1 Construct Constructor
+1 Golem Nexus
+1 Remake
+1 Frank
+1 Automaton Summoning
+1 Squish
+1 Shadowy Explosion
+1 Tundra Elemental
+1 Lagoon Titan
+1 Knowledge Collection
+1 Loose Change
+1 Assembly Line
+1 Mystic Stone
+1 Grim Librarians
+1 Procrastinate
+1 Dream Web
+1 Question Station
+1 Furious Sorcerer
+1 Helping Hands
+1 Lost Sigil
+1 Arbiter Fabricator
+1 Golem Conjurer
+1 Scrapmaster
+1 Goblin Cleric
+1 Cleric's Lens
+1 Interrupt
+1 Annul
+1 Palace Sanctuary
+1 Catch!
+1 Starlight Cleric
+1 Mystic Mists
+1 Rift Shrine
+1 Nomadic Spirit
+1 Durable Automaton
+1 Dark End
+1 Double Negative
+1 Quick Thinking
+
+
+1 Atnia
+1 Night Horror
+1 Law-Mage
+1 Blood Zombie
+1 Knight of Redemption
+1 Golem
+1 Delta Ultimate Artifact
+1 Explore!
+1 See Beyond
+1 Warrior's Talent
+1 Forgotten Relic
+1 Portal
+1 Town Hall
+1 Field
+1 Tower
+1 Campsite
+1 Castle
+1 Temple
+1 Arca Zelor Core
+1 Arca Eminus Core
+1 Arca Faith Core
+1 Zelor Eminus Core
+1 Zelor Faith Core
+1 Zelor OldWorld Core
+1 Lively Cathedral
+1 Quiet Gate
+1 Eminus Martial Core
+1 Faith OldWorld Core
+1 Faith Martial Core
+1 Faith Materia Core
+1 OldWorld Martial Core
+1 OldWorld Materia Core
+1 OldWorld Arca Core
+1 Martial Materia Core
+1 Martial Arca Core
+1 Martial Zelor Core
+1 Martial Arca Core
+1 Martial Zelor Core
+1 Martial Eminus Core

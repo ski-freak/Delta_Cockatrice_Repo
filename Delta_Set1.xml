@@ -182,8 +182,20 @@
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Arbiters'%20Stronghold.png">Del1</set>
     </card>
     <card>
+        <name>Arca Eminus Core</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Arca%20Eminus%20Core.png">Del1</set>
+    </card>
+    <card>
         <name>Arca Eminus Directive</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Arca%20Eminus%20Directive.png">Del1</set>
+    </card>
+    <card>
+        <name>Arca Faith Core</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Arca%20Faith%20Core.png">Del1</set>
+    </card>
+    <card>
+        <name>Arca Faith start</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Arca%20Faith%20start.png">Del1</set>
     </card>
     <card>
         <name>Arca Insights</name>
@@ -200,6 +212,10 @@
     <card>
         <name>Arca Spellbook</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Arca%20Spellbook.png">Del1</set>
+    </card>
+    <card>
+        <name>Arca Zelor Core</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Arca%20Zelor%20Core.png">Del1</set>
     </card>
     <card>
         <name>Arca Zelor Directive</name>
@@ -974,6 +990,18 @@
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Embittered%20Scribe.png">Del1</set>
     </card>
     <card>
+        <name>Eminus Faith start</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Eminus%20Faith%20start.png">Del1</set>
+    </card>
+    <card>
+        <name>Eminus Martial Core</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Eminus%20Martial%20Core.png">Del1</set>
+    </card>
+    <card>
+        <name>Eminus Martial start</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Eminus%20Martial%20start.png">Del1</set>
+    </card>
+    <card>
         <name>Eminus Material Directive</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Eminus%20Material%20Directive.png">Del1</set>
     </card>
@@ -1140,6 +1168,30 @@
     <card>
         <name>Fabled Flames</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Fabled%20Flames.png">Del1</set>
+    </card>
+    <card>
+        <name>Faith Martial Core</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Faith%20Martial%20Core.png">Del1</set>
+    </card>
+    <card>
+        <name>Faith Martial start</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Faith%20Martial%20start.png">Del1</set>
+    </card>
+    <card>
+        <name>Faith Materia Core</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Faith%20Materia%20Core.png">Del1</set>
+    </card>
+    <card>
+        <name>Faith Materia start</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Faith%20Materia%20start.png">Del1</set>
+    </card>
+    <card>
+        <name>Faith Old World start</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Faith%20Old%20World%20start.png">Del1</set>
+    </card>
+    <card>
+        <name>Faith OldWorld Core</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Faith%20OldWorld%20Core.png">Del1</set>
     </card>
     <card>
         <name>Faith Spellcaster</name>
@@ -1918,6 +1970,34 @@
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Manifest%20Zelor.png">Del1</set>
     </card>
     <card>
+        <name>Martial Arca Core</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Martial%20Arca%20Core.png">Del1</set>
+    </card>
+    <card>
+        <name>Martial Arca start</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Martial%20Arca%20start.png">Del1</set>
+    </card>
+    <card>
+        <name>Martial Eminus Core</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Martial%20Eminus%20Core.png">Del1</set>
+    </card>
+    <card>
+        <name>Martial Materia Core</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Martial%20Materia%20Core.png">Del1</set>
+    </card>
+    <card>
+        <name>Martial Materia start</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Martial%20Materia%20start.png">Del1</set>
+    </card>
+    <card>
+        <name>Martial Zelor Core</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Martial%20Zelor%20Core.png">Del1</set>
+    </card>
+    <card>
+        <name>Martial Zelor start</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Martial%20Zelor%20start.png">Del1</set>
+    </card>
+    <card>
         <name>Mass Recall</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Mass%20Recall.png">Del1</set>
     </card>
@@ -2202,6 +2282,10 @@
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Old%20Watchtower.png">Del1</set>
     </card>
     <card>
+        <name>Old World Martial start</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Old%20World%20Martial%20start.png">Del1</set>
+    </card>
+    <card>
         <name>Old World Spellbook</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Old%20World%20Spellbook.png">Del1</set>
     </card>
@@ -2216,6 +2300,18 @@
     <card>
         <name>Old Zombiemancer</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Old%20Zombiemancer.png">Del1</set>
+    </card>
+    <card>
+        <name>OldWorld Arca Core</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/OldWorld%20Arca%20Core.png">Del1</set>
+    </card>
+    <card>
+        <name>OldWorld Martial Core</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/OldWorld%20Martial%20Core.png">Del1</set>
+    </card>
+    <card>
+        <name>OldWorld Materia Core</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/OldWorld%20Materia%20Core.png">Del1</set>
     </card>
     <card>
         <name>Oln's Scale</name>
@@ -3302,6 +3398,10 @@
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Tell%20no%20Tales.png">Del1</set>
     </card>
     <card>
+        <name>Temple</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Temple.png">Del1</set>
+    </card>
+    <card>
         <name>Temporal Bubble</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Temporal%20Bubble.png">Del1</set>
     </card>
@@ -3484,6 +3584,10 @@
     <card>
         <name>Tower Thief</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Tower%20Thief.png">Del1</set>
+    </card>
+    <card>
+        <name>Tower</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Tower.png">Del1</set>
     </card>
     <card>
         <name>Town Hall</name>
@@ -3868,6 +3972,22 @@
     <card>
         <name>Yulia of the Lake</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Yulia%20of%20the%20Lake.png">Del1</set>
+    </card>
+    <card>
+        <name>Zelor Eminus Core</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Zelor%20Eminus%20Core.png">Del1</set>
+    </card>
+    <card>
+        <name>Zelor Faith Core</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Zelor%20Faith%20Core.png">Del1</set>
+    </card>
+    <card>
+        <name>Zelor Faith start</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Zelor%20Faith%20start.png">Del1</set>
+    </card>
+    <card>
+        <name>Zelor OldWorld Core</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Zelor%20OldWorld%20Core.png">Del1</set>
     </card>
     <card>
         <name>Zelor Spellbook</name>
