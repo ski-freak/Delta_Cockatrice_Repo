@@ -15,6 +15,7 @@
 1 Gas Giant
 1 Arca Insights
 1 Healing Potion
+1 Cranium Clasp
 1 Visionary Artificer
 1 Void Snap
 1 Old Zombiemancer

@@ -12,7 +12,6 @@
 1 Sour Mathematician
 1 Bermuda Triangle
 1 Siphon Power
-1 Wealthy Trader
 1 Ancient Greatsword
 1 Autonomous Trader
 1 Field Expedition

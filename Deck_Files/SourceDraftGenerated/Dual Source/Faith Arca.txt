@@ -103,6 +103,7 @@
 1 Cursed Tomb
 1 Void Blast
 1 Lost Traveler
+1 Cranium Clasp
 1 Ransack
 1 Disturbing Memory
 1 Horror Summoning

@@ -32,6 +32,7 @@
 1 Lagoon Titan
 1 Knowledge Collection
 1 Loose Change
+1 Wealthy Trader
 1 Assembly Line
 1 Mystic Stone
 1 Grim Librarians
