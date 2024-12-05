@@ -3738,6 +3738,10 @@
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Three%20Paths.png">Del1</set>
     </card>
     <card>
+        <name>Thunder Knight</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Thunder%20Knight.png">Del1</set>
+    </card>
+    <card>
         <name>Thunderous Fury</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Thunderous%20Fury.png">Del1</set>
     </card>
@@ -4228,6 +4232,10 @@
     <card>
         <name>Zelor OldWorld Core</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Zelor%20OldWorld%20Core.png">Del1</set>
+    </card>
+    <card>
+        <name>zelor oldworld directive</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/zelor%20oldworld%20directive.png">Del1</set>
     </card>
     <card>
         <name>Zelor Spellbook</name>
