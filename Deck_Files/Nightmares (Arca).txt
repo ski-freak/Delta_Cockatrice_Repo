@@ -1,0 +1,36 @@
+4 Portal
+2 Bound in the Earth
+2 Void Drake
+2 Giant Bat
+2 Memory Wraith
+2 Deathless Cleric
+2 Rummaging
+2 Void Snap
+2 Ransack
+2 Disturbing Memory
+2 Self Destructing Message
+2 Void Axe
+2 Myrkur Phantom
+2 Arca Insights
+2 Recurring Nightmare
+2 Spellmuncher
+2 Blood Channeler
+2 Doomed Nightmare
+2 Pale Mountain Directive
+
+1 The Pale Mountain
+1 Night Horror
+1 Law-Mage
+1 Blood Zombie
+1 Knight of Redemption
+1 Golem
+1 Delta Ultimate Artifact
+1 Warrior's Talent
+1 Forgotten Relic
+1 Rift
+1 Village
+1 Grove
+1 Ruins
+1 Dreamscape
+1 Outpost
+1 Shrine

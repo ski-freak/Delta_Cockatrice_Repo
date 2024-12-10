@@ -1,0 +1,338 @@
+1 Calibrated Rift
+1 Memory Wraith
+1 Lekvian Butler
+1 Familiar Shadow
+1 Postmortem Revenge
+1 Death Elemental
+1 Eudoxia Unshackled
+1 Volcanic Giant
+1 Emissary of Fear
+1 Spooky Wraith
+1 Eclectic Giant
+1 Arcane Nightmare
+1 Epic Pyromancer
+1 Lord of the Shadows
+1 Forgotten Lich
+1 Spellmuncher
+1 Gas Giant
+1 Menacing Nightmare
+1 Arca Insights
+1 Nightfall
+1 Rummaging
+1 Healing Potion
+1 Absorb
+1 Manifest Arca
+1 Swift Rescue
+1 Race to the Bottom
+1 Arca Spellbook
+1 Battlemage's Path
+1 Void Spike
+1 Doomsday Prophet
+1 Arcane Chains
+1 Zombie's Bite
+1 Void Snap
+1 Injury to Insult
+1 Squish
+1 Handy Hammer
+1 Quick Thinking
+1 College of Dreams Directive
+1 Burning Plain Directive
+1 Remember the Fallen
+1 Life Manipulation
+1 Two Steps Ahead
+1 Absorb Magic
+1 Final Strike
+1 Lifeforce
+1 Spire Hunter
+1 Pain Conduit
+1 Borrow Time
+1 Shadowy Deluge
+1 Menacing Mirror
+1 Corrupted Lifeline
+1 Disrupt Magic
+1 Dangerous Prowler
+1 Void Demon
+1 Vampire's Bite
+1 Old Zombiemancer
+1 Triple Spell
+1 Night of the Dead
+1 Golem Conjuring
+1 Dark Wrath
+1 Aulva Spellsplitter
+1 Ancient Mentor
+1 Hired Bodyguard
+1 Phantom Angel
+1 Talent Snatcher
+1 Sir Horus The Prepared
+1 Battle Merchant
+1 Rolead the Swift
+1 Swift Hawk
+1 Tundra Arbiter
+1 Elite Arbiter
+1 Liev Arbiter
+1 Yulia of the Lake
+1 Master Duelist
+1 Stronghold Guard
+1 Coaxmetal
+1 Cryptic Mage
+1 Airshaper
+1 The Warden
+1 Duel of Honor
+1 Dropkick
+1 Flank
+1 Nullify Magic
+1 Mind Trauma
+1 Everyone Forgets
+1 Try Again
+1 Wave of Doubt
+1 Devout Arbiter
+1 Forgotten Knight
+1 Eminus Spellbook
+1 Manifest Eminus
+1 Warrior's Path
+1 Sabotage Quest
+1 A Trick
+1 Battle Rage
+1 Back with Vengeance
+1 Ambush
+1 Transfusion
+1 Fight Club
+1 Devastating Decoy
+1 Knights' Prowess
+1 Sanctum Skyhunter
+1 Arbiter Squadron
+1 Team Up
+1 Familiar Fist
+1 Spectacular Sweep
+1 BSOD
+1 Become Large
+1 Temporary Disappearance
+1 Swipe
+1 Arcane Arbiter
+1 Wacky Wizard
+1 Solemn Ranger
+1 Svet Sorcerer
+1 Knightly Reinforcements
+1 Annual Feast
+1 Fost Feac Directive
+1 Stronghold Directive
+1 Dedicated Combatant
+1 Grand Protector
+1 Tower Thief
+1 Leave me Alone
+1 Sublimate
+1 Unfortunate Accident
+1 Remove from History
+1 Savage Snare
+1 Moonlight Assasin
+1 Murderous Intent
+1 Skyhaven Directive
+1 Lentholm Directive
+1 Harvest Season
+1 Quiet Vengeance
+1 Manifest Material
+1 Swift Messenger
+1 Grim Squire
+1 Spire Navigator
+1 Determined Traveler
+1 The Chosen One
+1 Questing Adventurer
+1 Sinkhole
+1 Arcane Abomination
+1 Simeon, Patient Forerunner
+1 Prepared Traveler
+1 Alliance Rallier
+1 Embittered Scribe
+1 Defiant Scribe
+1 Sour Mathematician
+1 Foundry Horror
+1 Deserted Soul
+1 Skyhaven Menace
+1 Vile Pirate
+1 Blizzard Elemental
+1 Elite Scout
+1 Bob, the Lightning Rod
+1 Material Spellcaster
+1 Soup Cook
+1 Knowledge Keeper
+1 Wardsmith
+1 Trinket Breaker
+1 Old Watchman
+1 Rugged Mountaineer
+1 Sudden Strength
+1 Forced Retreat
+1 Siphon Power
+1 Moose on the Loose
+1 Grim Meddling
+1 Tactical Maneuver
+1 Grab Some Friends
+1 Material Spellbook
+1 Old Watchtower
+1 Doppelgang
+1 Glimpse Tomorrow
+1 Defense Matrix
+1 Punishing Strike
+1 Thunderous Fury
+1 Valorous Triumph
+1 Bermuda Triangle
+1 Fabled Flames
+1 Outlands Accountant
+1 Staff of Teleportation
+1 Novice Law-Binder
+1 Steadfast Arbiter
+1 Arcane Outlander
+1 Supply Manager
+1 Ancient Smith
+1 Hero of the Countryside
+1 Port Pirate
+1 Old World Spellcaster
+1 Amatuer Illusionist
+1 The Dreamer
+1 Dungeon Diver
+1 Outlands Guardian
+1 Heroic Warrior
+1 Scrap Merchant
+1 Ether Charge
+1 Distress Beacon
+1 Old World Spellbook
+1 Visions of the Past
+1 Mimic
+1 Forbidden Knowledge
+1 Manifest Old World
+1 Page the Outlanders
+1 Bound in the Earth
+1 Passive Income Scheme
+1 Power of Foresight
+1 Book of Negation
+1 Embargo
+1 Standoff
+1 The Plan
+1 Demonic Mirror
+1 Invisible Haze
+1 Out of Mind
+1 Betrayal
+1 Disappearing Orb
+1 Instant Shield
+1 Eliminate
+1 Glimpse Disaster
+1 Shrinkify
+1 Frost Eruption
+1 Weight of Knowledge
+1 Unfortunate Timing
+1 Void Shift
+1 A Difficult Choice
+1 Adapt
+1 Walk the Plank
+1 Brace for Impact
+1 Seismic Sinkhole
+1 Twilight Isle Directive
+1 Pax Directive
+1 Moment of Silence
+1 Wild Tactics
+1 Void Capsule
+1 Twisted Mindmage
+1 Flash Freeze
+1 Graceful Arbiter
+1 Arbiter Marshal
+1 Simple Traveler
+1 Demolish
+1 Brazen Theft
+1 Unquenchable Fire
+1 Set Ablaze
+1 Fireball
+1 Disintegrate
+1 Moment of Rage
+1 Heat Wave
+1 Manifest Zelor
+1 New Recruit
+1 Zelor Spellbook
+1 Brainwave
+1 Burning Ascent
+1 Colossal Slime
+1 Arcane Knight
+1 Knight of Pax-Nova
+1 Pax Nova Medic
+1 Passionate Knight
+1 Burning Lich
+1 Mind Thief
+1 Dune Paladin
+1 Spooky Guy
+1 Woodland Spectre
+1 Forgotten Hunter
+1 Seasoned Loremaster
+1 Ethereal Knight
+1 Flame Oracle
+1 Famous Fighter
+1 Vengeful Nomad
+1 Lieutenant Rusker
+1 Menacing Dragon
+1 Knightly Challenger
+1 Terrifying Nightmare
+1 Sweet Dreams
+1 Reckless Traveler
+1 Shepherd's Wish
+1 Spontaneous Combustion
+1 Ping
+1 Contain
+1 Thorny Defense
+1 Flashback
+1 Dark Aperture
+1 Singularity
+1 Visionary's Call
+1 Radiating Force
+1 Dangerous Distraction
+1 Yeet
+1 Combo Slice
+1 Improvised Lightning
+1 Flashback Attack
+1 Cosmic Contemplation
+1 Eruption
+1 Unstoppable Force
+1 Burst of Speed
+1 Spare Violence
+1 First Blood
+1 Infinity Vessel
+1 Beacon of Last Light
+1 Enterprising Merchant
+1 Portal of Crap
+1 Vivid Nightmare
+1 Pale Mountain Directive
+1 Pax Nova Directive
+1 Trade Insight
+1 Traverse the Dreamscape
+1 Wayward Guardian
+1 Amatuer Sentinel
+1 Wayward Monster
+
+
+1 Spare Supplies
+1 Zombie
+1 Blood Zombie
+1 Golem
+1 Three Paths
+1 Energy Flask
+1 Knight of Redemption
+1 Rift
+1 Village
+1 Grove
+1 Ruins
+1 Dreamscape
+1 Law-Mage
+1 Night Horror
+1 Survivor
+1 Atnia
+1 Oruva
+1 Liev
+1 Svet
+1 Myrkur
+1 Aton
+1 The College of Dreams
+1 Skyhaven
+1 Pax
+1 The Burning Plain
+1 Fost Feac
+1 Arbiters' Stronghold
+1 Pax Nova
+1 The Twilight Isle
+1 Lentholm
+1 The Pale Mountain
