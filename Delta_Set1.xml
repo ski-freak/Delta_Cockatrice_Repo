@@ -22,6 +22,10 @@
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/A%20Trick.png">Del1</set>
     </card>
     <card>
+        <name>Abandoned Automaton</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Abandoned%20Automaton.png">Del1</set>
+    </card>
+    <card>
         <name>Abandoned Sorcerer</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Abandoned%20Sorcerer.png">Del1</set>
     </card>
@@ -670,6 +674,10 @@
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Citadel%20Lord.png">Del1</set>
     </card>
     <card>
+        <name>Cleric's Automaton</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Cleric's%20Automaton.png">Del1</set>
+    </card>
+    <card>
         <name>Cleric's Binding</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Cleric's%20Binding.png">Del1</set>
     </card>
@@ -932,6 +940,10 @@
     <card>
         <name>Demolisher Golem</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Demolisher%20Golem.png">Del1</set>
+    </card>
+    <card>
+        <name>Demon of Consumption</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Demon%20of%20Consumption.png">Del1</set>
     </card>
     <card>
         <name>Demonic Mirror</name>
@@ -1712,6 +1724,10 @@
     <card>
         <name>Graceful Arbiter</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Graceful%20Arbiter.png">Del1</set>
+    </card>
+    <card>
+        <name>Grand Creation</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Grand%20Creation.png">Del1</set>
     </card>
     <card>
         <name>Grand Paladin</name>
@@ -3014,8 +3030,16 @@
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Regenerate.png">Del1</set>
     </card>
     <card>
+        <name>Relic Invoker</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Relic%20Invoker.png">Del1</set>
+    </card>
+    <card>
         <name>Relic Recovery</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Relic%20Recovery.png">Del1</set>
+    </card>
+    <card>
+        <name>Relic Thief</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Relic%20Thief.png">Del1</set>
     </card>
     <card>
         <name>Remake</name>
