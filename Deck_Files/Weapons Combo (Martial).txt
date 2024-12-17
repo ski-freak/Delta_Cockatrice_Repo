@@ -1,3 +1,4 @@
+4 Castle
 2 Warrior's Sword
 2 Valorous Triumph
 2 Old Watch Shield
@@ -11,7 +12,6 @@
 2 Eager Recruit
 2 Interceptor
 2 Swift Rescue
-4 Castle
 2 George
 2 Deadly Strike
 2 Village Berserker

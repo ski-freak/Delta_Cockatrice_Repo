@@ -3,19 +3,19 @@
 2 Try Again
 2 Shifting Mirage
 2 Become Large
-2 Set Ablaze
 2 Knightly Challenger
 2 Unquenchable Fire
 6 Zelor Eminus Core
 2 Thunder Knight
 2 Liase of The two Scrolls
 2 Vampire Blade
-2 Mind Trauma
+2 Silent Divination
 2 Delay
 2 Wayward Guardian
 2 Thunderous Fury
 2 Ping
 2 Amatuer Sentinel
+2 Moment of Rage
 
 1 Pax Nova
 1 Night Horror
