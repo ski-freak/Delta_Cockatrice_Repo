@@ -854,6 +854,10 @@
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Cursed%20Eye.png">Del1</set>
     </card>
     <card>
+        <name>Cursed Portal</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Cursed%20Portal.png">Del1</set>
+    </card>
+    <card>
         <name>Cursed Tomb</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Cursed%20Tomb.png">Del1</set>
     </card>
@@ -2706,6 +2710,10 @@
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Ozen's%20Spear.png">Del1</set>
     </card>
     <card>
+        <name>Ozen's Wrath</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Ozen's%20Wrath.png">Del1</set>
+    </card>
+    <card>
         <name>Pact of Consumption</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Pact%20of%20Consumption.png">Del1</set>
     </card>
@@ -3354,6 +3362,10 @@
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Singularity.png">Del1</set>
     </card>
     <card>
+        <name>Sink into the Isle</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Sink%20into%20the%20Isle.png">Del1</set>
+    </card>
+    <card>
         <name>Sinkhole</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Sinkhole.png">Del1</set>
     </card>
@@ -3794,6 +3806,10 @@
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Terrifying%20Nightmare.png">Del1</set>
     </card>
     <card>
+        <name>Terrifying Vision</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Terrifying%20Vision.png">Del1</set>
+    </card>
+    <card>
         <name>The Arbiters' Stronghold</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/The%20Arbiters'%20Stronghold.png">Del1</set>
     </card>
@@ -3836,6 +3852,10 @@
     <card>
         <name>The Great Heron</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/The%20Great%20Heron.png">Del1</set>
+    </card>
+    <card>
+        <name>The Great Sink</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/The%20Great%20Sink.png">Del1</set>
     </card>
     <card>
         <name>The Harder They Fall</name>
@@ -4376,6 +4396,10 @@
     <card>
         <name>Wizard's Familiar</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Wizard's%20Familiar.png">Del1</set>
+    </card>
+    <card>
+        <name>Wizzerinus's Command</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Wizzerinus's%20Command.png">Del1</set>
     </card>
     <card>
         <name>Wolkk Twinspear</name>
