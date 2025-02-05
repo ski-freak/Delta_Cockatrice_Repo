@@ -18,7 +18,8 @@
 2 Doomed Nightmare
 2 Pale Mountain Directive
 
-1 The Pale Mountain
+2 Aton
+1 Faith Start
 1 Night Horror
 1 Law-Mage
 1 Blood Zombie
@@ -34,3 +35,4 @@
 1 Dreamscape
 1 Outpost
 1 Shrine
+1 Helpful Automaton

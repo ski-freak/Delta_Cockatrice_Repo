@@ -1,7 +1,8 @@
-4 Castle
+
+2 Castle
 2 Warrior's Sword
 2 Valorous Triumph
-2 Old Watch Shield
+2 Pax Axe
 2 Adapt
 2 Eager Bruiser
 2 Tundra Ogre
@@ -14,11 +15,12 @@
 2 Swift Rescue
 2 George
 2 Deadly Strike
-2 Village Berserker
-2 Strategize
+2 Dagger of Undeath
+2 Oasis Giant
 2 Liev Warrior
+2 Ether Charge
 
-1 Martial Zelor Start
+3 Lentholm
 1 Night Horror
 1 Law-Mage
 1 Blood Zombie
@@ -34,3 +36,4 @@
 1 Dreamscape
 1 Outpost
 1 Shrine
+1 Helpful Automaton

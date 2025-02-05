@@ -1,24 +1,24 @@
-5 Faith OldWorld Core
-1 Remake
+6 Faith OldWorld Core
+2 Remake
 2 Termination
 2 Spiteful Hatchet
 2 Dark End
+2 Worldseal
 2 Healing Amulet
 2 Rift Shrine
 2 Frank
 2 Airdrop
-2 Double Negative
 2 Train Station
 2 Mystic Mists
 2 Skyhaven Cannon
 2 Procrastinate
-2 Holy Knife
 2 Recycling
 2 Mindless Cleric
 2 Wicked Pact
 2 Frost Eruption
 
-1 Faith Old World start
+2 Pax Nova
+1 Faith Start
 1 Night Horror
 1 Law-Mage
 1 Blood Zombie
@@ -34,3 +34,4 @@
 1 Dreamscape
 1 Outpost
 1 Shrine
+1 Helpful Automaton
