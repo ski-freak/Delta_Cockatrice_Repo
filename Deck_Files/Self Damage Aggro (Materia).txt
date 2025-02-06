@@ -10,15 +10,15 @@
 3 Borrow Time
 3 Gaston, Lekvian Squire
 3 Final Strike
-3 Blood Bank
+2 Blood Bank
 3 Vampiric Recovery
 3 Sorvald's Lackey
 3 Life Manipulation
 3 Electric Fangs
-3 Void Demon
+2 Void Demon
 3 Injury to Insult
 3 Dangerous Prowler
-3 Bloodlust
+2 Bloodlust
 
 3 Skyhaven
 1 Night Horror

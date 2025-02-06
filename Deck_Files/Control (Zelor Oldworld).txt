@@ -21,8 +21,8 @@
 1 Scorched Earth
 3 Essence of the Old World
 
-1 Pax Nova
-2 The College of Dreams
+2 Pax Nova
+1 The College of Dreams
 1 Martial Zelor Start
 1 Night Horror
 1 Law-Mage
