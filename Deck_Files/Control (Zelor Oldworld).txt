@@ -7,18 +7,17 @@
 2 Moment of Rage
 3 Eruption
 3 Forgotten Hunter
-1 Extreme Heat
 3 Forbidden Knowledge
 3 The Dreamer
 2 Invisible Haze
 3 Out of Mind
-2 Moment of Silence
 1 Quick Thinking
-2 Squish
+3 Squish
 3 Zelor Oldworld Directive
+1 Electrolytes
 3 Interrupt
 2 Countervailing Flames
-1 Scorched Earth
+2 Scorched Earth
 3 Essence of the Old World
 
 2 Pax Nova
