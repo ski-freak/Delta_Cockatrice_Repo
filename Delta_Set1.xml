@@ -1378,6 +1378,10 @@
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Exploring%20Party.png">Del1</set>
     </card>
     <card>
+        <name>Explosive Breakthrough</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Explosive%20Breakthrough.png">Del1</set>
+    </card>
+    <card>
         <name>Extortion</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Extortion.png">Del1</set>
     </card>
@@ -1540,6 +1544,10 @@
     <card>
         <name>Forbidden Laser</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Forbidden%20Laser.png">Del1</set>
+    </card>
+    <card>
+        <name>Force Field</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Force%20Field.png">Del1</set>
     </card>
     <card>
         <name>Forced Retreat</name>
@@ -2288,6 +2296,10 @@
     <card>
         <name>Martial Zelor Core</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Martial%20Zelor%20Core.png">Del1</set>
+    </card>
+    <card>
+        <name>Martial Zelor Directive</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Martial%20Zelor%20Directive.png">Del1</set>
     </card>
     <card>
         <name>Martial Zelor start</name>
