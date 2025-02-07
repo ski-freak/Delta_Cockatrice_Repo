@@ -10,9 +10,9 @@
 1 Extreme Heat
 3 Forbidden Knowledge
 3 The Dreamer
-1 Invisible Haze
+2 Invisible Haze
 3 Out of Mind
-3 Moment of Silence
+2 Moment of Silence
 1 Quick Thinking
 2 Squish
 3 Zelor Oldworld Directive

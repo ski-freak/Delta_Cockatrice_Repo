@@ -1,4 +1,4 @@
-2 Contain
+2 Castle
 2 Warrior's Sword
 2 Valorous Triumph
 2 Pax Axe
@@ -14,7 +14,7 @@
 2 Swift Rescue
 2 George
 2 Deadly Strike
-2 Dagger of Undeath
+2 Old Watch Shield
 2 Oasis Giant
 2 Liev Warrior
 2 Ether Charge
