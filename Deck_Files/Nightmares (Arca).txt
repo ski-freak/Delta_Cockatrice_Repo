@@ -1,22 +1,24 @@
-4 Portal
-2 Bound in the Earth
-2 Void Drake
-2 Giant Bat
-2 Memory Wraith
-2 Deathless Cleric
-2 Rummaging
-2 Void Snap
-2 Ransack
-2 Disturbing Memory
-2 Self Destructing Message
-2 Void Axe
-2 Myrkur Phantom
-2 Cursed Portal
-2 Recurring Nightmare
-2 Spellmuncher
-2 Blood Channeler
-2 Doomed Nightmare
-2 Pale Mountain Directive
+2 Portal
+3 Bound in the Earth
+3 Void Drake
+3 Giant Bat
+3 Memory Wraith
+3 Deathless Cleric
+3 Rummaging
+3 Void Snap
+3 Ransack
+3 Disturbing Memory
+3 Self Destructing Message
+3 Void Axe
+3 Myrkur Phantom
+3 Cursed Portal
+3 Recurring Nightmare
+3 Spellmuncher
+3 Blood Channeler
+3 Doomed Nightmare
+3 Pale Mountain Directive
+2 Triple Spell
+2 Dream Stalker
 
 2 Aton
 1 Faith Start

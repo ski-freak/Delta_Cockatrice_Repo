@@ -1,23 +1,24 @@
-2 Castle
-2 Warrior's Sword
-2 Valorous Triumph
-2 Pax Axe
-2 Adapt
-2 Eager Bruiser
-2 Tundra Ogre
-2 Spiteful Bruiser
-2 Whack
-2 Ogre Illusionist
-2 Frostblade Nomad
-2 Eager Recruit
+3 The Renegade
+3 Warrior's Sword
+3 Valorous Triumph
+3 Pax Axe
+3 Adapt
+3 Eager Bruiser
+3 Tundra Ogre
+3 Spiteful Bruiser
+3 Whack
+3 Ogre Illusionist
+3 Frostblade Nomad
+3 Eager Recruit
 2 Interceptor
-2 Swift Rescue
-2 George
-2 Deadly Strike
-2 Old Watch Shield
+3 Swift Rescue
+3 George
+3 Deadly Strike
+3 Old Watch Shield
 2 Oasis Giant
-2 Liev Warrior
-2 Ether Charge
+3 Liev Warrior
+3 Ether Charge
+2 Warrior's Training
 
 3 Lentholm
 1 Night Horror

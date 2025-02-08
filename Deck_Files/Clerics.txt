@@ -1,21 +1,21 @@
-6 Faith OldWorld Core
-2 Remake
-2 Termination
-2 Spiteful Hatchet
-2 Dark End
-2 Worldseal
-2 Healing Amulet
-2 Rift Shrine
-2 Frank
-2 Airdrop
-2 Train Station
-2 Mystic Mists
-2 Skyhaven Cannon
-2 Procrastinate
-2 Recycling
-2 Mindless Cleric
-2 Wicked Pact
-2 Frost Eruption
+9 Faith OldWorld Core
+3 Remake
+3 Termination
+3 Spiteful Hatchet
+3 Dark End
+3 Worldseal
+3 Healing Amulet
+3 Rift Shrine
+3 Frank
+3 Airdrop
+3 Train Station
+3 Mystic Mists
+3 Skyhaven Cannon
+3 Procrastinate
+3 Recycling
+3 Mindless Cleric
+3 Wicked Pact
+3 Frost Eruption
 
 2 Pax Nova
 1 Faith Start

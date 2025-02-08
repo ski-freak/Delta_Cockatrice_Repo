@@ -1,21 +1,22 @@
-6 Zelor Eminus Core
-2 Fireball
-2 Wolkk Twinspear
-2 Try Again
-2 A Trick
-2 Become Large
-2 Knightly Challenger
-2 Unquenchable Fire
-2 Nullify Magic
-2 Liase of The two Scrolls
-2 Vampire Blade
-2 Silent Divination
-2 Drifting Away
-2 Wayward Guardian
+8 Zelor Eminus Core
+3 Fireball
+3 Wolkk Twinspear
+3 Try Again
+3 A Trick
+3 Become Large
+3 Knightly Challenger
+3 Unquenchable Fire
+3 Nullify Magic
+3 Liase of The two Scrolls
+3 Vampire Blade
+3 Silent Divination
+3 Drifting Away
+3 Wayward Guardian
 2 Thunderous Fury
-2 Ping
-2 Amatuer Sentinel
-2 Moment of Rage
+3 Ping
+3 Amatuer Sentinel
+3 Moment of Rage
+2 Delay
 
 1 The College of Dreams
 2 The Old Watch
