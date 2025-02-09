@@ -39,3 +39,10 @@
 1 Outpost
 1 Shrine
 1 Helpful Automaton
+1 Arca Home
+1 Eminus Home
+1 Materia Home
+1 Oldworld Home
+1 Zelor Home
+1 Martial Home
+1 Faith Home
