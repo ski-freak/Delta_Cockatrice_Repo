@@ -46,6 +46,10 @@
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Abomination%20Spellbook.png">Del1</set>
     </card>
     <card>
+        <name>Absolute Destruction</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Absolute%20Destruction.png">Del1</set>
+    </card>
+    <card>
         <name>Absorb Magic</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Absorb%20Magic.png">Del1</set>
     </card>
@@ -1790,6 +1794,10 @@
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Glimpse%20Tomorrow.png">Del1</set>
     </card>
     <card>
+        <name>Globe of 1000 Souls</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Globe%20of%201000%20Souls.png">Del1</set>
+    </card>
+    <card>
         <name>Goblin Bomber</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Goblin%20Bomber.png">Del1</set>
     </card>
@@ -3256,6 +3264,10 @@
     <card>
         <name>Resupply</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Resupply.png">Del1</set>
+    </card>
+    <card>
+        <name>Return to the Earth</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Return%20to%20the%20Earth.png">Del1</set>
     </card>
     <card>
         <name>Rift Arcanist</name>
