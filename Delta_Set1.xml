@@ -642,6 +642,10 @@
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Cranium%20Clasp.png">Del1</set>
     </card>
     <card>
+        <name>Create an Alliance</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Create%20an%20Alliance.png">Del1</set>
+    </card>
+    <card>
         <name>Cruel Messenger</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Cruel%20Messenger.png">Del1</set>
     </card>
@@ -1088,6 +1092,14 @@
     <card>
         <name>Experienced Traveler</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Experienced%20Traveler.png">Del1</set>
+    </card>
+    <card>
+        <name>Explore Beyond</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Explore%20Beyond.png">Del1</set>
+    </card>
+    <card>
+        <name>Explore</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Explore.png">Del1</set>
     </card>
     <card>
         <name>Explore</name>
@@ -2358,6 +2370,10 @@
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Pax%20Nova.png">Del1</set>
     </card>
     <card>
+        <name>Pesky Scribe</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Pesky%20Scribe.png">Del1</set>
+    </card>
+    <card>
         <name>Phantom Angel</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Phantom%20Angel.png">Del1</set>
     </card>
@@ -2850,6 +2866,10 @@
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Shrine%20to%20Oln.png">Del1</set>
     </card>
     <card>
+        <name>Shrine to Ozen</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Shrine%20to%20Ozen.png">Del1</set>
+    </card>
+    <card>
         <name>Shrine to Zoggir</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Shrine%20to%20Zoggir.png">Del1</set>
     </card>
@@ -2980,6 +3000,10 @@
     <card>
         <name>Sour Mathematician</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Sour%20Mathematician.png">Del1</set>
+    </card>
+    <card>
+        <name>Spare Supplies</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Spare%20Supplies.png">Del1</set>
     </card>
     <card>
         <name>Spare Violence</name>
