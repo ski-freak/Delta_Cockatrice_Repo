@@ -1,0 +1,254 @@
+1 Recycling
+1 Forbidden Knowledge
+1 Lost Tome
+1 Demonic Mirror
+1 The Dreamer
+1 Embargo
+1 The Plan
+1 Invisible Haze
+1 Out of Mind
+1 Moment of Silence
+1 Dead on Arrival
+1 Airdrop
+1 Scrap Merchant
+1 Termination
+1 Economy of Scale
+1 Centrifuge
+1 Outlands Commander
+1 Stronghold Dispatch
+1 Train Station
+1 Quick Thinking
+1 Collective Knowledge
+1 Helpful Automaton
+1 Construct Constructor
+1 Golem Nexus
+1 Remake
+1 Frank
+1 Automaton Summoning
+1 Squish
+1 Shadowy Explosion
+1 Tundra Elemental
+1 Lagoon Titan
+1 Knowledge Collection
+1 Loose Change
+1 Assembly Line
+1 Mystic Stone
+1 Grim Librarians
+1 Procrastinate
+1 Dream Web
+1 Question Station
+1 Furious Sorcerer
+1 Helping Hands
+1 Lost Sigil
+1 Arbiter Fabricator
+1 Golem Conjurer
+1 Scrapmaster
+1 Goblin Cleric
+1 Cleric's Lens
+1 Interrupt
+1 Annul
+1 Palace Sanctuary
+1 Catch!
+1 Starlight Cleric
+1 Mystic Mists
+1 Rift Shrine
+1 Nomadic Spirit
+1 Durable Automaton
+1 Dark End
+1 Double Negative
+1 Countervailing Flames
+1 Wealthy Trader
+1 Zelor Oldworld Directive
+1 Relic Invoker
+1 Abandoned Automaton
+1 Walk the Plank
+1 Oana's Divination
+1 Essence of the Old World
+1 Return to the Earth
+12 Explore
+18 See Beyond
+1 Novice Law-Binder
+1 Steadfast Arbiter
+1 Ether Charge
+1 Flash Freeze
+1 Tower Thief
+1 Arbiter Captain
+1 Ogre Arbiter
+1 Myrkur Protector
+1 Benjamin
+1 Master Duelist
+1 Flank
+1 K.O. Punch
+1 Crackling Battleaxe
+1 The Renegade
+1 Liev Warrior
+1 Cruel Messenger
+1 Pax Axe
+1 Valorous Triumph
+1 Escaped Monster
+1 Sneak Attack
+1 Talent Snatcher
+1 Ambush
+1 Stronghold Guard
+1 Devout Arbiter
+1 Swift Rescue
+1 Aura of Strength
+1 Looming Overlord
+1 Warrior's Sword
+1 Interceptor
+1 Ozen's Spear
+1 Contain
+1 Masterwork Ring
+1 Warrior's Training
+1 Oasis Giant
+1 Adapt
+1 Quiet Mage
+1 Soul Link
+1 Battlefield Warp
+1 Eager Bruiser
+1 Tundra Ogre
+1 Spiteful Bruiser
+1 Village Champion
+1 Sword Toss
+1 Isolated Archer
+1 Whack
+1 Great Greatsword
+1 Hidden Giant
+1 Royal Guard
+1 Ogre Illusionist
+1 Frostblade Nomad
+1 Eager Recruit
+1 Arena Merchant
+1 Village Berserker
+1 George
+1 Deadly Strike
+1 Frost Sprint
+1 Old Watch Shield
+10 Explore
+15 See Beyond
+1 Search for Omnipotence
+1 Search for Omnipotence
+1 Search for Omnipotence
+1 Dark Aperture
+1 Amatuer Illusionist
+1 Orb of Binding
+1 Cleric's Binding
+1 Oln's Binding
+1 Void Capsule
+1 Disappearing Orb
+1 Void Shift
+1 Svet Scavenger
+1 Underwater Emergence
+1 Ethereal Mirage
+1 Spiteful Cleric
+1 Spiteful Hatchet
+1 Angel's Lantern
+1 Oln's Scale
+1 Holy Knife
+1 Back Again
+1 Weapon Refurbisher
+1 Get Back In There
+1 Eternal Guard
+1 Can O' Army
+1 Necromancer's Touch
+1 Mindless Cleric
+1 Reawaken in Dream
+1 Unknowable Horror
+1 Solemn Scout
+1 Awaken the Hooligans
+1 Devout Healer
+1 Deja Vu
+1 Svet Scout
+1 Downtown Walk
+1 Svet Sigil
+1 Evil Opportunity
+1 Recruiter of the Dead
+1 Rift Arcanist
+1 Goblin Scout
+1 Unexpected Rift
+1 Stash Away
+1 Cursed Portal
+1 Braeg's Hammer
+1 Deploy Automatons
+1 Construct a Construct
+1 Suspicious Trader
+1 Worldseal
+1 Healing Amulet
+1 The Departed
+1 Squiggly Slime
+1 Abominable Egg
+1 Void Cleric
+1 Guile
+1 Haunted Warlock
+1 Prospector Zombie
+1 Spirit Guide
+1 Palace Clock
+1 Skyhaven Cannon
+1 Glimpse Disaster
+1 Frost Eruption
+1 Ancient Dreamshaper
+1 Twilight Isle Cleric
+1 Wicked Pact
+1 Mysterious Cleric
+1 Relic Recovery
+1 Tomb Hunter
+1 Cleric's Automaton
+1 Demon of Consumption
+1 Ozen's Wrath
+1 Terrifying Vision
+1 Globe of 1000 Souls
+13 Explore
+19 See Beyond
+
+1 Atnia
+1 Golem
+1 Night Horror
+1 Law-Mage
+1 Blood Zombie
+1 Knight of Redemption
+1 Golem
+1 Delta Ultimate Artifact
+1 Warrior's Talent
+1 Forgotten Relic
+1 Rift
+1 Village
+1 Grove
+1 Ruins
+1 Dreamscape
+1 Outpost
+1 Shrine
+1 Helpful Automaton
+1 Arca Home
+1 Eminus Home
+1 Materia Home
+1 Oldworld Home
+1 Zelor Home
+1 Martial Home
+1 Faith Home
+1 Arca Eminus Core
+1 Nameless Shrine
+1 Zelor Eminus Core
+1 Shrine to Zoggir
+1 Zelor OldWorld Core
+1 Shrine to Oln
+1 Court
+1 Eminus Martial Core
+1 Shrine to Hwain
+1 Shrine to Ozen
+1 Shrine to Brag
+1 Garrison
+1 Forgotten Stockpile
+1 Dungeon
+1 Martial Materia Core
+1 Mystical Forge
+1 Fort
+1 Enchanted Grove
+1 Camp
+1 Neutral Ground
+1 Portal
+1 Town Hall
+1 Field
+1 Tower
+1 Campsite
+1 Castle
+1 Temple

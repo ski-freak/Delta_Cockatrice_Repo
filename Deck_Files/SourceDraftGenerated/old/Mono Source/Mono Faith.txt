@@ -1,0 +1,108 @@
+8 See Beyond
+13 Explore!
+1 Search for Omnipotence
+1 Search for Omnipotence
+1 Search for Omnipotence
+1 Dark Aperture
+1 Amatuer Illusionist
+1 Orb of Binding
+1 Cleric's Binding
+1 Bound in the Earth
+1 Void Capsule
+1 Disappearing Orb
+1 Void Shift
+1 Svet Scavenger
+1 Underwater Emergence
+1 Ethereal Mirage
+1 Spiteful Cleric
+1 Spiteful Hatchet
+1 Angel's Lantern
+1 Oln's Scale
+1 Holy Knife
+1 Back Again
+1 Weapon Refurbisher
+1 Get Back In There
+1 Eternal Guard
+1 Can O' Army
+1 Necromancer's Touch
+1 Mindless Cleric
+1 Reawaken in Dream
+1 Unknowable Horror
+1 Solemn Scout
+1 Awaken the Hooligans
+1 Devout Healer
+1 Deja Vu
+1 Svet Scout
+1 Downtown Walk
+1 Svet Sigil
+1 Evil Opportunity
+1 Recruiter of the Dead
+1 Rift Arcanist
+1 Goblin Scout
+1 Unexpected Rift
+1 Stash Away
+1 Braeg's Hammer
+1 Deploy Automatons
+1 Construct a Construct
+1 Suspicious Trader
+1 Worldseal
+1 Healing Amulet
+1 The Departed
+1 Squiggly Slime
+1 Abominable Egg
+1 Void Cleric
+1 Guile
+1 Haunted Warlock
+1 Prospector Zombie
+1 Spirit Guide
+1 Palace Clock
+1 Skyhaven Cannon
+1 Glimpse Disaster
+1 Frost Eruption
+1 Ancient Dreamshaper
+1 Twilight Isle Cleric
+1 Wicked Pact
+1 Mysterious Cleric
+1 Relic Recovery
+1 Tomb Hunter
+
+
+1 Atnia
+1 Night Horror
+1 Law-Mage
+1 Blood Zombie
+1 Knight of Redemption
+1 Golem
+1 Delta Ultimate Artifact
+1 Explore!
+1 See Beyond
+1 Warrior's Talent
+1 Forgotten Relic
+1 Portal
+1 Town Hall
+1 Field
+1 Tower
+1 Campsite
+1 Castle
+1 Temple
+1 Arca Zelor Core
+1 Arca Eminus Core
+1 Arca Faith Core
+1 Zelor Eminus Core
+1 Zelor Faith Core
+1 Zelor OldWorld Core
+1 Lively Cathedral
+1 Quiet Gate
+1 Eminus Martial Core
+1 Faith OldWorld Core
+1 Faith Martial Core
+1 Faith Materia Core
+1 OldWorld Martial Core
+1 OldWorld Materia Core
+1 OldWorld Arca Core
+1 Martial Materia Core
+1 Martial Arca Core
+1 Martial Zelor Core
+1 Martial Arca Core
+1 Martial Zelor Core
+1 Martial Eminus Core

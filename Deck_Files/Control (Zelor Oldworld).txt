@@ -4,7 +4,7 @@
 3 Set Ablaze
 3 Fireball
 2 Improvised Lightning
-2 Moment of Rage
+2 Righteous Fury
 3 Eruption
 3 Forgotten Hunter
 3 Forbidden Knowledge
@@ -18,7 +18,7 @@
 3 Interrupt
 2 Countervailing Flames
 2 Scorched Earth
-3 Essence of the Old World
+3 Essence of the Old World"
 
 2 Pax Nova
 1 The College of Dreams

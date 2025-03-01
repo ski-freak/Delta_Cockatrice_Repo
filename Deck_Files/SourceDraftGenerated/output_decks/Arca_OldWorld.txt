@@ -1,0 +1,184 @@
+1 Void Axe
+1 Lore Dump
+1 Giant Bat
+1 Void Drake
+1 Burning Lich
+1 Memory Wraith
+1 Emissary of Fear
+1 Pale Spellscorcher
+1 Menacing Nightmare
+1 Nightfall
+1 Vampire's Bite
+1 Myrkur Phantom
+1 Gas Giant
+1 Visionary Artificer
+1 Void Snap
+1 Hwain's Disciple
+1 Old Zombiemancer
+1 Triple Spell
+1 Voidsworn Apostle
+1 Rift Whispers
+1 Night of the Dead
+1 Golem Conjuring
+1 Dark Wrath
+1 Outlands Burglar
+1 Void Spike
+1 Arcane Chains
+1 Terrifying Nightmare
+1 Recurring Nightmare
+1 Oruva Scout
+1 Astral Amulet
+1 Madman
+1 Fallen Wizard
+1 The Yapper
+1 Cursed Tomb
+1 Void Blast
+1 Lost Traveler
+1 Rift Screech
+1 Maddening Visions
+1 Horror Summoning
+1 Noble Cleric
+1 Void Hound
+1 Dream Stalker
+1 Blood Channeler
+1 Scary Cleric
+1 Void Summoner
+1 Doomed Nightmare
+1 Power Vacuum
+1 Eye for an Eye
+1 Abominable Cleric
+1 Turn to Stone
+1 Rift-Addled Goblin
+1 Soul Splitter
+1 Unstable Contract
+1 Seasoned Loremaster
+1 Tower Cleric
+1 Forsaken Laboratory
+1 Cranium Clasp
+1 Dagger of Undeath
+1 Pale Mountain Directive
+1 Eudoxia Unshackled
+9 Explore
+11 See Beyond
+1 Recycling
+1 Forbidden Knowledge
+1 Lost Tome
+1 Demonic Mirror
+1 The Dreamer
+1 Embargo
+1 The Plan
+1 Invisible Haze
+1 Out of Mind
+1 Moment of Silence
+1 Dead on Arrival
+1 Airdrop
+1 Scrap Merchant
+1 Termination
+1 Economy of Scale
+1 Centrifuge
+1 Outlands Commander
+1 Stronghold Dispatch
+1 Train Station
+1 Quick Thinking
+1 Collective Knowledge
+1 Helpful Automaton
+1 Construct Constructor
+1 Golem Nexus
+1 Remake
+1 Frank
+1 Automaton Summoning
+1 Squish
+1 Shadowy Explosion
+1 Tundra Elemental
+1 Lagoon Titan
+1 Knowledge Collection
+1 Loose Change
+1 Assembly Line
+1 Mystic Stone
+1 Grim Librarians
+1 Procrastinate
+1 Dream Web
+1 Question Station
+1 Furious Sorcerer
+1 Helping Hands
+1 Lost Sigil
+1 Arbiter Fabricator
+1 Golem Conjurer
+1 Scrapmaster
+1 Goblin Cleric
+1 Cleric's Lens
+1 Interrupt
+1 Annul
+1 Palace Sanctuary
+1 Catch!
+1 Starlight Cleric
+1 Mystic Mists
+1 Rift Shrine
+1 Nomadic Spirit
+1 Durable Automaton
+1 Dark End
+1 Double Negative
+1 Countervailing Flames
+1 Wealthy Trader
+1 Zelor Oldworld Directive
+1 Relic Invoker
+1 Abandoned Automaton
+1 Walk the Plank
+1 Oana's Divination
+1 Essence of the Old World
+1 Return to the Earth
+10 Explore
+12 See Beyond
+
+1 Atnia
+1 Golem
+1 Night Horror
+1 Law-Mage
+1 Blood Zombie
+1 Knight of Redemption
+1 Golem
+1 Delta Ultimate Artifact
+1 Warrior's Talent
+1 Forgotten Relic
+1 Rift
+1 Village
+1 Grove
+1 Ruins
+1 Dreamscape
+1 Outpost
+1 Shrine
+1 Helpful Automaton
+1 Arca Home
+1 Eminus Home
+1 Materia Home
+1 Oldworld Home
+1 Zelor Home
+1 Martial Home
+1 Faith Home
+1 Arca Eminus Core
+1 Nameless Shrine
+1 Zelor Eminus Core
+1 Shrine to Zoggir
+1 Zelor OldWorld Core
+1 Shrine to Oln
+1 Court
+1 Eminus Martial Core
+1 Shrine to Hwain
+1 Shrine to Ozen
+1 Shrine to Brag
+1 Garrison
+1 Forgotten Stockpile
+1 Dungeon
+1 Martial Materia Core
+1 Mystical Forge
+1 Fort
+1 Enchanted Grove
+1 Camp
+1 Neutral Ground
+1 Portal
+1 Town Hall
+1 Field
+1 Tower
+1 Campsite
+1 Castle
+1 Temple

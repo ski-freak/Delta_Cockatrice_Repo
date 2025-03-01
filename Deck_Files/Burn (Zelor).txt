@@ -1,9 +1,9 @@
 3 Fireball
-3 Unquenchable Fire
-3 Wayward Guardian
-3 Ping
-3 Amatuer Sentinel
-3 Moment of Rage
+3 Sorvald's Spark
+3 Errant of the Torch
+3 Ignition
+3 Knight of the Moon
+3 Righteous Fury
 3 Set Ablaze
 2 Improvised Lightning
 3 Extreme Heat
@@ -17,7 +17,7 @@
 3 Combo Slice
 3 Flashback Attack
 3 Wizard's Familiar
-3 Assasin's Armaments
+3 Assassin's Armaments
 2 Hwain's Staff
 
 3 The College of Dreams

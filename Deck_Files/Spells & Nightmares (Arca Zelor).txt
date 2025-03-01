@@ -1,18 +1,17 @@
-2 Void Axe
+6 Arca Zelor Core
+3 Void Axe
 3 Burning Lich
 3 Vampire's Bite
 3 Gas Giant
-3 Unquenchable Fire
+2 Sorvald's Spark
 3 Astral Speculation
-3 Rummaging
+3 Rift Whispers
 2 Terrifying Nightmare
-3 Recurring Nightmare
 3 More Fire
-2 Inspired Encore
 3 Library Raid
 1 Eudoxia Unshackled
 3 Magic Trick
-3 Timely Fable
+2 Timely Fable
 3 Kaboom
 3 Amatuer Wizarding
 3 Volcanic Vision

@@ -1,0 +1,52 @@
+1 Atnia
+1 Golem
+1 Night Horror
+1 Law-Mage
+1 Blood Zombie
+1 Knight of Redemption
+1 Golem
+1 Delta Ultimate Artifact
+1 Warrior's Talent
+1 Forgotten Relic
+1 Rift
+1 Village
+1 Grove
+1 Ruins
+1 Dreamscape
+1 Outpost
+1 Shrine
+1 Helpful Automaton
+1 Arca Home
+1 Eminus Home
+1 Materia Home
+1 Oldworld Home
+1 Zelor Home
+1 Martial Home
+1 Faith Home
+1 Arca Eminus Core
+1 Nameless Shrine
+1 Zelor Eminus Core
+1 Shrine to Zoggir
+1 Zelor OldWorld Core
+1 Shrine to Oln
+1 Court
+1 Eminus Martial Core
+1 Shrine to Hwain
+1 Shrine to Ozen
+1 Shrine to Brag
+1 Garrison 
+1 Forgotten Stockpile
+1 Dungeon
+1 Martial Materia Core
+1 Mystical Forge
+1 Fort
+1 Enchanted Grove
+1 Camp
+1 Neutral Ground
+1 Portal
+1 Town Hall
+1 Field
+1 Tower
+1 Campsite
+1 Castle
+1 Temple

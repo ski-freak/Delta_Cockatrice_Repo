@@ -1,0 +1,240 @@
+1 Malicious Receptionist
+1 Leave me Alone
+1 Sublimate
+1 Unfortunate Accident
+1 Remove from History
+1 Savage Snare
+1 Sinkhole
+1 Embittered Scribe
+1 Defiant Scribe
+1 Sour Mathematician
+1 Bermuda Triangle
+1 Siphon Power
+1 Ancient Greatsword
+1 Autonomous Trader
+1 Field Expedition
+1 Substitute
+1 Intimidating Scribe
+1 Honorable Scribe
+1 Outlands Accountant
+1 Prepared Scribe
+1 Bob, the Lightning Rod
+1 Tollgate Scribe
+1 Hallway Scribe
+1 Vexing Scribe
+1 Annoying Scribe
+1 Aggravating Scribe
+1 Deconstructor
+1 Ethereal Construct
+1 Pathway Sentry
+1 Self Improver
+1 Metallic Axe
+1 Wild Vision
+1 Explorer's Knife
+1 Artificer's Staff
+1 A Difficult Choice
+1 Mechanical Heart
+1 Metallic Cloak
+1 Graveyard Golem
+1 Instant Shield
+1 Vampire's Grasp
+1 Ancient Squire
+1 Clockwork Soldier
+1 Menacing Automaton
+1 Mechanical Menace
+1 Mechanical Vampire
+1 Desert Sentinel
+1 Fortress Automaton
+1 Workshop Automaton
+1 Furious Automaton
+1 Sorvald's Insight
+1 Healing Potion
+1 Absolute Destruction
+1 Improvised Armaments
+1 Outlast
+10 Explore
+15 See Beyond
+1 Ancient Traveler
+1 More Fire
+1 Inspired Encore
+1 Library Raid
+1 Psychic Intrusion
+1 Arena Daredevil
+1 Errant of the Torch
+1 Demolisher Golem
+1 Atonian Phoenix
+1 Electrolytes
+1 Bard's Lesson
+1 Woodland Spectre
+1 Flame Elemental
+1 Extreme Heat
+1 Plunder
+1 Wizard's Familiar
+1 Aton Scout
+1 Set Ablaze
+1 Fireball
+1 New Recruit
+1 Thunderous Fury
+1 Knight of the Poppy
+1 Become Large
+1 Ignition
+1 Thorny Defense
+1 Combo Slice
+1 Improvised Lightning
+1 Trade Insight
+1 Knight of the Moon
+1 Dune Paladin
+1 Aton Battlemaster
+1 Knightmare
+1 Rugged Runner
+1 Elite Smith
+1 Reorganize
+1 Replenish
+1 Yeet
+1 Righteous Fury
+1 Astral Speculation
+1 Sorvald's Spark
+1 Scorched Earth
+1 Flashback Attack
+1 Eruption
+1 Magic Trick
+1 Forgotten Hunter
+1 Pax Nova Scout
+1 Mesa Smuggler
+1 Resiliant Knight
+1 Aton Archivist
+1 Vosderon's Trident
+1 Sword of Forbidden Knowledge
+1 Assassin's Armaments
+1 Fabled Blade
+1 Starlight Veil
+1 Timely Fable
+1 Snowfield Traveler
+1 Force Field
+1 Kaboom
+1 Amatuer Wizarding
+1 Volcanic Vision
+1 Citadel Lord
+1 Hwain's Staff
+1 Strategize
+1 Battle Rage
+1 Devil's Mask
+1 Eternal Navigator
+1 Merry Duelist
+1 Cliffside Guard
+1 Skyhaven Figure
+1 Mind Demolition
+12 Explore
+19 See Beyond
+1 Novice Law-Binder
+1 Steadfast Arbiter
+1 Ether Charge
+1 Flash Freeze
+1 Tower Thief
+1 Arbiter Captain
+1 Ogre Arbiter
+1 Myrkur Protector
+1 Benjamin
+1 Master Duelist
+1 Flank
+1 K.O. Punch
+1 Crackling Battleaxe
+1 The Renegade
+1 Liev Warrior
+1 Cruel Messenger
+1 Pax Axe
+1 Valorous Triumph
+1 Escaped Monster
+1 Sneak Attack
+1 Talent Snatcher
+1 Ambush
+1 Stronghold Guard
+1 Devout Arbiter
+1 Swift Rescue
+1 Aura of Strength
+1 Looming Overlord
+1 Warrior's Sword
+1 Interceptor
+1 Ozen's Spear
+1 Contain
+1 Masterwork Ring
+1 Warrior's Training
+1 Oasis Giant
+1 Adapt
+1 Quiet Mage
+1 Soul Link
+1 Battlefield Warp
+1 Eager Bruiser
+1 Tundra Ogre
+1 Spiteful Bruiser
+1 Village Champion
+1 Sword Toss
+1 Isolated Archer
+1 Whack
+1 Great Greatsword
+1 Hidden Giant
+1 Royal Guard
+1 Ogre Illusionist
+1 Frostblade Nomad
+1 Eager Recruit
+1 Arena Merchant
+1 Village Berserker
+1 George
+1 Deadly Strike
+1 Frost Sprint
+1 Old Watch Shield
+10 Explore
+15 See Beyond
+
+1 Atnia
+1 Golem
+1 Night Horror
+1 Law-Mage
+1 Blood Zombie
+1 Knight of Redemption
+1 Golem
+1 Delta Ultimate Artifact
+1 Warrior's Talent
+1 Forgotten Relic
+1 Rift
+1 Village
+1 Grove
+1 Ruins
+1 Dreamscape
+1 Outpost
+1 Shrine
+1 Helpful Automaton
+1 Arca Home
+1 Eminus Home
+1 Materia Home
+1 Oldworld Home
+1 Zelor Home
+1 Martial Home
+1 Faith Home
+1 Arca Eminus Core
+1 Nameless Shrine
+1 Zelor Eminus Core
+1 Shrine to Zoggir
+1 Zelor OldWorld Core
+1 Shrine to Oln
+1 Court
+1 Eminus Martial Core
+1 Shrine to Hwain
+1 Shrine to Ozen
+1 Shrine to Brag
+1 Garrison
+1 Forgotten Stockpile
+1 Dungeon
+1 Martial Materia Core
+1 Mystical Forge
+1 Fort
+1 Enchanted Grove
+1 Camp
+1 Neutral Ground
+1 Portal
+1 Town Hall
+1 Field
+1 Tower
+1 Campsite
+1 Castle
+1 Temple
