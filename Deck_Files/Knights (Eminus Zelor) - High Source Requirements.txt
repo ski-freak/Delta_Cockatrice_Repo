@@ -1,13 +1,13 @@
-8 Zelor Eminus Core
+7 Zelor Eminus Core
 1 Fireball
-3 Wolkk Twinspear
+2 Wolkk Twinspear
 2 Try Again
 3 A Trick
 3 Become Large
 3 Knight of the Poppy
 3 Sorvald's Spark
 3 Nullify Magic
-3 Liase of the Two Scrolls
+2 Liase of the Two Scrolls
 3 Spear of the Lake
 3 Steel Resolve
 3 Beckon Home
@@ -19,6 +19,7 @@
 1 Delay
 3 Extreme Heat
 2 Temporary Disappearance
+3 Champion of the Book
 
 
 1 The College of Dreams
