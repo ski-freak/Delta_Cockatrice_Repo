@@ -810,6 +810,10 @@
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Devil's%20Mask.png">Del1</set>
     </card>
     <card>
+        <name>Devouring Sphere</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Devouring%20Sphere.png">Del1</set>
+    </card>
+    <card>
         <name>Devout Arbiter</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Devout%20Arbiter.png">Del1</set>
     </card>
@@ -1960,6 +1964,10 @@
     <card>
         <name>Menacing Nightmare</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Menacing%20Nightmare.png">Del1</set>
+    </card>
+    <card>
+        <name>Menacing Scribe</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Menacing%20Scribe.png">Del1</set>
     </card>
     <card>
         <name>Merry Duelist</name>
@@ -3824,6 +3832,10 @@
     <card>
         <name>Zelor Spellcaster</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Zelor%20Spellcaster.png">Del1</set>
+    </card>
+    <card>
+        <name>Zombie Egg</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Zombie%20Egg.png">Del1</set>
     </card>
     <card>
         <name>Zombie General</name>
