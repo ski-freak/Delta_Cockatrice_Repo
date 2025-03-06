@@ -1,13 +1,12 @@
 7 Zelor Eminus Core
 3 Fireball
 2 Wolkk Twinspear
-3 Try Again
 3 A Trick
 3 Become Large
 3 Knight of the Poppy
-3 Sorvald's Spark
+2 Sorvald's Spark
 3 Nullify Magic
-2 Liase of the Two Scrolls
+3 Liase of the Two Scrolls
 2 Spear of the Lake
 3 Steel Resolve
 2 Beckon Home
@@ -16,9 +15,10 @@
 3 Ignition
 3 Knight of the Moon
 3 Righteous Fury
-2 Delay
-2 Burst of Speed
-3 Champion of the Book
+3 Scramble Magic
+1 Burst of Speed
+3 Explosive Breakthrough
+3 Wizard's Familiar
 
 1 The College of Dreams
 2 The Old Watch

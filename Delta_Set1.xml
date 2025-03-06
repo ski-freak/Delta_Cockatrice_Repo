@@ -994,6 +994,10 @@
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Economy%20of%20Scale.png">Del1</set>
     </card>
     <card>
+        <name>Eerie Illusion</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Eerie%20Illusion.png">Del1</set>
+    </card>
+    <card>
         <name>Elder Artificer</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Elder%20Artificer.png">Del1</set>
     </card>
@@ -1364,6 +1368,10 @@
     <card>
         <name>Forgotten Stockpile</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Forgotten%20Stockpile.png">Del1</set>
+    </card>
+    <card>
+        <name>Forsaken Illusionist</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Forsaken%20Illusionist.png">Del1</set>
     </card>
     <card>
         <name>Forsaken Laboratory</name>
@@ -2940,6 +2948,10 @@
     <card>
         <name>Scorched Earth</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Scorched%20Earth.png">Del1</set>
+    </card>
+    <card>
+        <name>Scramble Magic</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Scramble%20Magic.png">Del1</set>
     </card>
     <card>
         <name>Scrap Attack</name>
