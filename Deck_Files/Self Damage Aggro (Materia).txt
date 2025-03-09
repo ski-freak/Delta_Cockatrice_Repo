@@ -1,9 +1,9 @@
 3 Volcanic Giant
 3 Familiar Shadow
 3 Nameless Vampire
-3 Death Elemental
+2 Death Elemental
 3 Spooky Wraith
-3 Pain Conduit
+2 Pain Conduit
 3 Sorvald's Insight
 3 Lekvian Butler
 3 Absorb
@@ -15,10 +15,11 @@
 3 Sorvald's Lackey
 3 Life Manipulation
 3 Electric Fangs
-2 Void Demon
+1 Void Demon
 3 Injury to Insult
 3 Dangerous Prowler
 2 Bloodlust
+3 Lekvian Traveler
 
 3 Skyhaven
 1 Night Horror
