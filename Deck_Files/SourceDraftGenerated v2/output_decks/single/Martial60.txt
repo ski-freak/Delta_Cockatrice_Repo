@@ -4,12 +4,12 @@
 1 Arena Merchant
 1 Aura of Strength
 1 Battlefield Warp
-2 Benjamin
+1 Benjamin
 1 Contain
 1 Crackling Battleaxe
 1 Cruel Messenger
 1 Deadly Strike
-2 Devout Arbiter
+1 Devout Arbiter
 1 Eager Bruiser
 1 Eager Recruit
 1 Escaped Monster
@@ -23,10 +23,10 @@
 1 Hidden Giant
 1 Interceptor
 1 Isolated Archer
-1 K.O. Punch
+2 K.O. Punch
 1 Liev Warrior
 1 Looming Overlord
-1 Master Duelist
+2 Master Duelist
 1 Masterwork Ring
 1 Myrkur Protector
 1 Novice Law-Binder
@@ -36,8 +36,8 @@
 1 Old Watch Shield
 1 Ozen's Spear
 1 Pax Axe
-2 Quiet Mage
-1 Royal Guard
+1 Quiet Mage
+2 Royal Guard
 4 See Beyond
 1 Sneak Attack
 1 Soul Link
@@ -64,7 +64,6 @@
 1 Law-Mage
 1 Blood Zombie
 1 Knight of Redemption
-1 Golem
 1 Delta Ultimate Artifact
 1 Warrior's Talent
 1 Forgotten Relic

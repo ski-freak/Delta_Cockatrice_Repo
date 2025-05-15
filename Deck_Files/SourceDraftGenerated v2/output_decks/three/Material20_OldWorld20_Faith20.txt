@@ -1,65 +1,65 @@
 1 A Difficult Choice
-1 Abominable Egg
-1 Absolute Destruction
+1 Abandoned Automaton
 1 Aggravating Scribe
-1 Ancient Greatsword
 1 Angel's Lantern
-1 Annoying Scribe
-1 Bob, the Lightning Rod
-1 Braeg's Hammer
-1 Can O' Army
+1 Annul
+1 Automaton Summoning
+1 Bermuda Triangle
 1 Catch!
-1 Construct Constructor
-1 Construct a Construct
-1 Dark Aperture
+1 Cleric's Lens
+1 Clockwork Soldier
+1 Collective Knowledge
+1 Cursed Portal
+1 Deconstructor
+1 Defiant Scribe
 1 Deja Vu
 1 Demon of Consumption
-1 Demonic Mirror
-1 Disappearing Orb
-1 Double Negative
-1 Economy of Scale
-1 Evil Opportunity
+1 Dream Web
+1 Essence of the Old World
+1 Eternal Guard
+1 Ethereal Construct
 1 Field Expedition
-1 Frank
-1 Frost Eruption
+1 Forbidden Knowledge
+1 Glimpse Disaster
+1 Goblin Scout
+1 Golem Conjurer
 1 Golem Nexus
-1 Grim Librarians
-1 Hallway Scribe
+1 Graveyard Golem
 1 Honorable Scribe
+1 Instant Shield
+1 Interrupt
+1 Intimidating Scribe
 1 Invisible Haze
-1 Leave me Alone
-1 Lost Sigil
+1 Knowledge Collection
+1 Malicious Receptionist
 1 Mechanical Heart
-1 Mechanical Vampire
-1 Mindless Cleric
-1 Nomadic Spirit
-1 Out of Mind
-1 Outlast
-1 Prospector Zombie
-1 Quick Thinking
-1 Relic Invoker
+1 Moment of Silence
+1 Necromancer's Touch
+1 Palace Clock
+1 Procrastinate
+1 Reawaken in Dream
 1 Remake
-1 Remove from History
-1 Savage Snare
+1 Scrap Merchant
+1 Search for Omnipotence
 12 See Beyond
 1 Self Improver
-1 Skyhaven Cannon
+1 Sinkhole
+1 Solemn Scout
+1 Sorvald's Insight
 1 Sour Mathematician
-1 Spirit Guide
-1 Spiteful Cleric
-1 Squish
+1 Spiteful Hatchet
+1 Starlight Cleric
+1 Suspicious Trader
 1 Svet Sigil
 1 Termination
-1 The Plan
-1 Tollgate Scribe
-1 Twilight Isle Cleric
+1 Tomb Hunter
+1 Underwater Emergence
 1 Unfortunate Accident
+1 Void Cleric
 1 Void Shift
-1 Walk the Plank
-1 Wealthy Trader
-1 Weapon Refurbisher
+1 Wicked Pact
+1 Wild Vision
 14 Wilds of Atnia
-1 Workshop Automaton
 
 1 Atnia
 1 Golem
@@ -67,7 +67,6 @@
 1 Law-Mage
 1 Blood Zombie
 1 Knight of Redemption
-1 Golem
 1 Delta Ultimate Artifact
 1 Warrior's Talent
 1 Forgotten Relic

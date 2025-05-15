@@ -1,66 +1,66 @@
 1 Abominable Cleric
-1 Amatuer Illusionist
-1 Arena Daredevil
-1 Aton Battlemaster
-1 Aton Scout
+1 Ancient Traveler
+1 Angel's Lantern
+1 Arcane Chains
+1 Aton Archivist
 1 Back Again
 1 Bard's Lesson
-1 Burning Lich
+1 Blood Channeler
 1 Cleric's Automaton
 1 Cliffside Guard
+1 Cranium Clasp
 1 Cursed Portal
-1 Cursed Tomb
-1 Demon of Consumption
+1 Dark Wrath
 1 Deploy Automatons
-1 Devout Healer
-1 Downtown Walk
-1 Elite Smith
+1 Disappearing Orb
 1 Emissary of Fear
-1 Eruption
-1 Eudoxia Unshackled
+1 Errant of the Torch
+1 Eternal Navigator
+1 Ethereal Mirage
 1 Fallen Wizard
+1 Flashback Attack
+1 Force Field
+1 Forgotten Hunter
+1 Forsaken Laboratory
+1 Golem Conjuring
 1 Haunted Warlock
-1 Healing Amulet
 1 Holy Knife
-1 Inspired Encore
-1 Knight of the Poppy
+1 Hwain's Disciple
+1 Hwain's Staff
+1 Ignition
 1 Maddening Visions
-1 Madman
-1 Memory Wraith
-1 More Fire
-1 New Recruit
-1 Nightfall
-1 Outlands Burglar
-1 Ozen's Wrath
-1 Palace Clock
+1 Magic Trick
+1 Menacing Nightmare
+1 Myrkur Phantom
+1 Old Zombiemancer
+1 Oln's Scale
 1 Pale Mountain Directive
-1 Pax Nova Scout
 1 Plunder
 1 Prospector Zombie
-1 Psychic Intrusion
-1 Recurring Nightmare
+1 Reawaken in Dream
 1 Relic Recovery
-1 Replenish
-1 Rift Arcanist
-1 Rift-Addled Goblin
+1 Reorganize
 1 Rugged Runner
-1 Scary Cleric
+1 Scorched Earth
 12 See Beyond
-1 Skyhaven Cannon
 1 Snowfield Traveler
+1 Soul Splitter
+1 Spiteful Hatchet
+1 Squiggly Slime
 1 Stash Away
-1 Svet Scavenger
-1 The Departed
+1 Suspicious Trader
+1 Svet Scout
 1 The Yapper
-1 Thorny Defense
-1 Tower Cleric
+1 Timely Fable
+1 Tomb Hunter
 1 Triple Spell
 2 Vampire's Bite
-1 Void Snap
-1 Voidsworn Apostle
+1 Void Blast
+1 Void Cleric
+1 Void Summoner
 1 Volcanic Vision
-1 Vosderon's Trident
 14 Wilds of Atnia
+1 Woodland Spectre
 
 1 Atnia
 1 Golem
@@ -68,7 +68,6 @@
 1 Law-Mage
 1 Blood Zombie
 1 Knight of Redemption
-1 Golem
 1 Delta Ultimate Artifact
 1 Warrior's Talent
 1 Forgotten Relic

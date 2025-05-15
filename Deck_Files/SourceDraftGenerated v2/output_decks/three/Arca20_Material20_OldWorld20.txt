@@ -1,65 +1,65 @@
+1 A Difficult Choice
+1 Absolute Destruction
 1 Aggravating Scribe
-1 Ancient Greatsword
-1 Ancient Squire
 1 Annoying Scribe
 1 Arbiter Fabricator
-1 Automaton Summoning
-1 Autonomous Trader
-1 Collective Knowledge
-1 Cranium Clasp
-1 Dark End
-1 Defiant Scribe
-1 Dream Stalker
-1 Embargo
-1 Embittered Scribe
+1 Arcane Chains
+1 Astral Amulet
+1 Burning Lich
+1 Centrifuge
+1 Cursed Tomb
+1 Dagger of Undeath
+1 Dark Wrath
+1 Desert Sentinel
+1 Double Negative
+1 Durable Automaton
 1 Emissary of Fear
-1 Eudoxia Unshackled
-1 Fallen Wizard
+1 Ethereal Construct
 1 Field Expedition
 1 Forbidden Knowledge
-1 Grim Librarians
-1 Improvised Armaments
+1 Frank
+1 Golem Nexus
+1 Graveyard Golem
+1 Healing Potion
 1 Interrupt
 1 Knowledge Collection
-1 Loose Change
-1 Lore Dump
-1 Madman
-1 Mechanical Heart
-1 Mechanical Vampire
+1 Leave me Alone
+1 Malicious Receptionist
+1 Mechanical Menace
 1 Memory Wraith
-1 Menacing Automaton
-1 Menacing Nightmare
 1 Metallic Axe
-1 Moment of Silence
 1 Noble Cleric
 1 Oana's Divination
-1 Oruva Scout
-1 Out of Mind
-1 Outlands Accountant
-1 Pale Spellscorcher
-1 Prepared Scribe
-1 Quick Thinking
-1 Remake
-1 Remove from History
-1 Rift Whispers
-1 Rift-Addled Goblin
+1 Old Zombiemancer
+1 Outlast
+1 Pale Mountain Directive
+1 Pathway Sentry
+1 Question Station
+1 Relic Invoker
+1 Rift Screech
+1 Rift Shrine
 1 Seasoned Loremaster
 12 See Beyond
+1 Self Improver
 1 Shadowy Explosion
-1 Siphon Power
-1 Sorvald's Insight
 1 Soul Splitter
-1 Stronghold Dispatch
-1 Sublimate
+1 Starlight Cleric
+1 Substitute
+1 Termination
 1 The Dreamer
-1 The Plan
-1 The Yapper
-1 Tower Cleric
 1 Train Station
-1 Turn to Stone
+1 Triple Spell
+1 Tundra Elemental
+1 Vampire's Grasp
 1 Vexing Scribe
+1 Visionary Artificer
+1 Void Blast
+1 Void Drake
 1 Void Hound
+1 Void Summoner
 14 Wilds of Atnia
+1 Workshop Automaton
+1 Zelor Oldworld Directive
 
 1 Atnia
 1 Golem
@@ -67,7 +67,6 @@
 1 Law-Mage
 1 Blood Zombie
 1 Knight of Redemption
-1 Golem
 1 Delta Ultimate Artifact
 1 Warrior's Talent
 1 Forgotten Relic

@@ -1,6 +1,6 @@
 1 A Difficult Choice
-2 Absolute Destruction
-2 Aggravating Scribe
+1 Absolute Destruction
+1 Aggravating Scribe
 1 Ancient Greatsword
 1 Ancient Squire
 1 Annoying Scribe
@@ -11,16 +11,16 @@
 1 Clockwork Soldier
 1 Deconstructor
 1 Defiant Scribe
-2 Desert Sentinel
+1 Desert Sentinel
 1 Embittered Scribe
-2 Ethereal Construct
+1 Ethereal Construct
 1 Explorer's Knife
 1 Field Expedition
 1 Fortress Automaton
 1 Furious Automaton
 1 Graveyard Golem
 1 Hallway Scribe
-1 Healing Potion
+2 Healing Potion
 1 Honorable Scribe
 1 Improvised Armaments
 1 Instant Shield
@@ -29,7 +29,7 @@
 1 Malicious Receptionist
 1 Mechanical Heart
 1 Mechanical Menace
-1 Mechanical Vampire
+2 Mechanical Vampire
 1 Menacing Automaton
 1 Metallic Axe
 1 Metallic Cloak
@@ -37,8 +37,8 @@
 1 Outlast
 1 Pathway Sentry
 1 Prepared Scribe
-1 Remove from History
-1 Savage Snare
+2 Remove from History
+2 Savage Snare
 4 See Beyond
 1 Self Improver
 1 Sinkhole
@@ -61,7 +61,6 @@
 1 Law-Mage
 1 Blood Zombie
 1 Knight of Redemption
-1 Golem
 1 Delta Ultimate Artifact
 1 Warrior's Talent
 1 Forgotten Relic

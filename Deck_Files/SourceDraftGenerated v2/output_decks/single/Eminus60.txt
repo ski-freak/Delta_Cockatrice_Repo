@@ -6,7 +6,7 @@
 1 Burst of Speed
 1 Champion's Crown
 1 Contemplate
-1 Dedicated Combatant
+2 Dedicated Combatant
 1 Delay
 1 Desperate Arbiter
 1 Devastating Decoy
@@ -17,9 +17,9 @@
 1 Ethereal Knight
 1 Everyone Forgets
 1 Explosive Breakthrough
-2 Forgetful Arbiter
+1 Forgetful Arbiter
 1 Forgotten Knight
-2 Frightening Arbiter
+1 Frightening Arbiter
 1 Giant Arbiter
 1 Hasten
 1 Interfering Arbiter
@@ -33,7 +33,7 @@
 1 Mystic Staff
 1 Nullify Magic
 1 Old Watch Shortsword
-1 Outpost Militia
+2 Outpost Militia
 1 Phantom Angel
 1 Runeblade
 4 See Beyond
@@ -65,7 +65,6 @@
 1 Law-Mage
 1 Blood Zombie
 1 Knight of Redemption
-1 Golem
 1 Delta Ultimate Artifact
 1 Warrior's Talent
 1 Forgotten Relic

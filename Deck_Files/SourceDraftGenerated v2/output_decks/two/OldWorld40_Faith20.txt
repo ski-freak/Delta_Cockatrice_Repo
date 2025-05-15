@@ -1,65 +1,65 @@
-1 Abandoned Automaton
 1 Airdrop
-1 Annul
 1 Arbiter Fabricator
 1 Assembly Line
-1 Automaton Summoning
+1 Awaken the Hooligans
 1 Back Again
-1 Can O' Army
 1 Catch!
 1 Centrifuge
-1 Cleric's Automaton
+1 Cleric's Lens
 1 Collective Knowledge
+1 Construct a Construct
 1 Countervailing Flames
+1 Cursed Portal
 1 Dark Aperture
 1 Dark End
-1 Deja Vu
-1 Demonic Mirror
+1 Dead on Arrival
+1 Deploy Automatons
+1 Devout Healer
 1 Double Negative
 1 Dream Web
 1 Durable Automaton
-1 Forbidden Knowledge
+1 Economy of Scale
+1 Essence of the Old World
+1 Eternal Guard
+1 Ethereal Mirage
+1 Evil Opportunity
 1 Frank
-1 Frost Eruption
-1 Globe of 1000 Souls
-1 Goblin Cleric
 1 Goblin Scout
 1 Golem Conjurer
 1 Grim Librarians
-1 Haunted Warlock
+1 Healing Amulet
 1 Helpful Automaton
 1 Helping Hands
 1 Holy Knife
-1 Knowledge Collection
+1 Interrupt
+1 Invisible Haze
 1 Lagoon Titan
-1 Mindless Cleric
+1 Lost Tome
 1 Moment of Silence
-1 Mystic Mists
-1 Mystic Stone
 1 Necromancer's Touch
-1 Nomadic Spirit
-1 Orb of Binding
-1 Ozen's Wrath
+1 Oana's Divination
+1 Outlands Commander
 1 Palace Sanctuary
 1 Procrastinate
-1 Prospector Zombie
-1 Question Station
 1 Quick Thinking
 1 Reawaken in Dream
-1 Recruiter of the Dead
-1 Relic Invoker
-1 Return to the Earth
+1 Recycling
+1 Scrapmaster
 8 See Beyond
+1 Shadowy Explosion
 1 Squish
-1 Stronghold Dispatch
+1 Suspicious Trader
 1 Termination
+1 Terrifying Vision
+1 The Departed
+1 The Dreamer
 1 The Plan
 1 Tundra Elemental
-1 Twilight Isle Cleric
-1 Unknowable Horror
-1 Wealthy Trader
+1 Underwater Emergence
+1 Void Cleric
+1 Walk the Plank
 12 Wilds of Atnia
-1 Worldseal
+1 Zelor Oldworld Directive
 
 1 Atnia
 1 Golem
@@ -67,7 +67,6 @@
 1 Law-Mage
 1 Blood Zombie
 1 Knight of Redemption
-1 Golem
 1 Delta Ultimate Artifact
 1 Warrior's Talent
 1 Forgotten Relic
