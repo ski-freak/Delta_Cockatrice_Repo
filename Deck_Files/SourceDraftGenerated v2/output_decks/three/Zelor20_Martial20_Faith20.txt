@@ -1,64 +1,65 @@
-1 Abominable Egg
-1 Arena Daredevil
+1 Amatuer Illusionist
+1 Astral Speculation
+1 Aton Archivist
 1 Atonian Phoenix
 1 Awaken the Hooligans
 1 Battle Rage
-1 Battlefield Warp
-1 Combo Slice
-1 Construct a Construct
-1 Contain
+1 Become Large
+1 Benjamin
+1 Citadel Lord
+1 Cleric's Automaton
+1 Cleric's Binding
+1 Cruel Messenger
 1 Deadly Strike
 1 Demolisher Golem
+1 Demon of Consumption
 1 Deploy Automatons
-1 Devout Arbiter
+1 Eager Bruiser
 1 Eager Recruit
-1 Escaped Monster
-1 Ether Charge
-1 Flame Elemental
+1 Electrolytes
+1 Eternal Guard
+1 Eternal Navigator
+1 Evil Opportunity
+1 Extreme Heat
+1 Fireball
+1 Flame Oracle
+1 Frost Eruption
+1 George
 1 Glimpse Disaster
-1 Goblin Scout
-1 Healing Amulet
-1 Holy Knife
-1 Improvised Lightning
-1 Isolated Archer
-1 Knight of the Moon
-1 Library Raid
-1 Magic Trick
-1 Master Duelist
+1 Globe of 1000 Souls
+1 Great Greatsword
+1 Hidden Giant
+1 Ignition
+1 Interceptor
+1 Lavasmith
+1 Liev Warrior
+1 Looming Overlord
+1 Mesa Smuggler
 1 Mind Demolition
-1 More Fire
-1 Myrkur Protector
-1 Mysterious Cleric
-1 New Recruit
-1 Novice Law-Binder
+1 Molten Image
 1 Oasis Giant
 1 Ogre Illusionist
-1 Old Watch Shield
-1 Orb of Binding
-1 Ozen's Wrath
-1 Pax Nova Scout
+1 Passive Income Scheme
+1 Prospector Zombie
+1 Psychic Intrusion
 1 Quiet Mage
-1 Reawaken in Dream
+1 Relic Recovery
 1 Resiliant Knight
-1 Scorched Earth
-2 Search for Omnipotence
+1 Royal Guard
 12 See Beyond
-1 Skyhaven Figure
-1 Snowfield Traveler
-1 Sorvald's Spark
-1 Spirit Guide
-1 Spiteful Bruiser
-1 Spiteful Hatchet
-1 Squiggly Slime
+1 Soul Link
+1 Spiteful Cleric
 1 Steadfast Arbiter
+1 Stronghold Guard
 1 Suspicious Trader
-1 Sword Toss
 1 Sword of Forbidden Knowledge
-1 Talent Snatcher
-1 Tomb Hunter
-1 Tower Thief
+1 The Renegade
+1 Underwater Emergence
+1 Unknowable Horror
+1 Valorous Triumph
+1 Void Shift
+1 Vosderon's Trident
 14 Wilds of Atnia
-1 Worldseal
 
 1 Atnia
 1 Golem

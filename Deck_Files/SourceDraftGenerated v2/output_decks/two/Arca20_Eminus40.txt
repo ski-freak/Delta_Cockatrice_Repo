@@ -1,64 +1,64 @@
 1 A Trick
 1 Abominable Cleric
 1 Arbiter Marshal
-1 Arbiter Medic
-1 Arcane Chains
 1 Astral Amulet
-1 BSOD
-1 Burst of Speed
-1 Champion's Crown
+1 Beckon Home
+1 Burning Lich
 1 Contemplate
 1 Cranium Clasp
 1 Dagger of Undeath
-1 Dedicated Combatant
 1 Delay
 1 Desperate Arbiter
-1 Divine Uppercut
-1 Dream Stalker
 1 Dropkick
 1 Duel of Honor
 1 Elite Arbiter
-1 Explosive Breakthrough
-1 Forgetful Arbiter
+1 Emissary of Fear
+1 Ethereal Knight
+1 Everyone Forgets
+1 Eye for an Eye
 1 Forgotten Knight
 1 Frightening Arbiter
 1 Gas Giant
-1 Golem Conjuring
-1 Hasten
-1 Hwain's Disciple
+1 Instant Shield
 1 Interfering Arbiter
-1 Knightly Scholar
+1 Knight Summoning
+1 Knightly Reinforcements
+1 Liase of the Two Scrolls
 1 Liev Arbiter
-1 Lore Dump
-1 Menacing Nightmare
-1 Mind Trauma
+1 Memory Wraith
+1 Mind Reader
+1 Nightfall
+1 Noble Cleric
 1 Nullify Magic
 1 Old Watch Shortsword
-1 Oruva Scout
+1 Old Zombiemancer
 1 Outpost Militia
-1 Rift-Addled Goblin
+1 Phantom Angel
+1 Rift Whispers
+1 Runeblade
+1 Scary Cleric
+1 Seasoned Loremaster
 8 See Beyond
-1 Shadowy Command
 1 Shem's amulet
+1 Shifting Mirage
+1 Sir Horus The Prepared
 1 Skyknight
 1 Solemn Angel
-1 Spear of the Lake
+1 Spectacular Sweep
 1 Spectral Agent
 1 Speed Check
+1 Speedy Arbiter
+1 Steel Resolve
 1 Ta's Mirror
-1 Team Up
-1 Temporary Disappearance
 1 The Yapper
+1 Thunder Knight
+1 Triple Spell
 1 Try Again
-1 Tundra Arbiter
-1 Visionary Artificer
-1 Void Blast
-1 Void Drake
-1 Void Snap
-1 Void Spike
-1 Voidsworn Apostle
+1 Turn to Stone
+1 Void Axe
+1 Void Hound
+1 Wave of Doubt
 12 Wilds of Atnia
-1 Wolkk Twinspear
 1 Yulia of the Lake
 
 1 Atnia

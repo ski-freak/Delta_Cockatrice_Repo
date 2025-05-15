@@ -6,21 +6,17 @@
 1 Burning Lich
 1 Memory Wraith
 1 Emissary of Fear
-1 Pale Spellscorcher
-1 Menacing Nightmare
+1 Hasten
 1 Nightfall
-1 Vampire's Bite
 1 Myrkur Phantom
 1 Gas Giant
 1 Visionary Artificer
 1 Void Snap
-1 Hwain's Disciple
 1 Old Zombiemancer
 1 Triple Spell
 1 Voidsworn Apostle
 1 Rift Whispers
 1 Night of the Dead
-1 Golem Conjuring
 1 Dark Wrath
 1 Outlands Burglar
 1 Void Spike
@@ -35,7 +31,6 @@
 1 Cursed Tomb
 1 Void Blast
 1 Lost Traveler
-1 Rift Screech
 1 Maddening Visions
 1 Horror Summoning
 1 Noble Cleric
@@ -43,13 +38,10 @@
 1 Dream Stalker
 1 Blood Channeler
 1 Scary Cleric
-1 Void Summoner
 1 Doomed Nightmare
-1 Power Vacuum
 1 Eye for an Eye
 1 Abominable Cleric
 1 Turn to Stone
-1 Rift-Addled Goblin
 1 Soul Splitter
 1 Unstable Contract
 1 Seasoned Loremaster
@@ -57,7 +49,6 @@
 1 Forsaken Laboratory
 1 Cranium Clasp
 1 Dagger of Undeath
-1 Pale Mountain Directive
 1 Eudoxia Unshackled
 
 Eminus
@@ -69,7 +60,6 @@ Eminus
 1 Dedicated Combatant
 1 Liase of the Two Scrolls
 1 Skyknight
-1 Knightly Scholar
 1 Duel of Honor
 1 Runeblade
 1 Shadowy Command
@@ -102,7 +92,6 @@ Eminus
 1 Giant Arbiter
 1 Frightening Arbiter
 1 Speedy Arbiter
-1 Hasten
 1 Sunblade Knight
 1 Interfering Arbiter
 1 Ta's Mirror
@@ -112,13 +101,13 @@ Eminus
 1 Knight Summoning
 1 Outpost Militia
 1 Dropkick
-1 Divine Uppercut
+1 Instant Shield
 1 Speed Check
 1 Beckon Home
-1 Explosive Breakthrough
-1 Burst of Speed
 1 Wolkk Twinspear
 1 Delay
+1 Steel Resolve
+1 Thunder Knight
 
 Material
 1 Malicious Receptionist
@@ -130,20 +119,17 @@ Material
 1 Sinkhole
 1 Embittered Scribe
 1 Defiant Scribe
-1 Sour Mathematician
 1 Bermuda Triangle
 1 Siphon Power
 1 Ancient Greatsword
 1 Autonomous Trader
 1 Field Expedition
-1 Substitute
 1 Intimidating Scribe
 1 Honorable Scribe
 1 Outlands Accountant
 1 Prepared Scribe
 1 Bob, the Lightning Rod
 1 Tollgate Scribe
-1 Hallway Scribe
 1 Vexing Scribe
 1 Annoying Scribe
 1 Aggravating Scribe
@@ -155,16 +141,14 @@ Material
 1 Wild Vision
 1 Explorer's Knife
 1 Artificer's Staff
-1 A Difficult Choice
 1 Mechanical Heart
 1 Metallic Cloak
 1 Graveyard Golem
-1 Instant Shield
 1 Vampire's Grasp
 1 Ancient Squire
 1 Clockwork Soldier
 1 Menacing Automaton
-1 Mechanical Menace
+1 Menacing Scribe
 1 Mechanical Vampire
 1 Desert Sentinel
 1 Fortress Automaton
@@ -175,18 +159,18 @@ Material
 1 Absolute Destruction
 1 Improvised Armaments
 1 Outlast
+1 Pesky Scribe
 
 Old World
 1 Recycling
 1 Forbidden Knowledge
 1 Lost Tome
-1 Demonic Mirror
 1 The Dreamer
 1 Embargo
 1 The Plan
 1 Invisible Haze
 1 Out of Mind
-1 Moment of Silence
+1 A Difficult Choice
 1 Dead on Arrival
 1 Airdrop
 1 Scrap Merchant
@@ -214,7 +198,6 @@ Old World
 1 Mystic Stone
 1 Grim Librarians
 1 Procrastinate
-1 Dream Web
 1 Question Station
 1 Furious Sorcerer
 1 Helping Hands
@@ -300,7 +283,6 @@ Zelor
 1 Assassin's Armaments
 1 Fabled Blade
 1 Starlight Veil
-1 Timely Fable
 1 Snowfield Traveler
 1 Force Field
 1 Kaboom
@@ -316,6 +298,9 @@ Zelor
 1 Cliffside Guard
 1 Skyhaven Figure
 1 Mind Demolition
+1 Flame Oracle
+1 Lavasmith
+1 Burning Man
 
 Martial
 1 Novice Law-Binder
@@ -338,7 +323,6 @@ Martial
 1 Valorous Triumph
 1 Escaped Monster
 1 Sneak Attack
-1 Talent Snatcher
 1 Ambush
 1 Stronghold Guard
 1 Devout Arbiter
@@ -370,7 +354,6 @@ Martial
 1 Frostblade Nomad
 1 Eager Recruit
 1 Arena Merchant
-1 Village Berserker
 1 George
 1 Deadly Strike
 1 Frost Sprint
@@ -400,7 +383,7 @@ Faith
 1 Weapon Refurbisher
 1 Get Back In There
 1 Eternal Guard
-1 Can O' Army
+1 Micronecromancy
 1 Necromancer's Touch
 1 Mindless Cleric
 1 Reawaken in Dream
@@ -427,6 +410,7 @@ Faith
 1 Healing Amulet
 1 The Departed
 1 Squiggly Slime
+1 Passive Income Scheme
 1 Abominable Egg
 1 Void Cleric
 1 Guile
@@ -447,4 +431,6 @@ Faith
 1 Demon of Consumption
 1 Ozen's Wrath
 1 Terrifying Vision
-1 Globe of 1000 Souls"
+1 Globe of 1000 Souls
+1 Molten Image
+1 Substitute"

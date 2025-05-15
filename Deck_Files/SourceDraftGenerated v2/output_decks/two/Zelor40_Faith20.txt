@@ -1,65 +1,65 @@
 1 Amatuer Illusionist
 1 Amatuer Wizarding
-1 Ancient Traveler
-1 Assassin's Armaments
-1 Atonian Phoenix
-1 Back Again
-1 Bard's Lesson
+1 Angel's Lantern
+1 Arena Daredevil
+1 Astral Speculation
+1 Aton Battlemaster
+1 Aton Scout
+1 Awaken the Hooligans
 1 Battle Rage
-1 Become Large
 1 Citadel Lord
 1 Cliffside Guard
-1 Combo Slice
-1 Deja Vu
 1 Demolisher Golem
 1 Devout Healer
-1 Disappearing Orb
-1 Dune Paladin
-1 Errant of the Torch
+1 Electrolytes
+1 Elite Smith
 1 Eruption
-1 Eternal Guard
 1 Eternal Navigator
-1 Extreme Heat
-1 Fabled Blade
-1 Fireball
-1 Flame Elemental
-1 Get Back In There
+1 Ethereal Mirage
+1 Evil Opportunity
+1 Flame Oracle
+1 Flashback Attack
+1 Force Field
+1 Forgotten Hunter
+1 Globe of 1000 Souls
 1 Hwain's Staff
-1 Ignition
+1 Improvised Lightning
 1 Inspired Encore
 1 Knight of the Moon
+1 Knightmare
+1 Lavasmith
 1 Library Raid
+1 Magic Trick
+1 Mesa Smuggler
+1 Micronecromancy
 1 Mind Demolition
-1 Mindless Cleric
-1 Mysterious Cleric
+1 Molten Image
+1 More Fire
+1 New Recruit
+1 Oln's Binding
 1 Oln's Scale
 1 Palace Clock
-1 Plunder
-1 Reorganize
+1 Pax Nova Scout
+1 Replenish
+1 Righteous Fury
 1 Scorched Earth
-1 Search for Omnipotence
 8 See Beyond
-1 Set Ablaze
-1 Skyhaven Cannon
-1 Skyhaven Figure
+1 Snowfield Traveler
+1 Solemn Scout
 1 Sorvald's Spark
-1 Spiteful Cleric
-1 Spiteful Hatchet
+1 Spirit Guide
 1 Starlight Veil
-1 Svet Sigil
+1 Stash Away
+1 Strategize
+1 Substitute
+1 Svet Scavenger
 1 Sword of Forbidden Knowledge
-1 Terrifying Vision
-1 Thorny Defense
-1 Thunderous Fury
-1 Timely Fable
-1 Trade Insight
-1 Void Cleric
-1 Void Shift
-1 Vosderon's Trident
+1 The Departed
+1 Unknowable Horror
+1 Weapon Refurbisher
 12 Wilds of Atnia
+1 Wizard's Familiar
 1 Woodland Spectre
-1 Worldseal
-1 Yeet
 
 1 Atnia
 1 Golem

@@ -1,63 +1,63 @@
+1 A Difficult Choice
 1 Abandoned Automaton
-1 Amatuer Wizarding
-1 Arbiter Fabricator
+1 Abominable Cleric
+1 Ancient Traveler
 1 Arcane Chains
-1 Aton Battlemaster
-1 Aton Scout
-1 Become Large
+1 Arena Daredevil
+1 Assembly Line
+1 Aton Archivist
+1 Atonian Phoenix
+1 Automaton Summoning
+1 Bard's Lesson
+1 Battle Rage
+1 Burning Lich
+1 Burning Man
 1 Catch!
-1 Cleric's Lens
-1 Combo Slice
-1 Cranium Clasp
-1 Cursed Tomb
-1 Dark Wrath
-1 Demonic Mirror
-1 Doomed Nightmare
-1 Double Negative
-1 Economy of Scale
-1 Embargo
-1 Errant of the Torch
-1 Eternal Navigator
-1 Eudoxia Unshackled
-1 Fabled Blade
-1 Fallen Wizard
+1 Dagger of Undeath
+1 Dream Stalker
+1 Dune Paladin
+1 Extreme Heat
 1 Fireball
-1 Flame Elemental
-1 Force Field
-1 Frank
+1 Flame Oracle
+1 Flashback Attack
+1 Forgotten Hunter
 1 Furious Sorcerer
 1 Golem Nexus
-1 Grim Librarians
-1 Helpful Automaton
-1 Improvised Lightning
-1 Inspired Encore
-1 Knowledge Collection
+1 Horror Summoning
+1 Knightmare
+1 Lavasmith
 1 Library Raid
 1 Lost Sigil
 1 Lost Tome
-1 Madman
+1 Maddening Visions
 1 Memory Wraith
-1 Menacing Nightmare
-1 Mystic Stone
-1 New Recruit
-1 Nightfall
+1 Myrkur Phantom
+1 Night of the Dead
+1 Noble Cleric
 1 Outlands Burglar
-1 Pale Spellscorcher
-1 Righteous Fury
-1 Scary Cleric
-1 Scrapmaster
+1 Outlands Commander
+1 Palace Sanctuary
+1 Plunder
+1 Procrastinate
+1 Psychic Intrusion
+1 Relic Invoker
+1 Remake
+1 Scrap Merchant
 12 See Beyond
 1 Set Ablaze
-1 Skyhaven Figure
-1 Soul Splitter
-1 Sword of Forbidden Knowledge
-1 Train Station
-1 Turn to Stone
+1 Termination
+1 The Plan
+1 The Yapper
+1 Tower Cleric
+1 Tundra Elemental
 1 Unstable Contract
 1 Vampire's Bite
-1 Visionary Artificer
+1 Void Axe
+1 Void Drake
 1 Void Snap
-1 Void Summoner
+1 Void Spike
+1 Voidsworn Apostle
+1 Walk the Plank
 1 Wealthy Trader
 14 Wilds of Atnia
 1 Wizard's Familiar

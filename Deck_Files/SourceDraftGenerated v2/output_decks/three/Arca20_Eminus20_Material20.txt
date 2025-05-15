@@ -1,65 +1,65 @@
 1 Absolute Destruction
-1 Arbiter Marshal
-1 Astral Amulet
-1 Blood Channeler
-1 Bob, the Lightning Rod
-1 Burst of Speed
-1 Champion's Crown
+1 Aggravating Scribe
+1 Ancient Greatsword
+1 Annoying Scribe
+1 Autonomous Trader
+1 Contemplate
+1 Cranium Clasp
 1 Dagger of Undeath
-1 Deconstructor
+1 Dedicated Combatant
 1 Defiant Scribe
-1 Desperate Arbiter
 1 Doomed Nightmare
-1 Duel of Honor
+1 Dream Stalker
+1 Dropkick
+1 Elite Arbiter
 1 Embittered Scribe
 1 Ethereal Construct
-1 Explosive Breakthrough
-1 Field Expedition
+1 Everyone Forgets
+1 Explorer's Knife
 1 Forsaken Laboratory
+1 Frightening Arbiter
+1 Furious Automaton
+1 Gas Giant
 1 Giant Bat
-1 Healing Potion
-1 Hwain's Disciple
-1 Interfering Arbiter
-1 Leave me Alone
+1 Hasten
+1 Honorable Scribe
+1 Horror Summoning
+1 Knight Summoning
 1 Liev Arbiter
-1 Maddening Visions
-1 Madman
-1 Menacing Nightmare
+1 Lore Dump
+1 Lost Traveler
+1 Mechanical Vampire
+1 Menacing Automaton
+1 Metallic Cloak
 1 Mind Reader
 1 Mind Trauma
-1 Nullify Magic
-1 Old Watch Shortsword
 1 Old Zombiemancer
+1 Oruva Scout
 1 Outlands Burglar
 1 Outlast
-1 Pale Mountain Directive
-1 Pathway Sentry
-1 Rift-Addled Goblin
+1 Prepared Scribe
+1 Rift Whispers
 1 Savage Snare
+1 Seasoned Loremaster
 12 See Beyond
-1 Shadowy Command
 1 Shem's amulet
-1 Sinkhole
-1 Siphon Power
+1 Shifting Mirage
 1 Sir Horus The Prepared
-1 Solemn Angel
-1 Sour Mathematician
-1 Spectacular Sweep
-1 Substitute
+1 Skyknight
+1 Sorvald's Insight
+1 Soul Splitter
+1 Spear of the Lake
+1 Speed Check
+1 Sunblade Knight
 1 Team Up
-1 Temporary Disappearance
-1 Tollgate Scribe
-1 Tundra Arbiter
+1 Terrifying Nightmare
+1 Tower Cleric
 1 Unfortunate Accident
-1 Vampire's Bite
-1 Vampire's Grasp
-1 Void Axe
-1 Void Snap
-1 Void Spike
-1 Void Summoner
-1 Voidsworn Apostle
+1 Void Hound
 1 Wild Vision
 14 Wilds of Atnia
+1 Wolkk Twinspear
+1 Yulia of the Lake
 
 1 Atnia
 1 Golem

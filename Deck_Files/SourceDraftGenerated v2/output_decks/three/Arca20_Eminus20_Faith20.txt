@@ -1,65 +1,66 @@
-1 Arcane Chains
+1 Ancient Dreamshaper
+1 Arbiter Marshal
+1 Astral Amulet
 1 BSOD
-1 Burst of Speed
-1 Cleric's Automaton
-1 Cleric's Binding
-1 Contemplate
-1 Dark Wrath
-1 Divine Uppercut
-1 Downtown Walk
+1 Beckon Home
+1 Burning Lich
+1 Cursed Portal
+1 Dark Aperture
+1 Devout Healer
+1 Disappearing Orb
+1 Doomed Nightmare
 1 Dropkick
 1 Elite Arbiter
-1 Eudoxia Unshackled
-1 Evil Opportunity
-1 Explosive Breakthrough
+1 Emissary of Fear
+1 Eternal Guard
+1 Ethereal Knight
 1 Forsaken Laboratory
 1 Frightening Arbiter
-1 Globe of 1000 Souls
-1 Guile
-1 Hasten
-1 Haunted Warlock
-1 Healing Amulet
+1 Gas Giant
+1 Giant Bat
+1 Goblin Scout
+1 Instant Shield
+1 Interfering Arbiter
 1 Knight Summoning
-1 Knightly Reinforcements
-1 Liev Arbiter
-1 Maddening Visions
-1 Madman
-1 Mind Trauma
-1 Mindless Cleric
-1 Myrkur Phantom
+1 Memory Wraith
+1 Micronecromancy
+1 Mind Reader
+1 Mysterious Cleric
 1 Mystic Staff
 1 Necromancer's Touch
+1 Nightfall
 1 Old Watch Shortsword
-1 Oln's Scale
+1 Orb of Binding
 1 Oruva Scout
-1 Palace Clock
-2 Pale Mountain Directive
+1 Pale Mountain Directive
+1 Prospector Zombie
 1 Recurring Nightmare
-1 Rift Screech
+1 Rift Whispers
+1 Scary Cleric
 1 Search for Omnipotence
-1 Seasoned Loremaster
 12 See Beyond
+1 Skyknight
 1 Solemn Scout
-1 Soul Splitter
 1 Spectacular Sweep
-1 Speed Check
-1 Spiteful Cleric
+1 Speedy Arbiter
+1 Spirit Guide
 1 Suspicious Trader
 1 Svet Scavenger
-1 Tower Cleric
-1 Try Again
+1 Svet Sigil
+1 Team Up
+1 Temporary Disappearance
+1 The Yapper
+1 Thunder Knight
+1 Triple Spell
 1 Unexpected Rift
-1 Unknowable Horror
-1 Unstable Contract
-1 Vampire's Bite
 1 Visionary Artificer
-1 Void Blast
 1 Void Hound
+1 Void Shift
+1 Void Snap
+1 Void Spike
 1 Voidsworn Apostle
-1 Wave of Doubt
-1 Weapon Refurbisher
 14 Wilds of Atnia
-1 Yulia of the Lake
+1 Wolkk Twinspear
 
 1 Atnia
 1 Golem

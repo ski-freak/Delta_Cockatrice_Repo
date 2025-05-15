@@ -1,3 +1,4 @@
+1 A Difficult Choice
 1 Abandoned Automaton
 1 Airdrop
 1 Annul
@@ -12,29 +13,28 @@
 1 Countervailing Flames
 1 Dark End
 1 Dead on Arrival
-1 Demonic Mirror
 1 Double Negative
-1 Dream Web
+1 Durable Automaton
 1 Economy of Scale
 1 Embargo
 1 Essence of the Old World
 1 Forbidden Knowledge
 1 Frank
-1 Furious Sorcerer
 1 Goblin Cleric
-1 Golem Conjurer
 1 Grim Librarians
+1 Helpful Automaton
 1 Helping Hands
+1 Interrupt
 1 Invisible Haze
 1 Knowledge Collection
 1 Lagoon Titan
 1 Loose Change
 1 Lost Sigil
-1 Moment of Silence
+1 Lost Tome
 1 Mystic Mists
 1 Mystic Stone
+1 Nomadic Spirit
 1 Oana's Divination
-1 Out of Mind
 1 Outlands Commander
 1 Palace Sanctuary
 1 Procrastinate

@@ -1,64 +1,64 @@
-1 A Difficult Choice
-1 Abominable Egg
+1 Absolute Destruction
 1 Aggravating Scribe
 1 Amatuer Illusionist
-1 Ancient Dreamshaper
 1 Ancient Squire
-1 Angel's Lantern
-1 Annoying Scribe
-1 Back Again
-1 Can O' Army
+1 Awaken the Hooligans
+1 Bob, the Lightning Rod
 1 Cleric's Automaton
 1 Construct a Construct
+1 Cursed Portal
 1 Dark Aperture
-1 Deconstructor
 1 Demon of Consumption
+1 Deploy Automatons
 1 Devout Healer
+1 Disappearing Orb
 1 Downtown Walk
-1 Eternal Guard
+1 Embittered Scribe
+1 Ethereal Construct
+1 Ethereal Mirage
 1 Evil Opportunity
 1 Fortress Automaton
-1 Frost Eruption
+1 Get Back In There
 1 Graveyard Golem
 1 Guile
-1 Haunted Warlock
-1 Healing Amulet
 1 Holy Knife
 1 Improvised Armaments
-1 Instant Shield
-1 Mechanical Menace
+1 Mechanical Heart
 1 Mechanical Vampire
-1 Menacing Automaton
-1 Metallic Axe
-1 Metallic Cloak
+1 Menacing Scribe
+1 Micronecromancy
+1 Mindless Cleric
 1 Necromancer's Touch
-1 Recruiter of the Dead
-1 Relic Recovery
+1 Oln's Binding
+1 Oln's Scale
+1 Orb of Binding
+1 Ozen's Wrath
+1 Palace Clock
+1 Pathway Sentry
+1 Prospector Zombie
+1 Rift Arcanist
 2 Search for Omnipotence
 8 See Beyond
+1 Self Improver
 1 Sinkhole
+1 Siphon Power
 1 Skyhaven Cannon
-1 Solemn Scout
-1 Sour Mathematician
-1 Spirit Guide
-1 Spiteful Cleric
+1 Sorvald's Insight
+1 Squiggly Slime
 1 Stash Away
-1 Suspicious Trader
+1 Substitute
+1 Svet Scavenger
 1 Svet Scout
+1 Terrifying Vision
 1 The Departed
-1 Tollgate Scribe
 1 Tomb Hunter
-1 Twilight Isle Cleric
-1 Underwater Emergence
 1 Unexpected Rift
-1 Unfortunate Accident
 1 Unknowable Horror
-1 Void Capsule
+1 Vexing Scribe
 1 Wicked Pact
 1 Wild Vision
 12 Wilds of Atnia
 1 Workshop Automaton
-1 Worldseal
 
 1 Atnia
 1 Golem

@@ -1,65 +1,65 @@
 1 A Difficult Choice
-1 Abandoned Automaton
-1 Ancient Greatsword
+1 A Trick
+1 Aggravating Scribe
+1 Annoying Scribe
+1 Arbiter Fabricator
+1 Arbiter Marshal
+1 Artificer's Staff
 1 BSOD
-1 Bob, the Lightning Rod
-1 Burst of Speed
-1 Collective Knowledge
-1 Construct Constructor
-1 Dark End
-1 Dead on Arrival
-1 Deconstructor
-1 Dedicated Combatant
-1 Demonic Mirror
-1 Desperate Arbiter
-1 Divine Uppercut
-1 Dream Web
+1 Clockwork Soldier
+1 Defiant Scribe
+1 Delay
+1 Desert Sentinel
+1 Duel of Honor
 1 Economy of Scale
-1 Embargo
+1 Elite Arbiter
 1 Embittered Scribe
+1 Essence of the Old World
+1 Ethereal Construct
+1 Ethereal Knight
+1 Everyone Forgets
 1 Field Expedition
-1 Forgetful Arbiter
+1 Forbidden Knowledge
+1 Forgotten Knight
 1 Fortress Automaton
 1 Furious Sorcerer
-1 Interfering Arbiter
+1 Graveyard Golem
+1 Grim Librarians
+1 Helpful Automaton
+1 Honorable Scribe
+1 Instant Shield
+1 Interrupt
 1 Intimidating Scribe
+1 Invisible Haze
 1 Knight Summoning
-1 Liase of the Two Scrolls
-1 Lost Tome
-1 Malicious Receptionist
-1 Mechanical Menace
-1 Mechanical Vampire
-1 Mind Trauma
-1 Mystic Mists
-1 Mystic Staff
-1 Nullify Magic
+1 Knowledge Collection
+1 Lagoon Titan
+1 Loose Change
+1 Menacing Automaton
+1 Metallic Axe
+1 Nomadic Spirit
+1 Prepared Scribe
 1 Question Station
-1 Quick Thinking
 1 Relic Invoker
-1 Remake
-1 Savage Snare
+1 Runeblade
+1 Scrap Merchant
 12 See Beyond
 1 Shadowy Command
-1 Shifting Mirage
-1 Sinkhole
-1 Siphon Power
+1 Shadowy Explosion
 1 Skyknight
 1 Sorvald's Insight
-1 Sour Mathematician
-1 Spear of the Lake
-1 Squish
-1 Sublimate
-1 Substitute
-1 Temporary Disappearance
+1 Spectacular Sweep
+1 Speedy Arbiter
+1 Ta's Mirror
 1 Termination
-1 Tollgate Scribe
-1 Train Station
+1 Thunder Knight
 1 Try Again
-1 Walk the Plank
+1 Tundra Arbiter
+1 Vexing Scribe
 1 Wild Vision
 14 Wilds of Atnia
-1 Wolkk Twinspear
-1 Yulia of the Lake
+1 Workshop Automaton
+1 Zelor Oldworld Directive
 
 1 Atnia
 1 Golem

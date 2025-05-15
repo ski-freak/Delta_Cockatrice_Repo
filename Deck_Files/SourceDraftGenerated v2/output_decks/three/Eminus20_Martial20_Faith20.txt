@@ -1,66 +1,65 @@
-1 Abominable Egg
-1 Adapt
-1 Ambush
-1 Ancient Dreamshaper
-1 Arbiter Marshal
+1 Angel's Lantern
 1 Arena Merchant
+1 Aura of Strength
 1 BSOD
-1 Beckon Home
+1 Back Again
 1 Benjamin
-1 Cleric's Binding
-1 Construct a Construct
+1 Champion's Crown
+1 Contain
+1 Contemplate
 1 Crackling Battleaxe
-1 Demon of Consumption
-1 Devout Arbiter
+1 Deadly Strike
+1 Delay
+1 Deploy Automatons
 1 Divine Uppercut
 1 Dropkick
-1 Duel of Honor
-1 Elite Arbiter
-1 Eternal Guard
-1 Everyone Forgets
-1 Explosive Breakthrough
 1 Flank
+1 Flash Freeze
 1 Frightening Arbiter
-1 Frostblade Nomad
 1 George
-1 Globe of 1000 Souls
-1 Hasten
+1 Get Back In There
+1 Giant Arbiter
+1 Glimpse Disaster
+1 Great Greatsword
 1 Haunted Warlock
-1 Healing Amulet
-1 Hidden Giant
-1 Knight Summoning
-1 Knightly Scholar
+1 Holy Knife
+1 Instant Shield
+1 Interceptor
+1 Interfering Arbiter
+1 K.O. Punch
+1 Liase of the Two Scrolls
+1 Liev Warrior
+1 Looming Overlord
+1 Micronecromancy
+1 Mind Trauma
 1 Myrkur Protector
-1 Oasis Giant
-1 Ogre Arbiter
+1 Nullify Magic
 1 Ogre Illusionist
-1 Oln's Scale
-1 Reawaken in Dream
-1 Relic Recovery
+1 Old Watch Shortsword
+1 Oln's Binding
+1 Prospector Zombie
+1 Quiet Mage
+1 Rift Arcanist
 1 Royal Guard
-1 Runeblade
-1 Search for Omnipotence
+2 Search for Omnipotence
 12 See Beyond
-1 Shem's amulet
-1 Shifting Mirage
 1 Skyhaven Cannon
-1 Skyknight
-1 Solemn Scout
-1 Soul Link
-1 Spear of the Lake
+1 Solemn Angel
 1 Spectacular Sweep
 1 Spirit Guide
+1 Spiteful Hatchet
+1 Squiggly Slime
 1 Stash Away
-1 Svet Sigil
+1 Steel Resolve
 1 Swift Rescue
 1 Ta's Mirror
-1 Tomb Hunter
-1 Tower Thief
-1 Try Again
-1 Tundra Ogre
-1 Unknowable Horror
-1 Whack
+1 Temporary Disappearance
+1 The Departed
+1 The Renegade
+1 Thunder Knight
+1 Wicked Pact
 14 Wilds of Atnia
+1 Wolkk Twinspear
 
 1 Atnia
 1 Golem

@@ -1,65 +1,65 @@
-1 A Difficult Choice
 1 A Trick
 1 Absolute Destruction
 1 Aggravating Scribe
 1 Ancient Greatsword
 1 Ancient Squire
+1 Annoying Scribe
 1 Artificer's Staff
+1 Autonomous Trader
 1 BSOD
+1 Beckon Home
 1 Bob, the Lightning Rod
-1 Champion's Crown
 1 Clockwork Soldier
-1 Dedicated Combatant
+1 Contemplate
+1 Deconstructor
 1 Defiant Scribe
 1 Desert Sentinel
-1 Desperate Arbiter
 1 Embittered Scribe
-1 Ethereal Construct
-1 Everyone Forgets
-1 Explorer's Knife
 1 Field Expedition
 1 Forgetful Arbiter
+1 Fortress Automaton
 1 Furious Automaton
+1 Giant Arbiter
 1 Graveyard Golem
+1 Healing Potion
 1 Honorable Scribe
 1 Improvised Armaments
 1 Instant Shield
 1 Interfering Arbiter
-1 Knightly Scholar
+1 Intimidating Scribe
+1 Knight Summoning
 1 Leave me Alone
+1 Liase of the Two Scrolls
 1 Liev Arbiter
-1 Malicious Receptionist
 1 Mechanical Heart
-1 Mechanical Menace
+1 Mechanical Vampire
 1 Menacing Automaton
-1 Metallic Axe
+1 Menacing Scribe
 1 Metallic Cloak
-1 Mind Trauma
 1 Nullify Magic
-1 Old Watch Shortsword
 1 Outlands Accountant
-1 Outlast
 1 Outpost Militia
 1 Pathway Sentry
+1 Pesky Scribe
 1 Prepared Scribe
-1 Savage Snare
 8 See Beyond
+1 Self Improver
 1 Shadowy Command
-1 Shifting Mirage
 1 Siphon Power
+1 Sir Horus The Prepared
 1 Sorvald's Insight
 1 Spear of the Lake
-1 Speed Check
+1 Spectral Agent
 1 Sublimate
-1 Substitute
 1 Temporary Disappearance
 1 Tollgate Scribe
-1 Try Again
+1 Tundra Arbiter
 1 Unfortunate Accident
-1 Vampire's Grasp
 1 Vexing Scribe
+1 Wave of Doubt
 1 Wild Vision
 12 Wilds of Atnia
+1 Workshop Automaton
 
 1 Atnia
 1 Golem

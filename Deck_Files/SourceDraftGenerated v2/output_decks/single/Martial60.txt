@@ -1,14 +1,14 @@
 1 Adapt
-1 Ambush
+2 Ambush
 1 Arbiter Captain
 1 Arena Merchant
 1 Aura of Strength
-1 Battlefield Warp
+2 Battlefield Warp
 1 Benjamin
 1 Contain
 1 Crackling Battleaxe
-1 Cruel Messenger
-1 Deadly Strike
+2 Cruel Messenger
+2 Deadly Strike
 1 Devout Arbiter
 1 Eager Bruiser
 1 Eager Recruit
@@ -23,10 +23,10 @@
 1 Hidden Giant
 1 Interceptor
 1 Isolated Archer
-2 K.O. Punch
+1 K.O. Punch
 1 Liev Warrior
 1 Looming Overlord
-2 Master Duelist
+1 Master Duelist
 1 Masterwork Ring
 1 Myrkur Protector
 1 Novice Law-Binder
@@ -37,7 +37,7 @@
 1 Ozen's Spear
 1 Pax Axe
 1 Quiet Mage
-2 Royal Guard
+1 Royal Guard
 4 See Beyond
 1 Sneak Attack
 1 Soul Link
@@ -46,16 +46,14 @@
 1 Stronghold Guard
 1 Swift Rescue
 1 Sword Toss
-1 Talent Snatcher
 1 The Renegade
 1 Tower Thief
 1 Tundra Ogre
 1 Valorous Triumph
-1 Village Berserker
 1 Village Champion
 1 Warrior's Sword
 1 Warrior's Training
-1 Whack
+2 Whack
 10 Wilds of Atnia
 
 1 Atnia

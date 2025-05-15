@@ -1,50 +1,53 @@
-1 Assassin's Armaments
-1 Atonian Phoenix
+1 Abominable Cleric
+1 Arcane Chains
+1 Aton Archivist
+1 Aton Battlemaster
+1 Aton Scout
+1 Battle Rage
 1 Blood Channeler
 1 Burning Lich
-1 Citadel Lord
+1 Cliffside Guard
+1 Cranium Clasp
 1 Cursed Tomb
+1 Dagger of Undeath
+1 Dark Wrath
+1 Demolisher Golem
 1 Dream Stalker
-1 Elite Smith
 1 Emissary of Fear
-1 Eternal Navigator
 1 Eudoxia Unshackled
 1 Eye for an Eye
 1 Fallen Wizard
+1 Flame Elemental
 1 Forgotten Hunter
+1 Forsaken Laboratory
+1 Gas Giant
 1 Giant Bat
-1 Golem Conjuring
-1 Horror Summoning
-1 Hwain's Disciple
-1 Hwain's Staff
 1 Ignition
-1 Improvised Lightning
 1 Inspired Encore
 1 Knight of the Moon
-1 Knight of the Poppy
+1 Knightmare
+1 Lavasmith
 1 Lore Dump
+1 Lost Traveler
 1 Maddening Visions
+1 Madman
 1 Memory Wraith
 1 Merry Duelist
+1 New Recruit
 1 Night of the Dead
-1 Pale Mountain Directive
-1 Pale Spellscorcher
-1 Plunder
-1 Power Vacuum
+1 Nightfall
+1 Old Zombiemancer
+1 Oruva Scout
+1 Outlands Burglar
 1 Recurring Nightmare
 1 Replenish
-1 Rift Screech
-1 Rift Whispers
-1 Rift-Addled Goblin
+1 Resiliant Knight
+1 Rugged Runner
 1 Scary Cleric
 1 Seasoned Loremaster
 8 See Beyond
-1 Snowfield Traveler
-1 Sorvald's Spark
+1 Set Ablaze
 1 Soul Splitter
-1 Starlight Veil
-1 Strategize
-1 Terrifying Nightmare
 1 The Yapper
 1 Tower Cleric
 1 Triple Spell
@@ -52,14 +55,11 @@
 1 Unstable Contract
 1 Vampire's Bite
 1 Visionary Artificer
-1 Void Axe
 1 Void Blast
-1 Void Drake
 1 Void Hound
 1 Void Snap
 1 Void Spike
-1 Void Summoner
-1 Vosderon's Trident
+1 Volcanic Vision
 12 Wilds of Atnia
 
 1 Atnia

@@ -1,64 +1,66 @@
 1 Abominable Cleric
 1 Abominable Egg
-1 Arcane Chains
+1 Amatuer Illusionist
+1 Astral Amulet
 1 Blood Channeler
-1 Can O' Army
-1 Dark Aperture
-1 Dark Wrath
+1 Braeg's Hammer
+1 Cleric's Automaton
+1 Cleric's Binding
+1 Construct a Construct
+1 Cranium Clasp
+1 Cursed Portal
+1 Cursed Tomb
+1 Dagger of Undeath
 1 Deja Vu
-1 Demon of Consumption
 1 Devout Healer
-1 Disappearing Orb
-1 Emissary of Fear
+1 Doomed Nightmare
 1 Eternal Guard
 1 Ethereal Mirage
-1 Evil Opportunity
+1 Eudoxia Unshackled
+1 Frost Eruption
 1 Get Back In There
-1 Glimpse Disaster
 1 Globe of 1000 Souls
-1 Goblin Scout
 1 Guile
-1 Lost Traveler
-1 Madman
+1 Hasten
+1 Haunted Warlock
+1 Healing Amulet
+1 Memory Wraith
+1 Micronecromancy
 1 Mindless Cleric
-1 Necromancer's Touch
+1 Molten Image
+1 Mysterious Cleric
 1 Nightfall
-1 Oln's Binding
-1 Oln's Scale
-1 Orb of Binding
-1 Oruva Scout
-1 Ozen's Wrath
+1 Outlands Burglar
+1 Palace Clock
 1 Pale Mountain Directive
-1 Prospector Zombie
+1 Passive Income Scheme
 1 Recruiter of the Dead
-1 Rift Screech
-1 Rift-Addled Goblin
-3 Search for Omnipotence
+1 Recurring Nightmare
+1 Relic Recovery
+1 Rift Arcanist
+1 Search for Omnipotence
 1 Seasoned Loremaster
 8 See Beyond
 1 Solemn Scout
+1 Soul Splitter
 1 Spirit Guide
+1 Spiteful Hatchet
 1 Squiggly Slime
-1 Stash Away
+1 Substitute
 1 Suspicious Trader
 1 Svet Scout
-1 The Departed
-1 Turn to Stone
-1 Twilight Isle Cleric
+1 Svet Sigil
+1 Terrifying Nightmare
+1 Terrifying Vision
+1 The Yapper
+1 Tower Cleric
+1 Triple Spell
+1 Underwater Emergence
 1 Unexpected Rift
-1 Unknowable Horror
-1 Unstable Contract
-1 Void Axe
-1 Void Blast
 1 Void Capsule
-1 Void Shift
-1 Void Snap
-1 Void Spike
-1 Void Summoner
-1 Voidsworn Apostle
-1 Weapon Refurbisher
-1 Wicked Pact
+1 Void Drake
 12 Wilds of Atnia
+1 Worldseal
 
 1 Atnia
 1 Golem

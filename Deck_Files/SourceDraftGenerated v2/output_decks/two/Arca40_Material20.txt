@@ -1,63 +1,63 @@
-1 A Difficult Choice
-1 Aggravating Scribe
+1 Abominable Cleric
 1 Ancient Greatsword
-1 Arcane Chains
+1 Ancient Squire
+1 Annoying Scribe
 1 Astral Amulet
 1 Bermuda Triangle
-1 Blood Channeler
-1 Bob, the Lightning Rod
 1 Burning Lich
 1 Clockwork Soldier
 1 Cranium Clasp
+1 Cursed Tomb
 1 Dark Wrath
+1 Deconstructor
+1 Defiant Scribe
 1 Dream Stalker
+1 Emissary of Fear
+1 Ethereal Construct
 1 Eudoxia Unshackled
 1 Eye for an Eye
 1 Forsaken Laboratory
-1 Furious Automaton
 1 Gas Giant
 1 Giant Bat
-1 Golem Conjuring
-1 Hallway Scribe
+1 Graveyard Golem
+1 Hasten
 1 Healing Potion
 1 Honorable Scribe
-1 Hwain's Disciple
+1 Horror Summoning
+1 Intimidating Scribe
 1 Lore Dump
 1 Lost Traveler
-1 Maddening Visions
 1 Madman
-1 Mechanical Menace
-1 Menacing Nightmare
-1 Metallic Axe
+1 Mechanical Heart
+1 Menacing Scribe
 1 Myrkur Phantom
 1 Night of the Dead
 1 Nightfall
 1 Noble Cleric
 1 Old Zombiemancer
+1 Oruva Scout
+1 Outlands Accountant
 1 Outlands Burglar
-1 Pale Mountain Directive
-1 Pale Spellscorcher
-1 Pathway Sentry
-1 Power Vacuum
-1 Prepared Scribe
-1 Rift Screech
+1 Outlast
+1 Pesky Scribe
+1 Recurring Nightmare
 1 Rift Whispers
 1 Savage Snare
 1 Scary Cleric
+1 Seasoned Loremaster
 8 See Beyond
-1 Siphon Power
-1 Sorvald's Insight
-1 Sublimate
+1 Sinkhole
 1 Terrifying Nightmare
 1 The Yapper
 1 Tollgate Scribe
+1 Tower Cleric
 1 Triple Spell
-1 Unfortunate Accident
 1 Unstable Contract
 1 Visionary Artificer
-1 Void Snap
+1 Void Axe
+1 Void Blast
+1 Void Hound
 1 Void Spike
-1 Void Summoner
 1 Voidsworn Apostle
 12 Wilds of Atnia
 

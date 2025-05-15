@@ -1,65 +1,65 @@
 1 A Difficult Choice
 1 Absolute Destruction
 1 Aggravating Scribe
+1 Ancient Greatsword
 1 Annoying Scribe
 1 Arbiter Fabricator
-1 Arcane Chains
-1 Astral Amulet
-1 Burning Lich
-1 Centrifuge
-1 Cursed Tomb
+1 Autonomous Trader
+1 Clockwork Soldier
+1 Construct Constructor
 1 Dagger of Undeath
 1 Dark Wrath
-1 Desert Sentinel
-1 Double Negative
-1 Durable Automaton
+1 Deconstructor
+1 Dream Stalker
+1 Economy of Scale
+1 Embargo
+1 Embittered Scribe
 1 Emissary of Fear
 1 Ethereal Construct
-1 Field Expedition
-1 Forbidden Knowledge
+1 Explorer's Knife
+1 Fallen Wizard
+1 Fortress Automaton
 1 Frank
-1 Golem Nexus
-1 Graveyard Golem
+1 Furious Sorcerer
+1 Giant Bat
+1 Hasten
 1 Healing Potion
-1 Interrupt
-1 Knowledge Collection
-1 Leave me Alone
-1 Malicious Receptionist
-1 Mechanical Menace
-1 Memory Wraith
-1 Metallic Axe
-1 Noble Cleric
-1 Oana's Divination
+1 Horror Summoning
+1 Improvised Armaments
+1 Intimidating Scribe
+1 Invisible Haze
+1 Lost Sigil
+1 Lost Traveler
+1 Mechanical Heart
+1 Menacing Scribe
+1 Myrkur Phantom
+1 Mystic Mists
 1 Old Zombiemancer
-1 Outlast
-1 Pale Mountain Directive
-1 Pathway Sentry
-1 Question Station
-1 Relic Invoker
-1 Rift Screech
+1 Outlands Commander
+1 Procrastinate
+1 Quick Thinking
+1 Remake
+1 Return to the Earth
 1 Rift Shrine
+1 Rift Whispers
+1 Scary Cleric
+1 Scrapmaster
 1 Seasoned Loremaster
 12 See Beyond
 1 Self Improver
-1 Shadowy Explosion
 1 Soul Splitter
-1 Starlight Cleric
-1 Substitute
-1 Termination
+1 Squish
 1 The Dreamer
+1 Tollgate Scribe
+1 Tower Cleric
 1 Train Station
 1 Triple Spell
-1 Tundra Elemental
-1 Vampire's Grasp
+1 Unstable Contract
 1 Vexing Scribe
 1 Visionary Artificer
-1 Void Blast
-1 Void Drake
-1 Void Hound
-1 Void Summoner
+1 Void Spike
+1 Wild Vision
 14 Wilds of Atnia
-1 Workshop Automaton
-1 Zelor Oldworld Directive
 
 1 Atnia
 1 Golem

@@ -1,50 +1,48 @@
 1 A Difficult Choice
-1 Abandoned Automaton
-1 Absolute Destruction
 1 Aggravating Scribe
+1 Airdrop
 1 Ancient Greatsword
 1 Ancient Squire
+1 Annoying Scribe
 1 Artificer's Staff
-1 Assembly Line
-1 Automaton Summoning
 1 Autonomous Trader
 1 Bermuda Triangle
 1 Bob, the Lightning Rod
 1 Centrifuge
 1 Clockwork Soldier
-1 Construct Constructor
-1 Dark End
+1 Collective Knowledge
+1 Deconstructor
 1 Defiant Scribe
+1 Desert Sentinel
+1 Durable Automaton
 1 Embargo
 1 Embittered Scribe
 1 Ethereal Construct
 1 Explorer's Knife
-1 Field Expedition
 1 Forbidden Knowledge
 1 Fortress Automaton
 1 Frank
 1 Furious Automaton
-1 Goblin Cleric
+1 Furious Sorcerer
+1 Golem Nexus
 1 Graveyard Golem
-1 Hallway Scribe
 1 Healing Potion
-1 Helping Hands
+1 Honorable Scribe
 1 Improvised Armaments
-1 Invisible Haze
-1 Loose Change
-1 Lost Sigil
-1 Lost Tome
-1 Mechanical Menace
+1 Interrupt
+1 Intimidating Scribe
+1 Knowledge Collection
+1 Mechanical Heart
+1 Mechanical Vampire
 1 Menacing Automaton
-1 Metallic Cloak
-1 Moment of Silence
-1 Mystic Stone
+1 Metallic Axe
 1 Nomadic Spirit
-1 Outlands Accountant
+1 Oana's Divination
+1 Out of Mind
+1 Outlast
 1 Pathway Sentry
 1 Prepared Scribe
-1 Procrastinate
-1 Remove from History
+1 Quick Thinking
 1 Return to the Earth
 1 Savage Snare
 8 See Beyond
@@ -52,14 +50,16 @@
 1 Sinkhole
 1 Siphon Power
 1 Sorvald's Insight
-1 Sour Mathematician
 1 Sublimate
-1 Substitute
+1 The Plan
 1 Tollgate Scribe
-1 Unfortunate Accident
+1 Tundra Elemental
 1 Vampire's Grasp
 1 Vexing Scribe
+1 Wealthy Trader
+1 Wild Vision
 12 Wilds of Atnia
+1 Workshop Automaton
 
 1 Atnia
 1 Golem

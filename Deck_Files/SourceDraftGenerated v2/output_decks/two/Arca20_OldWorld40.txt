@@ -1,63 +1,63 @@
-1 Abandoned Automaton
+1 A Difficult Choice
 1 Annul
-1 Arbiter Fabricator
 1 Assembly Line
+1 Automaton Summoning
+1 Blood Channeler
+1 Burning Lich
 1 Catch!
-1 Cleric's Lens
+1 Centrifuge
 1 Construct Constructor
-1 Countervailing Flames
-1 Cranium Clasp
-1 Cursed Tomb
+1 Dagger of Undeath
 1 Dark End
-1 Emissary of Fear
-1 Essence of the Old World
+1 Dead on Arrival
+1 Double Negative
+1 Embargo
 1 Eye for an Eye
-1 Forbidden Knowledge
+1 Forsaken Laboratory
 1 Frank
 1 Furious Sorcerer
+1 Gas Giant
+1 Goblin Cleric
+1 Golem Conjurer
+1 Golem Nexus
 1 Grim Librarians
+1 Hasten
 1 Helpful Automaton
-1 Horror Summoning
+1 Helping Hands
 1 Interrupt
-1 Knowledge Collection
+1 Invisible Haze
 1 Lagoon Titan
 1 Loose Change
-1 Lore Dump
 1 Lost Traveler
-1 Maddening Visions
-1 Moment of Silence
-1 Myrkur Phantom
+1 Madman
 1 Mystic Mists
-1 Night of the Dead
-1 Nightfall
-1 Nomadic Spirit
-1 Old Zombiemancer
-1 Out of Mind
+1 Noble Cleric
+1 Oana's Divination
+1 Outlands Burglar
 1 Outlands Commander
 1 Palace Sanctuary
-1 Procrastinate
+1 Question Station
+1 Quick Thinking
+1 Recurring Nightmare
 1 Recycling
 1 Relic Invoker
+1 Return to the Earth
 1 Rift Shrine
+1 Scary Cleric
 1 Scrap Merchant
+1 Scrapmaster
 1 Seasoned Loremaster
 8 See Beyond
 1 Shadowy Explosion
-1 Starlight Cleric
-1 Stronghold Dispatch
-1 Termination
-1 Terrifying Nightmare
-1 The Plan
+1 Squish
+1 The Dreamer
 1 The Yapper
-1 Train Station
+1 Tower Cleric
 1 Triple Spell
-1 Tundra Elemental
 1 Unstable Contract
-1 Visionary Artificer
-1 Void Hound
+1 Void Snap
 1 Voidsworn Apostle
 1 Walk the Plank
-1 Wealthy Trader
 12 Wilds of Atnia
 1 Zelor Oldworld Directive
 

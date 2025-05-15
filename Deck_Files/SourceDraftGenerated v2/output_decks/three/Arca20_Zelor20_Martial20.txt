@@ -1,66 +1,66 @@
-1 Abominable Cleric
-1 Adapt
-1 Amatuer Wizarding
+1 Ambush
+1 Arbiter Captain
+1 Arcane Chains
 1 Arena Daredevil
-1 Astral Speculation
-1 Aton Scout
-1 Atonian Phoenix
-1 Aura of Strength
-1 Blood Channeler
-1 Combo Slice
-1 Contain
+1 Arena Merchant
+1 Aton Battlemaster
+1 Bard's Lesson
+1 Burning Lich
+1 Cliffside Guard
 1 Crackling Battleaxe
-1 Cursed Tomb
-1 Eager Bruiser
-1 Eruption
-1 Escaped Monster
+1 Cruel Messenger
+1 Dark Wrath
+1 Eternal Navigator
 1 Ether Charge
-1 Fabled Blade
-1 Flash Freeze
-1 Force Field
-1 George
+1 Extreme Heat
+1 Fallen Wizard
+1 Flashback Attack
+1 Frost Sprint
+1 Gas Giant
 1 Giant Bat
-1 Golem Conjuring
-1 Hidden Giant
-1 Horror Summoning
+1 Hasten
 1 Hwain's Staff
-1 Inspired Encore
-1 K.O. Punch
-1 Lore Dump
+1 Knight of the Moon
+1 Library Raid
+1 Liev Warrior
+1 Looming Overlord
+1 Lost Traveler
+1 Madman
+1 Magic Trick
 1 Master Duelist
-1 Masterwork Ring
-1 Menacing Nightmare
-1 More Fire
+1 Mind Demolition
 1 Myrkur Phantom
-1 Myrkur Protector
+1 Night of the Dead
+1 Noble Cleric
 1 Oasis Giant
-1 Ogre Illusionist
 1 Old Watch Shield
 1 Old Zombiemancer
-1 Oruva Scout
 1 Outlands Burglar
-1 Power Vacuum
-1 Psychic Intrusion
-1 Replenish
+1 Pax Nova Scout
+1 Plunder
+1 Quiet Mage
+1 Resiliant Knight
+1 Rift Whispers
+1 Royal Guard
+1 Rugged Runner
 12 See Beyond
+1 Skyhaven Figure
 1 Sneak Attack
-1 Snowfield Traveler
-1 Starlight Veil
-1 Stronghold Guard
-1 The Yapper
-1 Timely Fable
-1 Trade Insight
-1 Triple Spell
+1 Spiteful Bruiser
+1 Swift Rescue
+1 Sword of Forbidden Knowledge
+1 Tower Cleric
+1 Tower Thief
 1 Turn to Stone
-1 Unstable Contract
 1 Vampire's Bite
-1 Village Champion
+1 Visionary Artificer
 1 Void Hound
-1 Void Summoner
-1 Voidsworn Apostle
-1 Volcanic Vision
+1 Void Snap
+1 Vosderon's Trident
+1 Warrior's Sword
+1 Whack
 14 Wilds of Atnia
-1 Woodland Spectre
+1 Wizard's Familiar
 
 1 Atnia
 1 Golem

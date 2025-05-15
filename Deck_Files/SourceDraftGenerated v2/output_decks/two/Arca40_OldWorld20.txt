@@ -1,64 +1,64 @@
+1 Abominable Cleric
 1 Airdrop
-1 Arbiter Fabricator
+1 Annul
 1 Arcane Chains
 1 Astral Amulet
-1 Automaton Summoning
 1 Blood Channeler
-1 Burning Lich
+1 Construct Constructor
 1 Cranium Clasp
 1 Cursed Tomb
 1 Dagger of Undeath
-1 Dark Wrath
 1 Doomed Nightmare
 1 Double Negative
+1 Dream Stalker
+1 Durable Automaton
+1 Economy of Scale
 1 Emissary of Fear
-1 Eudoxia Unshackled
 1 Eye for an Eye
-1 Fallen Wizard
 1 Forsaken Laboratory
+1 Frank
 1 Gas Giant
-1 Giant Bat
-1 Golem Nexus
-1 Hwain's Disciple
-1 Invisible Haze
+1 Hasten
+1 Helping Hands
+1 Horror Summoning
 1 Knowledge Collection
-1 Loose Change
 1 Lore Dump
+1 Lost Sigil
 1 Lost Traveler
+1 Maddening Visions
 1 Madman
 1 Memory Wraith
-1 Menacing Nightmare
 1 Myrkur Phantom
-1 Mystic Mists
-1 Mystic Stone
 1 Night of the Dead
+1 Nightfall
+1 Noble Cleric
+1 Oana's Divination
+1 Old Zombiemancer
+1 Oruva Scout
 1 Out of Mind
-1 Pale Mountain Directive
-1 Pale Spellscorcher
-1 Power Vacuum
-1 Question Station
+1 Outlands Burglar
+1 Procrastinate
 1 Quick Thinking
-1 Rift Screech
+1 Recurring Nightmare
+1 Recycling
+1 Relic Invoker
+1 Return to the Earth
 1 Rift Shrine
 1 Rift Whispers
-1 Rift-Addled Goblin
-1 Scary Cleric
-1 Scrapmaster
+1 Scrap Merchant
 8 See Beyond
-1 Shadowy Explosion
 1 Soul Splitter
-1 Squish
-1 Termination
+1 Terrifying Nightmare
+1 The Plan
 1 The Yapper
-1 Vampire's Bite
+1 Tower Cleric
+1 Triple Spell
+1 Unstable Contract
+1 Visionary Artificer
+1 Void Axe
 1 Void Drake
-1 Void Hound
 1 Void Snap
 1 Void Spike
-1 Void Summoner
-1 Voidsworn Apostle
-1 Walk the Plank
-1 Wealthy Trader
 12 Wilds of Atnia
 
 1 Atnia

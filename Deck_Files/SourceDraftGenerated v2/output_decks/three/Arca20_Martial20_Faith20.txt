@@ -1,64 +1,66 @@
-1 Abominable Cleric
-1 Adapt
-1 Ancient Dreamshaper
-1 Aura of Strength
-1 Awaken the Hooligans
+1 Ambush
+1 Angel's Lantern
+1 Arbiter Captain
+1 Arcane Chains
+1 Astral Amulet
 1 Battlefield Warp
-1 Benjamin
-1 Cleric's Binding
+1 Burning Lich
+1 Construct a Construct
 1 Contain
-1 Cursed Tomb
+1 Dark Aperture
 1 Dark Wrath
-1 Deadly Strike
 1 Deja Vu
-1 Disappearing Orb
 1 Doomed Nightmare
-1 Eager Recruit
+1 Dream Stalker
+1 Emissary of Fear
 1 Ether Charge
 1 Ethereal Mirage
-1 Evil Opportunity
+1 Eudoxia Unshackled
 1 Eye for an Eye
 1 Fallen Wizard
-1 Flash Freeze
-1 Get Back In There
-1 Great Greatsword
-1 Guile
-1 Horror Summoning
-1 K.O. Punch
+1 Flank
+1 Frost Sprint
+1 Frostblade Nomad
+1 Goblin Scout
+1 Isolated Archer
 1 Liev Warrior
+1 Lore Dump
 1 Master Duelist
 1 Masterwork Ring
-1 Menacing Nightmare
-1 Necromancer's Touch
+1 Myrkur Protector
+1 Mysterious Cleric
 1 Noble Cleric
-1 Orb of Binding
-1 Oruva Scout
-2 Pale Mountain Directive
-1 Pale Spellscorcher
+1 Ogre Illusionist
+1 Oln's Scale
+1 Ozen's Spear
+1 Pale Mountain Directive
+1 Passive Income Scheme
 1 Pax Axe
-1 Quiet Mage
-1 Rift Arcanist
-1 Rift-Addled Goblin
-2 Search for Omnipotence
-1 Seasoned Loremaster
+1 Recurring Nightmare
+1 Relic Recovery
+1 Rift Whispers
+1 Scary Cleric
+1 Search for Omnipotence
 12 See Beyond
-1 Skyhaven Cannon
-1 Soul Splitter
-1 Steadfast Arbiter
-1 Suspicious Trader
+1 Sneak Attack
+1 Spiteful Hatchet
+1 Stronghold Guard
+1 Svet Scavenger
+1 Svet Scout
+1 Svet Sigil
 1 Sword Toss
-1 The Departed
+1 Terrifying Nightmare
+1 Tomb Hunter
 1 Turn to Stone
-1 Unexpected Rift
-1 Valorous Triumph
+1 Unknowable Horror
+1 Village Champion
 1 Visionary Artificer
-1 Void Capsule
-1 Void Shift
-1 Void Snap
+1 Void Cleric
 1 Void Spike
-1 Void Summoner
-1 Whack
+1 Voidsworn Apostle
+1 Wicked Pact
 14 Wilds of Atnia
+1 Worldseal
 
 1 Atnia
 1 Golem

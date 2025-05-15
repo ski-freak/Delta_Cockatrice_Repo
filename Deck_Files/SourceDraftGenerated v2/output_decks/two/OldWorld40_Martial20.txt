@@ -1,63 +1,63 @@
+1 A Difficult Choice
 1 Abandoned Automaton
-1 Adapt
-1 Airdrop
-1 Ambush
 1 Annul
+1 Arbiter Captain
+1 Assembly Line
 1 Automaton Summoning
+1 Battlefield Warp
+1 Benjamin
 1 Catch!
-1 Cleric's Lens
-1 Collective Knowledge
 1 Construct Constructor
 1 Contain
-1 Cruel Messenger
-1 Demonic Mirror
-1 Dream Web
+1 Countervailing Flames
+1 Double Negative
 1 Durable Automaton
 1 Eager Bruiser
 1 Economy of Scale
-1 Escaped Monster
-1 Flank
+1 Embargo
+1 Essence of the Old World
 1 Flash Freeze
-1 Forbidden Knowledge
+1 Frank
 1 Frostblade Nomad
 1 Furious Sorcerer
+1 George
+1 Goblin Cleric
 1 Golem Conjurer
 1 Golem Nexus
-1 Grim Librarians
-1 Interceptor
+1 Helping Hands
+1 Hidden Giant
 1 Interrupt
-1 Invisible Haze
 1 Knowledge Collection
 1 Lagoon Titan
+1 Liev Warrior
 1 Loose Change
 1 Lost Sigil
 1 Master Duelist
-1 Moment of Silence
-1 Mystic Mists
+1 Masterwork Ring
 1 Mystic Stone
-1 Oasis Giant
-1 Ogre Illusionist
-1 Old Watch Shield
+1 Novice Law-Binder
+1 Oana's Divination
 1 Outlands Commander
-1 Palace Sanctuary
 1 Procrastinate
-1 Quick Thinking
-1 Relic Invoker
+1 Question Station
+1 Quiet Mage
+1 Recycling
+1 Return to the Earth
 1 Rift Shrine
-1 Royal Guard
+1 Scrapmaster
 8 See Beyond
-1 Soul Link
+1 Spiteful Bruiser
 1 Squish
-1 Starlight Cleric
 1 Steadfast Arbiter
 1 Stronghold Dispatch
-1 The Dreamer
-1 The Renegade
 1 Train Station
+1 Tundra Elemental
 1 Valorous Triumph
 1 Walk the Plank
+1 Warrior's Sword
 1 Warrior's Training
 1 Wealthy Trader
+1 Whack
 12 Wilds of Atnia
 1 Zelor Oldworld Directive
 

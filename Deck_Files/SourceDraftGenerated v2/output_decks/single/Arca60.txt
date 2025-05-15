@@ -6,39 +6,32 @@
 1 Cranium Clasp
 1 Cursed Tomb
 1 Dagger of Undeath
-1 Dark Wrath
+2 Dark Wrath
 1 Doomed Nightmare
-1 Dream Stalker
-1 Emissary of Fear
+2 Dream Stalker
+2 Emissary of Fear
 1 Eudoxia Unshackled
-1 Eye for an Eye
+2 Eye for an Eye
 1 Fallen Wizard
 1 Forsaken Laboratory
 1 Gas Giant
 1 Giant Bat
-1 Golem Conjuring
-1 Horror Summoning
-1 Hwain's Disciple
+2 Hasten
+2 Horror Summoning
 1 Lore Dump
 1 Lost Traveler
 1 Maddening Visions
 1 Madman
 1 Memory Wraith
-1 Menacing Nightmare
 1 Myrkur Phantom
 1 Night of the Dead
 1 Nightfall
 1 Noble Cleric
-1 Old Zombiemancer
+2 Old Zombiemancer
 1 Oruva Scout
 1 Outlands Burglar
-1 Pale Mountain Directive
-1 Pale Spellscorcher
-1 Power Vacuum
 1 Recurring Nightmare
-1 Rift Screech
-1 Rift Whispers
-1 Rift-Addled Goblin
+2 Rift Whispers
 1 Scary Cleric
 1 Seasoned Loremaster
 4 See Beyond
@@ -49,15 +42,13 @@
 1 Triple Spell
 1 Turn to Stone
 1 Unstable Contract
-1 Vampire's Bite
-1 Visionary Artificer
+2 Visionary Artificer
 1 Void Axe
 1 Void Blast
 1 Void Drake
 1 Void Hound
 1 Void Snap
 1 Void Spike
-1 Void Summoner
 1 Voidsworn Apostle
 10 Wilds of Atnia
 

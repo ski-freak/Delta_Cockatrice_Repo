@@ -1,65 +1,65 @@
 1 A Difficult Choice
-1 Abandoned Automaton
 1 Absolute Destruction
-1 Amatuer Wizarding
-1 Ancient Greatsword
-1 Arena Daredevil
+1 Aggravating Scribe
+1 Airdrop
+1 Ancient Squire
 1 Artificer's Staff
-1 Aton Archivist
-1 Aton Scout
-1 Atonian Phoenix
-1 Automaton Summoning
+1 Aton Battlemaster
 1 Autonomous Trader
-1 Bermuda Triangle
-1 Bob, the Lightning Rod
+1 Bard's Lesson
+1 Centrifuge
 1 Cleric's Lens
-1 Construct Constructor
+1 Cliffside Guard
+1 Clockwork Soldier
+1 Combo Slice
+1 Countervailing Flames
+1 Dark End
 1 Desert Sentinel
 1 Double Negative
-1 Economy of Scale
-1 Ethereal Construct
-1 Explorer's Knife
-1 Extreme Heat
-1 Force Field
+1 Durable Automaton
+1 Electrolytes
+1 Embargo
+1 Embittered Scribe
 1 Forgotten Hunter
-1 Fortress Automaton
-1 Frank
-1 Furious Sorcerer
-1 Golem Conjurer
-1 Grim Librarians
-1 Healing Potion
-1 Helpful Automaton
-1 Helping Hands
+1 Furious Automaton
+1 Golem Nexus
+1 Graveyard Golem
 1 Honorable Scribe
-1 Ignition
-1 Knight of the Poppy
-1 Knightmare
-1 Lost Tome
-1 Mechanical Menace
-1 Mesa Smuggler
+1 Improvised Armaments
+1 Improvised Lightning
+1 Knight of the Moon
+1 Knowledge Collection
+1 Leave me Alone
+1 Merry Duelist
 1 Mind Demolition
-1 Moment of Silence
-1 More Fire
-1 Mystic Mists
-1 Outlast
+1 Mystic Stone
+1 New Recruit
+1 Nomadic Spirit
+1 Outlands Accountant
+1 Outlands Commander
+1 Pax Nova Scout
 1 Prepared Scribe
-1 Reorganize
-1 Replenish
+1 Psychic Intrusion
+1 Question Station
+1 Quick Thinking
+1 Remake
+1 Resiliant Knight
 1 Return to the Earth
-1 Rift Shrine
 1 Savage Snare
 12 See Beyond
-1 Shadowy Explosion
 1 Sinkhole
+1 Siphon Power
 1 Skyhaven Figure
-1 Sour Mathematician
-1 Sublimate
-1 Train Station
-1 Wealthy Trader
+1 Squish
+1 Starlight Cleric
+1 Thorny Defense
+1 Trade Insight
+1 Vampire's Grasp
+1 Volcanic Vision
+1 Wild Vision
 14 Wilds of Atnia
 1 Wizard's Familiar
 1 Woodland Spectre
-1 Yeet
 
 1 Atnia
 1 Golem

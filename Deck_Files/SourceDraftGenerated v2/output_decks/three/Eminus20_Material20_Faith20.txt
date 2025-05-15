@@ -1,65 +1,65 @@
 1 Abominable Egg
-1 Ancient Greatsword
-1 Awaken the Hooligans
-1 Bermuda Triangle
-1 Burst of Speed
-1 Cleric's Automaton
-1 Cleric's Binding
-1 Construct a Construct
-1 Cursed Portal
-1 Dedicated Combatant
-1 Defiant Scribe
-1 Demon of Consumption
-1 Deploy Automatons
-1 Desperate Arbiter
+1 Absolute Destruction
+1 Ancient Dreamshaper
+1 Annoying Scribe
+1 Autonomous Trader
+1 Clockwork Soldier
+1 Devout Healer
+1 Disappearing Orb
 1 Duel of Honor
 1 Embittered Scribe
-1 Forgetful Arbiter
+1 Eternal Guard
+1 Field Expedition
 1 Fortress Automaton
-1 Frightening Arbiter
 1 Frost Eruption
 1 Furious Automaton
+1 Giant Arbiter
+1 Glimpse Disaster
+1 Goblin Scout
 1 Graveyard Golem
-1 Hallway Scribe
-1 Healing Amulet
-1 Honorable Scribe
-1 Improvised Armaments
-1 Interfering Arbiter
+1 Healing Potion
 1 Intimidating Scribe
-1 Knightly Scholar
-1 Liev Arbiter
-1 Mechanical Heart
-1 Mechanical Vampire
-1 Metallic Cloak
+1 Knight Summoning
+1 Leave me Alone
+1 Liase of the Two Scrolls
+1 Malicious Receptionist
+1 Menacing Scribe
+1 Metallic Axe
 1 Mind Reader
-1 Mind Trauma
 1 Mindless Cleric
-1 Oln's Binding
-1 Outlands Accountant
-1 Prepared Scribe
-1 Reawaken in Dream
+1 Mystic Staff
+1 Nullify Magic
+1 Old Watch Shortsword
+1 Outpost Militia
+1 Pathway Sentry
+1 Recruiter of the Dead
+1 Runeblade
+1 Search for Omnipotence
 12 See Beyond
 1 Shem's amulet
-1 Shifting Mirage
-1 Sir Horus The Prepared
-1 Skyhaven Cannon
 1 Spear of the Lake
 1 Spectacular Sweep
-1 Speedy Arbiter
+1 Spectral Agent
+1 Speed Check
+1 Spirit Guide
 1 Spiteful Hatchet
-1 Sublimate
-1 Team Up
-1 Temporary Disappearance
+1 Suspicious Trader
+1 Svet Scavenger
+1 Ta's Mirror
+1 Terrifying Vision
+1 Thunder Knight
 1 Tomb Hunter
-1 Underwater Emergence
-1 Unfortunate Accident
-1 Void Shift
-1 Wave of Doubt
-1 Wicked Pact
+1 Tundra Arbiter
+1 Twilight Isle Cleric
+1 Vampire's Grasp
+1 Vexing Scribe
+1 Void Cleric
 1 Wild Vision
 14 Wilds of Atnia
+1 Wolkk Twinspear
 1 Workshop Automaton
 1 Worldseal
+1 Yulia of the Lake
 
 1 Atnia
 1 Golem
