@@ -1,0 +1,88 @@
+1 Abandoned Automaton
+1 Airdrop
+1 Annul
+1 Arena Daredevil
+1 Assassin's Armaments
+1 Assembly Line
+1 Automaton Summoning
+1 Bard's Lesson
+1 Become Large
+1 Catch!
+1 Centrifuge
+1 Cleric's Lens
+1 Collective Knowledge
+1 Combo Slice
+1 Construct Constructor
+1 Dead on Arrival
+1 Double Negative
+1 Dune Paladin
+1 Economy of Scale
+1 Essence of the Old World
+1 Forbidden Knowledge
+1 Force Field
+1 Frank
+1 Golem Nexus
+1 Interrupt
+1 Invisible Haze
+1 Knowledge Collection
+1 Lagoon Titan
+1 Library Raid
+1 Loose Change
+1 Lost Sigil
+1 Lost Tome
+1 Mind Demolition
+1 Moment of Silence
+1 Mystic Mists
+1 Mystic Stone
+1 Pax Nova Scout
+1 Psychic Intrusion
+1 Quick Thinking
+1 Recycling
+1 Relic Invoker
+1 Remake
+1 Replenish
+1 Resiliant Knight
+1 Return to the Earth
+1 Rugged Runner
+1 Scrap Merchant
+1 Scrapmaster
+8 See Beyond
+1 Set Ablaze
+1 Shadowy Explosion
+1 Snowfield Traveler
+1 Squish
+1 Strategize
+1 The Plan
+1 Train Station
+1 Tundra Elemental
+1 Wealthy Trader
+12 Wilds of Atnia
+1 Wizard's Familiar
+1 Woodland Spectre
+1 Yeet
+
+1 Atnia
+1 Golem
+1 Night Horror
+1 Law-Mage
+1 Blood Zombie
+1 Knight of Redemption
+1 Golem
+1 Delta Ultimate Artifact
+1 Warrior's Talent
+1 Forgotten Relic
+1 Rift
+1 Village
+1 Grove
+1 Ruins
+1 Dreamscape
+1 Outpost
+1 Shrine
+1 Helpful Automaton
+1 Arca Home
+1 Eminus Home
+1 Materia Home
+1 Oldworld Home
+1 Zelor Home
+1 Martial Home
+1 Faith Home

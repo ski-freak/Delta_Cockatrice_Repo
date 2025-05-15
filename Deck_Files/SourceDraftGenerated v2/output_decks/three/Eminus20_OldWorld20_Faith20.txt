@@ -1,0 +1,88 @@
+1 Abandoned Automaton
+1 Amatuer Illusionist
+1 Annul
+1 Arbiter Fabricator
+1 Arbiter Medic
+1 Cleric's Lens
+1 Cursed Portal
+1 Dead on Arrival
+1 Demonic Mirror
+1 Desperate Arbiter
+1 Disappearing Orb
+1 Divine Uppercut
+1 Dropkick
+1 Elite Arbiter
+1 Essence of the Old World
+1 Everyone Forgets
+1 Explosive Breakthrough
+1 Forbidden Knowledge
+1 Forgetful Arbiter
+1 Frightening Arbiter
+1 Giant Arbiter
+1 Golem Conjurer
+1 Grim Librarians
+1 Hasten
+1 Helping Hands
+1 Holy Knife
+1 Knightly Reinforcements
+1 Liase of the Two Scrolls
+1 Loose Change
+1 Lost Sigil
+1 Mysterious Cleric
+1 Mystic Staff
+1 Nomadic Spirit
+1 Nullify Magic
+1 Oana's Divination
+1 Out of Mind
+1 Ozen's Wrath
+1 Phantom Angel
+1 Prospector Zombie
+1 Quick Thinking
+1 Reawaken in Dream
+1 Rift Shrine
+12 See Beyond
+1 Spectacular Sweep
+1 Spirit Guide
+1 Spiteful Hatchet
+1 Squiggly Slime
+1 Squish
+1 Stash Away
+1 Svet Scavenger
+1 Svet Scout
+1 Ta's Mirror
+1 Team Up
+1 Terrifying Vision
+1 Tomb Hunter
+1 Train Station
+1 Twilight Isle Cleric
+1 Unexpected Rift
+1 Void Cleric
+1 Weapon Refurbisher
+14 Wilds of Atnia
+1 Yulia of the Lake
+
+1 Atnia
+1 Golem
+1 Night Horror
+1 Law-Mage
+1 Blood Zombie
+1 Knight of Redemption
+1 Golem
+1 Delta Ultimate Artifact
+1 Warrior's Talent
+1 Forgotten Relic
+1 Rift
+1 Village
+1 Grove
+1 Ruins
+1 Dreamscape
+1 Outpost
+1 Shrine
+1 Helpful Automaton
+1 Arca Home
+1 Eminus Home
+1 Materia Home
+1 Oldworld Home
+1 Zelor Home
+1 Martial Home
+1 Faith Home

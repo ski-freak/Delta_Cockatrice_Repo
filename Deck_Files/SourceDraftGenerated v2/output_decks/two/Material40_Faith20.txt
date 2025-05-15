@@ -1,0 +1,88 @@
+1 Abominable Egg
+1 Absolute Destruction
+1 Aggravating Scribe
+1 Ancient Greatsword
+1 Ancient Squire
+1 Angel's Lantern
+1 Artificer's Staff
+1 Bob, the Lightning Rod
+1 Clockwork Soldier
+1 Cursed Portal
+1 Defiant Scribe
+1 Desert Sentinel
+1 Disappearing Orb
+1 Embittered Scribe
+1 Ethereal Construct
+1 Ethereal Mirage
+1 Explorer's Knife
+1 Fortress Automaton
+1 Furious Automaton
+1 Graveyard Golem
+1 Guile
+1 Hallway Scribe
+1 Healing Amulet
+1 Honorable Scribe
+1 Instant Shield
+1 Intimidating Scribe
+1 Malicious Receptionist
+1 Mechanical Heart
+1 Mechanical Menace
+1 Menacing Automaton
+1 Metallic Cloak
+1 Oln's Scale
+1 Orb of Binding
+1 Outlands Accountant
+1 Outlast
+1 Pathway Sentry
+1 Prospector Zombie
+1 Reawaken in Dream
+1 Remove from History
+1 Savage Snare
+1 Search for Omnipotence
+8 See Beyond
+1 Self Improver
+1 Sinkhole
+1 Siphon Power
+1 Skyhaven Cannon
+1 Solemn Scout
+1 Sorvald's Insight
+1 Sour Mathematician
+1 Sublimate
+1 Substitute
+1 Terrifying Vision
+1 The Departed
+1 Tollgate Scribe
+1 Underwater Emergence
+1 Vampire's Grasp
+1 Vexing Scribe
+1 Void Cleric
+1 Void Shift
+1 Wild Vision
+12 Wilds of Atnia
+1 Worldseal
+
+1 Atnia
+1 Golem
+1 Night Horror
+1 Law-Mage
+1 Blood Zombie
+1 Knight of Redemption
+1 Golem
+1 Delta Ultimate Artifact
+1 Warrior's Talent
+1 Forgotten Relic
+1 Rift
+1 Village
+1 Grove
+1 Ruins
+1 Dreamscape
+1 Outpost
+1 Shrine
+1 Helpful Automaton
+1 Arca Home
+1 Eminus Home
+1 Materia Home
+1 Oldworld Home
+1 Zelor Home
+1 Martial Home
+1 Faith Home

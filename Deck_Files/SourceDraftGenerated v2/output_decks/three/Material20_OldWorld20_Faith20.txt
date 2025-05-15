@@ -1,0 +1,88 @@
+1 A Difficult Choice
+1 Abominable Egg
+1 Absolute Destruction
+1 Aggravating Scribe
+1 Ancient Greatsword
+1 Angel's Lantern
+1 Annoying Scribe
+1 Bob, the Lightning Rod
+1 Braeg's Hammer
+1 Can O' Army
+1 Catch!
+1 Construct Constructor
+1 Construct a Construct
+1 Dark Aperture
+1 Deja Vu
+1 Demon of Consumption
+1 Demonic Mirror
+1 Disappearing Orb
+1 Double Negative
+1 Economy of Scale
+1 Evil Opportunity
+1 Field Expedition
+1 Frank
+1 Frost Eruption
+1 Golem Nexus
+1 Grim Librarians
+1 Hallway Scribe
+1 Honorable Scribe
+1 Invisible Haze
+1 Leave me Alone
+1 Lost Sigil
+1 Mechanical Heart
+1 Mechanical Vampire
+1 Mindless Cleric
+1 Nomadic Spirit
+1 Out of Mind
+1 Outlast
+1 Prospector Zombie
+1 Quick Thinking
+1 Relic Invoker
+1 Remake
+1 Remove from History
+1 Savage Snare
+12 See Beyond
+1 Self Improver
+1 Skyhaven Cannon
+1 Sour Mathematician
+1 Spirit Guide
+1 Spiteful Cleric
+1 Squish
+1 Svet Sigil
+1 Termination
+1 The Plan
+1 Tollgate Scribe
+1 Twilight Isle Cleric
+1 Unfortunate Accident
+1 Void Shift
+1 Walk the Plank
+1 Wealthy Trader
+1 Weapon Refurbisher
+14 Wilds of Atnia
+1 Workshop Automaton
+
+1 Atnia
+1 Golem
+1 Night Horror
+1 Law-Mage
+1 Blood Zombie
+1 Knight of Redemption
+1 Golem
+1 Delta Ultimate Artifact
+1 Warrior's Talent
+1 Forgotten Relic
+1 Rift
+1 Village
+1 Grove
+1 Ruins
+1 Dreamscape
+1 Outpost
+1 Shrine
+1 Helpful Automaton
+1 Arca Home
+1 Eminus Home
+1 Materia Home
+1 Oldworld Home
+1 Zelor Home
+1 Martial Home
+1 Faith Home

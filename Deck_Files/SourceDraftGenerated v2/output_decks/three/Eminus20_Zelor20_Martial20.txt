@@ -1,0 +1,91 @@
+1 A Trick
+1 Amatuer Wizarding
+1 Arbiter Marshal
+1 Arena Merchant
+1 Assassin's Armaments
+1 Aton Battlemaster
+1 Battle Rage
+1 Beckon Home
+1 Become Large
+1 Burst of Speed
+1 Cliffside Guard
+1 Dedicated Combatant
+1 Devout Arbiter
+1 Divine Uppercut
+1 Dropkick
+1 Elite Arbiter
+1 Elite Smith
+1 Ethereal Knight
+1 Everyone Forgets
+1 Explosive Breakthrough
+1 Fireball
+1 Force Field
+1 Forgetful Arbiter
+1 Forgotten Knight
+1 Frightening Arbiter
+1 Frost Sprint
+1 Hasten
+1 Inspired Encore
+1 Interfering Arbiter
+1 Isolated Archer
+1 Kaboom
+1 Knight of the Moon
+1 Liase of the Two Scrolls
+1 Liev Warrior
+1 Looming Overlord
+1 Magic Trick
+1 Master Duelist
+1 Mesa Smuggler
+1 Quiet Mage
+1 Replenish
+1 Scorched Earth
+12 See Beyond
+1 Sneak Attack
+1 Soul Link
+1 Spear of the Lake
+1 Spectacular Sweep
+1 Spectral Agent
+1 Starlight Veil
+1 Steadfast Arbiter
+1 Stronghold Guard
+1 Sunblade Knight
+1 Swift Rescue
+1 Sword Toss
+1 Sword of Forbidden Knowledge
+1 The Renegade
+1 Timely Fable
+1 Tower Thief
+1 Try Again
+1 Village Berserker
+1 Village Champion
+1 Volcanic Vision
+1 Warrior's Training
+1 Wave of Doubt
+1 Whack
+14 Wilds of Atnia
+
+1 Atnia
+1 Golem
+1 Night Horror
+1 Law-Mage
+1 Blood Zombie
+1 Knight of Redemption
+1 Golem
+1 Delta Ultimate Artifact
+1 Warrior's Talent
+1 Forgotten Relic
+1 Rift
+1 Village
+1 Grove
+1 Ruins
+1 Dreamscape
+1 Outpost
+1 Shrine
+1 Helpful Automaton
+1 Arca Home
+1 Eminus Home
+1 Materia Home
+1 Oldworld Home
+1 Zelor Home
+1 Martial Home
+1 Faith Home

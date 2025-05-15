@@ -1,0 +1,88 @@
+1 Ancient Traveler
+1 Angel's Lantern
+1 Arena Daredevil
+1 Arena Merchant
+1 Astral Speculation
+1 Aton Battlemaster
+1 Aura of Strength
+1 Bard's Lesson
+1 Crackling Battleaxe
+1 Deadly Strike
+1 Demon of Consumption
+1 Devil's Mask
+1 Devout Healer
+1 Downtown Walk
+1 Eager Bruiser
+1 Elite Smith
+1 Eruption
+1 Escaped Monster
+1 Eternal Guard
+1 Eternal Navigator
+1 Evil Opportunity
+1 Flash Freeze
+1 Flashback Attack
+1 Force Field
+1 Forgotten Hunter
+1 Frost Sprint
+1 George
+1 Healing Amulet
+1 Holy Knife
+1 Master Duelist
+1 Masterwork Ring
+1 Merry Duelist
+1 Ogre Arbiter
+1 Ozen's Wrath
+1 Quiet Mage
+1 Reawaken in Dream
+1 Replenish
+1 Righteous Fury
+1 Royal Guard
+1 Scorched Earth
+1 Search for Omnipotence
+12 See Beyond
+1 Sneak Attack
+1 Spirit Guide
+1 Spiteful Bruiser
+1 Spiteful Cleric
+1 Spiteful Hatchet
+1 Starlight Veil
+1 Steadfast Arbiter
+1 Svet Sigil
+1 Sword Toss
+1 Terrifying Vision
+1 Timely Fable
+1 Tomb Hunter
+1 Tower Thief
+1 Trade Insight
+1 Tundra Ogre
+1 Twilight Isle Cleric
+1 Unexpected Rift
+1 Wicked Pact
+14 Wilds of Atnia
+1 Wizard's Familiar
+
+1 Atnia
+1 Golem
+1 Night Horror
+1 Law-Mage
+1 Blood Zombie
+1 Knight of Redemption
+1 Golem
+1 Delta Ultimate Artifact
+1 Warrior's Talent
+1 Forgotten Relic
+1 Rift
+1 Village
+1 Grove
+1 Ruins
+1 Dreamscape
+1 Outpost
+1 Shrine
+1 Helpful Automaton
+1 Arca Home
+1 Eminus Home
+1 Materia Home
+1 Oldworld Home
+1 Zelor Home
+1 Martial Home
+1 Faith Home
