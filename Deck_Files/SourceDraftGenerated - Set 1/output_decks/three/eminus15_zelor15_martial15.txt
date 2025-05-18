@@ -1,0 +1,87 @@
+1 A Trick
+1 Adapt
+1 Amatuer Wizarding
+1 Apprentice Spellcaster
+1 Arbiter Marshal
+1 Arbiter Medic
+1 Battle Rage
+1 Beckon Home
+1 Become Large
+1 Burning Man
+1 Burst of Speed
+1 Divine Uppercut
+1 Duel of Honor
+1 Embrace the Arcane
+1 Eminus Martial Directive
+1 Ether Charge
+1 Explosive Breakthrough
+1 Extreme Heat
+1 Fireball
+1 Flame Oracle
+1 Flash Freeze
+1 Flashback Attack
+1 Forgetful Arbiter
+1 Frost Sprint
+1 Heroic Moment
+1 Hunter's Hawk
+1 Improvised Lightning
+1 Instant Shield
+1 Interceptor
+1 Isolated Archer
+1 K.O. Punch
+1 Kaboom
+1 Knightly Mentor
+1 Knightly Reinforcements
+1 Liase of the Two Scrolls
+1 Liev Warrior
+1 Magic Trick
+1 Martial Zelor Directive
+1 Mind Trauma
+1 Novice Knight
+1 Pax Nova Directive
+1 Pax Nova Scout
+1 Resilient Knight
+9 See Beyond
+1 Sneaky Assassin
+1 Spare Violence
+1 Speed Check
+1 Steadfast Arbiter
+1 Steel Resolve
+1 Team Up
+1 Temporary Disappearance
+1 The Renegade
+1 Tower Thief
+10 Wilds of Atnia
+1 Wolkk Twinspear
+
+1 Atnia
+1 Golem
+1 Night Horror
+1 Law-Mage
+1 Blood Zombie
+1 Knight of Redemption
+8 Delta Ultimate Artifact
+1 Warrior's Talent
+1 Forgotten Relic
+1 Rift
+1 Village
+1 Grove
+1 Ruins
+1 Dreamscape
+1 Outpost
+1 Shrine
+1 Helpful Automaton
+1 Arca Home
+1 Eminus Home
+1 Materia Home
+1 Oldworld Home
+1 Zelor Home
+1 Martial Home
+1 Faith Home
+1 The Old Watch
+1 The College of Dreams
+1 Aton
+1 Skyhaven
+1 Pax Nova
+1 Lentholm
+1 Ecclesia Start

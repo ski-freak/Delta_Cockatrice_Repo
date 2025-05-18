@@ -1,0 +1,84 @@
+1 A Trick
+1 Abominable Cleric
+1 Ambush
+1 Arbiter Marshal
+1 Arcane Burst
+1 Arena Merchant
+1 BSOD
+1 Battlefield Warp
+1 Beckon Home
+1 College of Dreams Directive
+1 Cursed Tomb
+1 Devout Arbiter
+1 Divine Uppercut
+1 Dream Stalker
+1 Dropkick
+1 Duel of Honor
+1 Eminus Martial Directive
+1 Emissary of Fear
+1 Emotion Vampire
+1 Escaped Monster
+1 Flank
+1 Forsaken Spellcaster
+1 Frightening Arbiter
+1 Frost Sprint
+1 Giant Bat
+1 Golem Conjuring
+1 Honorable Knight
+1 Hunter's Hawk
+1 Instant Shield
+1 Interceptor
+1 Interfering Arbiter
+1 Knightly Reinforcements
+1 Martial Arca Directive
+1 Novice Law-Binder
+1 Nullify Magic
+1 Old Zombiemancer
+1 Quiet Mage
+1 Rift Whispers
+1 Seasoned Loremaster
+9 See Beyond
+1 Speedy Arbiter
+1 Steadfast Arbiter
+1 Stronghold Guard
+1 Swarm the Enemy
+1 Temporary Disappearance
+1 Tower Thief
+1 Triple Spell
+1 Void Axe
+1 Voidsworn Apostle
+1 Warmongerer
+1 Wave of Doubt
+10 Wilds of Atnia
+
+1 Atnia
+1 Golem
+1 Night Horror
+1 Law-Mage
+1 Blood Zombie
+1 Knight of Redemption
+8 Delta Ultimate Artifact
+1 Warrior's Talent
+1 Forgotten Relic
+1 Rift
+1 Village
+1 Grove
+1 Ruins
+1 Dreamscape
+1 Outpost
+1 Shrine
+1 Helpful Automaton
+1 Arca Home
+1 Eminus Home
+1 Materia Home
+1 Oldworld Home
+1 Zelor Home
+1 Martial Home
+1 Faith Home
+1 The Old Watch
+1 The College of Dreams
+1 Aton
+1 Skyhaven
+1 Pax Nova
+1 Lentholm
+1 Ecclesia Start

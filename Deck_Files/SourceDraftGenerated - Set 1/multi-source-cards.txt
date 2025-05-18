@@ -1,0 +1,109 @@
+---Arca-Zelor
+Vampire's Bite
+Burning Plain Directive
+Wild Wizard
+
+---Arca-Eminus
+College of Dreams Directive
+
+
+
+---Arca-Faith
+Pale Mountain Directive
+Hymn to the Pale Sun
+Pale Nightmare
+Divine Harmony
+---Zelor-Eminus
+Burst of Speed
+Explosive Breakthrough
+Pax Nova Directive
+Knightly Mentor
+---Zelor-Faith
+Zelor Faith Directive
+
+
+
+---Zelor-Oldworld
+Zelor Oldworld Directive
+Countervailing Flames
+Electrolytes
+
+---Eminus-Faith
+Eminus Faith Directive
+Imposing Presence
+
+
+---Eminus-Oldworld
+Stronghold Directive
+
+
+
+---Eminus-Martial
+Divine Uppercut
+Eminus Martial Directive
+Hunter's Hawk
+
+---Faith-Oldworld
+Faith Oldworld Directive
+
+
+
+---Faith-Martial
+Faith Martial Directive
+
+
+
+---Faith-Materia
+Faith Materia Directive
+
+
+
+---Oldworld-Martial
+Oldworld Martial Directive
+
+
+
+---Oldworld-Materia
+Twilight Isle Directive
+Ray of Scorn
+
+
+---Oldworld-Arca
+Pax Directive
+Lagoon Titan
+Chaotic Whirlwind
+
+---Martial-Materia
+Martial Materia Directive
+
+
+
+---Martial-Arca
+Martial Arca Directive
+
+
+
+---Martial-Zelor
+Martial Zelor Directive
+
+
+
+---Materia-Arca
+Skyhaven Directive
+Power from Beyond
+
+
+---Materia-Zelor
+Sink into the Bog
+Lentholm Directive
+
+
+---Materia-Eminus
+Mind Reader
+Fost Feac Directive
+
+
+
+
+
+

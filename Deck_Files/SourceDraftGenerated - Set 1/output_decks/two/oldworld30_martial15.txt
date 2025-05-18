@@ -1,0 +1,80 @@
+1 5th Legion Luitenant
+1 Airdrop
+1 Ancient Necromancer
+1 Awakened Arbiter
+1 Battlefield Commander
+1 Benjamin
+1 Bold Warrior
+1 Centrifuge
+1 Cleric's Lens
+1 Construct Constructor
+1 Cruel Messenger
+1 Dead on Arrival
+1 Deadly Strike
+1 Essence of the Old World
+1 Excavation Automaton
+1 Flash Freeze
+1 Frostblade Adept
+1 George
+1 Grim Librarians
+1 Heroic Moment
+1 Hidden Giant
+1 Hunter's Hawk
+1 Interrupt
+1 Invisible Haze
+1 Liev Warrior
+1 Loose Change
+1 Lunar Suppression
+1 Mystic Stone
+1 Oldworld Martial Directive
+1 Outlander's Familiar
+1 Outlands Commander
+1 Power of Antiquity
+1 Probable Rivalry
+1 Procrastinate
+1 Quick Thinking
+1 Recycling
+1 Remake
+1 Royal Guard
+1 Ruins Scavenger
+6 See Beyond
+1 Soul Link
+1 Squish
+1 Termination
+1 The Dreamer
+1 The Plan
+1 Train Station
+1 War Elephant
+8 Wilds of Atnia
+
+1 Atnia
+1 Golem
+1 Night Horror
+1 Law-Mage
+1 Blood Zombie
+1 Knight of Redemption
+8 Delta Ultimate Artifact
+1 Warrior's Talent
+1 Forgotten Relic
+1 Rift
+1 Village
+1 Grove
+1 Ruins
+1 Dreamscape
+1 Outpost
+1 Shrine
+1 Helpful Automaton
+1 Arca Home
+1 Eminus Home
+1 Materia Home
+1 Oldworld Home
+1 Zelor Home
+1 Martial Home
+1 Faith Home
+1 The Old Watch
+1 The College of Dreams
+1 Aton
+1 Skyhaven
+1 Pax Nova
+1 Lentholm
+1 Ecclesia Start

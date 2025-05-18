@@ -1,0 +1,79 @@
+1 Annoying Scribe
+1 Battlefield Commander
+1 Battlefield Warp
+1 Bloodlust
+1 Borrow Time
+1 Deadly Strike
+1 Devout Arbiter
+1 Dissociation
+1 Eager Bruiser
+1 Emergency Supply Kit
+1 Escaped Monster
+1 Flash Freeze
+1 Fortress Automaton
+1 Furious Automaton
+1 Golem Conjurer
+1 Healing Potion
+1 Hidden Giant
+1 Interceptor
+1 K.O. Punch
+1 Malicious Receptionist
+1 Master Duelist
+1 Mechanical Vampire
+1 Menacing Automaton
+1 Menacing Scribe
+1 Might of the Woods
+1 Oasis Giant
+1 Quiet Mage
+1 Reorganize
+6 See Beyond
+1 Sneak Attack
+1 Sorvald's Insight
+1 Soul Link
+1 Spare Violence
+1 Steadfast Arbiter
+1 Stronghold Guard
+1 Swarm the Enemy
+1 Swift Rescue
+1 The Doublemeister
+1 The Renegade
+1 Trade Insight
+1 Valorous Triumph
+1 Vampiric Recovery
+1 War Elephant
+1 Warmongerer
+1 Warrior's Training
+1 Wild Vision
+8 Wilds of Atnia
+
+1 Atnia
+1 Golem
+1 Night Horror
+1 Law-Mage
+1 Blood Zombie
+1 Knight of Redemption
+8 Delta Ultimate Artifact
+1 Warrior's Talent
+1 Forgotten Relic
+1 Rift
+1 Village
+1 Grove
+1 Ruins
+1 Dreamscape
+1 Outpost
+1 Shrine
+1 Helpful Automaton
+1 Arca Home
+1 Eminus Home
+1 Materia Home
+1 Oldworld Home
+1 Zelor Home
+1 Martial Home
+1 Faith Home
+1 The Old Watch
+1 The College of Dreams
+1 Aton
+1 Skyhaven
+1 Pax Nova
+1 Lentholm
+1 Ecclesia Start

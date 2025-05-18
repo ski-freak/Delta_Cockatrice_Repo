@@ -1,0 +1,87 @@
+1 Apprentice Harbinger
+1 Astral Amulet
+1 Call the Divine
+1 Centrifuge
+1 Chaotic Whirlwind
+1 Cleric's Automaton
+1 Coffee Trader
+1 Dead on Arrival
+1 Deja Vu
+1 Divine Harmony
+1 Downtown Walk
+1 Embargo
+1 Emissary of Fear
+1 Excavation Automaton
+1 Faith Oldworld Directive
+1 Frostblade Adept
+1 Furious Sorcerer
+1 Gas Giant
+1 Helping Hands
+1 Hymn to the Pale Sun
+1 Knowledge Collection
+1 Lagoon Titan
+1 Loose Change
+1 Lore Dump
+1 Lost Tome
+1 Maddening Visions
+1 Meditation
+1 Myrkur Phantom
+1 Mysterious Mage
+1 Necromancer's Touch
+1 Night of the Dead
+1 Nightfall
+1 Nomadic Spirit
+1 Ozen's Wrath
+1 Pale Mountain Directive
+1 Pale Nightmare
+1 Pax Directive
+1 Power of Antiquity
+1 Question Station
+1 Recurring Nightmare
+1 Relic Recovery
+1 Rift Screech
+1 Rift Whispers
+1 Scrap Merchant
+1 Seasoned Loremaster
+9 See Beyond
+1 Spirit Guide
+1 Stash Away
+1 Svet Scavenger
+1 Termination
+1 Tomb Hunter
+1 Unstable Contract
+1 Voidsworn Apostle
+1 Wicked Pact
+10 Wilds of Atnia
+
+1 Atnia
+1 Golem
+1 Night Horror
+1 Law-Mage
+1 Blood Zombie
+1 Knight of Redemption
+8 Delta Ultimate Artifact
+1 Warrior's Talent
+1 Forgotten Relic
+1 Rift
+1 Village
+1 Grove
+1 Ruins
+1 Dreamscape
+1 Outpost
+1 Shrine
+1 Helpful Automaton
+1 Arca Home
+1 Eminus Home
+1 Materia Home
+1 Oldworld Home
+1 Zelor Home
+1 Martial Home
+1 Faith Home
+1 The Old Watch
+1 The College of Dreams
+1 Aton
+1 Skyhaven
+1 Pax Nova
+1 Lentholm
+1 Ecclesia Start

@@ -1,0 +1,83 @@
+1 Abominable Egg
+1 Astral Amulet
+1 Awaken the Hooligans
+1 Call the Divine
+1 Cleric's Automaton
+1 Cosmic Justice
+1 Demon of Consumption
+1 Deploy Automatons
+1 Divine Harmony
+1 Dream Stalker
+1 Emotion Vampire
+1 Forsaken Dreammage
+1 Frost Eruption
+1 Get Back In There
+1 Glimpse Disaster
+1 Globe of 1000 Souls
+1 Haunted Warlock
+1 Healing Amulet
+1 Hymn to the Pale Sun
+1 Lore Dump
+1 Master of Elements
+1 Meditation
+1 Mysterious Mage
+1 Necromancer's Touch
+1 Night of the Dead
+1 Nightfall
+1 Old Zombiemancer
+1 Oruva Scout
+1 Out of Mind
+1 Ozen's Fury
+1 Ozen's Temple
+1 Pale Mountain Directive
+1 Pale Nightmare
+1 Prospector Zombie
+1 Rift Sorcerer
+6 See Beyond
+1 Solemn Scout
+1 Spirit Guide
+1 Spirit of Monumentality
+1 Squiggly Slime
+1 Substitute
+1 Terrifying Nightmare
+1 Tomb Hunter
+1 Triple Spell
+1 Universal Stimulant
+1 Void Capsule
+1 Void Cleric
+1 Void Drake
+1 Void Shift
+1 Wicked Pact
+8 Wilds of Atnia
+
+1 Atnia
+1 Golem
+1 Night Horror
+1 Law-Mage
+1 Blood Zombie
+1 Knight of Redemption
+8 Delta Ultimate Artifact
+1 Warrior's Talent
+1 Forgotten Relic
+1 Rift
+1 Village
+1 Grove
+1 Ruins
+1 Dreamscape
+1 Outpost
+1 Shrine
+1 Helpful Automaton
+1 Arca Home
+1 Eminus Home
+1 Materia Home
+1 Oldworld Home
+1 Zelor Home
+1 Martial Home
+1 Faith Home
+1 The Old Watch
+1 The College of Dreams
+1 Aton
+1 Skyhaven
+1 Pax Nova
+1 Lentholm
+1 Ecclesia Start

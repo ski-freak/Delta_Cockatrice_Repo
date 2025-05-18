@@ -1,0 +1,82 @@
+1 Amnesia
+1 Arcane Burst
+1 Arcane Chains
+1 Burning Plain Directive
+1 Dark Wrath
+1 Defiant Scribe
+1 Doomed Nightmare
+1 Emissary of Fear
+1 Eternal Navigator
+1 Fire Channeler
+1 Fireball
+1 Flame Oracle
+1 Force Field
+1 Forsaken Spellcaster
+1 Fortress Automaton
+1 Furious Automaton
+1 Gaston, Lekvian Squire
+1 Giant Bat
+1 Healing Potion
+1 Improvised Lightning
+1 Kaboom
+1 Lekvian Vampire
+1 Menacing Scribe
+1 Might of the Woods
+1 Mysterious Mage
+1 Oruva Scout
+1 Plunder
+1 Radiating Force
+1 Replenish
+1 Rift Ritual
+1 Rift Sorcerer
+1 Rosilie D'Avron
+1 Scorched Earth
+1 Seasoned Loremaster
+9 See Beyond
+1 Set Ablaze
+1 Sinkhole
+1 Sorvald's Ignition
+1 Spire Hunter
+1 The Yapper
+1 Thorny Defense
+1 Triple Spell
+1 Vampire's Bite
+1 Vampiric Recovery
+1 Vexing Scribe
+1 Visionary Artificer
+1 Wild Vision
+1 Wild Wizard
+10 Wilds of Atnia
+1 Workshop Automaton
+
+1 Atnia
+1 Golem
+1 Night Horror
+1 Law-Mage
+1 Blood Zombie
+1 Knight of Redemption
+8 Delta Ultimate Artifact
+1 Warrior's Talent
+1 Forgotten Relic
+1 Rift
+1 Village
+1 Grove
+1 Ruins
+1 Dreamscape
+1 Outpost
+1 Shrine
+1 Helpful Automaton
+1 Arca Home
+1 Eminus Home
+1 Materia Home
+1 Oldworld Home
+1 Zelor Home
+1 Martial Home
+1 Faith Home
+1 The Old Watch
+1 The College of Dreams
+1 Aton
+1 Skyhaven
+1 Pax Nova
+1 Lentholm
+1 Ecclesia Start

@@ -1,0 +1,80 @@
+1 Aggravating Scribe
+1 Ancient Dreamshaper
+1 Ancient Excavation
+1 Apprentice Harbinger
+1 Bermuda Triangle
+1 Deploy Automatons
+1 Devout Healer
+1 Downtown Walk
+1 Embargo
+1 Ethereal Construct
+1 Ethereal Mirage
+1 Faith Oldworld Directive
+1 Familiar Shadow
+1 Frank
+1 Frostblade Adept
+1 Globe of 1000 Souls
+1 Grim Librarians
+1 Helpful Automaton
+1 Junior Adventurer
+1 Knowledge Collection
+1 Leave me Alone
+1 Lost in the Wilds
+1 Might of the Woods
+1 Necromancer's Touch
+1 Nomadic Spirit
+1 Oana's Divination
+1 Outlander's Familiar
+1 Outlands Accountant
+1 Power of Antiquity
+1 Prepared Scribe
+1 Priest of Death
+1 Quick Thinking
+1 Rosilie D'Avron
+1 Rugged Outlander
+1 Ruins Scavenger
+1 Scour the Ruins
+9 See Beyond
+1 Spire Hunter
+1 Spirit Guide
+1 Suspicious Trader
+1 Svet Scout
+1 The Departed
+1 Tomb Hunter
+1 Unknowable Horror
+1 Vampire's Grasp
+1 Vexing Scribe
+1 Wicked Pact
+10 Wilds of Atnia
+
+1 Atnia
+1 Golem
+1 Night Horror
+1 Law-Mage
+1 Blood Zombie
+1 Knight of Redemption
+8 Delta Ultimate Artifact
+1 Warrior's Talent
+1 Forgotten Relic
+1 Rift
+1 Village
+1 Grove
+1 Ruins
+1 Dreamscape
+1 Outpost
+1 Shrine
+1 Helpful Automaton
+1 Arca Home
+1 Eminus Home
+1 Materia Home
+1 Oldworld Home
+1 Zelor Home
+1 Martial Home
+1 Faith Home
+1 The Old Watch
+1 The College of Dreams
+1 Aton
+1 Skyhaven
+1 Pax Nova
+1 Lentholm
+1 Ecclesia Start

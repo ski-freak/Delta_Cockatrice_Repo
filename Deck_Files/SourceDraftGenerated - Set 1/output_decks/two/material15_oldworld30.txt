@@ -1,0 +1,79 @@
+1 A Difficult Choice
+1 Abandoned Automaton
+1 Absolute Destruction
+1 Absorb
+1 Airdrop
+1 Annul
+1 Cryptic Swan
+1 Defiant Scribe
+1 Double Negative
+1 Embargo
+1 Ethereal Construct
+1 Frank
+1 Furious Automaton
+1 Golem Nexus
+1 Grim Librarians
+1 Interrupt
+1 Intimidating Scribe
+1 Invisible Haze
+1 Junior Adventurer
+1 Knowledge Collection
+1 Lekvian Butler
+1 Lekvian Vampire
+1 Life Manipulation
+1 Lost in the Wilds
+1 Malicious Receptionist
+1 Menacing Automaton
+1 Might of the Woods
+1 Mystic Stone
+1 Nomadic Spirit
+1 Oana's Divination
+1 Outlander's Familiar
+1 Outlands Commander
+1 Potent Divination
+1 Procrastinate
+1 Quick Thinking
+1 Return of the Vanished
+1 Return to the Earth
+1 Ruins Scavenger
+1 Sage of the Sun
+1 Scour the Ruins
+6 See Beyond
+1 Squish
+1 Sublimate
+1 Termination
+1 The Plan
+1 Vexing Scribe
+8 Wilds of Atnia
+
+1 Atnia
+1 Golem
+1 Night Horror
+1 Law-Mage
+1 Blood Zombie
+1 Knight of Redemption
+8 Delta Ultimate Artifact
+1 Warrior's Talent
+1 Forgotten Relic
+1 Rift
+1 Village
+1 Grove
+1 Ruins
+1 Dreamscape
+1 Outpost
+1 Shrine
+1 Helpful Automaton
+1 Arca Home
+1 Eminus Home
+1 Materia Home
+1 Oldworld Home
+1 Zelor Home
+1 Martial Home
+1 Faith Home
+1 The Old Watch
+1 The College of Dreams
+1 Aton
+1 Skyhaven
+1 Pax Nova
+1 Lentholm
+1 Ecclesia Start

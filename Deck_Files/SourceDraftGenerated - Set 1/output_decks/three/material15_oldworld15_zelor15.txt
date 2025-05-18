@@ -1,0 +1,82 @@
+1 Abandoned Automaton
+1 Absolute Destruction
+1 Amatuer Wizarding
+1 Ancient Excavation
+1 Aton Scout
+1 Battle Rage
+1 Bloodlust
+1 Burning Man
+1 Cleric's Lens
+1 Clockwork Soldier
+1 Combo Slice
+1 Construct Constructor
+1 Countervailing Flames
+1 Defiant Scribe
+1 Double Negative
+1 Electrolytes
+1 Energy Drain
+1 Essence of the Old World
+1 Extreme Heat
+1 Fire Channeler
+1 Frank
+1 Frostblade Adept
+1 Healing Potion
+1 Intimidating Scribe
+1 Knowledge Requisitioner
+1 Lekvian Butler
+1 Lost in the Wilds
+1 Malicious Receptionist
+1 Mechanical Vampire
+1 Menacing Automaton
+1 Oana's Divination
+1 Pax Nova Scout
+1 Plunder
+1 Priest of Death
+1 Probable Rivalry
+1 Quick Thinking
+1 Radiating Force
+1 Recycling
+1 Replenish
+1 Return to the Earth
+1 Scorched Earth
+9 See Beyond
+1 Sorvald's Ignition
+1 Sorvald's Insight
+1 The Plan
+1 Thorny Defense
+1 Vexing Scribe
+1 Volcanic Vision
+10 Wilds of Atnia
+1 Zelor Oldworld Directive
+
+1 Atnia
+1 Golem
+1 Night Horror
+1 Law-Mage
+1 Blood Zombie
+1 Knight of Redemption
+8 Delta Ultimate Artifact
+1 Warrior's Talent
+1 Forgotten Relic
+1 Rift
+1 Village
+1 Grove
+1 Ruins
+1 Dreamscape
+1 Outpost
+1 Shrine
+1 Helpful Automaton
+1 Arca Home
+1 Eminus Home
+1 Materia Home
+1 Oldworld Home
+1 Zelor Home
+1 Martial Home
+1 Faith Home
+1 The Old Watch
+1 The College of Dreams
+1 Aton
+1 Skyhaven
+1 Pax Nova
+1 Lentholm
+1 Ecclesia Start

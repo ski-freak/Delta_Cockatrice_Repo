@@ -1,0 +1,80 @@
+1 Abominable Cleric
+1 Absorb
+1 Annoying Scribe
+1 Arcane Burst
+1 Bermuda Triangle
+1 Clockwork Soldier
+1 College of Dreams Directive
+1 Cursed Tomb
+1 Dark Wrath
+1 Desperate Arbiter
+1 Emissary of Fear
+1 Forgetful Arbiter
+1 Forsaken Spellcaster
+1 Frightening Arbiter
+1 Giant Bat
+1 Golem Conjuring
+1 Honorable Knight
+1 Intimidating Scribe
+1 Knightly Reinforcements
+1 Lekvian Vampire
+1 Liase of the Two Scrolls
+1 Life Manipulation
+1 Lost in the Wilds
+1 Master of Elements
+1 Menacing Automaton
+1 Might of the Woods
+1 Nullify Magic
+1 Outlands Accountant
+9 See Beyond
+1 Shifting Mirage
+1 Skyknight
+1 Sorvald's Insight
+1 Spectacular Sweep
+1 Speed Check
+1 Spire Hunter
+1 Temporary Disappearance
+1 The Yapper
+1 Try Again
+1 Tundra Arbiter
+1 Unfortunate Accident
+1 Unstable Contract
+1 Visionary Artificer
+1 Void Drake
+1 Void Snap
+1 Void Spike
+1 Wave of Doubt
+1 Wild Vision
+10 Wilds of Atnia
+
+1 Atnia
+1 Golem
+1 Night Horror
+1 Law-Mage
+1 Blood Zombie
+1 Knight of Redemption
+8 Delta Ultimate Artifact
+1 Warrior's Talent
+1 Forgotten Relic
+1 Rift
+1 Village
+1 Grove
+1 Ruins
+1 Dreamscape
+1 Outpost
+1 Shrine
+1 Helpful Automaton
+1 Arca Home
+1 Eminus Home
+1 Materia Home
+1 Oldworld Home
+1 Zelor Home
+1 Martial Home
+1 Faith Home
+1 The Old Watch
+1 The College of Dreams
+1 Aton
+1 Skyhaven
+1 Pax Nova
+1 Lentholm
+1 Ecclesia Start

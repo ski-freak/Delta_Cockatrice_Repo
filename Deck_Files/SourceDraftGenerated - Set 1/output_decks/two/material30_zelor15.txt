@@ -1,0 +1,79 @@
+1 Absolute Destruction
+1 Absorb
+1 Amatuer Wizarding
+1 Aton Scout
+1 Battle Rage
+1 Become Large
+1 Burning Man
+1 Cliffside Guard
+1 Defiant Scribe
+1 Energy Drain
+1 Ethereal Construct
+1 Extreme Heat
+1 Force Field
+1 Fortress Automaton
+1 Gaston, Lekvian Squire
+1 Golem Conjurer
+1 Healing Potion
+1 Hired Hands
+1 Injury to Insult
+1 Knight of the Torch
+1 Knight of the Wheat
+1 Leave me Alone
+1 Lekvian Traveler
+1 Lekvian Vampire
+1 Malicious Receptionist
+1 Mechanical Vampire
+1 Menacing Automaton
+1 Menacing Scribe
+1 Pax Nova Battlemage
+1 Plunder
+1 Prepared Scribe
+1 Radiating Force
+1 Replenish
+1 Rosilie D'Avron
+1 Savage Snare
+6 See Beyond
+1 Self Improver
+1 Siphon Power
+1 Sorvald's Insight
+1 Spire Hunter
+1 Stochastic Ignition
+1 Sublimate
+1 Unfortunate Accident
+1 Volcanic Giant
+1 Wild Vision
+8 Wilds of Atnia
+1 Workshop Automaton
+
+1 Atnia
+1 Golem
+1 Night Horror
+1 Law-Mage
+1 Blood Zombie
+1 Knight of Redemption
+8 Delta Ultimate Artifact
+1 Warrior's Talent
+1 Forgotten Relic
+1 Rift
+1 Village
+1 Grove
+1 Ruins
+1 Dreamscape
+1 Outpost
+1 Shrine
+1 Helpful Automaton
+1 Arca Home
+1 Eminus Home
+1 Materia Home
+1 Oldworld Home
+1 Zelor Home
+1 Martial Home
+1 Faith Home
+1 The Old Watch
+1 The College of Dreams
+1 Aton
+1 Skyhaven
+1 Pax Nova
+1 Lentholm
+1 Ecclesia Start

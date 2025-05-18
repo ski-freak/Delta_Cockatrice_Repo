@@ -1,0 +1,79 @@
+1 Amatuer Wizarding
+1 Amnesia
+1 Apprentice Spellcaster
+1 Aton Battlemaster
+1 Aton Scout
+1 Battle Rage
+1 Become Large
+1 Burning Man
+1 Cliffside Guard
+1 Combo Slice
+1 Elite Smith
+1 Embrace the Arcane
+1 Eruption
+1 Eternal Navigator
+1 Extreme Heat
+1 Fire Channeler
+1 Fireball
+1 Flame Oracle
+1 Flashback Attack
+1 Force Field
+1 Forgotten Hunter
+1 Improvised Lightning
+1 Inspired Encore
+1 Kaboom
+1 Knight of the Moon
+1 Knight of the Wheat
+1 Lavasmith
+1 Magic Trick
+1 Magical Zenith
+1 Merry Duelist
+1 More Fire
+1 Novice Knight
+1 Pax Nova Battlemage
+1 Pax Nova Scout
+1 Plasma Bolt
+1 Plunder
+1 Psychic Intrusion
+1 Radiating Force
+1 Scorched Earth
+3 See Beyond
+1 Sorvald's Ignition
+1 Stochastic Ignition
+1 Strategize
+1 Thunderous Fury
+1 Volcanic Vision
+1 Wicked Pyromancer
+6 Wilds of Atnia
+
+1 Atnia
+1 Golem
+1 Night Horror
+1 Law-Mage
+1 Blood Zombie
+1 Knight of Redemption
+8 Delta Ultimate Artifact
+1 Warrior's Talent
+1 Forgotten Relic
+1 Rift
+1 Village
+1 Grove
+1 Ruins
+1 Dreamscape
+1 Outpost
+1 Shrine
+1 Helpful Automaton
+1 Arca Home
+1 Eminus Home
+1 Materia Home
+1 Oldworld Home
+1 Zelor Home
+1 Martial Home
+1 Faith Home
+1 The Old Watch
+1 The College of Dreams
+1 Aton
+1 Skyhaven
+1 Pax Nova
+1 Lentholm
+1 Ecclesia Start
