@@ -1,52 +1,52 @@
 1 A Difficult Choice
-1 Abominable Egg
-1 Ancient Excavation
-1 Annul
-1 Arbiter Marshal
-1 Cleric's Binding
+1 Airdrop
+1 Beckon Home
+1 Call the Divine
+1 Centrifuge
+1 Cleric's Lens
+1 Construct Constructor
 1 Contemplate
-1 Cosmic Justice
-1 Cursed Portal
-1 Dead on Arrival
-1 Demon of Consumption
-1 Deploy Automatons
-1 Devout Healer
-1 Duel of Honor
+1 Cryptic Swan
+1 Desperate Arbiter
+1 Disappearing Orb
+1 Downtown Walk
 1 Eminus Faith Directive
-1 Esmund's Divination
-1 Excavation Automaton
+1 Eternal Guard
+1 Evil Opportunity
 1 Faith Oldworld Directive
-1 Frank
-1 Frightening Arbiter
-1 Glimpse Disaster
+1 Forgetful Arbiter
+1 Frost Eruption
+1 Globe of 1000 Souls
+1 Goblin Scout
+1 Healing Amulet
 1 Honorable Knight
 1 Imposing Presence
-1 Interrupt
-1 Junior Adventurer
+1 Instant Shield
+1 Knightly Reinforcements
 1 Liase of the Two Scrolls
+1 Lunar Suppression
 1 Mind Trauma
-1 Mindless Cleric
-1 Necromancer's Touch
-1 Nullify Magic
-1 Oln's Binding
-1 Out of Mind
-1 Outlander's Familiar
-1 Potent Divination
-1 Power of Antiquity
-1 Procrastinate
+1 Mysterious Cleric
+1 Oana's Divination
+1 Passive Income Scheme
+1 Phantom Angel
+1 Probable Rivalry
+1 Prospector Zombie
+1 Quick Thinking
 1 Resilient Knight
-1 Rift Arcanist
-1 Sage of the Sun
-1 Scour the Ruins
+1 Return of the Vanished
+1 Ruins Scavenger
 9 See Beyond
-1 Skyknight
+1 Shifting Mirage
 1 Spectral Agent
-1 Starlight Cleric
-1 Stash Away
+1 Spiteful Cleric
+1 Squiggly Slime
 1 Stronghold Directive
-1 Sunblade Knight
-1 Temporary Disappearance
-1 Try Again
+1 Stronghold Dispatch
+1 Termination
+1 Thunder Knight
+1 Train Station
+1 Tundra Arbiter
 1 Unexpected Rift
 10 Wilds of Atnia
 

@@ -1,50 +1,50 @@
-1 Aggravating Scribe
-1 Ancient Dreamshaper
-1 Ancient Excavation
-1 Apprentice Harbinger
+1 Amatuer Illusionist
+1 Annul
+1 Awakened Arbiter
 1 Bermuda Triangle
-1 Deploy Automatons
+1 Blood Bank
+1 Centrifuge
+1 Cleric's Automaton
+1 Clockwork Soldier
+1 Collective Knowledge
+1 Construct Constructor
+1 Cosmic Justice
+1 Dark Aperture
+1 Defiant Scribe
+1 Deja Vu
 1 Devout Healer
-1 Downtown Walk
 1 Embargo
-1 Ethereal Construct
+1 Energy Drain
 1 Ethereal Mirage
 1 Faith Oldworld Directive
 1 Familiar Shadow
+1 Final Strike
 1 Frank
-1 Frostblade Adept
-1 Globe of 1000 Souls
-1 Grim Librarians
-1 Helpful Automaton
-1 Junior Adventurer
-1 Knowledge Collection
-1 Leave me Alone
-1 Lost in the Wilds
+1 Gaston, Lekvian Squire
+1 Glimpse Disaster
+1 Guile
+1 Hired Hands
+1 Invisible Haze
+1 Living Relic
+1 Lost Tome
 1 Might of the Woods
-1 Necromancer's Touch
+1 Mindless Cleric
+1 Mystic Stone
 1 Nomadic Spirit
-1 Oana's Divination
-1 Outlander's Familiar
 1 Outlands Accountant
-1 Power of Antiquity
-1 Prepared Scribe
-1 Priest of Death
-1 Quick Thinking
-1 Rosilie D'Avron
+1 Outlands Commander
+1 Recycling
+1 Relic Recovery
 1 Rugged Outlander
-1 Ruins Scavenger
-1 Scour the Ruins
 9 See Beyond
-1 Spire Hunter
+1 Sinkhole
 1 Spirit Guide
-1 Suspicious Trader
-1 Svet Scout
-1 The Departed
+1 Squiggly Slime
+1 Squish
 1 Tomb Hunter
-1 Unknowable Horror
-1 Vampire's Grasp
-1 Vexing Scribe
-1 Wicked Pact
+1 Train Station
+1 Unfortunate Accident
+1 Volcanic Giant
 10 Wilds of Atnia
 
 1 Atnia

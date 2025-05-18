@@ -1,51 +1,51 @@
-1 Airdrop
+1 A Difficult Choice
+1 Abominable Cleric
+1 Arcane Burst
 1 Astral Amulet
-1 Blood Bank
-1 Burning Lich
+1 Blood Channeler
+1 Bloodlust
+1 Borrow Time
+1 Catch!
 1 Chaotic Whirlwind
+1 Cleric's Lens
 1 Clockwork Soldier
-1 Collective Knowledge
-1 Construct Constructor
-1 Doomed Nightmare
-1 Double Negative
-1 Embargo
+1 Cursed Tomb
+1 Death Elemental
+1 Defiant Scribe
 1 Emissary of Fear
-1 Energy Drain
 1 Essence of the Old World
-1 Forsaken Dreammage
-1 Forsaken Spellcaster
-1 Furious Sorcerer
-1 Healing Potion
+1 Gas Giant
+1 Gaston, Lekvian Squire
 1 Helpful Automaton
-1 Helping Hands
+1 Intimidating Scribe
+1 Junior Adventurer
 1 Lagoon Titan
+1 Lekvian Butler
 1 Lekvian Traveler
-1 Life Manipulation
-1 Might of the Woods
-1 Night of the Dead
-1 Noddegamra
+1 Lore Dump
+1 Lost Tome
+1 Lunar Suppression
+1 Maddening Visions
+1 Mechanical Vampire
+1 Menacing Automaton
+1 Nightfall
+1 Nomadic Spirit
 1 Oana's Divination
-1 Old Zombiemancer
-1 Oruva Scout
-1 Outlander's Familiar
+1 Outlast
 1 Pax Directive
-1 Pesky Scribe
+1 Power of Antiquity
+1 Priest of Death
+1 Procrastinate
 1 Return of the Vanished
-1 Rift Screech
-1 Rosilie D'Avron
-1 Rugged Outlander
+1 Return to the Earth
 1 Seasoned Loremaster
 9 See Beyond
-1 Siphon Power
 1 Squish
-1 Sublimate
-1 The Plan
-1 Triple Spell
+1 Terrifying Nightmare
+1 The Yapper
+1 Vampiric Recovery
+1 Visionary Artificer
 1 Void Snap
-1 Void Spike
-1 Voidsworn Apostle
-1 Volcanic Giant
-1 Walk the Plank
 1 Wild Vision
 10 Wilds of Atnia
 

@@ -1,50 +1,50 @@
-1 Absolute Destruction
 1 Absorb
+1 Aggravating Scribe
 1 Amatuer Wizarding
-1 Aton Scout
-1 Battle Rage
+1 Aton Battlemaster
 1 Become Large
-1 Burning Man
-1 Cliffside Guard
-1 Defiant Scribe
+1 Bermuda Triangle
+1 Bloodlust
+1 Clockwork Soldier
+1 Combo Slice
+1 Death Elemental
+1 Elite Smith
+1 Embrace the Arcane
 1 Energy Drain
-1 Ethereal Construct
-1 Extreme Heat
-1 Force Field
+1 Fireball
+1 Flame Oracle
+1 Flashback Attack
 1 Fortress Automaton
+1 Furious Automaton
 1 Gaston, Lekvian Squire
 1 Golem Conjurer
 1 Healing Potion
-1 Hired Hands
-1 Injury to Insult
-1 Knight of the Torch
-1 Knight of the Wheat
-1 Leave me Alone
+1 Intimidating Scribe
+1 Kaboom
+1 Knight of the Moon
+1 Lekvian Butler
 1 Lekvian Traveler
-1 Lekvian Vampire
+1 Life Manipulation
+1 Lost in the Wilds
 1 Malicious Receptionist
-1 Mechanical Vampire
-1 Menacing Automaton
 1 Menacing Scribe
-1 Pax Nova Battlemage
-1 Plunder
+1 Noddegamra
+1 Novice Knight
+1 Outlands Accountant
 1 Prepared Scribe
+1 Priest of Death
 1 Radiating Force
-1 Replenish
 1 Rosilie D'Avron
-1 Savage Snare
 6 See Beyond
 1 Self Improver
 1 Siphon Power
-1 Sorvald's Insight
 1 Spire Hunter
-1 Stochastic Ignition
-1 Sublimate
-1 Unfortunate Accident
+1 Thunderous Fury
+1 Vexing Scribe
 1 Volcanic Giant
+1 Wicked Pyromancer
 1 Wild Vision
 8 Wilds of Atnia
-1 Workshop Automaton
 
 1 Atnia
 1 Golem

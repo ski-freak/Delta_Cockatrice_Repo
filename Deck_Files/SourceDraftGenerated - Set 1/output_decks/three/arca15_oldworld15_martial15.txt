@@ -1,54 +1,54 @@
-1 A Difficult Choice
-1 Abominable Cleric
 1 Adapt
-1 Airdrop
-1 Ambush
-1 Annul
-1 Arcane Burst
-1 Battlefield Commander
-1 Burning Lich
+1 Ancient Excavation
+1 Ancient Necromancer
+1 Blood Channeler
 1 Chaotic Whirlwind
-1 Construct Constructor
-1 Cryptic Swan
+1 Collective Knowledge
 1 Cursed Tomb
-1 Dead on Arrival
+1 Dark Wrath
 1 Dissociation
-1 Emergency Supply Kit
-1 Emotion Vampire
-1 Frostblade Adept
-1 Giant Bat
-1 Interceptor
-1 Isolated Archer
-1 Knowledge Requisitioner
+1 Doomed Nightmare
+1 Double Negative
+1 Embargo
+1 Forsaken Dreammage
+1 Furious Sorcerer
+1 Gas Giant
+1 Golem Conjuring
+1 Helping Hands
+1 Hidden Giant
+1 K.O. Punch
 1 Lagoon Titan
-1 Lost Tome
-1 Lunar Suppression
+1 Liev Warrior
+1 Loose Change
 1 Martial Arca Directive
-1 Mysterious Mage
+1 Master of Elements
+1 Mystic Stone
 1 Mystical Cache
+1 Novice Law-Binder
+1 Oana's Divination
 1 Oasis Giant
-1 Old Zombiemancer
 1 Oldworld Martial Directive
+1 Outlands Commander
 1 Pax Directive
-1 Recurring Nightmare
-1 Recycling
-1 Rift Ritual
-1 Rift Sorcerer
+1 Question Station
+1 Quick Thinking
+1 Quiet Mage
 1 Rift Whispers
-1 Scrap Merchant
+1 Royal Guard
+1 Ruins Scavenger
 9 See Beyond
-1 Sneak Attack
-1 Squish
-1 Starlight Cleric
-1 Stronghold Guard
-1 The Plan
-1 Tower Thief
+1 Sneaky Assassin
+1 Spare Violence
+1 Team Up
+1 Terrifying Nightmare
+1 The Renegade
+1 The Yapper
 1 Trade Insight
-1 Valorous Triumph
 1 Visionary Artificer
 1 Void Axe
-1 Voidsworn Apostle
-1 War Elephant
+1 Void Drake
+1 Void Spike
+1 Walk the Plank
 10 Wilds of Atnia
 
 1 Atnia

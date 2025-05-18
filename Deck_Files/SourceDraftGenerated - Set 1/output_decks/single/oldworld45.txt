@@ -1,26 +1,23 @@
 1 A Difficult Choice
-1 Abandoned Automaton
-1 Airdrop
-1 Ancient Necromancer
+1 Ancient Excavation
 1 Annul
 1 Awakened Arbiter
 1 Catch!
 1 Centrifuge
+1 Cleric's Lens
 1 Collective Knowledge
-1 Construct Constructor
+1 Cryptic Swan
 1 Dead on Arrival
+1 Double Negative
 1 Embargo
 1 Essence of the Old World
-1 Excavation Automaton
 1 Frank
 1 Frostblade Adept
 1 Furious Sorcerer
 1 Golem Nexus
-1 Grim Librarians
-1 Helping Hands
+1 Helpful Automaton
 1 Interrupt
 1 Invisible Haze
-1 Junior Adventurer
 1 Knowledge Collection
 1 Knowledge Requisitioner
 1 Loose Change
@@ -28,22 +25,25 @@
 1 Lunar Suppression
 1 Mystic Stone
 1 Nomadic Spirit
-1 Oana's Divination
-1 Outlands Commander
+1 Outlander's Familiar
+1 Potent Divination
 1 Power of Antiquity
-1 Probable Rivalry
-1 Question Station
-1 Quick Thinking
-1 Recycling
+1 Procrastinate
 1 Remake
+1 Return of the Vanished
 1 Return to the Earth
+1 Sage of the Sun
 1 Scour the Ruins
 1 Scrap Merchant
 3 See Beyond
+1 Squish
 1 Starlight Cleric
 1 Stronghold Dispatch
+1 Termination
 1 The Dreamer
 1 The Plan
+1 Train Station
+1 Walk the Plank
 6 Wilds of Atnia
 
 1 Atnia

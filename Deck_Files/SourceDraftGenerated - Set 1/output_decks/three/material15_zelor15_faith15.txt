@@ -1,49 +1,49 @@
 1 Absolute Destruction
-1 Absorb
-1 Apprentice Harbinger
-1 Apprentice Spellcaster
-1 Become Large
-1 Coffee Trader
-1 Cursed Portal
-1 Dark Aperture
-1 Death Elemental
+1 Amnesia
+1 Ancient Dreamshaper
+1 Annoying Scribe
+1 Awaken the Hooligans
+1 Back Again
+1 Battle Rage
+1 Blood Bank
+1 Bloodlust
+1 Call the Divine
+1 Cliffside Guard
+1 Combo Slice
+1 Construct a Construct
+1 Cosmic Justice
+1 Defiant Scribe
 1 Deja Vu
-1 Embrace the Arcane
-1 Energy Drain
-1 Final Strike
+1 Elite Smith
+1 Familiar Shadow
+1 Fire Channeler
+1 Flame Oracle
+1 Force Field
+1 Forgotten Hunter
 1 Gaston, Lekvian Squire
-1 Haunted Warlock
-1 Improvised Lightning
-1 Injury to Insult
-1 Kaboom
-1 Knight of the Moon
-1 Knight of the Wheat
-1 Life Manipulation
-1 Malicious Receptionist
+1 Goblin Scout
+1 Golem Conjurer
+1 Hired Hands
+1 Knight of the Torch
 1 Meditation
-1 Menacing Automaton
-1 Menacing Scribe
-1 Merry Duelist
-1 More Fire
 1 Noddegamra
 1 Novice Knight
-1 Oln's Binding
-1 Out of Mind
-1 Ozen's Temple
-1 Ozen's Wrath
+1 Outlands Accountant
+1 Outlast
+1 Palace Clock
 1 Pax Nova Scout
 1 Prospector Zombie
-1 Radiating Force
-1 Recruiter of the Dead
-1 Rift Arcanist
 9 See Beyond
 1 Self Improver
 1 Set Ablaze
-1 Svet Sigil
-1 Thunderous Fury
-1 Unfortunate Accident
-1 Wicked Pyromancer
-1 Wild Vision
+1 Siphon Power
+1 Solemn Scout
+1 Sorvald's Ignition
+1 Spire Hunter
+1 Stochastic Ignition
+1 Substitute
+1 Twilight Isle Cleric
+1 Unknowable Horror
 10 Wilds of Atnia
 1 Zelor Faith Directive
 

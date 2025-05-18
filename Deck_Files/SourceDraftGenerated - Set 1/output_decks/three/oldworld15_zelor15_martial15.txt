@@ -1,53 +1,53 @@
 1 Airdrop
-1 Ambush
-1 Ancient Excavation
+1 Arena Merchant
+1 Battle Rage
 1 Battlefield Commander
-1 Burning Man
-1 Cliffside Guard
-1 Construct Constructor
-1 Contain
+1 Benjamin
+1 Cleric's Lens
+1 Collective Knowledge
 1 Countervailing Flames
 1 Cryptic Swan
+1 Devout Arbiter
+1 Double Negative
+1 Eager Bruiser
 1 Electrolytes
 1 Emergency Supply Kit
 1 Eruption
-1 Eternal Navigator
-1 Fire Channeler
-1 Flank
-1 Flash Freeze
+1 Fireball
+1 Flame Oracle
 1 Force Field
+1 Forgotten Hunter
 1 Frost Sprint
-1 Improvised Lightning
-1 Interrupt
-1 Junior Adventurer
-1 Knight of the Torch
-1 Knowledge Collection
+1 Frostblade Adept
+1 Furious Sorcerer
+1 Heroic Moment
+1 K.O. Punch
 1 Lavasmith
-1 Loose Change
-1 Lunar Suppression
 1 Martial Zelor Directive
+1 Merry Duelist
+1 Mystical Cache
+1 Nomadic Spirit
 1 Oldworld Martial Directive
 1 Outlands Commander
 1 Pax Nova Battlemage
-1 Plunder
-1 Procrastinate
+1 Probable Rivalry
 1 Psychic Intrusion
-1 Quick Thinking
 1 Quiet Mage
-1 Remake
-1 Replenish
-1 Return of the Vanished
-1 Royal Guard
+1 Radiating Force
+1 Ruins Scavenger
+1 Scour the Ruins
 9 See Beyond
-1 Sneaky Assassin
+1 Set Ablaze
+1 Sorvald's Ignition
+1 Soul Link
 1 Spare Violence
+1 Stochastic Ignition
+1 Stronghold Dispatch
 1 Swift Rescue
-1 Team Up
-1 The Dreamer
-1 The Renegade
-1 Thorny Defense
-1 Thunderous Fury
-1 Valorous Triumph
+1 Termination
+1 The Plan
+1 War Elephant
+1 Wicked Pyromancer
 10 Wilds of Atnia
 1 Zelor Oldworld Directive
 

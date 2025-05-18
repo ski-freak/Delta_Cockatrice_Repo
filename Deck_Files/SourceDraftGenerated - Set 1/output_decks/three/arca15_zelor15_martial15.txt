@@ -1,53 +1,53 @@
-1 Amatuer Wizarding
+1 Abominable Cleric
 1 Amnesia
 1 Arena Merchant
 1 Aton Battlemaster
-1 Battle Rage
-1 Burning Man
+1 Battlefield Warp
+1 Benjamin
+1 Blood Channeler
+1 Bold Warrior
+1 Burning Lich
 1 Burning Plain Directive
 1 Cliffside Guard
-1 Deadly Strike
+1 Cruel Messenger
+1 Dark Wrath
 1 Devout Arbiter
-1 Doomed Nightmare
-1 Eager Bruiser
-1 Elite Smith
-1 Embrace the Arcane
+1 Dissociation
+1 Emergency Supply Kit
+1 Eruption
 1 Force Field
 1 Forsaken Dreammage
-1 Giant Bat
-1 Hidden Giant
-1 Knight of the Wheat
-1 Lavasmith
+1 Forsaken Spellcaster
+1 Gas Giant
+1 Heroic Moment
+1 Hunter's Hawk
+1 Improvised Lightning
+1 Interceptor
+1 Isolated Archer
+1 Kaboom
+1 Library Raid
 1 Liev Warrior
-1 Looming Overlord
+1 Lore Dump
 1 Martial Arca Directive
 1 Martial Zelor Directive
-1 More Fire
-1 Myrkur Phantom
-1 Oasis Giant
-1 Oruva Scout
+1 Nightfall
+1 Novice Law-Binder
+1 Pax Nova Scout
 1 Plasma Bolt
+1 Plunder
 1 Radiating Force
-1 Recurring Nightmare
-1 Rift Ritual
-1 Rift Screech
 1 Rift Sorcerer
 1 Rift Whispers
+1 Scorched Earth
 9 See Beyond
-1 Sneak Attack
-1 Soul Link
-1 Steadfast Arbiter
-1 Swift Rescue
-1 Team Up
-1 Terrifying Nightmare
-1 The Yapper
 1 Thorny Defense
-1 Trade Insight
-1 Unstable Contract
+1 Thunderous Fury
+1 Valorous Triumph
 1 Vampire's Bite
 1 Visionary Artificer
 1 Void Drake
-1 Warmongerer
+1 Void Snap
+1 Voidsworn Apostle
 1 Wild Wizard
 10 Wilds of Atnia
 

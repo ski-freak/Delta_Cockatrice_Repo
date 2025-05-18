@@ -1,53 +1,53 @@
-1 Absolute Destruction
-1 Annoying Scribe
+1 Absorb
+1 Aggravating Scribe
 1 Astral Amulet
-1 Bermuda Triangle
-1 Clockwork Soldier
-1 Cursed Tomb
+1 Awaken the Hooligans
+1 Blood Bank
+1 Coffee Trader
+1 Construct a Construct
+1 Dark Wrath
+1 Death Elemental
+1 Defiant Scribe
 1 Divine Harmony
-1 Downtown Walk
-1 Ethereal Construct
-1 Ethereal Mirage
-1 Familiar Shadow
-1 Final Strike
-1 Furious Automaton
-1 Gaston, Lekvian Squire
-1 Giant Bat
-1 Healing Amulet
+1 Dream Stalker
+1 Emotion Vampire
+1 Fortress Automaton
+1 Gas Giant
+1 Get Back In There
+1 Healing Potion
 1 Hymn to the Pale Sun
-1 Injury to Insult
-1 Inspired Cleric
-1 Lekvian Vampire
-1 Life Manipulation
 1 Maddening Visions
-1 Master of Elements
-1 Meditation
-1 Nightfall
-1 Oln's Binding
-1 Oruva Scout
-1 Outlast
-1 Ozen's Temple
-1 Ozen's Wrath
+1 Menacing Automaton
+1 Mysterious Mage
+1 Necromancer's Touch
+1 Night of the Dead
+1 Out of Mind
+1 Outlands Accountant
 1 Pale Mountain Directive
 1 Pale Nightmare
+1 Passive Income Scheme
+1 Priest of Death
 1 Prospector Zombie
-1 Recurring Nightmare
-1 Rift Screech
-1 Seasoned Loremaster
+1 Rift Ritual
+1 Rift Sorcerer
+1 Search for Omnipotence
 9 See Beyond
-1 Sinkhole
+1 Self Improver
+1 Sorvald's Insight
+1 Spire Hunter
+1 Spirit of Monumentality
 1 Spiteful Cleric
-1 Svet Sigil
+1 Svet Scavenger
 1 Terrifying Nightmare
 1 The Yapper
-1 Transcend
-1 Twilight Isle Cleric
-1 Universal Stimulant
+1 Unexpected Rift
 1 Unknowable Horror
-1 Unstable Contract
-1 Vexing Scribe
-1 Visionary Artificer
+1 Vampiric Recovery
 1 Void Axe
+1 Void Drake
+1 Void Shift
+1 Voidsworn Apostle
+1 Volcanic Giant
 10 Wilds of Atnia
 
 1 Atnia

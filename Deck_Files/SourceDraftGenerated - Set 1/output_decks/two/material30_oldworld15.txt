@@ -1,49 +1,49 @@
-1 Abandoned Automaton
+1 Absolute Destruction
 1 Absorb
 1 Ancient Excavation
-1 Annul
+1 Awakened Arbiter
 1 Bermuda Triangle
-1 Bloodlust
+1 Blood Bank
 1 Borrow Time
 1 Clockwork Soldier
-1 Construct Constructor
-1 Defiant Scribe
-1 Energy Drain
-1 Excavation Automaton
-1 Familiar Shadow
+1 Collective Knowledge
+1 Death Elemental
+1 Ethereal Construct
 1 Final Strike
+1 Fortress Automaton
+1 Frostblade Adept
+1 Furious Automaton
 1 Furious Sorcerer
 1 Gaston, Lekvian Squire
-1 Helpful Automaton
+1 Golem Nexus
+1 Grim Librarians
+1 Healing Potion
+1 Helping Hands
 1 Hired Hands
 1 Injury to Insult
-1 Intimidating Scribe
 1 Knowledge Collection
 1 Leave me Alone
-1 Lekvian Butler
+1 Lekvian Traveler
+1 Lekvian Vampire
+1 Life Manipulation
 1 Lost in the Wilds
-1 Lunar Suppression
-1 Mechanical Vampire
 1 Menacing Scribe
-1 Mystic Stone
-1 Noddegamra
-1 Outlands Accountant
+1 Might of the Woods
+1 Outlands Commander
 1 Outlast
-1 Pesky Scribe
+1 Potent Divination
 1 Prepared Scribe
-1 Probable Rivalry
-1 Procrastinate
-1 Recycling
-1 Rosilie D'Avron
-1 Sage of the Sun
+1 Priest of Death
+1 Quick Thinking
+1 Scour the Ruins
 6 See Beyond
+1 Self Improver
 1 Sinkhole
-1 Sorvald's Insight
-1 Spire Hunter
-1 Sublimate
-1 The Dreamer
+1 Siphon Power
+1 Starlight Cleric
+1 Stronghold Dispatch
+1 Vampire's Grasp
 1 Vampiric Recovery
-1 Wild Vision
 8 Wilds of Atnia
 
 1 Atnia

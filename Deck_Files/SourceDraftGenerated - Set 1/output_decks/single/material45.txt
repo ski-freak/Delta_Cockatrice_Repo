@@ -1,39 +1,39 @@
 1 Absolute Destruction
-1 Aggravating Scribe
-1 Annoying Scribe
+1 Absorb
 1 Bermuda Triangle
 1 Blood Bank
 1 Bloodlust
-1 Borrow Time
+1 Clockwork Soldier
 1 Death Elemental
 1 Defiant Scribe
 1 Energy Drain
-1 Ethereal Construct
 1 Familiar Shadow
 1 Final Strike
-1 Furious Automaton
+1 Fortress Automaton
 1 Gaston, Lekvian Squire
+1 Golem Conjurer
 1 Healing Potion
 1 Hired Hands
 1 Injury to Insult
+1 Intimidating Scribe
 1 Leave me Alone
 1 Lekvian Butler
-1 Lekvian Traveler
 1 Lekvian Vampire
 1 Life Manipulation
-1 Malicious Receptionist
+1 Lost in the Wilds
 1 Mechanical Vampire
 1 Menacing Automaton
-1 Menacing Scribe
+1 Might of the Woods
 1 Noddegamra
 1 Outlands Accountant
 1 Pesky Scribe
 1 Prepared Scribe
-1 Rosilie D'Avron
+1 Priest of Death
 1 Rugged Outlander
 1 Savage Snare
 3 See Beyond
-1 Sinkhole
+1 Self Improver
+1 Siphon Power
 1 Sorvald's Insight
 1 Spire Hunter
 1 Sublimate

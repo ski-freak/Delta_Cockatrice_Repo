@@ -1,49 +1,49 @@
-1 A Difficult Choice
 1 Abandoned Automaton
-1 Absolute Destruction
 1 Absorb
 1 Airdrop
-1 Annul
+1 Awakened Arbiter
+1 Centrifuge
+1 Cleric's Lens
+1 Collective Knowledge
 1 Cryptic Swan
-1 Defiant Scribe
 1 Double Negative
-1 Embargo
+1 Essence of the Old World
 1 Ethereal Construct
-1 Frank
+1 Excavation Automaton
+1 Frostblade Adept
 1 Furious Automaton
-1 Golem Nexus
-1 Grim Librarians
-1 Interrupt
-1 Intimidating Scribe
+1 Gaston, Lekvian Squire
 1 Invisible Haze
-1 Junior Adventurer
 1 Knowledge Collection
 1 Lekvian Butler
-1 Lekvian Vampire
 1 Life Manipulation
-1 Lost in the Wilds
-1 Malicious Receptionist
+1 Lost Tome
 1 Menacing Automaton
-1 Might of the Woods
 1 Mystic Stone
 1 Nomadic Spirit
-1 Oana's Divination
 1 Outlander's Familiar
-1 Outlands Commander
+1 Pesky Scribe
 1 Potent Divination
+1 Power of Antiquity
+1 Prepared Scribe
+1 Probable Rivalry
 1 Procrastinate
+1 Question Station
 1 Quick Thinking
-1 Return of the Vanished
-1 Return to the Earth
-1 Ruins Scavenger
+1 Recycling
+1 Remake
+1 Rugged Outlander
 1 Sage of the Sun
-1 Scour the Ruins
+1 Savage Snare
 6 See Beyond
+1 Siphon Power
+1 Spire Hunter
 1 Squish
+1 Stronghold Dispatch
 1 Sublimate
-1 Termination
 1 The Plan
-1 Vexing Scribe
+1 Walk the Plank
+1 Wild Vision
 8 Wilds of Atnia
 
 1 Atnia

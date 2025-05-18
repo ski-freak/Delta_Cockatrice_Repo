@@ -1,51 +1,51 @@
-1 Absolute Destruction
-1 Arcane Burst
-1 Arena Merchant
-1 Battlefield Warp
-1 Dark Wrath
+1 Astral Amulet
+1 Battlefield Commander
+1 Benjamin
+1 Borrow Time
+1 Burning Lich
+1 Cursed Tomb
 1 Deadly Strike
-1 Emotion Vampire
-1 Ether Charge
-1 Ethereal Construct
+1 Eager Bruiser
 1 Familiar Shadow
-1 Gaston, Lekvian Squire
-1 George
+1 Forsaken Spellcaster
+1 Furious Automaton
 1 Golem Conjuring
-1 Healing Potion
-1 Hunter's Hawk
-1 Interceptor
+1 Hidden Giant
+1 Hired Hands
 1 K.O. Punch
-1 Lekvian Butler
+1 Leave me Alone
+1 Lekvian Vampire
+1 Life Manipulation
+1 Looming Overlord
+1 Lore Dump
+1 Maddening Visions
 1 Martial Arca Directive
-1 Myrkur Protector
+1 Menacing Scribe
 1 Mysterious Mage
-1 Nightfall
-1 Novice Law-Binder
-1 Outlands Accountant
-1 Recurring Nightmare
-1 Rift Ritual
-1 Rift Screech
+1 Noddegamra
+1 Oruva Scout
+1 Outlast
+1 Pesky Scribe
 1 Rift Sorcerer
-1 Rift Whispers
-1 Rosilie D'Avron
 1 Rugged Outlander
-1 Savage Snare
 1 Seasoned Loremaster
 9 See Beyond
-1 Self Improver
+1 Sneak Attack
+1 Sorvald's Insight
 1 Soul Link
-1 Steadfast Arbiter
+1 Spare Violence
 1 Stronghold Guard
+1 Team Up
 1 Terrifying Nightmare
 1 The Doublemeister
-1 The Yapper
-1 Trade Insight
+1 Unstable Contract
+1 Vampire's Grasp
 1 Vexing Scribe
-1 Void Drake
-1 Volcanic Giant
-1 Wild Vision
+1 Void Spike
+1 Voidsworn Apostle
+1 Warmongerer
+1 Warrior's Training
 10 Wilds of Atnia
-1 Workshop Automaton
 
 1 Atnia
 1 Golem

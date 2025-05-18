@@ -1,53 +1,53 @@
-1 Amnesia
+1 Absorb
+1 Apprentice Spellcaster
 1 Arcane Burst
-1 Arcane Chains
+1 Astral Amulet
+1 Blood Bank
 1 Burning Plain Directive
+1 Combo Slice
 1 Dark Wrath
-1 Defiant Scribe
 1 Doomed Nightmare
+1 Dream Stalker
+1 Embrace the Arcane
 1 Emissary of Fear
-1 Eternal Navigator
-1 Fire Channeler
-1 Fireball
-1 Flame Oracle
-1 Force Field
+1 Final Strike
+1 Flashback Attack
+1 Forsaken Dreammage
 1 Forsaken Spellcaster
-1 Fortress Automaton
 1 Furious Automaton
-1 Gaston, Lekvian Squire
 1 Giant Bat
-1 Healing Potion
-1 Improvised Lightning
-1 Kaboom
-1 Lekvian Vampire
+1 Golem Conjuring
+1 Knight of the Moon
+1 Knight of the Torch
+1 Leave me Alone
+1 Lekvian Butler
+1 Lekvian Traveler
+1 Lore Dump
+1 Magic Trick
+1 Magical Zenith
 1 Menacing Scribe
-1 Might of the Woods
-1 Mysterious Mage
-1 Oruva Scout
+1 Merry Duelist
+1 Noddegamra
+1 Novice Knight
+1 Pax Nova Battlemage
+1 Pax Nova Scout
+1 Pesky Scribe
 1 Plunder
-1 Radiating Force
-1 Replenish
-1 Rift Ritual
+1 Psychic Intrusion
+1 Rift Screech
 1 Rift Sorcerer
+1 Rift Whispers
 1 Rosilie D'Avron
-1 Scorched Earth
-1 Seasoned Loremaster
 9 See Beyond
-1 Set Ablaze
-1 Sinkhole
-1 Sorvald's Ignition
+1 Sorvald's Insight
 1 Spire Hunter
-1 The Yapper
-1 Thorny Defense
-1 Triple Spell
+1 Thunderous Fury
+1 Unstable Contract
 1 Vampire's Bite
-1 Vampiric Recovery
-1 Vexing Scribe
-1 Visionary Artificer
+1 Vampire's Grasp
 1 Wild Vision
 1 Wild Wizard
 10 Wilds of Atnia
-1 Workshop Automaton
 
 1 Atnia
 1 Golem

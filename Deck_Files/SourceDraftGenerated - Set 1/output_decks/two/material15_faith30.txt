@@ -1,48 +1,49 @@
-1 Abominable Egg
-1 Absorb
-1 Amatuer Illusionist
+1 Aggravating Scribe
 1 Ancient Dreamshaper
-1 Annoying Scribe
+1 Apprentice Harbinger
+1 Awaken the Hooligans
 1 Back Again
 1 Call the Divine
-1 Cleric's Automaton
-1 Clockwork Soldier
-1 Cosmic Justice
-1 Devout Healer
-1 Energy Drain
-1 Evil Opportunity
-1 Final Strike
-1 Gaston, Lekvian Squire
-1 Globe of 1000 Souls
-1 Goblin Scout
-1 Golem Conjurer
-1 Guile
+1 Coffee Trader
+1 Death Elemental
+1 Defiant Scribe
+1 Deploy Automatons
+1 Downtown Walk
+1 Haunted Warlock
+1 Healing Potion
+1 Injury to Insult
+1 Leave me Alone
+1 Lekvian Traveler
 1 Life Manipulation
 1 Living Relic
+1 Mechanical Vampire
 1 Meditation
-1 Might of the Woods
-1 Out of Mind
-1 Ozen's Wrath
+1 Menacing Scribe
+1 Mindless Cleric
+1 Mysterious Cleric
+1 Outlands Accountant
+1 Ozen's Temple
+1 Palace Clock
 1 Passive Income Scheme
 1 Recruiter of the Dead
-1 Rosilie D'Avron
-2 Search for Omnipotence
+1 Search for Omnipotence
 6 See Beyond
-1 Sinkhole
-1 Sorvald's Insight
-1 Spire Hunter
+1 Solemn Scout
 1 Spirit Guide
 1 Spirit of Monumentality
-1 Spiteful Cleric
-1 Svet Scout
+1 Squiggly Slime
+1 Stash Away
+1 Sublimate
+1 Substitute
+1 Svet Sigil
 1 Terrifying Vision
+1 The Departed
 1 Underwater Emergence
-1 Unknowable Horror
-1 Vexing Scribe
-1 Void Cleric
-1 Void Shift
-1 Volcanic Giant
-1 Wicked Pact
+1 Unexpected Rift
+1 Unfortunate Accident
+1 Universal Stimulant
+1 Vampiric Recovery
+1 Wild Vision
 8 Wilds of Atnia
 
 1 Atnia

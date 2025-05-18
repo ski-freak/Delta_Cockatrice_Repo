@@ -1,52 +1,52 @@
-1 Abandoned Automaton
-1 Absolute Destruction
+1 A Difficult Choice
+1 Aggravating Scribe
 1 Amatuer Wizarding
-1 Ancient Excavation
-1 Aton Scout
-1 Battle Rage
-1 Bloodlust
-1 Burning Man
-1 Cleric's Lens
+1 Annoying Scribe
+1 Apprentice Spellcaster
+1 Become Large
+1 Blood Bank
+1 Cliffside Guard
 1 Clockwork Soldier
-1 Combo Slice
-1 Construct Constructor
+1 Collective Knowledge
 1 Countervailing Flames
-1 Defiant Scribe
-1 Double Negative
+1 Cryptic Swan
+1 Dead on Arrival
 1 Electrolytes
 1 Energy Drain
-1 Essence of the Old World
-1 Extreme Heat
+1 Eruption
+1 Eternal Navigator
+1 Excavation Automaton
+1 Familiar Shadow
 1 Fire Channeler
-1 Frank
-1 Frostblade Adept
+1 Fireball
+1 Flashback Attack
+1 Furious Sorcerer
 1 Healing Potion
-1 Intimidating Scribe
-1 Knowledge Requisitioner
+1 Helpful Automaton
+1 Helping Hands
+1 Improvised Lightning
+1 Knight of the Moon
+1 Knight of the Wheat
+1 Knowledge Collection
+1 Leave me Alone
 1 Lekvian Butler
-1 Lost in the Wilds
-1 Malicious Receptionist
-1 Mechanical Vampire
-1 Menacing Automaton
-1 Oana's Divination
-1 Pax Nova Scout
-1 Plunder
-1 Priest of Death
-1 Probable Rivalry
-1 Quick Thinking
-1 Radiating Force
-1 Recycling
-1 Replenish
-1 Return to the Earth
-1 Scorched Earth
+1 Lost Tome
+1 Outlands Accountant
+1 Outlast
+1 Psychic Intrusion
+1 Remake
+1 Rosilie D'Avron
+1 Scrap Merchant
 9 See Beyond
-1 Sorvald's Ignition
-1 Sorvald's Insight
-1 The Plan
+1 Squish
+1 Starlight Cleric
+1 Stronghold Dispatch
 1 Thorny Defense
 1 Vexing Scribe
 1 Volcanic Vision
+1 Wild Vision
 10 Wilds of Atnia
+1 Workshop Automaton
 1 Zelor Oldworld Directive
 
 1 Atnia

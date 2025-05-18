@@ -1,47 +1,46 @@
-1 Abominable Egg
-1 Absolute Destruction
-1 Absorb
-1 Aggravating Scribe
 1 Annoying Scribe
 1 Apprentice Harbinger
-1 Bermuda Triangle
 1 Blood Bank
 1 Borrow Time
-1 Call the Divine
+1 Cleric's Automaton
 1 Cleric's Binding
-1 Clockwork Soldier
-1 Dark Aperture
-1 Deploy Automatons
-1 Downtown Walk
+1 Death Elemental
+1 Defiant Scribe
 1 Energy Drain
-1 Evil Opportunity
-1 Familiar Shadow
+1 Ethereal Construct
 1 Final Strike
-1 Golem Conjurer
-1 Guile
+1 Fortress Automaton
+1 Furious Automaton
 1 Haunted Warlock
-1 Healing Potion
-1 Leave me Alone
+1 Injury to Insult
+1 Inspired Cleric
 1 Lekvian Butler
 1 Lekvian Traveler
+1 Lekvian Vampire
 1 Life Manipulation
-1 Living Relic
-1 Lost in the Wilds
-1 Noddegamra
-1 Outlast
+1 Malicious Receptionist
+1 Mechanical Vampire
+1 Mysterious Cleric
+1 Ozen's Wrath
+1 Passive Income Scheme
 1 Pesky Scribe
 1 Prepared Scribe
+1 Priest of Death
+1 Recruiter of the Dead
+1 Relic Recovery
+1 Rift Arcanist
 1 Rugged Outlander
 1 Savage Snare
+2 Search for Omnipotence
 6 See Beyond
 1 Self Improver
-1 Solemn Scout
-1 Spirit of Monumentality
+1 Sinkhole
+1 Spire Hunter
+1 Suspicious Trader
 1 Unfortunate Accident
-1 Vampiric Recovery
-1 Vexing Scribe
+1 Vampire's Grasp
 1 Void Capsule
-1 Void Shift
+1 Volcanic Giant
 1 Wild Vision
 8 Wilds of Atnia
 1 Workshop Automaton

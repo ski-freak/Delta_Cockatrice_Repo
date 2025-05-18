@@ -1,55 +1,55 @@
-1 Ambush
-1 Arcane Burst
+1 Apprentice Harbinger
 1 Arcane Chains
 1 Battlefield Commander
-1 Call the Divine
-1 Contain
-1 Dark Wrath
-1 Demon of Consumption
-1 Disappearing Orb
+1 Bold Warrior
+1 Cleric's Automaton
+1 Construct a Construct
+1 Dark Aperture
 1 Divine Harmony
-1 Eager Bruiser
-1 Emotion Vampire
-1 Ethereal Mirage
+1 Downtown Walk
+1 Dream Stalker
+1 Emissary of Fear
+1 Eternal Guard
+1 Ether Charge
+1 Evil Opportunity
 1 Faith Martial Directive
-1 Forsaken Dreammage
+1 Forsaken Spellcaster
+1 George
 1 Get Back In There
 1 Giant Bat
-1 Golem Conjuring
-1 Heroic Moment
+1 Hidden Giant
 1 Hymn to the Pale Sun
-1 Interceptor
-1 Lore Dump
 1 Martial Arca Directive
-1 Master Duelist
+1 Mindless Cleric
+1 Myrkur Protector
+1 Mysterious Mage
 1 Mystical Cache
-1 Night of the Dead
-1 Old Zombiemancer
-1 Out of Mind
+1 Palace Clock
 1 Pale Mountain Directive
 1 Pale Nightmare
 1 Passive Income Scheme
-1 Recruiter of the Dead
+1 Recurring Nightmare
+1 Rift Ritual
 1 Rift Sorcerer
-1 Seasoned Loremaster
 9 See Beyond
-1 Soul Link
+1 Sneak Attack
 1 Spare Violence
-1 Spirit Guide
-1 Spirit of Monumentality
-1 Stash Away
 1 Steadfast Arbiter
-1 Svet Scavenger
-1 Svet Sigil
-1 Swift Rescue
-1 Trade Insight
-1 Unexpected Rift
-1 Universal Stimulant
+1 Stronghold Guard
+1 Swarm the Enemy
+1 The Yapper
+1 Twilight Isle Cleric
+1 Unstable Contract
 1 Valorous Triumph
-1 Void Axe
+1 Visionary Artificer
+1 Void Capsule
 1 Void Drake
+1 Void Shift
+1 Void Snap
 1 Voidsworn Apostle
 1 Warmongerer
+1 Warrior's Training
+1 Wicked Pact
 10 Wilds of Atnia
 
 1 Atnia

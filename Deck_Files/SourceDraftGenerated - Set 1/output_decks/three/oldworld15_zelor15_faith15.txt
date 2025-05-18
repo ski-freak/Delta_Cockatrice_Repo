@@ -1,52 +1,52 @@
-1 Abominable Egg
-1 Airdrop
 1 Amatuer Wizarding
-1 Aton Battlemaster
-1 Back Again
-1 Become Large
+1 Ancient Necromancer
+1 Annul
+1 Aton Scout
 1 Burning Man
-1 Cleric's Binding
-1 Cosmic Justice
+1 Call the Divine
+1 Catch!
+1 Cleric's Automaton
 1 Countervailing Flames
-1 Double Negative
+1 Cursed Portal
+1 Dead on Arrival
+1 Disappearing Orb
+1 Downtown Walk
 1 Electrolytes
-1 Eternal Navigator
-1 Evil Opportunity
-1 Excavation Automaton
 1 Faith Oldworld Directive
 1 Fire Channeler
-1 Forgotten Hunter
+1 Flame Oracle
+1 Flashback Attack
 1 Frostblade Adept
 1 Furious Sorcerer
-1 Glimpse Disaster
-1 Helpful Automaton
-1 Improvised Lightning
-1 Knowledge Collection
-1 Loose Change
-1 Lost Tome
-1 Magical Zenith
+1 Goblin Scout
+1 Golem Nexus
+1 Junior Adventurer
+1 Knowledge Requisitioner
+1 Lavasmith
+1 Merry Duelist
 1 More Fire
-1 Out of Mind
-1 Ozen's Temple
-1 Palace Clock
-1 Passive Income Scheme
-1 Plasma Bolt
+1 Mysterious Cleric
+1 Mystic Stone
+1 Novice Knight
+1 Outlands Commander
 1 Plunder
-1 Potent Divination
-1 Probable Rivalry
-1 Question Station
-1 Recycling
-1 Relic Recovery
-1 Rift Arcanist
-1 Scorched Earth
+1 Remake
+1 Sage of the Sun
 9 See Beyond
-1 Solemn Scout
+1 Set Ablaze
+1 Skyhaven Cannon
 1 Squiggly Slime
 1 Squish
-1 Starlight Cleric
-1 Strategize
-1 The Departed
+1 Svet Scout
+1 Svet Sigil
+1 The Plan
+1 Thorny Defense
+1 Void Capsule
+1 Void Cleric
+1 Void Shift
 1 Volcanic Vision
+1 Wicked Pact
+1 Wicked Pyromancer
 10 Wilds of Atnia
 1 Zelor Faith Directive
 1 Zelor Oldworld Directive

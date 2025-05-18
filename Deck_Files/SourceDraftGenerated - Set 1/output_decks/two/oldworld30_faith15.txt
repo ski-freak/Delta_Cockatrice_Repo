@@ -1,50 +1,50 @@
-1 Amatuer Illusionist
+1 Abominable Egg
 1 Ancient Excavation
-1 Ancient Necromancer
-1 Catch!
-1 Centrifuge
-1 Cleric's Lens
+1 Annul
+1 Call the Divine
+1 Cleric's Binding
 1 Collective Knowledge
 1 Construct Constructor
-1 Cosmic Justice
-1 Deja Vu
+1 Dark Aperture
+1 Double Negative
 1 Embargo
+1 Essence of the Old World
 1 Faith Oldworld Directive
 1 Frank
 1 Frostblade Adept
-1 Glimpse Disaster
-1 Golem Nexus
-1 Healing Amulet
-1 Helpful Automaton
+1 Furious Sorcerer
+1 Get Back In There
+1 Goblin Scout
+1 Grim Librarians
+1 Helping Hands
 1 Junior Adventurer
 1 Loose Change
-1 Lost Tome
 1 Mystic Stone
-1 Necromancer's Touch
 1 Nomadic Spirit
-1 Oana's Divination
 1 Outlands Commander
-1 Palace Clock
+1 Ozen's Fury
+1 Ozen's Wrath
+1 Passive Income Scheme
 1 Potent Divination
-1 Probable Rivalry
+1 Power of Antiquity
 1 Procrastinate
 1 Question Station
 1 Reawaken in Dream
 1 Recruiter of the Dead
-1 Return of the Vanished
-1 Return to the Earth
-1 Rift Arcanist
+1 Remake
+1 Ruins Scavenger
 1 Sage of the Sun
+1 Scour the Ruins
+1 Scrap Merchant
 6 See Beyond
-1 Squiggly Slime
+1 Spirit Guide
 1 Squish
 1 Starlight Cleric
 1 Stronghold Dispatch
-1 Svet Sigil
-1 The Departed
-1 The Dreamer
-1 Void Cleric
-1 Void Shift
+1 Svet Scavenger
+1 The Plan
+1 Unexpected Rift
+1 Unknowable Horror
 8 Wilds of Atnia
 
 1 Atnia

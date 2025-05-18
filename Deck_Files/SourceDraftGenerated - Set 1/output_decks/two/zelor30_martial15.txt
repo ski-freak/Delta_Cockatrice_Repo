@@ -1,51 +1,51 @@
-1 5th Legion Luitenant
 1 Adapt
+1 Amatuer Wizarding
+1 Ambush
 1 Amnesia
-1 Apprentice Spellcaster
-1 Aton Scout
-1 Battlefield Commander
-1 Battlefield Warp
-1 Benjamin
-1 Cliffside Guard
-1 Combo Slice
-1 Devout Arbiter
+1 Aton Battlemaster
+1 Battle Rage
+1 Become Large
+1 Burning Man
+1 Deadly Strike
 1 Dune Paladin
-1 Elite Smith
 1 Embrace the Arcane
-1 Eruption
+1 Escaped Monster
 1 Extreme Heat
-1 Flame Oracle
+1 Fireball
+1 Flank
 1 Flashback Attack
-1 Forgotten Hunter
-1 Heroic Moment
-1 Hidden Giant
+1 Force Field
+1 Frost Sprint
 1 Hunter's Hawk
-1 K.O. Punch
+1 Improvised Lightning
+1 Inspired Encore
 1 Kaboom
-1 Knight of the Moon
 1 Knight of the Torch
+1 Knight of the Wheat
 1 Lavasmith
-1 Library Raid
+1 Liev Warrior
 1 Magic Trick
+1 Magical Zenith
 1 Martial Zelor Directive
+1 Merry Duelist
 1 More Fire
+1 Myrkur Protector
 1 Novice Knight
+1 Novice Law-Binder
+1 Pax Nova Scout
 1 Plasma Bolt
+1 Plunder
 1 Psychic Intrusion
-1 Radiating Force
 1 Reorganize
-1 Replenish
-1 Royal Guard
-1 Scorched Earth
 6 See Beyond
-1 Spare Violence
-1 Steadfast Arbiter
-1 Strategize
-1 Thorny Defense
-1 Valorous Triumph
-1 Volcanic Vision
+1 Sneaky Assassin
+1 Sorvald's Ignition
+1 Soul Link
+1 Stochastic Ignition
+1 Swarm the Enemy
+1 War Elephant
+1 Wicked Pyromancer
 8 Wilds of Atnia
-1 Wizard's Familiar
 
 1 Atnia
 1 Golem

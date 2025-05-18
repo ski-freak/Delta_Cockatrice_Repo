@@ -1,52 +1,51 @@
 1 5th Legion Luitenant
-1 Ambush
 1 Arena Merchant
-1 Battlefield Commander
 1 Battlefield Warp
-1 Beckon Home
-1 Bold Warrior
+1 Contain
+1 Contemplate
 1 Cruel Messenger
-1 Devastating Decoy
+1 Deadly Strike
+1 Devout Arbiter
 1 Dissociation
 1 Divine Uppercut
-1 Eager Bruiser
+1 Duel of Honor
+1 Emergency Supply Kit
 1 Eminus Martial Directive
-1 Ether Charge
-1 Flank
+1 Escaped Monster
 1 Flash Freeze
-1 Forgetful Arbiter
 1 Frightening Arbiter
+1 Frost Sprint
 1 George
-1 Hunter's Hawk
+2 Hunter's Hawk
+1 Isolated Archer
+1 K.O. Punch
+1 Knightly Reinforcements
+1 Liev Warrior
 1 Myrkur Protector
-1 Mystical Cache
 1 Novice Law-Binder
 1 Nullify Magic
-1 Phantom Angel
-1 Reorganize
-1 Royal Guard
+1 Oasis Giant
+1 Resilient Knight
 6 See Beyond
 1 Shifting Mirage
 1 Skyknight
-1 Sneak Attack
 1 Sneaky Assassin
 1 Soul Link
-1 Spare Violence
 1 Spectral Agent
 1 Speed Check
 1 Speedy Arbiter
 1 Steadfast Arbiter
-1 Sunblade Knight
+1 Steel Resolve
+1 Stronghold Guard
 1 Swift Rescue
 1 Team Up
-1 Temporary Disappearance
-1 Tower Thief
-1 Trade Insight
+1 The Renegade
+1 Thunder Knight
 1 Try Again
-1 Valorous Triumph
+1 Tundra Arbiter
+1 War Elephant
 1 Warmongerer
 1 Warrior's Training
-1 Wave of Doubt
 8 Wilds of Atnia
 
 1 Atnia

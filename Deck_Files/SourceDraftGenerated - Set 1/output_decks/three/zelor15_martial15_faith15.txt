@@ -1,52 +1,52 @@
-1 Amatuer Wizarding
-1 Aton Scout
-1 Benjamin
-1 Burning Man
-1 Cleric's Binding
-1 Eternal Guard
+1 Amatuer Illusionist
+1 Ambush
+1 Apprentice Spellcaster
+1 Arena Merchant
+1 Bold Warrior
+1 Cosmic Justice
+1 Cruel Messenger
+1 Deadly Strike
 1 Ether Charge
 1 Ethereal Mirage
 1 Faith Martial Directive
-1 Frost Eruption
-1 Frost Sprint
-1 George
-1 Goblin Scout
-1 Guile
+1 Fire Channeler
+1 Fireball
+1 Flame Oracle
+1 Flank
+1 Force Field
+1 Forgotten Hunter
+1 Get Back In There
 1 Healing Amulet
-1 Interceptor
+1 Isolated Archer
+1 Kaboom
 1 Knight of the Moon
-1 Knight of the Wheat
-1 Library Raid
-1 Looming Overlord
+1 Lavasmith
 1 Martial Zelor Directive
 1 More Fire
-1 Mystical Cache
+1 Mysterious Cleric
+1 Novice Law-Binder
 1 Oln's Binding
 1 Out of Mind
-1 Plasma Bolt
 1 Plunder
-1 Psychic Intrusion
-1 Replenish
+1 Radiating Force
+1 Reawaken in Dream
+1 Rift Arcanist
 1 Royal Guard
+1 Scorched Earth
 1 Search for Omnipotence
 9 See Beyond
-1 Set Ablaze
 1 Sneak Attack
-1 Sneaky Assassin
-1 Soul Link
-1 Spiteful Cleric
+1 Squiggly Slime
 1 Steadfast Arbiter
-1 Substitute
-1 Team Up
-1 Terrifying Vision
+1 Stochastic Ignition
+1 Suspicious Trader
+1 Svet Sigil
 1 The Renegade
-1 Thorny Defense
-1 Transcend
-1 Valorous Triumph
-1 Void Shift
+1 Trade Insight
+1 Twilight Isle Cleric
 1 Volcanic Vision
+1 War Elephant
 10 Wilds of Atnia
-1 Wizard's Familiar
 1 Zelor Faith Directive
 
 1 Atnia

@@ -1,50 +1,50 @@
-1 Absolute Destruction
-1 Absorb
+1 Ambush
 1 Annoying Scribe
 1 Arena Merchant
-1 Clockwork Soldier
-1 Contain
-1 Deadly Strike
-1 Eager Bruiser
-1 Emergency Supply Kit
-1 Energy Drain
-1 Escaped Monster
-1 Flank
-1 Fortress Automaton
-1 Gaston, Lekvian Squire
-1 Hidden Giant
-1 Hired Hands
-1 Hunter's Hawk
+1 Battlefield Warp
+1 Bermuda Triangle
+1 Death Elemental
+1 Defiant Scribe
+1 Devout Arbiter
+1 Ether Charge
+1 Final Strike
+1 Flash Freeze
+1 Frost Sprint
+1 Heroic Moment
 1 Injury to Insult
 1 Intimidating Scribe
-1 Isolated Archer
 1 Lekvian Butler
+1 Lekvian Traveler
+1 Lekvian Vampire
+1 Liev Warrior
 1 Life Manipulation
-1 Lost in the Wilds
+1 Looming Overlord
 1 Malicious Receptionist
+1 Mechanical Vampire
 1 Menacing Automaton
-1 Menacing Scribe
-1 Might of the Woods
 1 Mystical Cache
 1 Novice Law-Binder
 1 Outlands Accountant
-1 Outlast
-1 Pesky Scribe
-1 Prepared Scribe
+1 Priest of Death
 1 Rosilie D'Avron
 1 Rugged Outlander
+1 Savage Snare
 6 See Beyond
 1 Self Improver
 1 Sinkhole
-1 Spare Violence
+1 Siphon Power
 1 Spire Hunter
-1 Stronghold Guard
 1 Sublimate
+1 Swarm the Enemy
 1 Swift Rescue
+1 Unfortunate Accident
+1 Valorous Triumph
+1 Vampire's Grasp
+1 Vampiric Recovery
 1 Vexing Scribe
+1 Volcanic Giant
 1 Wild Vision
 8 Wilds of Atnia
-1 Workshop Automaton
 
 1 Atnia
 1 Golem

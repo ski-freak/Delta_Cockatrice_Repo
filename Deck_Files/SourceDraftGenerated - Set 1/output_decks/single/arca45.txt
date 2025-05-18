@@ -1,11 +1,11 @@
 1 Abominable Cleric
-1 Arcane Burst
+2 Arcane Burst
 1 Arcane Chains
 1 Astral Amulet
 1 Blood Channeler
 1 Burning Lich
 1 Cursed Tomb
-1 Dark Wrath
+2 Dark Wrath
 1 Doomed Nightmare
 1 Dream Stalker
 1 Emissary of Fear
@@ -16,15 +16,15 @@
 1 Giant Bat
 1 Golem Conjuring
 1 Lore Dump
-2 Maddening Visions
-2 Master of Elements
+1 Maddening Visions
+1 Master of Elements
 1 Myrkur Phantom
-1 Mysterious Mage
+2 Mysterious Mage
 1 Night of the Dead
 1 Nightfall
 1 Old Zombiemancer
 1 Oruva Scout
-2 Recurring Nightmare
+1 Recurring Nightmare
 1 Rift Ritual
 1 Rift Screech
 1 Rift Sorcerer

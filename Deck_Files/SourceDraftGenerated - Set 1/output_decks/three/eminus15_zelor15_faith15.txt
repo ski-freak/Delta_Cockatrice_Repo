@@ -1,56 +1,56 @@
-1 Abominable Egg
-1 Ancient Dreamshaper
-1 Apprentice Spellcaster
-1 Aton Scout
-1 BSOD
-1 Back Again
+1 Apprentice Harbinger
+1 Arbiter Medic
+1 Battle Rage
+1 Beckon Home
+1 Burning Man
 1 Burst of Speed
-1 Cliffside Guard
-1 Coffee Trader
-1 Cursed Portal
-1 Demon of Consumption
-1 Desperate Arbiter
-1 Devastating Decoy
-1 Devout Healer
+1 Contemplate
 1 Embrace the Arcane
 1 Eminus Faith Directive
-1 Esmund's Divination
-1 Eternal Guard
-1 Eternal Navigator
+1 Evil Opportunity
 1 Explosive Breakthrough
+1 Extreme Heat
 1 Fire Channeler
-1 Flashback Attack
-1 Forgotten Hunter
-1 Frightening Arbiter
+1 Flame Oracle
+1 Get Back In There
 1 Honorable Knight
 1 Imposing Presence
+1 Inspired Encore
 1 Interfering Arbiter
 1 Knightly Mentor
-1 Knightly Reinforcements
-1 Library Raid
 1 Liev Arbiter
+1 Living Relic
+1 Magical Zenith
 1 Merry Duelist
-1 Novice Knight
+1 Mind Trauma
+1 Mysterious Cleric
+1 Nullify Magic
+1 Palace Clock
+1 Passive Income Scheme
 1 Pax Nova Directive
 1 Pax Nova Scout
-1 Phantom Angel
-1 Plasma Bolt
-1 Relic Recovery
+1 Plunder
+1 Replenish
+1 Resilient Knight
 9 See Beyond
-1 Set Ablaze
+1 Skyhaven Cannon
 1 Skyknight
-1 Solemn Scout
 1 Sorvald's Ignition
+1 Spectacular Sweep
 1 Spectral Agent
-1 Sunblade Knight
-1 Svet Scout
-1 Temporary Disappearance
+1 Speed Check
+1 Spirit Guide
+1 Stash Away
 1 The Departed
+1 Thunderous Fury
 1 Transcend
+1 Try Again
+1 Tundra Arbiter
 1 Underwater Emergence
-1 Unexpected Rift
+1 Void Capsule
+1 Void Shift
 10 Wilds of Atnia
-1 Wolkk Twinspear
+1 Wizard's Familiar
 1 Zelor Faith Directive
 
 1 Atnia

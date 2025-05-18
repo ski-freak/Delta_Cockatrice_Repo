@@ -1,48 +1,48 @@
 1 Abominable Cleric
 1 Amnesia
-1 Astral Amulet
-1 Aton Scout
+1 Arcane Burst
 1 Become Large
 1 Blood Channeler
 1 Burning Lich
-1 Burning Man
 1 Burning Plain Directive
 1 Cursed Tomb
-1 Dark Wrath
 1 Doomed Nightmare
 1 Dream Stalker
 1 Dune Paladin
+1 Elite Smith
 1 Embrace the Arcane
 1 Emissary of Fear
-1 Flashback Attack
+1 Emotion Vampire
 1 Force Field
-1 Forsaken Dreammage
-1 Forsaken Spellcaster
+1 Forgotten Hunter
 1 Gas Giant
-1 Giant Bat
-1 Knight of the Moon
-1 Lore Dump
-1 Magic Trick
+1 Golem Conjuring
+1 Improvised Lightning
+1 Maddening Visions
+1 Master of Elements
+1 More Fire
 1 Myrkur Phantom
 1 Mysterious Mage
 1 Night of the Dead
-1 Nightfall
-1 Pax Nova Battlemage
-1 Pax Nova Scout
-1 Plunder
+1 Novice Knight
+1 Old Zombiemancer
+1 Oruva Scout
+1 Radiating Force
 1 Recurring Nightmare
+1 Replenish
+1 Rift Ritual
 1 Rift Screech
+1 Rift Sorcerer
 1 Rift Whispers
-1 Seasoned Loremaster
 6 See Beyond
+1 Sorvald's Ignition
 1 Terrifying Nightmare
 1 The Yapper
 1 Thunderous Fury
-1 Triple Spell
+1 Unstable Contract
 1 Vampire's Bite
-1 Visionary Artificer
+1 Void Axe
 1 Void Drake
-1 Void Snap
 1 Void Spike
 1 Voidsworn Apostle
 1 Wild Wizard

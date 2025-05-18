@@ -1,57 +1,57 @@
-1 Apprentice Harbinger
-1 Astral Amulet
-1 Call the Divine
-1 Centrifuge
+1 Arcane Burst
+1 Burning Lich
+1 Catch!
 1 Chaotic Whirlwind
-1 Cleric's Automaton
 1 Coffee Trader
+1 Cosmic Justice
+1 Dark Wrath
 1 Dead on Arrival
-1 Deja Vu
 1 Divine Harmony
-1 Downtown Walk
 1 Embargo
-1 Emissary of Fear
-1 Excavation Automaton
 1 Faith Oldworld Directive
-1 Frostblade Adept
-1 Furious Sorcerer
-1 Gas Giant
+1 Golem Conjuring
+1 Golem Nexus
+1 Healing Amulet
 1 Helping Hands
 1 Hymn to the Pale Sun
-1 Knowledge Collection
+1 Invisible Haze
+1 Knowledge Requisitioner
 1 Lagoon Titan
-1 Loose Change
 1 Lore Dump
-1 Lost Tome
 1 Maddening Visions
-1 Meditation
-1 Myrkur Phantom
-1 Mysterious Mage
+1 Mystic Stone
 1 Necromancer's Touch
 1 Night of the Dead
-1 Nightfall
-1 Nomadic Spirit
-1 Ozen's Wrath
+1 Oruva Scout
+1 Palace Clock
 1 Pale Mountain Directive
 1 Pale Nightmare
 1 Pax Directive
-1 Power of Antiquity
-1 Question Station
+1 Probable Rivalry
+1 Procrastinate
+1 Prospector Zombie
+1 Quick Thinking
 1 Recurring Nightmare
-1 Relic Recovery
+1 Rift Arcanist
+1 Rift Ritual
 1 Rift Screech
-1 Rift Whispers
+1 Scour the Ruins
 1 Scrap Merchant
-1 Seasoned Loremaster
+1 Search for Omnipotence
 9 See Beyond
-1 Spirit Guide
-1 Stash Away
-1 Svet Scavenger
+1 Squish
+1 Svet Scout
 1 Termination
+1 Terrifying Vision
+1 The Departed
+1 The Yapper
 1 Tomb Hunter
+1 Twilight Isle Cleric
+1 Unexpected Rift
+1 Universal Stimulant
 1 Unstable Contract
-1 Voidsworn Apostle
-1 Wicked Pact
+1 Void Axe
+1 Void Spike
 10 Wilds of Atnia
 
 1 Atnia

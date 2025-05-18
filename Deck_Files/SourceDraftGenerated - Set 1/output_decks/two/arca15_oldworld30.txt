@@ -1,52 +1,52 @@
 1 A Difficult Choice
 1 Abandoned Automaton
-1 Ancient Necromancer
-1 Arcane Burst
-1 Arcane Chains
+1 Ancient Excavation
 1 Awakened Arbiter
+1 Blood Channeler
 1 Catch!
+1 Centrifuge
 1 Chaotic Whirlwind
+1 Collective Knowledge
+1 Construct Constructor
+1 Dark Wrath
 1 Dead on Arrival
 1 Doomed Nightmare
 1 Double Negative
-1 Dream Stalker
-1 Embargo
-1 Emissary of Fear
 1 Emotion Vampire
-1 Furious Sorcerer
-1 Gas Giant
-1 Giant Bat
-1 Golem Conjuring
-1 Helpful Automaton
+1 Essence of the Old World
+1 Excavation Automaton
+1 Golem Nexus
+1 Interrupt
 1 Junior Adventurer
-1 Knowledge Collection
-1 Knowledge Requisitioner
 1 Lagoon Titan
+1 Loose Change
+1 Master of Elements
 1 Myrkur Phantom
 1 Mystic Stone
 1 Night of the Dead
-1 Oana's Divination
-1 Oruva Scout
+1 Nightfall
 1 Outlander's Familiar
 1 Pax Directive
 1 Potent Divination
 1 Power of Antiquity
-1 Procrastinate
-1 Recycling
-1 Remake
 1 Return of the Vanished
 1 Return to the Earth
-1 Rift Ritual
-1 Rift Whispers
+1 Rift Screech
+1 Rift Sorcerer
 1 Ruins Scavenger
 1 Sage of the Sun
 1 Scrap Merchant
+1 Seasoned Loremaster
 6 See Beyond
 1 Squish
 1 Termination
+1 Terrifying Nightmare
+1 The Dreamer
 1 The Plan
-1 Void Snap
-1 Walk the Plank
+1 Train Station
+1 Unstable Contract
+1 Visionary Artificer
+1 Void Drake
 8 Wilds of Atnia
 
 1 Atnia
