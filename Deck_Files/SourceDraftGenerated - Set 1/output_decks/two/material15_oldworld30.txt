@@ -1,49 +1,49 @@
-1 Abandoned Automaton
-1 Absorb
-1 Airdrop
+1 A Difficult Choice
+1 Absolute Destruction
+1 Ancient Necromancer
+1 Annul
 1 Awakened Arbiter
-1 Centrifuge
+1 Blood Bank
+1 Bloodlust
+1 Catch!
 1 Cleric's Lens
-1 Collective Knowledge
+1 Construct Constructor
 1 Cryptic Swan
+1 Dead on Arrival
 1 Double Negative
-1 Essence of the Old World
-1 Ethereal Construct
-1 Excavation Automaton
-1 Frostblade Adept
-1 Furious Automaton
+1 Embargo
+1 Escaped Monster
+1 Familiar Shadow
+1 Fortress Automaton
+1 Frank
+1 Furious Sorcerer
 1 Gaston, Lekvian Squire
-1 Invisible Haze
+1 Golem Nexus
+1 Helping Hands
+1 Hidden Giant
+1 Hired Hands
+1 Junior Adventurer
 1 Knowledge Collection
-1 Lekvian Butler
-1 Life Manipulation
+1 Knowledge Requisitioner
 1 Lost Tome
-1 Menacing Automaton
-1 Mystic Stone
+1 Lost in the Wilds
+1 Lunar Suppression
+1 Malicious Receptionist
+1 Noddegamra
 1 Nomadic Spirit
-1 Outlander's Familiar
-1 Pesky Scribe
+1 Outlast
 1 Potent Divination
-1 Power of Antiquity
-1 Prepared Scribe
-1 Probable Rivalry
-1 Procrastinate
-1 Question Station
-1 Quick Thinking
-1 Recycling
-1 Remake
-1 Rugged Outlander
-1 Sage of the Sun
-1 Savage Snare
+1 Return of the Vanished
+1 Scour the Ruins
+1 Scrap Merchant
 6 See Beyond
-1 Siphon Power
-1 Spire Hunter
-1 Squish
+1 Starlight Cleric
 1 Stronghold Dispatch
-1 Sublimate
+1 The Dreamer
 1 The Plan
-1 Walk the Plank
-1 Wild Vision
+1 Train Station
+1 Vampiric Recovery
+1 Volcanic Giant
 8 Wilds of Atnia
 
 1 Atnia
@@ -77,3 +77,4 @@
 1 Pax Nova
 1 Lentholm
 1 Ecclesia Start
+1 Burst of Energy

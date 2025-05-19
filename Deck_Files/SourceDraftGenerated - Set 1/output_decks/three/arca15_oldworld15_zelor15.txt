@@ -1,58 +1,58 @@
-1 Abominable Cleric
-1 Aton Scout
-1 Become Large
+1 A Difficult Choice
+1 Abandoned Automaton
+1 Amatuer Wizarding
+1 Amnesia
+1 Ancient Excavation
+1 Arcane Chains
+1 Awakened Arbiter
 1 Burning Plain Directive
-1 Catch!
 1 Chaotic Whirlwind
 1 Cleric's Lens
-1 Cliffside Guard
-1 Collective Knowledge
-1 Combo Slice
 1 Countervailing Flames
-1 Cryptic Swan
+1 Cursed Tomb
+1 Dark Wrath
 1 Doomed Nightmare
-1 Double Negative
-1 Dune Paladin
 1 Electrolytes
-1 Elite Smith
-1 Emotion Vampire
+1 Embrace the Arcane
+1 Eruption
+1 Essence of the Old World
 1 Flame Oracle
-1 Forsaken Dreammage
+1 Flashback Attack
+1 Frank
 1 Frostblade Adept
-1 Golem Nexus
-1 Grim Librarians
-1 Inspired Encore
+1 Gas Giant
+1 Improvised Lightning
 1 Interrupt
-1 Junior Adventurer
-1 Knight of the Wheat
-1 Knowledge Collection
 1 Lagoon Titan
+1 Lavasmith
 1 Lore Dump
-1 Maddening Visions
 1 Master of Elements
-1 More Fire
-1 Mysterious Mage
-1 Mystic Stone
-1 Night of the Dead
-1 Novice Knight
+1 Nightfall
+1 Oana's Divination
 1 Old Zombiemancer
 1 Pax Directive
-1 Quick Thinking
-1 Replenish
-1 Rift Ritual
-1 Scorched Earth
+1 Pax Nova Scout
+1 Plasma Bolt
+1 Plunder
+1 Psychic Intrusion
+1 Recycling
+1 Return to the Earth
+1 Rift Screech
+1 Ruins Scavenger
 9 See Beyond
+1 Set Ablaze
+1 Termination
+1 Terrifying Nightmare
 1 The Dreamer
-1 The Plan
 1 The Yapper
-1 Thorny Defense
+1 Triple Spell
 1 Vampire's Bite
-1 Visionary Artificer
-1 Void Drake
+1 Void Snap
 1 Voidsworn Apostle
-1 Wicked Pyromancer
+1 Volcanic Vision
 1 Wild Wizard
 10 Wilds of Atnia
+1 Wizard's Familiar
 1 Zelor Oldworld Directive
 
 1 Atnia
@@ -86,3 +86,4 @@
 1 Pax Nova
 1 Lentholm
 1 Ecclesia Start
+1 Burst of Energy

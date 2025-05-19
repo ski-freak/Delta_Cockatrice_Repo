@@ -1,51 +1,51 @@
 1 Amnesia
-1 Annoying Scribe
-1 Aton Battlemaster
+1 Battle Rage
 1 Battlefield Commander
-1 Benjamin
-1 Bermuda Triangle
+1 Bold Warrior
+1 Borrow Time
 1 Burning Man
-1 Cliffside Guard
-1 Defiant Scribe
+1 Clockwork Soldier
+1 Deadly Strike
+1 Death Elemental
+1 Devout Arbiter
+1 Dissociation
 1 Dune Paladin
-1 Embrace the Arcane
-1 Eternal Navigator
-1 Fireball
+1 Eruption
+1 Escaped Monster
+1 Final Strike
+1 Flank
 1 Flash Freeze
-1 Frost Sprint
-1 George
+1 Force Field
+1 Fortress Automaton
+1 Heroic Moment
+1 Hired Hands
+1 Injury to Insult
+1 Isolated Archer
 1 Knight of the Moon
 1 Knight of the Wheat
-1 Lavasmith
 1 Leave me Alone
-1 Lekvian Butler
-1 Liev Warrior
-1 Life Manipulation
+1 Looming Overlord
 1 Martial Zelor Directive
-1 Might of the Woods
-1 More Fire
-1 Myrkur Protector
+1 Master Duelist
+1 Merry Duelist
 1 Mystical Cache
-1 Oasis Giant
-1 Outlast
-1 Pax Nova Battlemage
-1 Prepared Scribe
-1 Priest of Death
-1 Rosilie D'Avron
-1 Royal Guard
+1 Novice Law-Binder
+1 Pax Nova Scout
+1 Plunder
+1 Quiet Mage
+1 Rugged Outlander
 9 See Beyond
-1 Sinkhole
-1 Sneak Attack
+1 Sorvald's Ignition
 1 Steadfast Arbiter
-1 Swift Rescue
-1 Team Up
-1 The Doublemeister
-1 Vampire's Grasp
-1 Volcanic Giant
-1 Wicked Pyromancer
+1 Stochastic Ignition
+1 Stronghold Guard
+1 Sublimate
+1 The Renegade
+1 Thunderous Fury
+1 Tower Thief
+1 Unfortunate Accident
+1 Volcanic Vision
 10 Wilds of Atnia
-1 Wizard's Familiar
-1 Workshop Automaton
 
 1 Atnia
 1 Golem
@@ -78,3 +78,4 @@
 1 Pax Nova
 1 Lentholm
 1 Ecclesia Start
+1 Burst of Energy

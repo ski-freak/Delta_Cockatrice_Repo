@@ -1,54 +1,55 @@
-1 A Difficult Choice
-1 A Trick
 1 Abandoned Automaton
 1 Abominable Cleric
-1 Airdrop
-1 Annul
 1 Arbiter Marshal
-1 Arbiter Medic
 1 Arcane Burst
+1 Astral Amulet
+1 Awakened Arbiter
+1 BSOD
 1 Chaotic Whirlwind
+1 Collective Knowledge
 1 College of Dreams Directive
 1 Contemplate
-1 Dark Wrath
-1 Dropkick
-1 Emissary of Fear
-1 Emotion Vampire
+1 Devastating Decoy
+1 Doomed Nightmare
+1 Embargo
 1 Esmund's Divination
-1 Furious Sorcerer
-1 Giant Bat
+1 Forgetful Arbiter
+1 Forsaken Dreammage
+1 Frank
+1 Gas Giant
+1 Golem Nexus
+1 Helpful Automaton
+1 Honorable Knight
 1 Instant Shield
-1 Junior Adventurer
-1 Knowledge Requisitioner
 1 Lagoon Titan
-1 Liev Arbiter
-1 Lore Dump
+1 Liase of the Two Scrolls
+1 Loose Change
 1 Lost Tome
 1 Maddening Visions
-1 Oruva Scout
+1 Mysterious Mage
+1 Night of the Dead
+1 Old Zombiemancer
+1 Outlands Commander
 1 Pax Directive
+1 Probable Rivalry
 1 Question Station
-1 Quick Thinking
-1 Resilient Knight
-1 Rift Sorcerer
+1 Recurring Nightmare
+1 Recycling
 1 Rift Whispers
-1 Seasoned Loremaster
+1 Scour the Ruins
 9 See Beyond
 1 Spectral Agent
 1 Speed Check
-1 Speedy Arbiter
 1 Squish
-1 Starlight Cleric
 1 Steel Resolve
 1 Stronghold Directive
-1 Stronghold Dispatch
-1 The Dreamer
+1 Temporary Disappearance
+1 Terrifying Nightmare
 1 The Yapper
-1 Thunder Knight
-1 Train Station
-1 Void Snap
-1 Void Spike
-1 Wave of Doubt
+1 Try Again
+1 Tundra Arbiter
+1 Voidsworn Apostle
+1 Walk the Plank
 10 Wilds of Atnia
 
 1 Atnia
@@ -82,3 +83,4 @@
 1 Pax Nova
 1 Lentholm
 1 Ecclesia Start
+1 Burst of Energy

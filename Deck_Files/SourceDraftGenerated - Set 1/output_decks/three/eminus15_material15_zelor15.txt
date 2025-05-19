@@ -1,53 +1,53 @@
-1 Absolute Destruction
-1 Absorb
-1 Battle Rage
-1 Bermuda Triangle
+1 Amnesia
+1 Arbiter Medic
+1 BSOD
+1 Bloodlust
+1 Burning Man
 1 Burst of Speed
-1 Clockwork Soldier
-1 Defiant Scribe
-1 Dropkick
 1 Duel of Honor
-1 Embrace the Arcane
-1 Energy Drain
+1 Eruption
+1 Escaped Monster
 1 Esmund's Divination
-1 Eternal Navigator
 1 Explosive Breakthrough
-1 Fire Channeler
-1 Flame Oracle
-1 Forgetful Arbiter
-1 Fortress Automaton
 1 Frightening Arbiter
-1 Furious Automaton
-1 Gaston, Lekvian Squire
 1 Healing Potion
-1 Improvised Lightning
-1 Instant Shield
+1 Honorable Knight
+1 Interfering Arbiter
 1 Knight of the Wheat
 1 Knightly Mentor
 1 Knightly Reinforcements
-1 Lavasmith
-1 Lost in the Wilds
+1 Lekvian Butler
+1 Lekvian Traveler
 1 Magic Trick
+1 Magical Zenith
 1 Merry Duelist
-1 Mind Trauma
-1 Novice Knight
+1 More Fire
+1 Outlands Accountant
 1 Pax Nova Directive
-1 Plasma Bolt
-1 Radiating Force
+1 Pax Nova Scout
+1 Psychic Intrusion
+1 Replenish
+1 Rugged Outlander
+1 Savage Snare
+1 Scorched Earth
 9 See Beyond
-1 Shifting Mirage
+1 Set Ablaze
+1 Skyknight
+1 Sorvald's Insight
 1 Spectacular Sweep
+1 Speed Check
 1 Steel Resolve
-1 Strategize
 1 Sublimate
 1 Temporary Disappearance
 1 Thorny Defense
-1 Thunder Knight
+1 Thunderous Fury
 1 Try Again
+1 Unfortunate Accident
+1 Vampire's Grasp
+1 Vexing Scribe
 1 Volcanic Giant
-1 Wave of Doubt
-1 Wild Vision
 10 Wilds of Atnia
+1 Wolkk Twinspear
 1 Workshop Automaton
 
 1 Atnia
@@ -81,3 +81,4 @@
 1 Pax Nova
 1 Lentholm
 1 Ecclesia Start
+1 Burst of Energy

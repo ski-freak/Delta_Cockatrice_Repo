@@ -1,56 +1,56 @@
-1 Apprentice Harbinger
-1 Arbiter Medic
-1 Battle Rage
+1 Abominable Egg
+1 Arbiter Marshal
+1 BSOD
 1 Beckon Home
-1 Burning Man
+1 Become Large
 1 Burst of Speed
-1 Contemplate
-1 Embrace the Arcane
+1 Coffee Trader
+1 Combo Slice
+1 Deja Vu
+1 Demon of Consumption
+1 Devastating Decoy
+1 Devout Healer
+1 Dropkick
+1 Duel of Honor
+1 Elite Smith
 1 Eminus Faith Directive
-1 Evil Opportunity
+1 Eruption
+1 Ethereal Mirage
 1 Explosive Breakthrough
-1 Extreme Heat
 1 Fire Channeler
-1 Flame Oracle
-1 Get Back In There
-1 Honorable Knight
+1 Force Field
+1 Globe of 1000 Souls
 1 Imposing Presence
 1 Inspired Encore
-1 Interfering Arbiter
+1 Instant Shield
+1 Knight of the Wheat
 1 Knightly Mentor
+1 Lavasmith
 1 Liev Arbiter
 1 Living Relic
-1 Magical Zenith
-1 Merry Duelist
 1 Mind Trauma
-1 Mysterious Cleric
-1 Nullify Magic
+1 Ozen's Temple
+1 Ozen's Wrath
 1 Palace Clock
-1 Passive Income Scheme
+1 Pax Nova Battlemage
 1 Pax Nova Directive
 1 Pax Nova Scout
-1 Plunder
-1 Replenish
-1 Resilient Knight
+1 Phantom Angel
+1 Radiating Force
+1 Reawaken in Dream
 9 See Beyond
+1 Shifting Mirage
 1 Skyhaven Cannon
 1 Skyknight
-1 Sorvald's Ignition
 1 Spectacular Sweep
-1 Spectral Agent
-1 Speed Check
 1 Spirit Guide
-1 Stash Away
-1 The Departed
-1 Thunderous Fury
+1 Strategize
+1 Thorny Defense
 1 Transcend
-1 Try Again
 1 Tundra Arbiter
-1 Underwater Emergence
-1 Void Capsule
-1 Void Shift
+1 Volcanic Vision
+1 Wave of Doubt
 10 Wilds of Atnia
-1 Wizard's Familiar
 1 Zelor Faith Directive
 
 1 Atnia
@@ -84,3 +84,4 @@
 1 Pax Nova
 1 Lentholm
 1 Ecclesia Start
+1 Burst of Energy

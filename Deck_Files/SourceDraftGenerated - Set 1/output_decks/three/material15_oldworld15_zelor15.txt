@@ -1,52 +1,52 @@
-1 A Difficult Choice
-1 Aggravating Scribe
-1 Amatuer Wizarding
-1 Annoying Scribe
-1 Apprentice Spellcaster
+1 Absolute Destruction
+1 Ancient Necromancer
+1 Aton Scout
+1 Battle Rage
 1 Become Large
-1 Blood Bank
-1 Cliffside Guard
+1 Bermuda Triangle
+1 Centrifuge
 1 Clockwork Soldier
-1 Collective Knowledge
 1 Countervailing Flames
-1 Cryptic Swan
-1 Dead on Arrival
 1 Electrolytes
-1 Energy Drain
-1 Eruption
-1 Eternal Navigator
-1 Excavation Automaton
-1 Familiar Shadow
-1 Fire Channeler
-1 Fireball
+1 Embrace the Arcane
+1 Ethereal Construct
 1 Flashback Attack
-1 Furious Sorcerer
-1 Healing Potion
+1 Frostblade Adept
 1 Helpful Automaton
-1 Helping Hands
-1 Improvised Lightning
-1 Knight of the Moon
 1 Knight of the Wheat
-1 Knowledge Collection
-1 Leave me Alone
-1 Lekvian Butler
-1 Lost Tome
+1 Knowledge Requisitioner
+1 Life Manipulation
+1 Loose Change
+1 Magic Trick
+1 Magical Zenith
+1 Malicious Receptionist
+1 Nomadic Spirit
+1 Outlander's Familiar
 1 Outlands Accountant
-1 Outlast
-1 Psychic Intrusion
+1 Pax Nova Scout
+1 Pesky Scribe
+1 Plasma Bolt
+1 Plunder
+1 Prepared Scribe
+1 Priest of Death
+1 Quick Thinking
+1 Quiet Mage
+1 Recycling
 1 Remake
+1 Replenish
+1 Return of the Vanished
 1 Rosilie D'Avron
-1 Scrap Merchant
+1 Ruins Scavenger
 9 See Beyond
+1 Set Ablaze
 1 Squish
-1 Starlight Cleric
+1 Stochastic Ignition
 1 Stronghold Dispatch
-1 Thorny Defense
+1 Vampiric Recovery
 1 Vexing Scribe
-1 Volcanic Vision
 1 Wild Vision
 10 Wilds of Atnia
-1 Workshop Automaton
+1 Wizard's Familiar
 1 Zelor Oldworld Directive
 
 1 Atnia
@@ -80,3 +80,4 @@
 1 Pax Nova
 1 Lentholm
 1 Ecclesia Start
+1 Burst of Energy

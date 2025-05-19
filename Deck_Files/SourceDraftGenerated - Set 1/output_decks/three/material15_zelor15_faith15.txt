@@ -1,50 +1,48 @@
 1 Absolute Destruction
-1 Amnesia
-1 Ancient Dreamshaper
-1 Annoying Scribe
-1 Awaken the Hooligans
-1 Back Again
-1 Battle Rage
-1 Blood Bank
 1 Bloodlust
-1 Call the Divine
-1 Cliffside Guard
-1 Combo Slice
-1 Construct a Construct
-1 Cosmic Justice
+1 Clockwork Soldier
+1 Dark Aperture
 1 Defiant Scribe
-1 Deja Vu
+1 Demon of Consumption
+1 Downtown Walk
+1 Dune Paladin
 1 Elite Smith
-1 Familiar Shadow
+1 Ethereal Mirage
 1 Fire Channeler
-1 Flame Oracle
-1 Force Field
+1 Fireball
 1 Forgotten Hunter
-1 Gaston, Lekvian Squire
-1 Goblin Scout
-1 Golem Conjurer
-1 Hired Hands
+1 Globe of 1000 Souls
+1 Healing Potion
+1 Injury to Insult
+1 Inspired Encore
+1 Knight of the Moon
 1 Knight of the Torch
-1 Meditation
-1 Noddegamra
-1 Novice Knight
-1 Outlands Accountant
+1 Knight of the Wheat
+1 Life Manipulation
+1 Looming Overlord
+1 Lost in the Wilds
+1 Mechanical Vampire
 1 Outlast
+1 Ozen's Wrath
 1 Palace Clock
-1 Pax Nova Scout
-1 Prospector Zombie
+1 Pesky Scribe
+1 Plasma Bolt
+1 Plunder
+1 Relic Recovery
+1 Rugged Outlander
+3 Search for Omnipotence
 9 See Beyond
-1 Self Improver
-1 Set Ablaze
-1 Siphon Power
-1 Solemn Scout
 1 Sorvald's Ignition
-1 Spire Hunter
-1 Stochastic Ignition
-1 Substitute
-1 Twilight Isle Cleric
-1 Unknowable Horror
+1 Spirit Guide
+1 Stash Away
+1 Thorny Defense
+1 Thunderous Fury
+1 Tomb Hunter
+1 Vampire's Grasp
+1 Void Capsule
+1 Volcanic Vision
 10 Wilds of Atnia
+1 Workshop Automaton
 1 Zelor Faith Directive
 
 1 Atnia
@@ -78,3 +76,4 @@
 1 Pax Nova
 1 Lentholm
 1 Ecclesia Start
+1 Burst of Energy

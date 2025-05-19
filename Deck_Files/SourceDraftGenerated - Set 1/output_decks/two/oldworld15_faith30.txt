@@ -1,50 +1,49 @@
-1 A Difficult Choice
-1 Abandoned Automaton
-1 Awaken the Hooligans
-1 Construct Constructor
-1 Construct a Construct
+1 Abominable Egg
+1 Amatuer Illusionist
+1 Ancient Excavation
+1 Annul
+1 Call the Divine
+1 Centrifuge
+1 Cleric's Lens
+1 Cosmic Justice
+1 Cryptic Swan
+1 Cursed Portal
 1 Deja Vu
-1 Devout Healer
-1 Double Negative
-1 Eternal Guard
+1 Downtown Walk
+1 Ethereal Mirage
 1 Evil Opportunity
 1 Faith Oldworld Directive
 1 Frank
-1 Frost Eruption
-1 Get Back In There
-1 Goblin Scout
+1 Glimpse Disaster
 1 Golem Nexus
-1 Haunted Warlock
-1 Knowledge Collection
+1 Healing Amulet
+1 Inspired Cleric
+1 Living Relic
 1 Meditation
+1 Mindless Cleric
 1 Mysterious Cleric
-1 Nomadic Spirit
+1 Mystic Stone
+1 Oana's Divination
 1 Oln's Binding
 1 Out of Mind
-1 Outlands Commander
+1 Ozen's Fury
+1 Ozen's Temple
 1 Ozen's Wrath
-1 Power of Antiquity
-1 Reawaken in Dream
-1 Return to the Earth
-1 Rift Arcanist
+1 Recycling
+1 Remake
+1 Return of the Vanished
 1 Ruins Scavenger
-1 Sage of the Sun
-1 Scour the Ruins
+2 Search for Omnipotence
 6 See Beyond
-1 Solemn Scout
-1 Spiteful Cleric
-1 Squiggly Slime
-1 Squish
-1 Stash Away
-1 Substitute
-1 Svet Scavenger
+1 Skyhaven Cannon
+1 Starlight Cleric
 1 Svet Scout
-1 Svet Sigil
-1 Transcend
-1 Underwater Emergence
-1 Unexpected Rift
+1 Terrifying Vision
+1 Tomb Hunter
+1 Universal Stimulant
 1 Void Capsule
-1 Void Cleric
+1 Void Shift
+1 Walk the Plank
 8 Wilds of Atnia
 
 1 Atnia
@@ -78,3 +77,4 @@
 1 Pax Nova
 1 Lentholm
 1 Ecclesia Start
+1 Burst of Energy

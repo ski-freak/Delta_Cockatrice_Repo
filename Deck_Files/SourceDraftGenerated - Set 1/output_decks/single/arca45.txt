@@ -1,17 +1,17 @@
 1 Abominable Cleric
-2 Arcane Burst
+1 Arcane Burst
 1 Arcane Chains
-1 Astral Amulet
+2 Astral Amulet
 1 Blood Channeler
 1 Burning Lich
 1 Cursed Tomb
-2 Dark Wrath
+1 Dark Wrath
 1 Doomed Nightmare
 1 Dream Stalker
 1 Emissary of Fear
 1 Emotion Vampire
 1 Forsaken Dreammage
-1 Forsaken Spellcaster
+2 Forsaken Spellcaster
 1 Gas Giant
 1 Giant Bat
 1 Golem Conjuring
@@ -74,3 +74,4 @@
 1 Pax Nova
 1 Lentholm
 1 Ecclesia Start
+1 Burst of Energy

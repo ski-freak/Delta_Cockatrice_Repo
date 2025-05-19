@@ -1,57 +1,57 @@
-1 Arcane Burst
-1 Burning Lich
-1 Catch!
+1 Airdrop
+1 Amatuer Illusionist
 1 Chaotic Whirlwind
-1 Coffee Trader
-1 Cosmic Justice
-1 Dark Wrath
-1 Dead on Arrival
+1 Cleric's Lens
+1 Dark Aperture
+1 Demon of Consumption
+1 Devout Healer
 1 Divine Harmony
-1 Embargo
+1 Doomed Nightmare
+1 Double Negative
+1 Emissary of Fear
+1 Emotion Vampire
+1 Excavation Automaton
 1 Faith Oldworld Directive
-1 Golem Conjuring
-1 Golem Nexus
+1 Frostblade Adept
+1 Furious Sorcerer
+1 Get Back In There
+1 Giant Bat
 1 Healing Amulet
-1 Helping Hands
 1 Hymn to the Pale Sun
 1 Invisible Haze
-1 Knowledge Requisitioner
 1 Lagoon Titan
 1 Lore Dump
-1 Maddening Visions
-1 Mystic Stone
-1 Necromancer's Touch
-1 Night of the Dead
+1 Mysterious Cleric
+1 Mysterious Mage
+1 Old Zombiemancer
 1 Oruva Scout
+1 Outlander's Familiar
 1 Palace Clock
 1 Pale Mountain Directive
 1 Pale Nightmare
 1 Pax Directive
 1 Probable Rivalry
 1 Procrastinate
-1 Prospector Zombie
-1 Quick Thinking
-1 Recurring Nightmare
-1 Rift Arcanist
-1 Rift Ritual
-1 Rift Screech
-1 Scour the Ruins
+1 Recycling
+1 Rift Sorcerer
 1 Scrap Merchant
 1 Search for Omnipotence
+1 Seasoned Loremaster
 9 See Beyond
-1 Squish
+1 Skyhaven Cannon
+1 Starlight Cleric
+1 Substitute
 1 Svet Scout
 1 Termination
+1 Terrifying Nightmare
 1 Terrifying Vision
-1 The Departed
 1 The Yapper
-1 Tomb Hunter
-1 Twilight Isle Cleric
-1 Unexpected Rift
-1 Universal Stimulant
-1 Unstable Contract
-1 Void Axe
-1 Void Spike
+1 Void Capsule
+1 Void Drake
+1 Void Shift
+1 Void Snap
+1 Voidsworn Apostle
+1 Walk the Plank
 10 Wilds of Atnia
 
 1 Atnia
@@ -85,3 +85,4 @@
 1 Pax Nova
 1 Lentholm
 1 Ecclesia Start
+1 Burst of Energy

@@ -1,53 +1,52 @@
-1 Absorb
-1 Aggravating Scribe
+1 Abominable Egg
+1 Annoying Scribe
 1 Astral Amulet
-1 Awaken the Hooligans
-1 Blood Bank
-1 Coffee Trader
-1 Construct a Construct
-1 Dark Wrath
+1 Bloodlust
+1 Burning Lich
+1 Clockwork Soldier
 1 Death Elemental
-1 Defiant Scribe
+1 Demon of Consumption
+1 Disappearing Orb
 1 Divine Harmony
 1 Dream Stalker
-1 Emotion Vampire
-1 Fortress Automaton
-1 Gas Giant
-1 Get Back In There
-1 Healing Potion
+1 Emissary of Fear
+1 Escaped Monster
+1 Ethereal Construct
+2 Evil Opportunity
+1 Final Strike
+1 Forsaken Dreammage
+1 Forsaken Spellcaster
+1 Gaston, Lekvian Squire
+1 Globe of 1000 Souls
+1 Golem Conjurer
+1 Healing Amulet
 1 Hymn to the Pale Sun
-1 Maddening Visions
-1 Menacing Automaton
-1 Mysterious Mage
-1 Necromancer's Touch
-1 Night of the Dead
-1 Out of Mind
-1 Outlands Accountant
+1 Isolated Archer
+1 Leave me Alone
+1 Master of Elements
+1 Myrkur Phantom
+1 Mysterious Cleric
+1 Ozen's Wrath
+1 Palace Clock
 1 Pale Mountain Directive
 1 Pale Nightmare
 1 Passive Income Scheme
-1 Priest of Death
-1 Prospector Zombie
+1 Quiet Mage
+1 Reawaken in Dream
+1 Relic Recovery
 1 Rift Ritual
 1 Rift Sorcerer
-1 Search for Omnipotence
+1 Rift Whispers
 9 See Beyond
 1 Self Improver
-1 Sorvald's Insight
-1 Spire Hunter
+1 Spirit Guide
 1 Spirit of Monumentality
-1 Spiteful Cleric
-1 Svet Scavenger
-1 Terrifying Nightmare
-1 The Yapper
-1 Unexpected Rift
-1 Unknowable Horror
+1 Unstable Contract
+1 Vampire's Grasp
 1 Vampiric Recovery
-1 Void Axe
 1 Void Drake
-1 Void Shift
-1 Voidsworn Apostle
-1 Volcanic Giant
+1 Void Snap
+1 Void Spike
 10 Wilds of Atnia
 
 1 Atnia
@@ -81,3 +80,4 @@
 1 Pax Nova
 1 Lentholm
 1 Ecclesia Start
+1 Burst of Energy

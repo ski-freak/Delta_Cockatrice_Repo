@@ -1,49 +1,49 @@
-1 Aggravating Scribe
-1 Ancient Dreamshaper
+1 Abominable Egg
+1 Absolute Destruction
+1 Amatuer Illusionist
 1 Apprentice Harbinger
-1 Awaken the Hooligans
-1 Back Again
 1 Call the Divine
-1 Coffee Trader
-1 Death Elemental
-1 Defiant Scribe
-1 Deploy Automatons
-1 Downtown Walk
-1 Haunted Warlock
+1 Dark Aperture
+1 Demon of Consumption
+1 Devout Healer
+1 Disappearing Orb
+1 Ethereal Construct
+1 Ethereal Mirage
+1 Evil Opportunity
+1 Get Back In There
+1 Glimpse Disaster
+1 Healing Amulet
 1 Healing Potion
-1 Injury to Insult
-1 Leave me Alone
-1 Lekvian Traveler
-1 Life Manipulation
-1 Living Relic
+1 Hired Hands
+1 Intimidating Scribe
+1 Lekvian Butler
+1 Malicious Receptionist
 1 Mechanical Vampire
 1 Meditation
-1 Menacing Scribe
-1 Mindless Cleric
 1 Mysterious Cleric
-1 Outlands Accountant
-1 Ozen's Temple
-1 Palace Clock
-1 Passive Income Scheme
-1 Recruiter of the Dead
+1 Out of Mind
+1 Ozen's Wrath
+1 Prepared Scribe
+1 Reawaken in Dream
+1 Relic Recovery
+1 Rosilie D'Avron
+1 Rugged Outlander
 1 Search for Omnipotence
 6 See Beyond
-1 Solemn Scout
+1 Skyhaven Cannon
 1 Spirit Guide
 1 Spirit of Monumentality
-1 Squiggly Slime
-1 Stash Away
-1 Sublimate
-1 Substitute
-1 Svet Sigil
-1 Terrifying Vision
+1 Svet Scout
 1 The Departed
-1 Underwater Emergence
-1 Unexpected Rift
+1 Tomb Hunter
+1 Transcend
 1 Unfortunate Accident
-1 Universal Stimulant
-1 Vampiric Recovery
-1 Wild Vision
+1 Vampire's Grasp
+1 Vexing Scribe
+1 Void Capsule
+1 Void Cleric
+1 Void Shift
+1 Volcanic Giant
 8 Wilds of Atnia
 
 1 Atnia
@@ -77,3 +77,4 @@
 1 Pax Nova
 1 Lentholm
 1 Ecclesia Start
+1 Burst of Energy

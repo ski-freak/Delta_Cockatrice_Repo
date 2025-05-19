@@ -1,51 +1,51 @@
-1 A Difficult Choice
-1 Ambush
-1 Annul
-1 Blood Bank
+1 Absorb
+1 Ancient Necromancer
+1 Annoying Scribe
+1 Borrow Time
 1 Catch!
-1 Cryptic Swan
+1 Cleric's Lens
+1 Cruel Messenger
 1 Deadly Strike
+1 Death Elemental
+1 Defiant Scribe
+1 Dissociation
+1 Emergency Supply Kit
+1 Essence of the Old World
 1 Ether Charge
-1 Familiar Shadow
-1 Final Strike
-1 Fortress Automaton
-1 George
-1 Golem Nexus
+1 Excavation Automaton
+1 Flank
+1 Frank
+1 Furious Automaton
+1 Golem Conjurer
 1 Hidden Giant
-1 Hunter's Hawk
-1 Injury to Insult
 1 Intimidating Scribe
-1 Invisible Haze
+1 Isolated Archer
 1 Junior Adventurer
 1 K.O. Punch
-1 Knowledge Requisitioner
-1 Lekvian Vampire
-1 Looming Overlord
-1 Lost Tome
+1 Loose Change
+1 Master Duelist
 1 Menacing Automaton
 1 Mystical Cache
-1 Noddegamra
-1 Nomadic Spirit
-1 Novice Law-Binder
-1 Oasis Giant
+1 Oana's Divination
 1 Oldworld Martial Directive
-1 Outlands Commander
 1 Outlast
+1 Potent Divination
 1 Power of Antiquity
-1 Rosilie D'Avron
+1 Question Station
+1 Quick Thinking
+1 Round Two
 1 Rugged Outlander
+1 Sage of the Sun
+1 Savage Snare
 9 See Beyond
-1 Self Improver
-1 Soul Link
-1 Spare Violence
-1 Squish
-1 The Renegade
+1 Steadfast Arbiter
+1 Team Up
+1 The Doublemeister
 1 Train Station
-1 Vampiric Recovery
-1 Walk the Plank
+1 War Elephant
 1 Warrior's Training
+1 Wild Vision
 10 Wilds of Atnia
-1 Workshop Automaton
 
 1 Atnia
 1 Golem
@@ -78,3 +78,4 @@
 1 Pax Nova
 1 Lentholm
 1 Ecclesia Start
+1 Burst of Energy

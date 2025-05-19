@@ -1,53 +1,53 @@
 1 Abominable Cleric
-1 Abominable Egg
-1 Apprentice Harbinger
 1 Arcane Burst
 1 Arcane Chains
-1 Astral Amulet
 1 Blood Channeler
 1 Burning Lich
-1 Coffee Trader
 1 Cursed Tomb
-1 Demon of Consumption
-1 Deploy Automatons
+1 Dark Wrath
+1 Disappearing Orb
 1 Divine Harmony
-1 Doomed Nightmare
-1 Dream Stalker
-1 Eternal Guard
+1 Downtown Walk
+1 Emotion Vampire
 1 Ethereal Mirage
-1 Forsaken Spellcaster
+1 Forsaken Dreammage
 1 Giant Bat
+1 Glimpse Disaster
 1 Golem Conjuring
 1 Hymn to the Pale Sun
 1 Lore Dump
-1 Maddening Visions
-1 Master of Elements
 1 Myrkur Phantom
 1 Mysterious Mage
 1 Night of the Dead
 1 Nightfall
-1 Old Zombiemancer
+1 Oln's Binding
+1 Oruva Scout
+1 Ozen's Fury
+1 Palace Clock
 1 Pale Mountain Directive
 1 Pale Nightmare
 1 Passive Income Scheme
 1 Recurring Nightmare
-1 Rift Ritual
-1 Rift Screech
+1 Relic Recovery
 1 Rift Sorcerer
+1 Rift Whispers
+1 Search for Omnipotence
 1 Seasoned Loremaster
 6 See Beyond
-1 Suspicious Trader
-1 Svet Scavenger
-1 The Departed
+1 Spirit Guide
+1 Terrifying Nightmare
+1 Terrifying Vision
 1 The Yapper
-1 Unexpected Rift
-1 Unknowable Horror
+1 Transcend
+1 Universal Stimulant
 1 Unstable Contract
+1 Visionary Artificer
 1 Void Axe
 1 Void Cleric
 1 Void Drake
-1 Void Shift
+1 Void Snap
 1 Void Spike
+1 Voidsworn Apostle
 8 Wilds of Atnia
 
 1 Atnia
@@ -81,3 +81,4 @@
 1 Pax Nova
 1 Lentholm
 1 Ecclesia Start
+1 Burst of Energy

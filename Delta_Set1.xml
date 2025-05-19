@@ -534,6 +534,10 @@
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Burning%20Plain%20Directive.png">Del1</set>
     </card>
     <card>
+        <name>Burst of Energy</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Burst%20of%20Energy.png">Del1</set>
+    </card>
+    <card>
         <name>Burst of Speed</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Burst%20of%20Speed.png">Del1</set>
     </card>
@@ -3136,6 +3140,10 @@
     <card>
         <name>Rotten Deal</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Rotten%20Deal.png">Del1</set>
+    </card>
+    <card>
+        <name>Round Two</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Round%20Two.png">Del1</set>
     </card>
     <card>
         <name>Royal Guard</name>

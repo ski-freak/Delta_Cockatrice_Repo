@@ -1,50 +1,50 @@
-1 Abominable Cleric
 1 Absorb
-1 Aggravating Scribe
-1 Arcane Chains
-1 Astral Amulet
-1 Bermuda Triangle
+1 Annoying Scribe
 1 Blood Bank
 1 Borrow Time
-1 Burning Lich
+1 Clockwork Soldier
 1 Dark Wrath
 1 Death Elemental
-1 Energy Drain
+1 Defiant Scribe
+1 Dream Stalker
+1 Emissary of Fear
+1 Emotion Vampire
+1 Ethereal Construct
 1 Forsaken Dreammage
-1 Golem Conjurer
+1 Fortress Automaton
+1 Giant Bat
 1 Golem Conjuring
-1 Hired Hands
-1 Injury to Insult
-1 Leave me Alone
-1 Lekvian Traveler
+1 Healing Potion
+1 Hidden Giant
+1 Intimidating Scribe
+1 Isolated Archer
 1 Lekvian Vampire
 1 Life Manipulation
-1 Master of Elements
+1 Looming Overlord
+1 Malicious Receptionist
+1 Mechanical Vampire
 1 Menacing Automaton
-1 Menacing Scribe
-1 Might of the Woods
+1 Myrkur Phantom
+1 Noddegamra
 1 Old Zombiemancer
-1 Prepared Scribe
-1 Rift Ritual
-1 Rift Screech
-1 Rift Whispers
-1 Rosilie D'Avron
-1 Savage Snare
+1 Outlast
+1 Priest of Death
+1 Quiet Mage
+1 Recurring Nightmare
+1 Rift Sorcerer
+1 Rugged Outlander
+1 Seasoned Loremaster
 6 See Beyond
-1 Sinkhole
-1 Siphon Power
+1 Self Improver
 1 Sorvald's Insight
 1 Spire Hunter
 1 Sublimate
-1 Triple Spell
+1 Terrifying Nightmare
+1 The Yapper
 1 Unfortunate Accident
-1 Vampiric Recovery
-1 Vexing Scribe
-1 Void Axe
-1 Voidsworn Apostle
+1 Void Snap
 1 Wild Vision
 8 Wilds of Atnia
-1 Workshop Automaton
 
 1 Atnia
 1 Golem
@@ -77,3 +77,4 @@
 1 Pax Nova
 1 Lentholm
 1 Ecclesia Start
+1 Burst of Energy

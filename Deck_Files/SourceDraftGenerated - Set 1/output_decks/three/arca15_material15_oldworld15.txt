@@ -1,53 +1,53 @@
-1 A Difficult Choice
+1 Abandoned Automaton
 1 Abominable Cleric
-1 Arcane Burst
-1 Astral Amulet
-1 Blood Channeler
-1 Bloodlust
-1 Borrow Time
-1 Catch!
+1 Absolute Destruction
+1 Ancient Necromancer
+1 Annoying Scribe
+1 Arcane Chains
+1 Blood Bank
 1 Chaotic Whirlwind
 1 Cleric's Lens
 1 Clockwork Soldier
+1 Construct Constructor
+1 Cryptic Swan
 1 Cursed Tomb
+1 Dark Wrath
 1 Death Elemental
-1 Defiant Scribe
-1 Emissary of Fear
-1 Essence of the Old World
-1 Gas Giant
-1 Gaston, Lekvian Squire
-1 Helpful Automaton
-1 Intimidating Scribe
-1 Junior Adventurer
+1 Dream Stalker
+1 Energy Drain
+1 Excavation Automaton
+1 Forsaken Spellcaster
+1 Golem Conjuring
+1 Grim Librarians
+1 Healing Potion
+1 Hired Hands
+1 Knowledge Collection
 1 Lagoon Titan
-1 Lekvian Butler
-1 Lekvian Traveler
+1 Loose Change
 1 Lore Dump
 1 Lost Tome
-1 Lunar Suppression
 1 Maddening Visions
-1 Mechanical Vampire
-1 Menacing Automaton
-1 Nightfall
+1 Master of Elements
+1 Noddegamra
 1 Nomadic Spirit
-1 Oana's Divination
-1 Outlast
+1 Oruva Scout
 1 Pax Directive
-1 Power of Antiquity
-1 Priest of Death
-1 Procrastinate
-1 Return of the Vanished
-1 Return to the Earth
-1 Seasoned Loremaster
+1 Pesky Scribe
+1 Question Station
+1 Rift Screech
+1 Rift Whispers
+1 Sage of the Sun
+1 Savage Snare
 9 See Beyond
-1 Squish
-1 Terrifying Nightmare
-1 The Yapper
-1 Vampiric Recovery
-1 Visionary Artificer
-1 Void Snap
-1 Wild Vision
+1 Self Improver
+1 Starlight Cleric
+1 Train Station
+1 Triple Spell
+1 Unfortunate Accident
+1 Vampire's Grasp
+1 Void Axe
 10 Wilds of Atnia
+1 Workshop Automaton
 
 1 Atnia
 1 Golem
@@ -80,3 +80,4 @@
 1 Pax Nova
 1 Lentholm
 1 Ecclesia Start
+1 Burst of Energy

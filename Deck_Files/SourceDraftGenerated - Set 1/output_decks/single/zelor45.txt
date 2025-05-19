@@ -2,6 +2,7 @@
 1 Amnesia
 1 Apprentice Spellcaster
 1 Aton Battlemaster
+1 Battle Rage
 1 Become Large
 1 Burning Man
 1 Combo Slice
@@ -14,20 +15,19 @@
 1 Fire Channeler
 1 Fireball
 1 Flame Oracle
-1 Flashback Attack
 1 Force Field
 1 Forgotten Hunter
 1 Improvised Lightning
+1 Inspired Encore
 1 Kaboom
 1 Knight of the Moon
 1 Knight of the Wheat
 1 Lavasmith
 1 Library Raid
 1 Magic Trick
-1 Magical Zenith
 1 Merry Duelist
-1 More Fire
 1 Novice Knight
+1 Pax Nova Battlemage
 1 Pax Nova Scout
 1 Plasma Bolt
 1 Plunder
@@ -77,3 +77,4 @@
 1 Pax Nova
 1 Lentholm
 1 Ecclesia Start
+1 Burst of Energy

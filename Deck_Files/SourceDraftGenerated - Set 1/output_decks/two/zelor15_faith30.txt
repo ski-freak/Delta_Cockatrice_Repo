@@ -1,48 +1,46 @@
 1 Abominable Egg
-1 Apprentice Spellcaster
-1 Burning Man
-1 Cleric's Automaton
-1 Cleric's Binding
+1 Amatuer Illusionist
+1 Amnesia
+1 Aton Scout
+1 Back Again
+1 Call the Divine
 1 Coffee Trader
-1 Construct a Construct
-1 Deja Vu
-1 Demon of Consumption
-1 Elite Smith
-1 Embrace the Arcane
+1 Cosmic Justice
+1 Downtown Walk
 1 Eruption
-1 Extreme Heat
-1 Globe of 1000 Souls
-1 Guile
-1 Haunted Warlock
-1 Healing Amulet
-1 Improvised Lightning
-1 Kaboom
-1 Knight of the Torch
-1 Library Raid
+2 Evil Opportunity
+1 Flame Oracle
+1 Force Field
+1 Get Back In There
+1 Glimpse Disaster
+1 Knight of the Moon
+1 Merry Duelist
 1 Mindless Cleric
 1 More Fire
 1 Oln's Binding
 1 Ozen's Fury
-1 Ozen's Temple
-1 Plunder
-1 Prospector Zombie
+1 Ozen's Wrath
+1 Palace Clock
+1 Radiating Force
+1 Reawaken in Dream
+1 Relic Recovery
 1 Replenish
-2 Search for Omnipotence
+1 Scorched Earth
+3 Search for Omnipotence
 6 See Beyond
+1 Set Ablaze
 1 Skyhaven Cannon
+1 Sorvald's Ignition
 1 Spirit Guide
-1 Squiggly Slime
-1 Strategize
+1 Stash Away
+1 Stochastic Ignition
 1 Substitute
-1 Svet Scavenger
-1 Terrifying Vision
-1 The Departed
-1 Underwater Emergence
-1 Unexpected Rift
+1 Svet Scout
 1 Universal Stimulant
-1 Unknowable Horror
-1 Void Capsule
-1 Wicked Pyromancer
+1 Void Cleric
+1 Void Shift
+1 Volcanic Vision
+1 Wicked Pact
 8 Wilds of Atnia
 1 Zelor Faith Directive
 
@@ -77,3 +75,4 @@
 1 Pax Nova
 1 Lentholm
 1 Ecclesia Start
+1 Burst of Energy

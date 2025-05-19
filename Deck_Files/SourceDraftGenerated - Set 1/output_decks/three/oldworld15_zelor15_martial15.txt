@@ -1,54 +1,54 @@
+1 Abandoned Automaton
+1 Adapt
 1 Airdrop
-1 Arena Merchant
-1 Battle Rage
-1 Battlefield Commander
-1 Benjamin
-1 Cleric's Lens
+1 Alliance Rallier
+1 Burning Man
+1 Catch!
 1 Collective Knowledge
+1 Construct Constructor
+1 Contain
 1 Countervailing Flames
-1 Cryptic Swan
+1 Dead on Arrival
+1 Deadly Strike
 1 Devout Arbiter
-1 Double Negative
+1 Dissociation
+1 Dune Paladin
 1 Eager Bruiser
 1 Electrolytes
 1 Emergency Supply Kit
 1 Eruption
-1 Fireball
+1 Extreme Heat
 1 Flame Oracle
-1 Force Field
-1 Forgotten Hunter
-1 Frost Sprint
-1 Frostblade Adept
-1 Furious Sorcerer
+1 Flank
+1 Flashback Attack
+1 Golem Nexus
 1 Heroic Moment
-1 K.O. Punch
-1 Lavasmith
+1 Improvised Lightning
+1 Inspired Encore
+1 Knight of the Torch
+1 Library Raid
+1 Magic Trick
 1 Martial Zelor Directive
-1 Merry Duelist
-1 Mystical Cache
-1 Nomadic Spirit
+1 More Fire
 1 Oldworld Martial Directive
-1 Outlands Commander
 1 Pax Nova Battlemage
-1 Probable Rivalry
-1 Psychic Intrusion
-1 Quiet Mage
-1 Radiating Force
-1 Ruins Scavenger
-1 Scour the Ruins
+1 Pax Nova Scout
+1 Potent Divination
+1 Procrastinate
+1 Question Station
+1 Recycling
+1 Return of the Vanished
+1 Return to the Earth
+1 Sage of the Sun
 9 See Beyond
-1 Set Ablaze
-1 Sorvald's Ignition
-1 Soul Link
-1 Spare Violence
-1 Stochastic Ignition
-1 Stronghold Dispatch
-1 Swift Rescue
-1 Termination
-1 The Plan
-1 War Elephant
-1 Wicked Pyromancer
+1 Steadfast Arbiter
+1 Stronghold Guard
+1 Swarm the Enemy
+1 The Doublemeister
+1 Trade Insight
+1 Train Station
 10 Wilds of Atnia
+1 Wizard's Familiar
 1 Zelor Oldworld Directive
 
 1 Atnia
@@ -82,3 +82,4 @@
 1 Pax Nova
 1 Lentholm
 1 Ecclesia Start
+1 Burst of Energy

@@ -35,7 +35,7 @@ Imposing Presence
 
 ---Eminus-Oldworld
 Stronghold Directive
-
+Outlands Commander
 
 
 ---Eminus-Martial
@@ -75,7 +75,7 @@ Chaotic Whirlwind
 
 ---Martial-Materia
 Martial Materia Directive
-
+George
 
 
 ---Martial-Arca

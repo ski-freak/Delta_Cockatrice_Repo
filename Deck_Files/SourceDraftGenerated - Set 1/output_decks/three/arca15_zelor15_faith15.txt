@@ -1,55 +1,55 @@
-1 Abominable Egg
-1 Arcane Burst
-1 Arcane Chains
-1 Aton Scout
+1 Amatuer Illusionist
+1 Amnesia
+1 Become Large
+1 Burning Lich
+1 Burning Man
 1 Burning Plain Directive
-1 Cliffside Guard
 1 Combo Slice
+1 Cosmic Justice
+1 Cursed Portal
 1 Cursed Tomb
-1 Deploy Automatons
-1 Disappearing Orb
+1 Dark Aperture
+1 Deja Vu
 1 Divine Harmony
-1 Dune Paladin
+1 Downtown Walk
+1 Dream Stalker
+1 Elite Smith
 1 Embrace the Arcane
+1 Eternal Navigator
 1 Evil Opportunity
-1 Fire Channeler
-1 Gas Giant
-1 Haunted Warlock
+1 Forgotten Hunter
+1 Forsaken Spellcaster
+1 Giant Bat
+1 Healing Amulet
 1 Hymn to the Pale Sun
-1 Inspired Encore
 1 Kaboom
-1 Knight of the Moon
-1 Knight of the Torch
-1 Living Relic
 1 Lore Dump
+1 Magic Trick
 1 Magical Zenith
+1 Master of Elements
 1 Meditation
-1 Mindless Cleric
 1 More Fire
-1 Myrkur Phantom
-1 Mysterious Mage
+1 Nightfall
+1 Novice Knight
 1 Oruva Scout
-1 Ozen's Fury
-1 Palace Clock
+1 Ozen's Temple
 1 Pale Mountain Directive
 1 Pale Nightmare
 1 Plasma Bolt
-1 Rift Screech
-1 Rift Sorcerer
-1 Seasoned Loremaster
+1 Recurring Nightmare
+1 Relic Recovery
+1 Rift Whispers
+1 Search for Omnipotence
 9 See Beyond
-1 Set Ablaze
-1 Stash Away
-1 Stochastic Ignition
-1 Substitute
-1 Suspicious Trader
-1 Svet Scout
+1 Skyhaven Cannon
+1 Sorvald's Ignition
+1 Terrifying Nightmare
 1 The Departed
-1 Triple Spell
+1 The Yapper
 1 Vampire's Bite
-1 Visionary Artificer
+1 Void Drake
+1 Void Shift
 1 Void Snap
-1 Voidsworn Apostle
 1 Wild Wizard
 10 Wilds of Atnia
 1 Zelor Faith Directive
@@ -85,3 +85,4 @@
 1 Pax Nova
 1 Lentholm
 1 Ecclesia Start
+1 Burst of Energy

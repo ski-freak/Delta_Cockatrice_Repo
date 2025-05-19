@@ -1,52 +1,51 @@
+1 A Trick
 1 Absolute Destruction
 1 Amatuer Illusionist
-1 Annoying Scribe
-1 Apprentice Harbinger
-1 Awaken the Hooligans
+1 BSOD
+1 Bermuda Triangle
+1 Call the Divine
 1 Contemplate
 1 Cursed Portal
+1 Defiant Scribe
+1 Desperate Arbiter
 1 Devastating Decoy
-1 Duel of Honor
+1 Disappearing Orb
+1 Dropkick
 1 Eminus Faith Directive
-1 Ethereal Construct
-1 Familiar Shadow
-1 Gaston, Lekvian Squire
-1 Get Back In There
-1 Goblin Scout
-1 Haunted Warlock
+1 Esmund's Divination
+1 Evil Opportunity
+1 Forgetful Arbiter
+1 Frightening Arbiter
+1 Furious Automaton
+1 Golem Conjurer
 1 Imposing Presence
 1 Inspired Cleric
 1 Instant Shield
-1 Interfering Arbiter
-1 Lekvian Butler
-1 Lekvian Traveler
-1 Liase of the Two Scrolls
-1 Liev Arbiter
-1 Life Manipulation
+1 Isolated Archer
+1 Knightly Reinforcements
 1 Mechanical Vampire
 1 Menacing Scribe
 1 Nullify Magic
 1 Oln's Binding
 1 Out of Mind
-1 Palace Clock
-1 Priest of Death
-1 Rift Arcanist
-1 Rosilie D'Avron
+1 Outlands Accountant
+1 Pesky Scribe
+1 Prepared Scribe
+1 Resilient Knight
+2 Search for Omnipotence
 9 See Beyond
-1 Sinkhole
-1 Solemn Scout
-1 Spectacular Sweep
-1 Spectral Agent
-1 Stash Away
-1 Steel Resolve
-1 Temporary Disappearance
-1 The Departed
+1 Self Improver
+1 Shifting Mirage
+1 Sorvald's Insight
+1 Spirit Guide
+1 Substitute
+1 Tomb Hunter
 1 Try Again
-1 Unfortunate Accident
-1 Wave of Doubt
-1 Wild Vision
+1 Vampire's Grasp
+1 Void Cleric
+1 Volcanic Giant
+1 Wicked Pact
 10 Wilds of Atnia
-1 Wolkk Twinspear
 
 1 Atnia
 1 Golem
@@ -79,3 +78,4 @@
 1 Pax Nova
 1 Lentholm
 1 Ecclesia Start
+1 Burst of Energy
