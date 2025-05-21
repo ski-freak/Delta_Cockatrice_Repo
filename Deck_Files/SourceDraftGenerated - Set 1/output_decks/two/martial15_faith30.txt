@@ -1,55 +1,56 @@
 1 Abominable Egg
-1 Amatuer Illusionist
 1 Apprentice Harbinger
-1 Back Again
-1 Battlefield Commander
+1 Bold Warrior
 1 Call the Divine
-1 Cosmic Justice
-1 Deadly Strike
-1 Devout Arbiter
-1 Devout Healer
+1 Contain
+1 Dark Aperture
+1 Deja Vu
+1 Demon of Consumption
+1 Disappearing Orb
+1 Dissociation
 1 Downtown Walk
-1 Emergency Supply Kit
-1 Ethereal Mirage
-2 Evil Opportunity
+1 Eager Bruiser
+1 Enterprising Merchant
+1 Ether Charge
 1 Faith Martial Directive
-1 Flank
+1 Globe of 1000 Souls
 1 Healing Amulet
-1 Heroic Moment
 1 Inspired Cleric
-1 Living Relic
+1 Investigate the Scene
+1 Legion Drill Sergeant
 1 Meditation
 1 Mindless Cleric
 1 Oasis Giant
-1 Oln's Binding
-1 Ozen's Wrath
-1 Passive Income Scheme
-1 Reawaken in Dream
-1 Round Two
-1 Search for Omnipotence
+1 Out of Mind
+1 Ozen's Fury
+1 Palace Clock
+2 Search for Omnipotence
 6 See Beyond
+1 Send in the Zombies
 1 Skyhaven Cannon
 1 Spirit Guide
-1 Steadfast Arbiter
-1 Stronghold Guard
+1 Stash Away
 1 Substitute
-1 Swarm the Enemy
+1 Svet Scout
 1 Swift Rescue
-1 Team Up
 1 Terrifying Vision
+1 The Departed
 1 The Doublemeister
 1 Tomb Hunter
-1 Transcend
+1 Trade Insight
+1 Universal Stimulant
+1 Valorous Triumph
 1 Void Capsule
-1 Void Shift
-1 War Elephant
+1 Void Cleric
 1 Wicked Pact
 8 Wilds of Atnia
+1 Zombie Invasion
 
 1 Atnia
 1 Golem
 1 Night Horror
 1 Law-Mage
+1 Survivor
 1 Blood Zombie
 1 Knight of Redemption
 8 Delta Ultimate Artifact

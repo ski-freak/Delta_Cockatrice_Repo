@@ -1,49 +1,49 @@
 1 Amatuer Wizarding
 1 Amnesia
 1 Apprentice Spellcaster
-1 Arcane Burst
-1 Arcane Chains
-1 Astral Amulet
-1 Aton Battlemaster
-1 Aton Scout
+1 Battle Rage
+1 Become Large
+1 Blood Channeler
 1 Burning Lich
-1 Burning Man
 1 Burning Plain Directive
 1 Combo Slice
-1 Dark Wrath
+1 Cursed Tomb
 1 Dream Stalker
 1 Dune Paladin
-1 Elite Smith
+1 Embrace the Arcane
+1 Emissary of Fear
 1 Emotion Vampire
-1 Eternal Navigator
+1 Extreme Heat
+1 Fire Channeler
 1 Flashback Attack
-1 Force Field
-1 Forgotten Hunter
-1 Forsaken Spellcaster
+1 Improvised Lightning
 1 Inspired Encore
-1 Knight of the Wheat
 1 Lavasmith
-1 Library Raid
 1 Maddening Visions
 1 Magic Trick
-1 Magical Zenith
-1 Merry Duelist
+1 Master of Elements
 1 More Fire
-1 Pax Nova Battlemage
+1 Myrkur Phantom
+1 Nightfall
+1 Old Zombiemancer
+1 Pax Nova Scout
 1 Plasma Bolt
+1 Plunder
 1 Radiating Force
-1 Recurring Nightmare
-1 Rift Sorcerer
+1 Recollect
+1 Replenish
+1 Rift Ritual
 1 Scorched Earth
 6 See Beyond
+1 Set Ablaze
+1 Sorvald's Ignition
 1 Stochastic Ignition
-1 Strategize
-1 The Yapper
-1 Triple Spell
-1 Unstable Contract
+1 Trail of the Nightmare
+1 Unimaginable Nightmare
 1 Vampire's Bite
-1 Void Spike
-1 Volcanic Vision
+1 Visionary Artificer
+1 Void Drake
+1 Voidsworn Apostle
 1 Wicked Pyromancer
 1 Wild Wizard
 8 Wilds of Atnia
@@ -53,6 +53,7 @@
 1 Golem
 1 Night Horror
 1 Law-Mage
+1 Survivor
 1 Blood Zombie
 1 Knight of Redemption
 8 Delta Ultimate Artifact

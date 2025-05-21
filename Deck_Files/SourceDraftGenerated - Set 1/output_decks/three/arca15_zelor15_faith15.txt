@@ -1,55 +1,54 @@
-1 Amatuer Illusionist
-1 Amnesia
+1 Abominable Cleric
+1 Amatuer Wizarding
+1 Apprentice Spellcaster
+1 Astral Amulet
+1 Back Again
+1 Battle Rage
 1 Become Large
-1 Burning Lich
-1 Burning Man
+1 Blood Channeler
 1 Burning Plain Directive
-1 Combo Slice
+1 Coffee Trader
 1 Cosmic Justice
-1 Cursed Portal
-1 Cursed Tomb
 1 Dark Aperture
-1 Deja Vu
 1 Divine Harmony
-1 Downtown Walk
-1 Dream Stalker
 1 Elite Smith
-1 Embrace the Arcane
-1 Eternal Navigator
-1 Evil Opportunity
-1 Forgotten Hunter
+1 Emissary of Fear
+1 Eruption
+1 Ethereal Mirage
+2 Evil Opportunity
+1 Fallen Scribe
 1 Forsaken Spellcaster
-1 Giant Bat
-1 Healing Amulet
+1 Gas Giant
+1 Golem Conjuring
 1 Hymn to the Pale Sun
-1 Kaboom
-1 Lore Dump
-1 Magic Trick
+1 Inspired Encore
+1 Knight of the Moon
+1 Knight of the Torch
+1 Library Raid
+1 Maddening Visions
 1 Magical Zenith
-1 Master of Elements
-1 Meditation
-1 More Fire
-1 Nightfall
-1 Novice Knight
-1 Oruva Scout
+1 Mindseeker
+1 Myrkur Phantom
+1 Ozen's Fury
 1 Ozen's Temple
 1 Pale Mountain Directive
 1 Pale Nightmare
-1 Plasma Bolt
+1 Passive Income Scheme
+1 Reawaken in Dream
 1 Recurring Nightmare
-1 Relic Recovery
-1 Rift Whispers
-1 Search for Omnipotence
+1 Scorched Earth
 9 See Beyond
-1 Skyhaven Cannon
-1 Sorvald's Ignition
+1 Substitute
 1 Terrifying Nightmare
-1 The Departed
-1 The Yapper
+1 Thunderous Fury
+1 Trail of the Nightmare
+1 Transcend
+1 Universal Stimulant
+1 Unstable Contract
 1 Vampire's Bite
 1 Void Drake
-1 Void Shift
 1 Void Snap
+1 Void Spike
 1 Wild Wizard
 10 Wilds of Atnia
 1 Zelor Faith Directive
@@ -58,6 +57,7 @@
 1 Golem
 1 Night Horror
 1 Law-Mage
+1 Survivor
 1 Blood Zombie
 1 Knight of Redemption
 8 Delta Ultimate Artifact

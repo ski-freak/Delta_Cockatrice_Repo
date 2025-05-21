@@ -1,51 +1,51 @@
-1 Absolute Destruction
-1 Amnesia
-1 Battle Rage
-1 Become Large
-1 Blood Bank
-1 Bloodlust
-1 Burning Lich
+1 Annoying Scribe
+1 Arcane Burst
+1 Astral Amulet
+1 Aton Battlemaster
+1 Aton Scout
+1 Bermuda Triangle
+1 Blood Channeler
+1 Burning Man
 1 Burning Plain Directive
-1 Cursed Tomb
-1 Dark Wrath
-1 Dream Stalker
-1 Elite Smith
+1 Clockwork Soldier
+1 Dune Paladin
 1 Emissary of Fear
-1 Escaped Monster
-1 Extreme Heat
-1 Familiar Shadow
-1 Final Strike
-1 Force Field
+1 Eruption
+1 Fireball
+1 Flame Oracle
 1 Forsaken Spellcaster
-1 Intimidating Scribe
+1 Furious Automaton
+1 Golem Conjurer
+1 Golem Conjuring
+1 Hired Hands
+1 Improvised Lightning
+1 Injury to Insult
+1 Inspired Encore
 1 Kaboom
 1 Knight of the Torch
+1 Knight of the Wheat
 1 Leave me Alone
-1 Lekvian Vampire
-1 Magical Zenith
-1 More Fire
-1 Oruva Scout
-1 Outlands Accountant
-1 Pax Nova Scout
-1 Plasma Bolt
-1 Prepared Scribe
-1 Priest of Death
-1 Recurring Nightmare
+1 Lekvian Butler
+1 Looming Overlord
+1 Lore Dump
+1 Maddening Visions
+1 Malicious Receptionist
+1 Mysterious Mage
+1 Noddegamra
+1 Old Zombiemancer
+1 Plunder
+1 Psychic Intrusion
+1 Quagmire Elemental
+1 Rift Ritual
 1 Rift Screech
-1 Scorched Earth
+1 Rosilie D'Avron
 9 See Beyond
-1 Set Ablaze
-1 Siphon Power
-1 Sublimate
-1 Thunderous Fury
-1 Triple Spell
-1 Unstable Contract
+1 Strategize
 1 Vampire's Bite
-1 Vexing Scribe
+1 Vampiric Recovery
 1 Void Axe
 1 Void Drake
-1 Void Snap
-1 Voidsworn Apostle
+1 Void Spike
 1 Wild Wizard
 10 Wilds of Atnia
 
@@ -53,6 +53,7 @@
 1 Golem
 1 Night Horror
 1 Law-Mage
+1 Survivor
 1 Blood Zombie
 1 Knight of Redemption
 8 Delta Ultimate Artifact

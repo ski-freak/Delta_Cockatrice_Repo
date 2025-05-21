@@ -1,58 +1,59 @@
-1 Abandoned Automaton
 1 Abominable Cleric
-1 Airdrop
 1 Arcane Burst
 1 Arcane Chains
 1 Astral Amulet
-1 Awakened Arbiter
 1 Blood Channeler
-1 Burning Lich
 1 Chaotic Whirlwind
-1 Collective Knowledge
-1 Cryptic Swan
 1 Cursed Tomb
 1 Dark Wrath
 1 Doomed Nightmare
-1 Double Negative
 1 Dream Stalker
 1 Emissary of Fear
 1 Emotion Vampire
+1 Essence of the Old World
 1 Forsaken Spellcaster
 1 Frost Eruption
 1 Gas Giant
-1 Giant Bat
 1 Golem Conjuring
-1 Helping Hands
-1 Knowledge Collection
+1 Junior Adventurer
 1 Lagoon Titan
-1 Lost Tome
+1 Loose Change
 1 Maddening Visions
 1 Master of Elements
-1 Mysterious Mage
-1 Mystic Stone
+1 Myrkur Phantom
 1 Night of the Dead
+1 Nightfall
+1 Oana's Divination
 1 Pax Directive
-1 Power of Antiquity
-1 Quick Thinking
+1 Potent Divination
 1 Recurring Nightmare
+1 Recycling
+1 Return of the Vanished
+1 Return to the Earth
+1 Rift Ritual
+1 Rift Screech
 1 Rift Sorcerer
 1 Rift Whispers
+1 Sage of the Sun
 6 See Beyond
-1 Starlight Cleric
+1 Squish
+1 Storm Generator
 1 Terrifying Nightmare
 1 The Dreamer
+1 The Plan
+1 Train Station
 1 Triple Spell
 1 Unstable Contract
 1 Visionary Artificer
 1 Void Axe
-1 Void Drake
-1 Voidsworn Apostle
+1 Void Snap
 8 Wilds of Atnia
 
 1 Atnia
 1 Golem
 1 Night Horror
 1 Law-Mage
+1 Survivor
 1 Blood Zombie
 1 Knight of Redemption
 8 Delta Ultimate Artifact

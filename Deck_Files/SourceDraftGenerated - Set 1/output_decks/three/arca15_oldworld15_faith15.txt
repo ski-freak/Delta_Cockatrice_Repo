@@ -1,63 +1,64 @@
-1 Airdrop
-1 Amatuer Illusionist
+1 A Difficult Choice
+1 Abominable Cleric
+1 Apprentice Harbinger
+1 Awakened Arbiter
+1 Blood Channeler
+1 Catch!
 1 Chaotic Whirlwind
-1 Cleric's Lens
-1 Dark Aperture
+1 Coffee Trader
+1 Crystal Triangle
+1 Dark Wrath
 1 Demon of Consumption
-1 Devout Healer
+1 Disappearing Orb
 1 Divine Harmony
 1 Doomed Nightmare
-1 Double Negative
-1 Emissary of Fear
-1 Emotion Vampire
+1 Evil Opportunity
 1 Excavation Automaton
 1 Faith Oldworld Directive
 1 Frostblade Adept
-1 Furious Sorcerer
-1 Get Back In There
-1 Giant Bat
+1 Gas Giant
 1 Healing Amulet
 1 Hymn to the Pale Sun
+1 Inspired Cleric
 1 Invisible Haze
 1 Lagoon Titan
 1 Lore Dump
 1 Mysterious Cleric
 1 Mysterious Mage
-1 Old Zombiemancer
+1 Night of the Dead
+1 Nightfall
 1 Oruva Scout
-1 Outlander's Familiar
-1 Palace Clock
 1 Pale Mountain Directive
 1 Pale Nightmare
 1 Pax Directive
-1 Probable Rivalry
-1 Procrastinate
-1 Recycling
-1 Rift Sorcerer
+1 Potent Divination
+1 Question Station
+1 Reawaken in Dream
+1 Return of the Vanished
+1 Rift Screech
+1 Ruins Scavenger
+1 Rule of Three
 1 Scrap Merchant
 1 Search for Omnipotence
-1 Seasoned Loremaster
 9 See Beyond
-1 Skyhaven Cannon
-1 Starlight Cleric
+1 Sheltering Winds
+1 Squish
 1 Substitute
-1 Svet Scout
-1 Termination
-1 Terrifying Nightmare
 1 Terrifying Vision
-1 The Yapper
-1 Void Capsule
+1 The Departed
+1 The Plan
 1 Void Drake
-1 Void Shift
 1 Void Snap
+1 Void Spike
 1 Voidsworn Apostle
-1 Walk the Plank
+1 Wicked Pact
 10 Wilds of Atnia
 
 1 Atnia
 1 Golem
 1 Night Horror
 1 Law-Mage
+1 Survivor
 1 Blood Zombie
 1 Knight of Redemption
 8 Delta Ultimate Artifact

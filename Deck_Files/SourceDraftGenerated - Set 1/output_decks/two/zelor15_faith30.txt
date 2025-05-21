@@ -1,32 +1,35 @@
-1 Abominable Egg
-1 Amatuer Illusionist
 1 Amnesia
-1 Aton Scout
+1 Apprentice Harbinger
+1 Aton Battlemaster
 1 Back Again
 1 Call the Divine
 1 Coffee Trader
 1 Cosmic Justice
-1 Downtown Walk
-1 Eruption
-2 Evil Opportunity
-1 Flame Oracle
-1 Force Field
+1 Cursed Portal
+1 Dark Aperture
+1 Deja Vu
+1 Demon of Consumption
+1 Devout Healer
+1 Disappearing Orb
+1 Dune Paladin
+1 Evil Opportunity
+1 Fire Channeler
 1 Get Back In There
 1 Glimpse Disaster
-1 Knight of the Moon
-1 Merry Duelist
-1 Mindless Cleric
+1 Healing Amulet
+1 Inspired Cleric
+1 Knight of the Torch
+1 Knight of the Wheat
+1 Living Relic
+1 Meditation
+1 Mindseeker
 1 More Fire
 1 Oln's Binding
-1 Ozen's Fury
+1 Out of Mind
 1 Ozen's Wrath
-1 Palace Clock
-1 Radiating Force
-1 Reawaken in Dream
-1 Relic Recovery
-1 Replenish
-1 Scorched Earth
-3 Search for Omnipotence
+1 Pax Nova Scout
+1 Rule of Three
+1 Search for Omnipotence
 6 See Beyond
 1 Set Ablaze
 1 Skyhaven Cannon
@@ -35,12 +38,12 @@
 1 Stash Away
 1 Stochastic Ignition
 1 Substitute
-1 Svet Scout
-1 Universal Stimulant
+1 Thunderous Fury
+1 Tomb Hunter
+1 Unimaginable Nightmare
 1 Void Cleric
 1 Void Shift
-1 Volcanic Vision
-1 Wicked Pact
+1 Wicked Pyromancer
 8 Wilds of Atnia
 1 Zelor Faith Directive
 
@@ -48,6 +51,7 @@
 1 Golem
 1 Night Horror
 1 Law-Mage
+1 Survivor
 1 Blood Zombie
 1 Knight of Redemption
 8 Delta Ultimate Artifact

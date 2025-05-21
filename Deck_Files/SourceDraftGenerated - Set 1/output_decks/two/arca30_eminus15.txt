@@ -1,56 +1,57 @@
-1 A Trick
 1 Abominable Cleric
-1 Arcane Chains
+1 Ancient Mentor
+1 Arbiter Marshal
+1 Arbiter Medic
+1 Arcane Burst
 1 Astral Amulet
-1 BSOD
-1 Beckon Home
-1 Blood Channeler
 1 Burning Lich
 1 College of Dreams Directive
 1 Contemplate
 1 Cursed Tomb
-1 Desperate Arbiter
+1 Dark Wrath
 1 Doomed Nightmare
 1 Dream Stalker
-1 Emissary of Fear
-1 Emotion Vampire
+1 Forgetful Arbiter
 1 Forsaken Dreammage
 1 Forsaken Spellcaster
-1 Frightening Arbiter
 1 Gas Giant
 1 Giant Bat
 1 Golem Conjuring
-1 Instant Shield
-1 Interfering Arbiter
 1 Knightly Reinforcements
-1 Liase of the Two Scrolls
 1 Liev Arbiter
-1 Master of Elements
-1 Myrkur Phantom
 1 Mysterious Mage
 1 Night of the Dead
-1 Nightfall
-1 Nullify Magic
 1 Old Zombiemancer
-1 Oruva Scout
+1 Phantom Angel
+1 Recurring Nightmare
 1 Resilient Knight
+1 Rift Ritual
 1 Rift Screech
+1 Rift Sorcerer
+1 Rift Whispers
+1 Seasoned Loremaster
 6 See Beyond
-1 Shifting Mirage
+1 Skyknight
+1 Spectacular Sweep
+1 Speed Check
+1 Temporary Disappearance
+1 Terrifying Nightmare
+1 Thunder Knight
 1 Triple Spell
-1 Try Again
-1 Unstable Contract
 1 Visionary Artificer
 1 Void Axe
+1 Void Drake
 1 Void Snap
 1 Void Spike
 1 Voidsworn Apostle
 8 Wilds of Atnia
+1 Wolkk Twinspear
 
 1 Atnia
 1 Golem
 1 Night Horror
 1 Law-Mage
+1 Survivor
 1 Blood Zombie
 1 Knight of Redemption
 8 Delta Ultimate Artifact

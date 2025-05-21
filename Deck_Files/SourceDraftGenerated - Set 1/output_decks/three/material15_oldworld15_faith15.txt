@@ -1,56 +1,57 @@
-1 A Difficult Choice
-1 Absolute Destruction
-1 Airdrop
-1 Ancient Excavation
-1 Apprentice Harbinger
-1 Bermuda Triangle
+1 Absorb
 1 Borrow Time
-1 Cleric's Lens
 1 Clockwork Soldier
+1 Construct Constructor
 1 Cryptic Swan
-1 Devout Healer
+1 Cursed Portal
+1 Double Negative
+1 Downtown Walk
+1 Embargo
+1 Ethereal Construct
 1 Faith Oldworld Directive
-1 Healing Potion
+1 Frostblade Adept
+1 Get Back In There
+1 Gift of Life
+1 Golem Nexus
+1 Healing Amulet
 1 Helping Hands
-1 Injury to Insult
+1 Hidden Giant
+1 Hired Hands
+1 Isolated Archer
 1 Junior Adventurer
 1 Lekvian Traveler
 1 Life Manipulation
+1 Living Relic
 1 Looming Overlord
-1 Meditation
-1 Menacing Scribe
-1 Might of the Woods
-1 Nomadic Spirit
+1 Mirage Manufacturer
 1 Ozen's Temple
-1 Palace Clock
-1 Potent Divination
 1 Procrastinate
-1 Question Station
-1 Quiet Mage
-1 Relic Recovery
-1 Return of the Vanished
+1 Ruins Scavenger
+1 Rule of Three
 1 Search for Omnipotence
 9 See Beyond
-1 Self Improver
+1 Sinkhole
 1 Siphon Power
-1 Spire Hunter
-1 Spirit of Monumentality
-1 Starlight Cleric
+1 Sorvald's Insight
 1 Stash Away
+1 Storm Generator
 1 Svet Scout
 1 Terrifying Vision
 1 The Departed
-1 The Dreamer
-1 Train Station
+1 The Plan
+1 Thingamajig
+1 Tomb Hunter
 1 Universal Stimulant
+1 Vampire's Grasp
 1 Void Cleric
-1 Wicked Pact
 10 Wilds of Atnia
+1 Workshop Automaton
 
 1 Atnia
 1 Golem
 1 Night Horror
 1 Law-Mage
+1 Survivor
 1 Blood Zombie
 1 Knight of Redemption
 8 Delta Ultimate Artifact

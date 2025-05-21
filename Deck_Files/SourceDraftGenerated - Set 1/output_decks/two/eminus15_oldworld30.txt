@@ -1,50 +1,50 @@
-1 A Difficult Choice
-1 Airdrop
+1 A Trick
+1 Ancient Excavation
+1 Ancient Mentor
 1 Ancient Necromancer
 1 Annul
-1 Arbiter Medic
-1 BSOD
-1 Catch!
+1 Awakened Arbiter
+1 Beckon Home
 1 Centrifuge
 1 Construct Constructor
-1 Cryptic Swan
+1 Coordinated Defense
+1 Cordial Wall-Knight
 1 Dead on Arrival
-1 Desperate Arbiter
+1 Dropkick
 1 Essence of the Old World
+1 Excavation Automaton
 1 Forgetful Arbiter
-1 Frank
-1 Frightening Arbiter
-1 Golem Nexus
+1 Frost Eruption
 1 Helpful Automaton
 1 Helping Hands
-1 Invisible Haze
+1 Honorable Knight
+1 Instant Shield
 1 Junior Adventurer
 1 Knightly Reinforcements
-1 Knowledge Requisitioner
-1 Liase of the Two Scrolls
+1 Loose Change
 1 Lost Tome
-1 Lunar Suppression
-1 Mind Trauma
-1 Nomadic Spirit
-1 Nullify Magic
+1 Mirage Manufacturer
+1 Mystic Stone
 1 Outlander's Familiar
 1 Outlands Commander
-1 Phantom Angel
+1 Potent Divination
 1 Power of Antiquity
+1 Question Station
 1 Recycling
-1 Remake
-1 Resilient Knight
 1 Return of the Vanished
 1 Ruins Scavenger
-1 Sage of the Sun
 1 Scour the Ruins
 6 See Beyond
-1 Speed Check
-1 Speedy Arbiter
-1 Starlight Cleric
+1 Shifting Mirage
+1 Spectral Reinforcements
+1 Squish
 1 Steel Resolve
+1 Storm Generator
 1 Stronghold Directive
 1 The Plan
+1 Thingamajig
+1 Walk the Plank
+1 Ward of Repellance
 1 Wave of Doubt
 8 Wilds of Atnia
 
@@ -52,6 +52,7 @@
 1 Golem
 1 Night Horror
 1 Law-Mage
+1 Survivor
 1 Blood Zombie
 1 Knight of Redemption
 8 Delta Ultimate Artifact

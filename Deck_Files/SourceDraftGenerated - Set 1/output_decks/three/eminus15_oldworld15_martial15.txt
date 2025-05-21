@@ -1,61 +1,62 @@
-1 Adapt
 1 Ambush
-1 Ancient Excavation
 1 Arbiter Marshal
-1 Beckon Home
-1 Bold Warrior
-1 Centrifuge
+1 Battlefield Commander
+1 Collective Knowledge
 1 Contain
-1 Contemplate
-1 Dissociation
+1 Coordinated Assault
+1 Coordinated Defense
+1 Dead on Arrival
 1 Divine Uppercut
-1 Double Negative
 1 Duel of Honor
 1 Emergency Supply Kit
 1 Eminus Martial Directive
-1 Grim Librarians
+1 Energy Cell
+1 Esmund's Divination
+1 Essence of the Old World
+1 Frightening Arbiter
+1 Gift of Life
+1 Heroic Moment
 1 Honorable Knight
 1 Hunter's Hawk
-1 Invisible Haze
+1 Improved Morale
+1 Instant Shield
+1 Investigate the Scene
 1 K.O. Punch
-1 Knightly Reinforcements
-1 Knowledge Collection
-1 Liase of the Two Scrolls
+1 Knowledge Requisitioner
+1 Legion Drill Sergeant
+1 Legion Warlock
+1 Liev Arbiter
 1 Liev Warrior
-1 Master Duelist
-1 Mystical Cache
+1 Mind Trauma
+1 Nomadic Spirit
+1 Nullify Magic
+1 Oasis Giant
 1 Oldworld Martial Directive
+1 Orb of Understanding
 1 Outlands Commander
+1 Potent Divination
 1 Question Station
-1 Return of the Vanished
-1 Return to the Earth
-1 Ruins Scavenger
-1 Scrap Merchant
+1 Quick Thinking
+1 Rolead the Swift
+1 Sage of the Sun
 9 See Beyond
 1 Shifting Mirage
-1 Skyknight
 1 Sneaky Assassin
-1 Speedy Arbiter
-1 Starlight Cleric
+1 Spectral Reinforcements
+1 Storm Generator
 1 Stronghold Directive
-1 Sunblade Knight
-1 Swarm the Enemy
-1 Team Up
-1 Temporary Disappearance
-1 Termination
-1 Thunder Knight
-1 Tower Thief
+1 The Dreamer
+1 The Plan
 1 Train Station
-1 Try Again
-1 Valorous Triumph
-1 Walk the Plank
+1 Wave of Doubt
 10 Wilds of Atnia
-1 Wolkk Twinspear
+1 Zombie Invasion
 
 1 Atnia
 1 Golem
 1 Night Horror
 1 Law-Mage
+1 Survivor
 1 Blood Zombie
 1 Knight of Redemption
 8 Delta Ultimate Artifact

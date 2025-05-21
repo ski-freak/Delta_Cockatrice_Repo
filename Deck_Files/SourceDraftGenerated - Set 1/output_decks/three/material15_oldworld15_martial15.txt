@@ -1,56 +1,57 @@
-1 Absorb
+1 Absolute Destruction
+1 Aggravating Scribe
+1 Alliance Rallier
+1 Ambush
 1 Ancient Necromancer
-1 Annoying Scribe
-1 Borrow Time
-1 Catch!
-1 Cleric's Lens
-1 Cruel Messenger
-1 Deadly Strike
-1 Death Elemental
-1 Defiant Scribe
+1 Clockwork Soldier
+1 Contain
 1 Dissociation
+1 Eager Bruiser
 1 Emergency Supply Kit
-1 Essence of the Old World
-1 Ether Charge
+1 Energy Cell
+1 Escaped Monster
 1 Excavation Automaton
-1 Flank
-1 Frank
-1 Furious Automaton
-1 Golem Conjurer
-1 Hidden Giant
+1 Healing Potion
+1 Heroic Moment
+1 Improved Morale
 1 Intimidating Scribe
-1 Isolated Archer
+1 Investigate the Scene
 1 Junior Adventurer
-1 K.O. Punch
-1 Loose Change
-1 Master Duelist
-1 Menacing Automaton
-1 Mystical Cache
+1 Knowledge Collection
+1 Leave me Alone
+1 Lekvian Vampire
+1 Looming Overlord
+1 Lunar Suppression
+1 Mechanical Vampire
+1 Mystic Stone
+1 Noddegamra
 1 Oana's Divination
+1 Oasis Giant
 1 Oldworld Martial Directive
+1 Outlander's Familiar
 1 Outlast
-1 Potent Divination
-1 Power of Antiquity
-1 Question Station
-1 Quick Thinking
-1 Round Two
-1 Rugged Outlander
-1 Sage of the Sun
-1 Savage Snare
+1 Pesky Scribe
+1 Procrastinate
+1 Quiet Mage
+1 Remake
+1 Return to the Earth
 9 See Beyond
-1 Steadfast Arbiter
-1 Team Up
+1 Send in the Zombies
+1 Sneaky Assassin
+1 Spare Violence
+1 Starlight Cleric
+1 Stronghold Guard
 1 The Doublemeister
-1 Train Station
-1 War Elephant
-1 Warrior's Training
-1 Wild Vision
+1 The Dreamer
+1 Unfortunate Accident
+1 Vaudeville Hook
 10 Wilds of Atnia
 
 1 Atnia
 1 Golem
 1 Night Horror
 1 Law-Mage
+1 Survivor
 1 Blood Zombie
 1 Knight of Redemption
 8 Delta Ultimate Artifact

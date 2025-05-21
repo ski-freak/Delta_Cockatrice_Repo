@@ -1,55 +1,56 @@
-1 A Trick
 1 Adapt
-1 Arbiter Medic
-1 Battlefield Commander
-1 Beckon Home
+1 Alliance Rallier
+1 Amnesia
+1 Arbiter Marshal
+1 Aton Battlemaster
+1 BSOD
+1 Bold Warrior
 1 Burst of Speed
-1 Contain
+1 Contemplate
 1 Cruel Messenger
-1 Desperate Arbiter
 1 Divine Uppercut
 1 Dropkick
 1 Duel of Honor
+1 Dune Paladin
+1 Elite Smith
 1 Eminus Martial Directive
+1 Enterprising Merchant
 1 Ether Charge
 1 Explosive Breakthrough
+1 Extreme Heat
 1 Fire Channeler
 1 Flame Oracle
 1 Flank
-1 Force Field
-1 Forgotten Hunter
+1 Flash Freeze
+1 Frightening Arbiter
+1 Honorable Knight
 1 Hunter's Hawk
-1 Inspired Encore
-1 K.O. Punch
 1 Kaboom
-1 Knight of the Moon
 1 Knightly Mentor
+1 Lavasmith
+1 Legion Pyromancer
+1 Library Raid
+1 Magical Zenith
 1 Martial Zelor Directive
-1 Mystical Cache
+1 Merry Duelist
+1 Novice Law-Binder
 1 Pax Nova Directive
-1 Plasma Bolt
-1 Radiating Force
+1 Phantom Angel
+1 Recollect
 1 Round Two
 9 See Beyond
-1 Set Ablaze
-1 Shifting Mirage
-1 Sorvald's Ignition
-1 Spectacular Sweep
-1 Spectral Agent
+1 Sneaky Assassin
+1 Spectral Reinforcements
 1 Speed Check
-1 Speedy Arbiter
 1 Steel Resolve
 1 Stochastic Ignition
-1 Strategize
 1 Stronghold Guard
-1 Swarm the Enemy
+1 Sunblade Knight
 1 Swift Rescue
-1 Temporary Disappearance
-1 The Doublemeister
-1 Thorny Defense
-1 Thunderous Fury
-1 Valorous Triumph
-1 Warrior's Training
+1 Tower Thief
+1 Trail of the Nightmare
+1 Try Again
+1 War Elephant
 1 Wave of Doubt
 10 Wilds of Atnia
 1 Wolkk Twinspear
@@ -58,6 +59,7 @@
 1 Golem
 1 Night Horror
 1 Law-Mage
+1 Survivor
 1 Blood Zombie
 1 Knight of Redemption
 8 Delta Ultimate Artifact

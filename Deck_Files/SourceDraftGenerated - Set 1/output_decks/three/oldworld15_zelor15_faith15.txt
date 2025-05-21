@@ -1,50 +1,52 @@
-1 Abandoned Automaton
-1 Amatuer Wizarding
-1 Amnesia
 1 Ancient Excavation
-1 Annul
-1 Apprentice Spellcaster
+1 Aton Battlemaster
 1 Aton Scout
-1 Become Large
+1 Awakened Arbiter
+1 Burning Man
+1 Combo Slice
 1 Countervailing Flames
-1 Cursed Portal
-1 Dead on Arrival
-1 Downtown Walk
+1 Crystal Triangle
+1 Double Negative
+1 Dune Paladin
 1 Electrolytes
-1 Embrace the Arcane
-1 Eternal Navigator
-2 Evil Opportunity
+1 Evil Opportunity
 1 Faith Oldworld Directive
-1 Fire Channeler
+1 Fireball
 1 Flashback Attack
-1 Frank
-1 Frostblade Adept
-1 Golem Nexus
-1 Junior Adventurer
+1 Forgotten Hunter
+1 Frost Eruption
+1 Glimpse Disaster
+1 Grim Librarians
+1 Inspired Cleric
+1 Invisible Haze
+1 Knight of the Moon
 1 Knight of the Torch
 1 Lavasmith
-1 Living Relic
-1 Magical Zenith
-1 Meditation
+1 Lost Tome
 1 Mysterious Cleric
-1 Novice Knight
+1 Mystic Stone
 1 Outlander's Familiar
 1 Ozen's Fury
+1 Ozen's Temple
 1 Ozen's Wrath
-1 Passive Income Scheme
-1 Potent Divination
-1 Probable Rivalry
-1 Relic Recovery
-1 Remake
-1 Ruins Scavenger
+1 Pax Nova Scout
+1 Psychic Intrusion
+1 Reawaken in Dream
+1 Rule of Three
 1 Scrap Merchant
-2 Search for Omnipotence
 9 See Beyond
+1 Set Ablaze
 1 Sorvald's Ignition
 1 Spirit Guide
+1 Svet Scout
+1 Terrifying Vision
+1 The Dreamer
 1 The Plan
-1 Thunderous Fury
+1 Thingamajig
+1 Tomb Hunter
+1 Void Capsule
 1 Void Cleric
+1 Walk the Plank
 10 Wilds of Atnia
 1 Zelor Faith Directive
 1 Zelor Oldworld Directive
@@ -53,6 +55,7 @@
 1 Golem
 1 Night Horror
 1 Law-Mage
+1 Survivor
 1 Blood Zombie
 1 Knight of Redemption
 8 Delta Ultimate Artifact

@@ -1,58 +1,59 @@
-1 Abandoned Automaton
 1 Abominable Cleric
-1 Absolute Destruction
-1 Ancient Necromancer
-1 Annoying Scribe
-1 Arcane Chains
+1 Arcane Burst
+1 Bermuda Triangle
 1 Blood Bank
 1 Chaotic Whirlwind
-1 Cleric's Lens
 1 Clockwork Soldier
-1 Construct Constructor
-1 Cryptic Swan
+1 Crystal Triangle
 1 Cursed Tomb
 1 Dark Wrath
-1 Death Elemental
-1 Dream Stalker
-1 Energy Drain
-1 Excavation Automaton
+1 Defiant Scribe
+1 Doomed Nightmare
+1 Ethereal Construct
 1 Forsaken Spellcaster
-1 Golem Conjuring
+1 Fortress Automaton
+1 Frostblade Adept
+1 Gaston, Lekvian Squire
 1 Grim Librarians
-1 Healing Potion
-1 Hired Hands
-1 Knowledge Collection
+1 Helpful Automaton
+1 Injury to Insult
+1 Junior Adventurer
 1 Lagoon Titan
+1 Lekvian Butler
 1 Loose Change
-1 Lore Dump
-1 Lost Tome
 1 Maddening Visions
 1 Master of Elements
+1 Mirage Manufacturer
+1 Mystic Stone
 1 Noddegamra
-1 Nomadic Spirit
 1 Oruva Scout
+1 Outlands Accountant
 1 Pax Directive
-1 Pesky Scribe
 1 Question Station
+1 Recurring Nightmare
+1 Return to the Earth
+1 Rift Ritual
 1 Rift Screech
+1 Rift Sorcerer
 1 Rift Whispers
-1 Sage of the Sun
+1 Ruins Scavenger
 1 Savage Snare
 9 See Beyond
-1 Self Improver
-1 Starlight Cleric
-1 Train Station
-1 Triple Spell
+1 Sheltering Winds
+1 Storm Generator
+1 Sublimate
 1 Unfortunate Accident
-1 Vampire's Grasp
-1 Void Axe
+1 Vampiric Recovery
+1 Vaudeville Hook
+1 Visionary Artificer
+1 Walk the Plank
 10 Wilds of Atnia
-1 Workshop Automaton
 
 1 Atnia
 1 Golem
 1 Night Horror
 1 Law-Mage
+1 Survivor
 1 Blood Zombie
 1 Knight of Redemption
 8 Delta Ultimate Artifact

@@ -1,56 +1,57 @@
 1 Amatuer Illusionist
-1 Amatuer Wizarding
 1 Amnesia
-1 Apprentice Spellcaster
 1 Aton Battlemaster
 1 Aton Scout
 1 Battle Rage
 1 Become Large
 1 Burning Man
+1 Call the Divine
+1 Coffee Trader
+1 Combo Slice
 1 Cursed Portal
 1 Devout Healer
-1 Dune Paladin
+1 Elite Smith
 1 Embrace the Arcane
-1 Eternal Navigator
-1 Ethereal Mirage
-1 Evil Opportunity
-1 Extreme Heat
-1 Fire Channeler
-1 Fireball
+1 Eruption
+1 Fated Return
 1 Flashback Attack
 1 Force Field
 1 Forgotten Hunter
 1 Globe of 1000 Souls
+1 Improvised Lightning
+1 Inspired Encore
+1 Kaboom
 1 Knight of the Moon
 1 Knight of the Torch
-1 Living Relic
-1 Magic Trick
-1 Magical Zenith
-1 Merry Duelist
-1 Mindless Cleric
-1 More Fire
+1 Lavasmith
 1 Mysterious Cleric
-1 Novice Knight
-1 Oln's Binding
-1 Plunder
+1 Ozen's Temple
+1 Ozen's Wrath
+1 Palace Clock
+1 Plasma Bolt
 1 Reawaken in Dream
+1 Recollect
+1 Relic Recovery
 1 Scorched Earth
 6 See Beyond
-1 Set Ablaze
-1 Sorvald's Ignition
-1 Spirit Guide
-1 Stash Away
+1 Spirit of Monumentality
+1 Stochastic Ignition
+1 Strategize
 1 The Departed
-1 Wicked Pact
-1 Wicked Pyromancer
+1 Thorny Defense
+1 Thunderous Fury
+1 Trail of the Nightmare
+1 Unimaginable Nightmare
+1 Void Cleric
+1 Volcanic Vision
 8 Wilds of Atnia
-1 Wizard's Familiar
 1 Zelor Faith Directive
 
 1 Atnia
 1 Golem
 1 Night Horror
 1 Law-Mage
+1 Survivor
 1 Blood Zombie
 1 Knight of Redemption
 8 Delta Ultimate Artifact

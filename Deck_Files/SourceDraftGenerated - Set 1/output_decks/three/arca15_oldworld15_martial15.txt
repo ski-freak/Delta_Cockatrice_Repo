@@ -1,60 +1,62 @@
-1 5th Legion Luitenant
 1 A Difficult Choice
-1 Abominable Cleric
-1 Adapt
+1 Alliance Rallier
 1 Ambush
-1 Ancient Excavation
+1 Ancient Necromancer
 1 Annul
-1 Arcane Chains
+1 Arcane Burst
+1 Arcane War Cry
 1 Chaotic Whirlwind
-1 Cleric's Lens
-1 Contain
-1 Double Negative
-1 Dream Stalker
-1 Emotion Vampire
-1 Essence of the Old World
-1 Flank
+1 Cruel Messenger
+1 Crystal Triangle
+1 Cursed Tomb
+1 Emergency Supply Kit
+1 Excavation Automaton
 1 Forsaken Dreammage
-1 Furious Sorcerer
-1 Giant Bat
+1 Forsaken Spellcaster
+1 Frostblade Adept
+1 Golem Nexus
+1 Helping Hands
 1 Heroic Moment
+1 Infinity Vessel
+1 Investigate the Scene
+1 Invisible Haze
+1 Knowledge Requisitioner
 1 Lagoon Titan
-1 Lost Tome
+1 Lore Dump
+1 Maddening Visions
 1 Martial Arca Directive
 1 Master Duelist
-1 Myrkur Phantom
-1 Mysterious Mage
+1 Master of Elements
+1 Mystic Stone
 1 Mystical Cache
-1 Oasis Giant
-1 Old Zombiemancer
+1 Nightfall
 1 Oldworld Martial Directive
 1 Pax Directive
 1 Potent Divination
-1 Power of Antiquity
-1 Recycling
+1 Procrastinate
+1 Recurring Nightmare
+1 Reorganize
+1 Rift Ritual
 1 Rift Screech
 1 Sage of the Sun
-1 Scour the Ruins
-1 Scrap Merchant
 1 Seasoned Loremaster
 9 See Beyond
-1 Spare Violence
-1 Starlight Cleric
-1 Stronghold Guard
 1 Swarm the Enemy
-1 Tower Thief
-1 Trade Insight
-1 Visionary Artificer
+1 Swift Rescue
+1 The Doublemeister
+1 The Renegade
+1 Train Station
+1 Unstable Contract
+1 Valorous Triumph
 1 Void Drake
-1 Void Snap
-1 Void Spike
-1 Warmongerer
+1 Voidsworn Apostle
 10 Wilds of Atnia
 
 1 Atnia
 1 Golem
 1 Night Horror
 1 Law-Mage
+1 Survivor
 1 Blood Zombie
 1 Knight of Redemption
 8 Delta Ultimate Artifact

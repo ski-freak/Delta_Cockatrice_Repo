@@ -1,60 +1,63 @@
 1 5th Legion Luitenant
-1 Adapt
 1 Alliance Rallier
+1 Ambush
+1 Apprentice Harbinger
+1 Arcane Burst
+1 Arcane War Cry
 1 Astral Amulet
-1 Battlefield Commander
-1 Burning Lich
-1 Call the Divine
-1 Dark Wrath
-1 Deja Vu
+1 Deadly Strike
+1 Demon of Consumption
 1 Devout Healer
-1 Disappearing Orb
 1 Dissociation
 1 Divine Harmony
 1 Doomed Nightmare
 1 Dream Stalker
-1 Emergency Supply Kit
+1 Emissary of Fear
 1 Faith Martial Directive
-1 Flash Freeze
-1 Forsaken Spellcaster
-1 Healing Amulet
+1 Flank
+1 Forsaken Dreammage
+1 Gas Giant
+1 Glimpse Disaster
+1 Globe of 1000 Souls
+1 Heroic Moment
 1 Hymn to the Pale Sun
+1 Improved Morale
+1 Legion Drill Sergeant
 1 Martial Arca Directive
+1 Master Duelist
 1 Myrkur Phantom
-1 Nightfall
-1 Novice Law-Binder
-1 Oasis Giant
-1 Ozen's Fury
+1 Old Zombiemancer
+1 Oln's Binding
+1 Oruva Scout
+1 Out of Mind
+1 Ozen's Temple
+1 Ozen's Wrath
 1 Pale Mountain Directive
 1 Pale Nightmare
-1 Reawaken in Dream
-1 Relic Recovery
-1 Rift Ritual
-2 Search for Omnipotence
-1 Seasoned Loremaster
+1 Passive Income Scheme
+1 Reorganize
+1 Rift Screech
+1 Search for Omnipotence
 9 See Beyond
 1 Skyhaven Cannon
-1 Spare Violence
-1 Spirit Guide
-1 Spirit of Monumentality
-1 Steadfast Arbiter
 1 Stronghold Guard
 1 Svet Scout
-1 Team Up
-1 Terrifying Vision
-1 The Doublemeister
-1 Trade Insight
+1 The Renegade
+1 Transcend
+1 Triple Spell
 1 Unstable Contract
+1 Valorous Triumph
 1 Visionary Artificer
-1 Void Drake
-1 Void Spike
-1 Voidsworn Apostle
+1 Void Snap
+1 Warmongerer
+1 Wicked Pact
 10 Wilds of Atnia
 
 1 Atnia
 1 Golem
 1 Night Horror
 1 Law-Mage
+1 Survivor
 1 Blood Zombie
 1 Knight of Redemption
 8 Delta Ultimate Artifact

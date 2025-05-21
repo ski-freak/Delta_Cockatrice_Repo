@@ -8,10 +8,10 @@
 1 Dark Wrath
 1 Doomed Nightmare
 1 Dream Stalker
-1 Emissary of Fear
+2 Emissary of Fear
 1 Emotion Vampire
 1 Forsaken Dreammage
-2 Forsaken Spellcaster
+1 Forsaken Spellcaster
 1 Gas Giant
 1 Giant Bat
 1 Golem Conjuring
@@ -19,7 +19,7 @@
 1 Maddening Visions
 1 Master of Elements
 1 Myrkur Phantom
-2 Mysterious Mage
+1 Mysterious Mage
 1 Night of the Dead
 1 Nightfall
 1 Old Zombiemancer
@@ -29,10 +29,9 @@
 1 Rift Screech
 1 Rift Sorcerer
 1 Rift Whispers
-1 Seasoned Loremaster
+2 Seasoned Loremaster
 3 See Beyond
-1 Terrifying Nightmare
-1 The Yapper
+2 Terrifying Nightmare
 1 Triple Spell
 1 Unstable Contract
 1 Visionary Artificer
@@ -47,6 +46,7 @@
 1 Golem
 1 Night Horror
 1 Law-Mage
+1 Survivor
 1 Blood Zombie
 1 Knight of Redemption
 8 Delta Ultimate Artifact

@@ -1,56 +1,58 @@
-1 Amnesia
-1 Battle Rage
+1 Adapt
+1 Annoying Scribe
 1 Battlefield Commander
-1 Bold Warrior
-1 Borrow Time
-1 Burning Man
-1 Clockwork Soldier
+1 Bloodlust
 1 Deadly Strike
 1 Death Elemental
-1 Devout Arbiter
+1 Defiant Scribe
 1 Dissociation
-1 Dune Paladin
-1 Eruption
+1 Emergency Supply Kit
+1 Energy Drain
 1 Escaped Monster
-1 Final Strike
-1 Flank
+1 Eternal Navigator
+1 Ether Charge
+1 Fire Channeler
+1 Flame Oracle
 1 Flash Freeze
+1 Flashback Attack
 1 Force Field
-1 Fortress Automaton
-1 Heroic Moment
-1 Hired Hands
+1 Furious Automaton
+1 Infinity Vessel
 1 Injury to Insult
+1 Inspired Encore
 1 Isolated Archer
-1 Knight of the Moon
+1 K.O. Punch
 1 Knight of the Wheat
-1 Leave me Alone
-1 Looming Overlord
+1 Legion Pyromancer
+1 Magical Zenith
 1 Martial Zelor Directive
-1 Master Duelist
-1 Merry Duelist
-1 Mystical Cache
+1 Might of the Woods
+1 Mindseeker
 1 Novice Law-Binder
-1 Pax Nova Scout
-1 Plunder
-1 Quiet Mage
-1 Rugged Outlander
+1 Outlands Accountant
+1 Outlast
+1 Pax Nova Battlemage
+1 Priest of Death
+1 Radiating Force
+1 Replenish
 9 See Beyond
-1 Sorvald's Ignition
+1 Send in the Zombies
 1 Steadfast Arbiter
-1 Stochastic Ignition
 1 Stronghold Guard
-1 Sublimate
-1 The Renegade
-1 Thunderous Fury
-1 Tower Thief
-1 Unfortunate Accident
-1 Volcanic Vision
+1 Swarm the Enemy
+1 Thorny Defense
+1 Trail of the Nightmare
+1 Volcanic Giant
+1 Warmongerer
+1 Wicked Pyromancer
+1 Wild Vision
 10 Wilds of Atnia
 
 1 Atnia
 1 Golem
 1 Night Horror
 1 Law-Mage
+1 Survivor
 1 Blood Zombie
 1 Knight of Redemption
 8 Delta Ultimate Artifact

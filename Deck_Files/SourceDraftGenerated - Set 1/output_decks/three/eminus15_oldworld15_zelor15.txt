@@ -1,64 +1,65 @@
-1 A Difficult Choice
 1 A Trick
-1 Amatuer Wizarding
-1 Annul
+1 Abandoned Automaton
+1 Amnesia
+1 Apprentice Spellcaster
 1 Arbiter Marshal
-1 Beckon Home
-1 Burning Man
+1 Arbiter Medic
+1 Battle Rage
 1 Burst of Speed
-1 Collective Knowledge
-1 Construct Constructor
+1 Centrifuge
+1 Contemplate
+1 Coordinated Defense
+1 Cordial Wall-Knight
 1 Countervailing Flames
-1 Devastating Decoy
-1 Double Negative
-1 Duel of Honor
+1 Cryptic Swan
 1 Dune Paladin
 1 Electrolytes
-1 Essence of the Old World
+1 Embrace the Arcane
+1 Esmund's Divination
+1 Eternal Navigator
 1 Explosive Breakthrough
-1 Fire Channeler
+1 Fireball
 1 Forgetful Arbiter
-1 Forgotten Hunter
-1 Frank
-1 Grim Librarians
-1 Junior Adventurer
+1 Frost Eruption
+1 Frostblade Adept
+1 Furious Sorcerer
+1 Gift of Life
+1 Improvised Lightning
+1 Inspired Encore
+1 Knight of the Moon
 1 Knightly Mentor
-1 Knowledge Requisitioner
-1 Lost Tome
-1 Merry Duelist
-1 More Fire
-1 Nomadic Spirit
-1 Novice Knight
-1 Nullify Magic
+1 Knowledge Collection
+1 Liev Arbiter
+1 Magic Trick
+1 Mirage Manufacturer
 1 Outlands Commander
 1 Pax Nova Directive
 1 Pax Nova Scout
-1 Plasma Bolt
-1 Plunder
-1 Probable Rivalry
-1 Psychic Intrusion
-1 Resilient Knight
+1 Potent Divination
 1 Return of the Vanished
 1 Ruins Scavenger
+1 Sage of the Sun
 9 See Beyond
+1 Set Ablaze
+1 Sheltering Winds
+1 Spectacular Sweep
 1 Spectral Agent
 1 Steel Resolve
 1 Stronghold Directive
-1 Sunblade Knight
-1 Temporary Disappearance
-1 Thunderous Fury
+1 Thorny Defense
+1 Thunder Knight
+1 Trail of the Nightmare
+1 Train Station
 1 Tundra Arbiter
-1 Volcanic Vision
 1 Wave of Doubt
 10 Wilds of Atnia
-1 Wizard's Familiar
-1 Wolkk Twinspear
 1 Zelor Oldworld Directive
 
 1 Atnia
 1 Golem
 1 Night Horror
 1 Law-Mage
+1 Survivor
 1 Blood Zombie
 1 Knight of Redemption
 8 Delta Ultimate Artifact

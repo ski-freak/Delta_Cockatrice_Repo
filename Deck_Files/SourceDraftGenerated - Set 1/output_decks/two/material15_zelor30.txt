@@ -1,48 +1,48 @@
+1 Absorb
+1 Amatuer Wizarding
 1 Amnesia
-1 Annoying Scribe
 1 Apprentice Spellcaster
+1 Aton Battlemaster
 1 Aton Scout
-1 Battle Rage
 1 Become Large
-1 Bloodlust
-1 Energy Drain
+1 Bermuda Triangle
+1 Burning Man
+1 Defiant Scribe
 1 Eruption
-1 Eternal Navigator
-1 Extreme Heat
+1 Ethereal Construct
+1 Fated Return
 1 Fire Channeler
 1 Fireball
-1 Flashback Attack
-1 Fortress Automaton
-1 Furious Automaton
-1 Improvised Lightning
-1 Kaboom
+1 Force Field
+1 Forgotten Hunter
+1 Knight of the Moon
 1 Knight of the Torch
-1 Knight of the Wheat
-1 Magical Zenith
-1 Menacing Scribe
-1 Might of the Woods
-1 More Fire
+1 Lekvian Traveler
+1 Lost in the Wilds
+1 Mechanical Vampire
+1 Menacing Automaton
+1 Mindseeker
+1 Noddegamra
+1 Novice Knight
+1 Outlast
 1 Pax Nova Battlemage
-1 Pax Nova Scout
-1 Pesky Scribe
-1 Plasma Bolt
 1 Plunder
-1 Prepared Scribe
 1 Psychic Intrusion
-1 Replenish
-1 Scorched Earth
+1 Quagmire Elemental
+1 Recollect
 6 See Beyond
 1 Self Improver
 1 Set Ablaze
-1 Siphon Power
+1 Sorvald's Ignition
 1 Stochastic Ignition
-1 Strategize
 1 Sublimate
+1 Thorny Defense
 1 Thunderous Fury
-1 Vampire's Grasp
-1 Vexing Scribe
-1 Volcanic Giant
+1 Trail of the Nightmare
+1 Unimaginable Nightmare
+1 Vampiric Recovery
 1 Volcanic Vision
+1 Wild Vision
 8 Wilds of Atnia
 1 Wizard's Familiar
 
@@ -50,6 +50,7 @@
 1 Golem
 1 Night Horror
 1 Law-Mage
+1 Survivor
 1 Blood Zombie
 1 Knight of Redemption
 8 Delta Ultimate Artifact

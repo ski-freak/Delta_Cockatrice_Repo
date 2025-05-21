@@ -1,57 +1,58 @@
+1 A Difficult Choice
+1 A Trick
+1 Aggravating Scribe
+1 Ancient Excavation
+1 Ancient Necromancer
+1 Annoying Scribe
 1 Arbiter Medic
+1 BSOD
 1 Catch!
-1 Cleric's Lens
-1 Clockwork Soldier
-1 Desperate Arbiter
-1 Double Negative
-1 Embargo
-1 Energy Drain
-1 Ethereal Construct
-1 Golem Nexus
-1 Healing Potion
-1 Honorable Knight
+1 Coordinated Defense
+1 Cryptic Swan
+1 Dead on Arrival
+1 Defiant Scribe
+1 Essence of the Old World
+1 Familiar Shadow
+1 Final Strike
+1 Grim Librarians
+1 Injury to Insult
+1 Interfering Arbiter
 1 Interrupt
-1 Isolated Archer
+1 Intimidating Scribe
 1 Knightly Reinforcements
-1 Knowledge Requisitioner
-1 Lekvian Butler
-1 Lekvian Vampire
-1 Liev Arbiter
+1 Lekvian Traveler
+1 Life Manipulation
 1 Looming Overlord
-1 Lost Tome
+1 Loose Change
 1 Lost in the Wilds
 1 Mind Trauma
-1 Mystic Stone
-1 Noddegamra
-1 Nomadic Spirit
-1 Outlander's Familiar
+1 Mirage Manufacturer
+1 Nullify Magic
+1 Oana's Divination
+1 Orb of Understanding
 1 Outlands Commander
-1 Outlast
-1 Phantom Angel
-1 Prepared Scribe
-1 Probable Rivalry
-1 Recycling
+1 Potent Divination
+1 Quagmire Elemental
+1 Remake
 1 Resilient Knight
-1 Return to the Earth
+1 Sage of the Sun
+1 Sagittarii
 9 See Beyond
-1 Shifting Mirage
-1 Sinkhole
-1 Skyknight
+1 Sorvald's Insight
 1 Spectacular Sweep
-1 Spectral Agent
-1 Steel Resolve
 1 Stronghold Directive
-1 Stronghold Dispatch
+1 Sublimate
+1 Temporary Disappearance
 1 Try Again
-1 Volcanic Giant
-1 Wild Vision
+1 Wave of Doubt
 10 Wilds of Atnia
-1 Wolkk Twinspear
+1 Workshop Automaton
 
 1 Atnia
 1 Golem
 1 Night Horror
 1 Law-Mage
+1 Survivor
 1 Blood Zombie
 1 Knight of Redemption
 8 Delta Ultimate Artifact

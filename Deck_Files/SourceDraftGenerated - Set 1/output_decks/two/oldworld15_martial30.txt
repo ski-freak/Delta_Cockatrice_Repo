@@ -1,56 +1,57 @@
 1 5th Legion Luitenant
 1 Adapt
-1 Airdrop
-1 Alliance Rallier
-1 Ambush
-1 Ancient Necromancer
-1 Battlefield Commander
+1 Annul
 1 Bold Warrior
-1 Centrifuge
-1 Cleric's Lens
-1 Collective Knowledge
 1 Cruel Messenger
+1 Cryptic Swan
 1 Deadly Strike
+1 Devout Arbiter
 1 Dissociation
-1 Eager Bruiser
 1 Emergency Supply Kit
+1 Energy Cell
+1 Enterprising Merchant
+1 Essence of the Old World
+1 Ether Charge
 1 Flash Freeze
-1 Frost Eruption
-1 Helpful Automaton
+1 Frank
+1 Helping Hands
 1 Heroic Moment
-1 Junior Adventurer
-1 K.O. Punch
-1 Lunar Suppression
+1 Infinity Vessel
+1 Interrupt
+1 Investigate the Scene
+1 Invisible Haze
+1 Knowledge Requisitioner
 1 Master Duelist
+1 Mystic Stone
 1 Mystical Cache
 1 Novice Law-Binder
 1 Oasis Giant
 1 Oldworld Martial Directive
-1 Question Station
-1 Recycling
-1 Reorganize
-1 Return of the Vanished
+1 Outlander's Familiar
+1 Quick Thinking
+1 Round Two
+1 Scrap Merchant
 6 See Beyond
+1 Send in the Zombies
 1 Spare Violence
-1 Starlight Cleric
-1 Steadfast Arbiter
-1 Stronghold Dispatch
+1 Squish
 1 Stronghold Guard
 1 Swarm the Enemy
 1 Team Up
 1 The Doublemeister
-1 The Dreamer
 1 The Renegade
+1 Tower Thief
 1 Trade Insight
 1 Valorous Triumph
-1 War Elephant
-1 Warrior's Training
+1 Walk the Plank
 8 Wilds of Atnia
+1 Zombie Invasion
 
 1 Atnia
 1 Golem
 1 Night Horror
 1 Law-Mage
+1 Survivor
 1 Blood Zombie
 1 Knight of Redemption
 8 Delta Ultimate Artifact

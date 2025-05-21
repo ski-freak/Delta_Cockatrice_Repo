@@ -1,55 +1,56 @@
-1 Abandoned Automaton
-1 Aggravating Scribe
-1 Airdrop
-1 Ancient Excavation
-1 Annul
+1 Ancient Necromancer
+1 Annoying Scribe
+1 Bermuda Triangle
+1 Clockwork Soldier
+1 Collective Knowledge
 1 Death Elemental
 1 Defiant Scribe
-1 Frank
+1 Ethereal Construct
+1 Excavation Automaton
+1 Final Strike
+1 Fortress Automaton
+1 Frost Eruption
 1 Furious Automaton
 1 Gaston, Lekvian Squire
 1 Golem Conjurer
-1 Helpful Automaton
+1 Hidden Giant
 1 Interrupt
 1 Invisible Haze
-1 Knowledge Collection
+1 Isolated Archer
+1 Lekvian Butler
 1 Lekvian Traveler
 1 Lekvian Vampire
-1 Life Manipulation
-1 Loose Change
-1 Lost in the Wilds
-1 Malicious Receptionist
+1 Looming Overlord
 1 Menacing Automaton
 1 Menacing Scribe
 1 Might of the Woods
-1 Noddegamra
-1 Nomadic Spirit
+1 Mirage Manufacturer
+1 Outlands Accountant
 1 Outlast
 1 Pesky Scribe
-1 Prepared Scribe
-1 Priest of Death
+1 Power of Antiquity
 1 Probable Rivalry
-1 Quiet Mage
-1 Remake
-1 Rugged Outlander
+1 Return of the Vanished
+1 Ruins Scavenger
 1 Savage Snare
 6 See Beyond
 1 Self Improver
+1 Sinkhole
 1 Siphon Power
-1 Spire Hunter
+1 Starlight Cleric
+1 Stronghold Dispatch
 1 The Dreamer
 1 Train Station
 1 Unfortunate Accident
-1 Vampiric Recovery
 1 Vexing Scribe
 1 Wild Vision
 8 Wilds of Atnia
-1 Workshop Automaton
 
 1 Atnia
 1 Golem
 1 Night Horror
 1 Law-Mage
+1 Survivor
 1 Blood Zombie
 1 Knight of Redemption
 8 Delta Ultimate Artifact

@@ -1,56 +1,57 @@
-1 A Trick
-1 Absolute Destruction
-1 Amatuer Illusionist
+1 Ancient Mentor
 1 BSOD
-1 Bermuda Triangle
-1 Call the Divine
-1 Contemplate
-1 Cursed Portal
-1 Defiant Scribe
-1 Desperate Arbiter
+1 Blood Bank
+1 Coordinated Assault
+1 Death Elemental
 1 Devastating Decoy
 1 Disappearing Orb
-1 Dropkick
+1 Downtown Walk
+1 Duel of Honor
 1 Eminus Faith Directive
 1 Esmund's Divination
-1 Evil Opportunity
-1 Forgetful Arbiter
+2 Evil Opportunity
+1 Familiar Shadow
+1 Final Strike
 1 Frightening Arbiter
-1 Furious Automaton
 1 Golem Conjurer
+1 Hidden Giant
 1 Imposing Presence
+1 Injury to Insult
 1 Inspired Cleric
-1 Instant Shield
-1 Isolated Archer
-1 Knightly Reinforcements
+1 Lekvian Traveler
+1 Liase of the Two Scrolls
+1 Liev Arbiter
+1 Living Relic
+1 Looming Overlord
 1 Mechanical Vampire
-1 Menacing Scribe
 1 Nullify Magic
-1 Oln's Binding
-1 Out of Mind
-1 Outlands Accountant
-1 Pesky Scribe
-1 Prepared Scribe
+1 Ozen's Fury
+1 Ozen's Wrath
+1 Quagmire Elemental
+1 Relic Recovery
 1 Resilient Knight
-2 Search for Omnipotence
+1 Rosilie D'Avron
+1 Rugged Outlander
+1 Sagittarii
+1 Savage Snare
+1 Search for Omnipotence
 9 See Beyond
-1 Self Improver
-1 Shifting Mirage
-1 Sorvald's Insight
-1 Spirit Guide
-1 Substitute
+1 Siphon Power
+1 Spectacular Sweep
+1 Stash Away
+1 Steel Resolve
+1 The Departed
 1 Tomb Hunter
-1 Try Again
-1 Vampire's Grasp
+1 Universal Stimulant
 1 Void Cleric
-1 Volcanic Giant
-1 Wicked Pact
 10 Wilds of Atnia
+1 Wolkk Twinspear
 
 1 Atnia
 1 Golem
 1 Night Horror
 1 Law-Mage
+1 Survivor
 1 Blood Zombie
 1 Knight of Redemption
 8 Delta Ultimate Artifact

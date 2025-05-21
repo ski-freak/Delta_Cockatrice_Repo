@@ -1,50 +1,50 @@
-1 Absolute Destruction
-1 Ancient Necromancer
+1 A Difficult Choice
+1 Annoying Scribe
+1 Annul
+1 Apprentice Spellcaster
 1 Aton Scout
-1 Battle Rage
-1 Become Large
+1 Awakened Arbiter
 1 Bermuda Triangle
-1 Centrifuge
-1 Clockwork Soldier
 1 Countervailing Flames
+1 Defiant Scribe
+1 Double Negative
+1 Dune Paladin
 1 Electrolytes
-1 Embrace the Arcane
+1 Elite Smith
+1 Eruption
 1 Ethereal Construct
-1 Flashback Attack
-1 Frostblade Adept
-1 Helpful Automaton
-1 Knight of the Wheat
+1 Final Strike
+1 Fireball
+1 Forgotten Hunter
+1 Furious Automaton
+1 Furious Sorcerer
+1 Gift of Life
+1 Hidden Giant
+1 Isolated Archer
 1 Knowledge Requisitioner
-1 Life Manipulation
-1 Loose Change
-1 Magic Trick
+1 Lekvian Vampire
+1 Lunar Suppression
 1 Magical Zenith
-1 Malicious Receptionist
-1 Nomadic Spirit
-1 Outlander's Familiar
-1 Outlands Accountant
-1 Pax Nova Scout
-1 Pesky Scribe
-1 Plasma Bolt
+1 Mechanical Vampire
+1 Might of the Woods
+1 More Fire
+1 Mystic Stone
+1 Oana's Divination
+1 Pax Nova Battlemage
 1 Plunder
-1 Prepared Scribe
-1 Priest of Death
-1 Quick Thinking
-1 Quiet Mage
+1 Probable Rivalry
+1 Psychic Intrusion
 1 Recycling
-1 Remake
-1 Replenish
-1 Return of the Vanished
-1 Rosilie D'Avron
-1 Ruins Scavenger
+1 Rugged Outlander
+1 Savage Snare
 9 See Beyond
 1 Set Ablaze
-1 Squish
-1 Stochastic Ignition
-1 Stronghold Dispatch
+1 Sorvald's Ignition
+1 Storm Generator
+1 The Plan
 1 Vampiric Recovery
+1 Vaudeville Hook
 1 Vexing Scribe
-1 Wild Vision
 10 Wilds of Atnia
 1 Wizard's Familiar
 1 Zelor Oldworld Directive
@@ -53,6 +53,7 @@
 1 Golem
 1 Night Horror
 1 Law-Mage
+1 Survivor
 1 Blood Zombie
 1 Knight of Redemption
 8 Delta Ultimate Artifact
