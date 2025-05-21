@@ -1,66 +1,66 @@
 1 Abominable Cleric
-1 Assassin's Armaments
-1 Astral Speculation
-1 Aton Archivist
-1 Aton Battlemaster
-1 Aton Scout
-1 Bard's Lesson
+1 Amatuer Wizarding
+1 Amnesia
+1 Apprentice Spellcaster
+1 Arcane Burst
+1 Arcane Chains
+1 Astral Amulet
 1 Become Large
 1 Blood Channeler
 1 Burning Lich
-1 Cliffside Guard
-1 Cranium Clasp
-1 Dagger of Undeath
+1 Cursed Tomb
 1 Dark Wrath
 1 Doomed Nightmare
-1 Dream Stalker
-1 Electrolytes
-1 Eruption
-1 Eudoxia Unshackled
-1 Eye for an Eye
-1 Flame Elemental
-1 Flashback Attack
+1 Dune Paladin
+1 Emissary of Fear
+1 Emotion Vampire
+1 Extreme Heat
+1 Fated Return
 1 Force Field
-1 Forsaken Laboratory
+1 Forsaken Dreammage
+1 Forsaken Spellcaster
 1 Gas Giant
 1 Giant Bat
-1 Hasten
-1 Horror Summoning
+1 Golem Conjuring
+1 Kaboom
+1 Knight of the Moon
+1 Knight of the Torch
 1 Lore Dump
-1 Lost Traveler
 1 Maddening Visions
-1 Madman
-1 Memory Wraith
-1 Mind Demolition
-1 More Fire
+1 Master of Elements
+1 Merry Duelist
 1 Myrkur Phantom
+1 Mysterious Mage
+1 Mystical Cache
 1 Night of the Dead
 1 Nightfall
-1 Noble Cleric
 1 Old Zombiemancer
 1 Oruva Scout
-1 Pax Nova Scout
+1 Pax Nova Battlemage
+1 Pax Nova Guardian
+1 Plasma Bolt
 1 Recurring Nightmare
-1 Resiliant Knight
+1 Rift Ritual
+1 Rift Sorcerer
 1 Rift Whispers
-1 Righteous Fury
-1 Scary Cleric
 1 Seasoned Loremaster
 8 See Beyond
+1 Strategize
 1 Terrifying Nightmare
-1 Thunderous Fury
-1 Tower Cleric
-1 Turn to Stone
+1 Thorny Defense
+1 Triple Spell
+1 Unimaginable Nightmare
 1 Unstable Contract
 1 Vampire's Bite
 1 Visionary Artificer
 1 Void Axe
-1 Void Blast
 1 Void Drake
 1 Void Snap
+1 Void Spike
 1 Voidsworn Apostle
-1 Vosderon's Trident
+1 Volcanic Vision
 10 Wilds of Atnia
+1 Wizard's Familiar
 
 1 Atnia
 1 Golem
@@ -85,7 +85,7 @@
 1 Oldworld Home
 1 Zelor Home
 1 Martial Home
-1 Faith Home
+1 Ecclesia Home
 1 The Old Watch
 1 The College of Dreams
 1 Aton

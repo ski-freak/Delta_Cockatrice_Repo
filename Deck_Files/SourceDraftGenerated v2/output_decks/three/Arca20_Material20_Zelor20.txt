@@ -1,66 +1,66 @@
 1 Abominable Cleric
-1 Artificer's Staff
-1 Astral Amulet
-1 Aton Battlemaster
-1 Atonian Phoenix
-1 Autonomous Trader
-1 Bermuda Triangle
-1 Bob, the Lightning Rod
-1 Clockwork Soldier
-1 Combo Slice
-1 Cranium Clasp
-1 Dark Wrath
-1 Deconstructor
-1 Desert Sentinel
-1 Dream Stalker
-1 Dune Paladin
+1 Amnesia
+1 Arcane Chains
+1 Aton Scout
+1 Blood Bank
+1 Blood Channeler
+1 Bloodlust
+1 Burning Lich
+1 Burning Man
 1 Elite Smith
+1 Embrace the Arcane
 1 Emissary of Fear
-1 Errant of the Torch
-1 Eternal Navigator
-1 Ethereal Construct
-1 Explorer's Knife
-1 Fabled Blade
-1 Field Expedition
+1 Emotion Vampire
+1 Escaped Monster
+1 Familiar Shadow
+1 Fire Channeler
 1 Flame Oracle
 1 Flashback Attack
-1 Fortress Automaton
+1 Forsaken Spellcaster
+1 Furious Automaton
 1 Gas Giant
 1 Giant Bat
-1 Ignition
+1 Golem Conjurer
+1 Golem Conjuring
+1 Hidden Giant
+1 Hired Hands
+1 Improvised Lightning
+1 Injury to Insult
+1 Inspired Encore
+1 Isolated Archer
 1 Kaboom
-1 Knightmare
-1 Lost Traveler
-1 Maddening Visions
-1 Magic Trick
-1 Malicious Receptionist
-1 Mechanical Vampire
-1 Metallic Axe
+1 Knight of the Wheat
+1 Lekvian Vampire
+1 Looming Overlord
+1 Magical Zenith
+1 More Fire
+1 Mysterious Mage
 1 Night of the Dead
-1 Nightfall
-1 Oruva Scout
+1 Noddegamra
 1 Outlast
-1 Prepared Scribe
-1 Psychic Intrusion
+1 Pax Nova Scout
+1 Priest of Death
+1 Recurring Nightmare
 1 Replenish
+1 Rift Ritual
 1 Rift Whispers
-1 Savage Snare
+1 Rosilie D'Avron
+1 Rugged Outlander
+1 Scorched Earth
 12 See Beyond
+1 Set Ablaze
 1 Sinkhole
-1 The Yapper
-1 Thunderous Fury
-1 Tollgate Scribe
-1 Triple Spell
+1 Terrifying Nightmare
+1 Trail of the Nightmare
 1 Vampire's Bite
-1 Vampire's Grasp
+1 Vexing Scribe
 1 Visionary Artificer
-1 Void Blast
+1 Void Drake
 1 Void Spike
 1 Voidsworn Apostle
-1 Vosderon's Trident
+1 Wicked Pyromancer
+1 Wild Vision
 12 Wilds of Atnia
-1 Woodland Spectre
-1 Yeet
 
 1 Atnia
 1 Golem
@@ -85,7 +85,7 @@
 1 Oldworld Home
 1 Zelor Home
 1 Martial Home
-1 Faith Home
+1 Ecclesia Home
 1 The Old Watch
 1 The College of Dreams
 1 Aton

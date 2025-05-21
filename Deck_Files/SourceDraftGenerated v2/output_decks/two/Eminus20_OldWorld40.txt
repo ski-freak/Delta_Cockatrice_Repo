@@ -1,65 +1,65 @@
 1 A Difficult Choice
+1 Abandoned Automaton
+1 Airdrop
+1 Ancient Mentor
+1 Ancient Necromancer
 1 Annul
-1 Arbiter Fabricator
-1 Assembly Line
-1 Automaton Summoning
-1 BSOD
-1 Beckon Home
-1 Catch!
-1 Champion's Crown
-1 Cleric's Lens
+1 Awakened Arbiter
 1 Collective Knowledge
-1 Dead on Arrival
-1 Delay
-1 Devastating Decoy
-1 Durable Automaton
-1 Elite Arbiter
+1 Construct Constructor
+1 Contemplate
+1 Coordinated Assault
+1 Coordinated Defense
+1 Duel of Honor
 1 Embargo
-1 Essence of the Old World
-1 Ethereal Knight
-1 Forbidden Knowledge
+1 Energy Cell
+1 Esmund's Divination
+1 Excavation Automaton
+1 Forgetful Arbiter
+1 Frank
+1 Frightening Arbiter
+1 Frost Eruption
+1 Frostblade Adept
 1 Furious Sorcerer
-1 Golem Conjurer
-1 Golem Nexus
+1 Gift of Life
 1 Grim Librarians
+1 Helping Hands
+1 Honorable Knight
 1 Interfering Arbiter
-1 Knowledge Collection
-1 Lagoon Titan
+1 Interrupt
+1 Junior Adventurer
+1 Knightly Reinforcements
 1 Liase of the Two Scrolls
-1 Lost Sigil
-1 Mind Reader
-1 Mystic Mists
+1 Loose Change
+1 Lost Tome
+1 Lunar Suppression
+1 Mirage Manufacturer
 1 Mystic Stone
-1 Nomadic Spirit
-1 Out of Mind
-1 Palace Sanctuary
+1 Oana's Divination
 1 Phantom Angel
+1 Power of Antiquity
+1 Procrastinate
 1 Question Station
 1 Quick Thinking
-1 Remake
-1 Return to the Earth
-1 Rift Shrine
+1 Recycling
+1 Resilient Knight
+1 Ruins Scavenger
+1 Sagittarii
+1 Scour the Ruins
 1 Scrap Merchant
-1 Scrapmaster
 8 See Beyond
-1 Shifting Mirage
+1 Sheltering Winds
 1 Skyknight
+1 Spectacular Sweep
 1 Spectral Agent
 1 Squish
 1 Starlight Cleric
-1 Steel Resolve
-1 Stronghold Dispatch
-1 Termination
-1 Thunder Knight
-1 Train Station
+1 Temporary Disappearance
 1 Try Again
-1 Tundra Elemental
+1 Tundra Arbiter
+1 Vaudeville Hook
 1 Walk the Plank
-1 Wave of Doubt
-1 Wealthy Trader
 10 Wilds of Atnia
-1 Wolkk Twinspear
-1 Yulia of the Lake
 
 1 Atnia
 1 Golem
@@ -84,7 +84,7 @@
 1 Oldworld Home
 1 Zelor Home
 1 Martial Home
-1 Faith Home
+1 Ecclesia Home
 1 The Old Watch
 1 The College of Dreams
 1 Aton

@@ -1,65 +1,65 @@
 1 A Difficult Choice
 1 Abandoned Automaton
 1 Airdrop
+1 Ancient Excavation
+1 Ancient Necromancer
 1 Annul
-1 Arbiter Fabricator
-1 Assembly Line
-1 Automaton Summoning
+1 Awakened Arbiter
 1 Catch!
 1 Centrifuge
-1 Cleric's Lens
-1 Collective Knowledge
 1 Construct Constructor
-1 Countervailing Flames
-1 Dark End
+1 Contemplate
+1 Cryptic Swan
+1 Crystal Triangle
 1 Dead on Arrival
-1 Double Negative
-1 Durable Automaton
-1 Economy of Scale
 1 Embargo
+1 Energy Cell
 1 Essence of the Old World
-1 Forbidden Knowledge
+1 Excavation Automaton
 1 Frank
+1 Frost Eruption
+1 Frostblade Adept
 1 Furious Sorcerer
-1 Golem Conjurer
+1 Gift of Life
+1 Golem Nexus
 1 Grim Librarians
-1 Helpful Automaton
 1 Helping Hands
 1 Interrupt
 1 Invisible Haze
+1 Junior Adventurer
 1 Knowledge Collection
-1 Lagoon Titan
+1 Knowledge Requisitioner
 1 Loose Change
-1 Lost Sigil
 1 Lost Tome
-1 Mystic Mists
+1 Lunar Suppression
+1 Mirage Manufacturer
 1 Mystic Stone
 1 Oana's Divination
-1 Out of Mind
-1 Outlands Commander
-1 Palace Sanctuary
+1 Outlander's Familiar
+1 Potent Divination
+1 Power of Antiquity
+1 Probable Rivalry
 1 Procrastinate
+1 Question Station
 1 Quick Thinking
 1 Recycling
-1 Relic Invoker
-1 Remake
+1 Return of the Vanished
 1 Return to the Earth
-1 Rift Shrine
+1 Ruins Scavenger
+1 Sage of the Sun
+1 Scour the Ruins
 1 Scrap Merchant
-1 Scrapmaster
 4 See Beyond
-1 Shadowy Explosion
+1 Sheltering Winds
 1 Squish
 1 Starlight Cleric
+1 Storm Generator
 1 Stronghold Dispatch
-1 Termination
-1 The Dreamer
-1 The Plan
-1 Tundra Elemental
+1 Thingamajig
+1 Train Station
+1 Vaudeville Hook
 1 Walk the Plank
-1 Wealthy Trader
 8 Wilds of Atnia
-1 Zelor Oldworld Directive
 
 1 Atnia
 1 Golem
@@ -84,7 +84,7 @@
 1 Oldworld Home
 1 Zelor Home
 1 Martial Home
-1 Faith Home
+1 Ecclesia Home
 1 The Old Watch
 1 The College of Dreams
 1 Aton

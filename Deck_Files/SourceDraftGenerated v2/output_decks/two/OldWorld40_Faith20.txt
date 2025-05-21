@@ -1,65 +1,64 @@
+1 A Difficult Choice
 1 Abandoned Automaton
-1 Ancient Dreamshaper
-1 Angel's Lantern
-1 Arbiter Fabricator
-1 Assembly Line
+1 Ancient Excavation
+1 Back Again
+1 Call the Divine
 1 Catch!
-1 Centrifuge
-1 Cleric's Lens
-1 Construct Constructor
-1 Dark End
+1 Collective Knowledge
+1 Cryptic Swan
+1 Crystal Triangle
+1 Cursed Portal
+1 Dark Aperture
 1 Dead on Arrival
-1 Deploy Automatons
+1 Demon of Consumption
 1 Devout Healer
-1 Disappearing Orb
-1 Double Negative
-1 Durable Automaton
-1 Economy of Scale
+1 Embargo
 1 Essence of the Old World
-1 Eternal Guard
-1 Evil Opportunity
-1 Forbidden Knowledge
+1 Ethereal Mirage
+2 Evil Opportunity
+1 Fallen Scribe
+1 Frost Eruption
+1 Frostblade Adept
 1 Furious Sorcerer
-1 Get Back In There
-1 Goblin Cleric
-1 Goblin Scout
-1 Golem Conjurer
+1 Gift of Life
 1 Golem Nexus
-1 Healing Amulet
-1 Interrupt
-1 Invisible Haze
+1 Grim Librarians
+1 Helping Hands
+1 Junior Adventurer
+1 Knowledge Collection
+1 Living Relic
 1 Loose Change
-1 Lost Sigil
-1 Lost Tome
-1 Micronecromancy
-1 Mystic Mists
+1 Lunar Suppression
+1 Mirage Manufacturer
 1 Mystic Stone
-1 Oana's Divination
-1 Ozen's Wrath
+1 Outlander's Familiar
+1 Ozen's Fury
 1 Palace Clock
-1 Procrastinate
+1 Passive Income Scheme
+1 Potent Divination
+1 Power of Antiquity
 1 Question Station
-1 Quick Thinking
-1 Relic Invoker
+1 Recycling
 1 Relic Recovery
 1 Remake
+1 Return of the Vanished
 1 Return to the Earth
-1 Rift Arcanist
-1 Rift Shrine
-1 Scrap Merchant
+1 Ruins Scavenger
+1 Sage of the Sun
 8 See Beyond
-1 Spiteful Cleric
+1 Sheltering Winds
 1 Starlight Cleric
-1 Stronghold Dispatch
+1 Stash Away
+1 Storm Generator
+1 Substitute
 1 Svet Scout
+1 The Departed
+1 The Dreamer
+1 The Plan
+1 Tomb Hunter
 1 Train Station
-1 Tundra Elemental
-1 Void Cleric
-1 Wealthy Trader
-1 Weapon Refurbisher
-1 Wicked Pact
+1 Walk the Plank
 10 Wilds of Atnia
-1 Zelor Oldworld Directive
 
 1 Atnia
 1 Golem
@@ -84,7 +83,7 @@
 1 Oldworld Home
 1 Zelor Home
 1 Martial Home
-1 Faith Home
+1 Ecclesia Home
 1 The Old Watch
 1 The College of Dreams
 1 Aton

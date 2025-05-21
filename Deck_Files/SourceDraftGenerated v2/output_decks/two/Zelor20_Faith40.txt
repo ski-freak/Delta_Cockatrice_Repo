@@ -1,65 +1,62 @@
-1 Ancient Traveler
-1 Angel's Lantern
-1 Aton Archivist
-1 Awaken the Hooligans
-1 Back Again
-1 Bard's Lesson
+1 Abominable Egg
+1 Amatuer Illusionist
 1 Battle Rage
-1 Braeg's Hammer
-1 Cleric's Automaton
+1 Burning Man
+1 Call the Divine
 1 Combo Slice
-1 Construct a Construct
+1 Cursed Portal
+1 Dark Aperture
 1 Demon of Consumption
-1 Deploy Automatons
 1 Devout Healer
-1 Electrolytes
-1 Errant of the Torch
+1 Disappearing Orb
+1 Downtown Walk
+1 Dune Paladin
 1 Eruption
-1 Eternal Guard
+1 Eternal Navigator
 1 Ethereal Mirage
-1 Evil Opportunity
-1 Flame Elemental
-1 Healing Amulet
-1 Hwain's Staff
+2 Evil Opportunity
+1 Extreme Heat
+1 Fallen Scribe
+1 Fated Return
+1 Fireball
+1 Forgotten Hunter
+1 Globe of 1000 Souls
+1 Inspired Cleric
 1 Inspired Encore
-1 Kaboom
-1 Knight of the Poppy
-1 More Fire
+1 Knight of the Wheat
+1 Lavasmith
+1 Living Relic
+1 Merry Duelist
+1 Mindless Cleric
+1 Mindseeker
 1 Oln's Binding
-1 Oln's Scale
-1 Orb of Binding
-1 Ozen's Wrath
+1 Out of Mind
+1 Ozen's Fury
+1 Ozen's Temple
 1 Palace Clock
-1 Prospector Zombie
+1 Passive Income Scheme
+1 Pax Nova Battlemage
+1 Plasma Bolt
+1 Radiating Force
 1 Reawaken in Dream
-1 Recruiter of the Dead
-1 Relic Recovery
-1 Righteous Fury
-1 Scorched Earth
-1 Search for Omnipotence
+1 Recollect
+1 Rule of Three
+3 Search for Omnipotence
 8 See Beyond
+1 Set Ablaze
 1 Skyhaven Cannon
-1 Sorvald's Spark
-1 Spiteful Cleric
-1 Spiteful Hatchet
-1 Squiggly Slime
-1 Stash Away
+1 Spirit Guide
+1 Spirit of Monumentality
 1 Substitute
-1 Suspicious Trader
-1 Svet Scavenger
 1 Svet Scout
-1 Sword of Forbidden Knowledge
 1 Terrifying Vision
-1 Twilight Isle Cleric
-1 Underwater Emergence
-1 Unexpected Rift
-1 Unknowable Horror
+1 The Departed
+1 Tomb Hunter
+1 Void Capsule
 1 Void Cleric
+1 Void Shift
 1 Wicked Pact
 10 Wilds of Atnia
-1 Wizard's Familiar
-1 Woodland Spectre
-1 Worldseal
 
 1 Atnia
 1 Golem
@@ -84,7 +81,7 @@
 1 Oldworld Home
 1 Zelor Home
 1 Martial Home
-1 Faith Home
+1 Ecclesia Home
 1 The Old Watch
 1 The College of Dreams
 1 Aton

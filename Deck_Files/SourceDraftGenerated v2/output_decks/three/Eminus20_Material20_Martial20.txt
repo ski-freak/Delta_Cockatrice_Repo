@@ -1,66 +1,66 @@
+1 5th Legion Lieutenant
 1 A Trick
-1 Aggravating Scribe
-1 Arbiter Captain
-1 Arbiter Marshal
-1 Arena Merchant
+1 Absolute Destruction
+1 Absorb
+1 Adapt
+1 Ambush
+1 Ancient Mentor
 1 Beckon Home
-1 Bermuda Triangle
 1 Clockwork Soldier
 1 Contain
-1 Deadly Strike
-1 Defiant Scribe
-1 Desert Sentinel
+1 Coordinated Defense
+1 Cordial Wall-Knight
+1 Desperate Arbiter
 1 Divine Uppercut
-1 Dropkick
-1 Elite Arbiter
-1 Ethereal Construct
-1 Everyone Forgets
-1 Explorer's Knife
+1 Duel of Honor
+1 Eager Bruiser
+1 Emergency Supply Kit
+1 Enterprising Merchant
+1 Esmund's Divination
 1 Flank
-1 Frostblade Nomad
-1 Improvised Armaments
-1 Interceptor
-1 Knight Summoning
+1 Flash Freeze
+1 Forgetful Arbiter
+1 Frightening Arbiter
+1 Hidden Giant
+1 Hired Hands
+1 Improved Morale
+1 Interfering Arbiter
 1 Knightly Reinforcements
-1 Liase of the Two Scrolls
-1 Liev Arbiter
+1 Legion Warlock
+1 Lekvian Butler
+1 Lekvian Vampire
 1 Liev Warrior
-1 Masterwork Ring
-1 Mechanical Vampire
-1 Menacing Scribe
-1 Metallic Cloak
+1 Malicious Receptionist
 1 Mind Trauma
-1 Novice Law-Binder
-1 Ogre Arbiter
-1 Ogre Illusionist
-1 Outpost Militia
+1 Orb of Understanding
+1 Outlast
+1 Pesky Scribe
 1 Prepared Scribe
-1 Remove from History
-1 Royal Guard
-1 Savage Snare
+1 Quagmire Elemental
+1 Resilient Knight
+1 Round Two
+1 Rugged Outlander
 12 See Beyond
-1 Self Improver
-1 Shem's amulet
+1 Send in the Zombies
+1 Sinkhole
 1 Siphon Power
-1 Solemn Angel
+1 Skyknight
+1 Sneaky Assassin
 1 Sorvald's Insight
-1 Spectral Agent
+1 Spire Hunter
 1 Steadfast Arbiter
-1 Swift Rescue
-1 Team Up
+1 Stronghold Guard
+1 Sublimate
+1 Sunblade Knight
 1 Temporary Disappearance
-1 The Renegade
-1 Tundra Arbiter
-1 Tundra Ogre
-1 Unfortunate Accident
+1 The Doublemeister
+1 Trade Insight
+1 Try Again
 1 Valorous Triumph
-1 Vexing Scribe
-1 Village Champion
+1 Volcanic Giant
 1 Wave of Doubt
-1 Whack
+1 Wild Vision
 12 Wilds of Atnia
-1 Wolkk Twinspear
-1 Workshop Automaton
 
 1 Atnia
 1 Golem
@@ -85,7 +85,7 @@
 1 Oldworld Home
 1 Zelor Home
 1 Martial Home
-1 Faith Home
+1 Ecclesia Home
 1 The Old Watch
 1 The College of Dreams
 1 Aton

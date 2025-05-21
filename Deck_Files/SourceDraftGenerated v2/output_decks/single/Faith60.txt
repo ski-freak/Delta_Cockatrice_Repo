@@ -1,63 +1,53 @@
 1 Abominable Egg
 1 Amatuer Illusionist
-1 Ancient Dreamshaper
-1 Angel's Lantern
-1 Braeg's Hammer
-1 Cleric's Automaton
-1 Cleric's Binding
-1 Construct a Construct
-1 Dark Aperture
+1 Back Again
+1 Call the Divine
+1 Cosmic Justice
+1 Cursed Portal
+2 Dark Aperture
 1 Deja Vu
-1 Demon of Consumption
-1 Deploy Automatons
-1 Devout Healer
-1 Disappearing Orb
+2 Demon of Consumption
+2 Devout Healer
+2 Disappearing Orb
 1 Downtown Walk
+1 Ethereal Mirage
 1 Evil Opportunity
-1 Frost Eruption
-1 Get Back In There
-1 Glimpse Disaster
-1 Globe of 1000 Souls
-1 Guile
-1 Haunted Warlock
+1 Fallen Scribe
+2 Get Back In There
+2 Glimpse Disaster
+2 Globe of 1000 Souls
 1 Healing Amulet
-1 Holy Knife
-1 Micronecromancy
+1 Inspired Cleric
+1 Living Relic
 1 Mindless Cleric
-1 Molten Image
-1 Necromancer's Touch
-1 Oln's Binding
-1 Oln's Scale
+1 Mysterious Cleric
+2 Oln's Binding
+1 Out of Mind
+1 Ozen's Fury
+1 Ozen's Temple
 1 Ozen's Wrath
 1 Palace Clock
 1 Passive Income Scheme
-1 Prospector Zombie
 1 Reawaken in Dream
-1 Recruiter of the Dead
 1 Relic Recovery
-1 Rift Arcanist
-3 Search for Omnipotence
+2 Rule of Three
+1 Search for Omnipotence
 4 See Beyond
 1 Skyhaven Cannon
-1 Solemn Scout
 1 Spirit Guide
-1 Spiteful Cleric
-1 Spiteful Hatchet
-1 Squiggly Slime
+1 Spirit of Monumentality
 1 Stash Away
 1 Substitute
-1 Svet Scavenger
 1 Svet Scout
 1 Terrifying Vision
+1 The Departed
 1 Tomb Hunter
-1 Twilight Isle Cleric
-1 Underwater Emergence
-1 Unexpected Rift
-1 Unknowable Horror
+1 Transcend
 1 Void Capsule
 1 Void Cleric
+1 Void Shift
+1 Wicked Pact
 8 Wilds of Atnia
-1 Worldseal
 
 1 Atnia
 1 Golem
@@ -82,7 +72,7 @@
 1 Oldworld Home
 1 Zelor Home
 1 Martial Home
-1 Faith Home
+1 Ecclesia Home
 1 The Old Watch
 1 The College of Dreams
 1 Aton

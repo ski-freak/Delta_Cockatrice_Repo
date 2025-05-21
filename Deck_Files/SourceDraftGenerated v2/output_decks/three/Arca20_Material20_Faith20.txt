@@ -1,65 +1,65 @@
-1 Absolute Destruction
-1 Ancient Squire
-1 Astral Amulet
-1 Autonomous Trader
-1 Awaken the Hooligans
+1 Abominable Cleric
+1 Absorb
+1 Aggravating Scribe
+1 Arcane Burst
 1 Back Again
-1 Bermuda Triangle
 1 Blood Channeler
-1 Bob, the Lightning Rod
-1 Burning Lich
-1 Dagger of Undeath
-1 Deconstructor
-1 Demon of Consumption
+1 Borrow Time
+1 Call the Divine
+1 Cursed Portal
+1 Cursed Tomb
+1 Dark Aperture
+1 Death Elemental
 1 Devout Healer
+1 Doomed Nightmare
 1 Downtown Walk
-1 Embittered Scribe
 1 Emissary of Fear
-1 Ethereal Construct
-1 Explorer's Knife
-1 Eye for an Eye
-1 Fortress Automaton
-1 Frost Eruption
-1 Furious Automaton
-1 Gas Giant
-1 Get Back In There
-1 Goblin Scout
-1 Haunted Warlock
-1 Healing Potion
-1 Horror Summoning
-1 Improvised Armaments
-1 Lost Traveler
+1 Emotion Vampire
+1 Familiar Shadow
+1 Final Strike
+1 Forsaken Spellcaster
+1 Glimpse Disaster
+1 Golem Conjurer
+1 Golem Conjuring
+1 Healing Amulet
+1 Hired Hands
+1 Lekvian Butler
+1 Living Relic
+1 Lost in the Wilds
 1 Maddening Visions
-1 Madman
-1 Metallic Cloak
-1 Molten Image
-1 Necromancer's Touch
-1 Oruva Scout
-1 Outlands Burglar
-1 Outlast
+1 Master of Elements
+1 Mechanical Vampire
+1 Menacing Scribe
+1 Mindless Cleric
+1 Myrkur Phantom
+1 Mysterious Cleric
+1 Mysterious Mage
+1 Mystical Cache
+1 Night of the Dead
+1 Oln's Binding
+1 Out of Mind
 1 Pale Mountain Directive
 1 Pesky Scribe
-1 Prospector Zombie
-1 Recruiter of the Dead
-1 Rift Arcanist
-1 Savage Snare
+1 Prepared Scribe
+1 Quiet Mage
+1 Reawaken in Dream
+1 Relic Recovery
+1 Rift Sorcerer
+1 Rosilie D'Avron
 1 Search for Omnipotence
 1 Seasoned Loremaster
 12 See Beyond
-1 Soul Splitter
-1 Spiteful Hatchet
-1 Substitute
-1 Svet Scout
-1 Terrifying Nightmare
-1 Tollgate Scribe
-1 Tomb Hunter
-1 Tower Cleric
-1 Underwater Emergence
+1 Skyhaven Cannon
+1 Stash Away
+1 Sublimate
+1 The Departed
+1 Unfortunate Accident
 1 Unstable Contract
 1 Vampire's Grasp
-1 Visionary Artificer
-1 Void Drake
-1 Wild Vision
+1 Void Axe
+1 Void Snap
+1 Volcanic Giant
+1 Wicked Pact
 12 Wilds of Atnia
 
 1 Atnia
@@ -85,7 +85,7 @@
 1 Oldworld Home
 1 Zelor Home
 1 Martial Home
-1 Faith Home
+1 Ecclesia Home
 1 The Old Watch
 1 The College of Dreams
 1 Aton

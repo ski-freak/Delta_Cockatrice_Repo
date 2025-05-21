@@ -1,63 +1,62 @@
-1 Amatuer Illusionist
-1 Arbiter Captain
-1 Arena Merchant
-1 Aura of Strength
-1 Awaken the Hooligans
 1 Back Again
-1 Battlefield Warp
-1 Bob, the Lightning Rod
-1 Cleric's Automaton
-1 Clockwork Soldier
-1 Crackling Battleaxe
+1 Bermuda Triangle
+1 Borrow Time
+1 Contain
+1 Cruel Messenger
+1 Dark Aperture
+1 Deadly Strike
+1 Death Elemental
 1 Defiant Scribe
-1 Deja Vu
-1 Demon of Consumption
-1 Devout Arbiter
 1 Devout Healer
-1 Escaped Monster
-1 Ether Charge
-1 Ethereal Construct
-1 Explorer's Knife
+1 Disappearing Orb
+1 Dissociation
+1 Downtown Walk
+1 Eager Bruiser
+1 Emergency Supply Kit
+1 Enterprising Merchant
+1 Ethereal Mirage
+1 Familiar Shadow
 1 Flank
-1 George
-1 Globe of 1000 Souls
-1 Healing Potion
-1 Honorable Scribe
-1 Improvised Armaments
-1 Looming Overlord
-1 Malicious Receptionist
-1 Master Duelist
-1 Masterwork Ring
-1 Mechanical Heart
-1 Metallic Cloak
-1 Mindless Cleric
-1 Myrkur Protector
+1 Flash Freeze
+1 Fortress Automaton
+1 Furious Automaton
+1 Hired Hands
+1 Infinity Vessel
+1 Intimidating Scribe
+1 Legion Warlock
+1 Lekvian Traveler
+1 Lekvian Vampire
+1 Living Relic
+1 Mechanical Vampire
 1 Mysterious Cleric
+1 Novice Law-Binder
 1 Oasis Giant
 1 Outlands Accountant
-1 Ozen's Spear
-1 Palace Clock
-1 Pathway Sentry
-1 Prepared Scribe
-1 Remove from History
-1 Royal Guard
-1 Savage Snare
+1 Ozen's Temple
+1 Passive Income Scheme
+1 Pesky Scribe
+1 Quagmire Elemental
+1 Rule of Three
+2 Search for Omnipotence
 12 See Beyond
-1 Sorvald's Insight
-1 Spiteful Bruiser
-1 Spiteful Cleric
+1 Self Improver
+1 Send in the Zombies
+1 Siphon Power
+1 Spire Hunter
+1 Spirit of Monumentality
+1 Steadfast Arbiter
 1 Stronghold Guard
 1 Substitute
-1 Svet Sigil
-1 Tundra Ogre
-1 Underwater Emergence
-1 Unexpected Rift
-1 Unfortunate Accident
+1 Team Up
+1 Terrifying Vision
+1 The Departed
+1 The Doublemeister
+1 Trade Insight
+1 Transcend
+1 Valorous Triumph
 1 Vampire's Grasp
-1 Void Capsule
 1 Void Cleric
 1 Void Shift
-1 Wicked Pact
 12 Wilds of Atnia
 1 Workshop Automaton
 
@@ -84,7 +83,7 @@
 1 Oldworld Home
 1 Zelor Home
 1 Martial Home
-1 Faith Home
+1 Ecclesia Home
 1 The Old Watch
 1 The College of Dreams
 1 Aton

@@ -1,62 +1,62 @@
-1 Absolute Destruction
-1 Ancient Squire
+1 Abominable Cleric
+1 Arcane Burst
 1 Arcane Chains
-1 Autonomous Trader
+1 Astral Amulet
+1 Bermuda Triangle
+1 Blood Bank
 1 Blood Channeler
-1 Bob, the Lightning Rod
+1 Borrow Time
 1 Burning Lich
 1 Clockwork Soldier
 1 Cursed Tomb
-1 Dagger of Undeath
 1 Dark Wrath
-1 Deconstructor
-1 Embittered Scribe
+1 Doomed Nightmare
 1 Emissary of Fear
-1 Eudoxia Unshackled
-1 Eye for an Eye
-1 Fallen Wizard
-1 Field Expedition
+1 Emotion Vampire
+1 Energy Drain
+1 Escaped Monster
+1 Final Strike
+1 Forsaken Dreammage
+1 Forsaken Spellcaster
+1 Fortress Automaton
 1 Gas Giant
+1 Gaston, Lekvian Squire
 1 Giant Bat
-1 Hasten
-1 Horror Summoning
-1 Improvised Armaments
+1 Golem Conjuring
 1 Leave me Alone
+1 Lekvian Butler
+1 Looming Overlord
 1 Lore Dump
-1 Lost Traveler
-1 Maddening Visions
-1 Madman
-1 Mechanical Heart
-1 Memory Wraith
-1 Metallic Cloak
+1 Master of Elements
+1 Menacing Automaton
+1 Menacing Scribe
 1 Myrkur Phantom
+1 Mysterious Mage
+1 Mystical Cache
 1 Night of the Dead
 1 Nightfall
-1 Noble Cleric
+1 Noddegamra
 1 Old Zombiemancer
 1 Oruva Scout
-1 Outlands Burglar
-1 Pesky Scribe
-1 Prepared Scribe
+1 Outlands Accountant
+1 Quagmire Elemental
 1 Recurring Nightmare
-1 Remove from History
-1 Savage Snare
-1 Scary Cleric
+1 Rift Ritual
+1 Rift Screech
+1 Rift Sorcerer
+1 Rift Whispers
+1 Rugged Outlander
 1 Seasoned Loremaster
 8 See Beyond
-1 Sinkhole
-1 Siphon Power
-1 Soul Splitter
+1 Spire Hunter
 1 Terrifying Nightmare
-1 The Yapper
 1 Triple Spell
-1 Turn to Stone
-1 Unfortunate Accident
-1 Vexing Scribe
+1 Unstable Contract
+1 Vampire's Grasp
 1 Visionary Artificer
-1 Void Blast
+1 Void Axe
 1 Void Drake
-1 Void Hound
+1 Void Snap
 1 Void Spike
 1 Voidsworn Apostle
 10 Wilds of Atnia
@@ -84,7 +84,7 @@
 1 Oldworld Home
 1 Zelor Home
 1 Martial Home
-1 Faith Home
+1 Ecclesia Home
 1 The Old Watch
 1 The College of Dreams
 1 Aton

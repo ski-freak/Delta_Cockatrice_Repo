@@ -1,65 +1,65 @@
+1 5th Legion Lieutenant
+1 Absolute Destruction
+1 Adapt
+1 Alliance Rallier
 1 Ambush
-1 Arbiter Captain
-1 Autonomous Trader
-1 Battlefield Warp
-1 Benjamin
+1 Battlefield Commander
 1 Bermuda Triangle
+1 Bloodlust
+1 Bold Warrior
+1 Borrow Time
 1 Contain
-1 Crackling Battleaxe
+1 Cruel Messenger
 1 Deadly Strike
-1 Desert Sentinel
+1 Devout Arbiter
 1 Eager Bruiser
-1 Eager Recruit
-1 Escaped Monster
+1 Enterprising Merchant
+1 Ether Charge
 1 Ethereal Construct
+1 Familiar Shadow
 1 Flank
-1 Fortress Automaton
-1 Frost Sprint
-1 Frostblade Nomad
-1 Graveyard Golem
-1 Great Greatsword
-1 Healing Potion
-1 Hidden Giant
-1 Honorable Scribe
-1 Intimidating Scribe
+1 Furious Automaton
+1 Gaston, Lekvian Squire
+1 Golem Conjurer
+1 Heroic Moment
+1 Hired Hands
+1 Infinity Vessel
+1 Investigate the Scene
 1 Isolated Archer
 1 K.O. Punch
 1 Leave me Alone
-1 Looming Overlord
+1 Legion Drill Sergeant
+1 Legion Warlock
+1 Lekvian Vampire
+1 Liev Warrior
+1 Life Manipulation
 1 Master Duelist
-1 Masterwork Ring
-1 Mechanical Heart
-1 Menacing Scribe
-1 Myrkur Protector
+1 Menacing Automaton
 1 Novice Law-Binder
 1 Oasis Giant
-1 Ogre Arbiter
-1 Old Watch Shield
-1 Outlands Accountant
-1 Pathway Sentry
-1 Pax Axe
+1 Pesky Scribe
+1 Reorganize
+1 Rolead the Swift
+1 Round Two
+1 Rugged Outlander
 1 Savage Snare
 8 See Beyond
-1 Self Improver
-1 Sneak Attack
-1 Sorvald's Insight
-1 Soul Link
-1 Spiteful Bruiser
+1 Send in the Zombies
+1 Sinkhole
+1 Sneaky Assassin
+1 Spare Violence
 1 Steadfast Arbiter
 1 Stronghold Guard
+1 Swarm the Enemy
 1 Swift Rescue
+1 Team Up
 1 The Renegade
-1 Tollgate Scribe
 1 Tower Thief
-1 Tundra Ogre
-1 Unfortunate Accident
-1 Valorous Triumph
-1 Vexing Scribe
-1 Village Champion
-1 Warrior's Sword
-1 Warrior's Training
-1 Whack
+1 Trade Insight
+1 Volcanic Giant
+1 Warmongerer
 10 Wilds of Atnia
+1 Zombie Invasion
 
 1 Atnia
 1 Golem
@@ -84,7 +84,7 @@
 1 Oldworld Home
 1 Zelor Home
 1 Martial Home
-1 Faith Home
+1 Ecclesia Home
 1 The Old Watch
 1 The College of Dreams
 1 Aton

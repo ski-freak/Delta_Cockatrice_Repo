@@ -1,65 +1,63 @@
-1 Absolute Destruction
-1 Aggravating Scribe
-1 Ancient Greatsword
-1 Ancient Squire
-1 Annoying Scribe
-1 Artificer's Staff
-1 Autonomous Trader
-1 Back Again
-1 Bermuda Triangle
-1 Braeg's Hammer
+1 Absorb
+1 Blood Bank
+1 Bloodlust
+1 Borrow Time
+1 Call the Divine
 1 Clockwork Soldier
-1 Construct a Construct
+1 Cosmic Justice
 1 Dark Aperture
-1 Deconstructor
+1 Death Elemental
 1 Defiant Scribe
-1 Desert Sentinel
-1 Downtown Walk
+1 Demon of Consumption
+1 Devout Healer
+1 Energy Drain
 1 Ethereal Construct
-1 Evil Opportunity
-1 Explorer's Knife
-1 Field Expedition
+1 Ethereal Mirage
+2 Evil Opportunity
+1 Final Strike
+1 Fortress Automaton
 1 Furious Automaton
-1 Glimpse Disaster
-1 Globe of 1000 Souls
-1 Graveyard Golem
-1 Healing Potion
-1 Honorable Scribe
-1 Improvised Armaments
-1 Intimidating Scribe
-1 Leave me Alone
+1 Get Back In There
+1 Golem Conjurer
+1 Hidden Giant
+1 Hired Hands
+1 Injury to Insult
+1 Isolated Archer
+1 Lekvian Traveler
+1 Lekvian Vampire
+1 Living Relic
 1 Malicious Receptionist
-1 Mechanical Heart
-1 Metallic Axe
-1 Micronecromancy
-1 Molten Image
+1 Mechanical Vampire
+1 Menacing Automaton
+1 Menacing Scribe
 1 Oln's Binding
-1 Outlands Accountant
-1 Outlast
+1 Ozen's Fury
 1 Passive Income Scheme
-1 Pathway Sentry
-1 Pesky Scribe
 1 Prepared Scribe
-1 Prospector Zombie
+1 Priest of Death
+1 Quiet Mage
+1 Reawaken in Dream
 1 Relic Recovery
+1 Rosilie D'Avron
+1 Rugged Outlander
+1 Savage Snare
+2 Search for Omnipotence
 8 See Beyond
 1 Self Improver
-1 Sinkhole
 1 Siphon Power
-1 Solemn Scout
+1 Skyhaven Cannon
 1 Sorvald's Insight
+1 Spire Hunter
 1 Stash Away
-1 Svet Sigil
-1 Tollgate Scribe
-1 Tomb Hunter
-1 Underwater Emergence
+1 Sublimate
+1 The Departed
 1 Unfortunate Accident
 1 Vampire's Grasp
+1 Vampiric Recovery
 1 Vexing Scribe
-1 Void Cleric
+1 Volcanic Giant
 1 Wild Vision
 10 Wilds of Atnia
-1 Workshop Automaton
 
 1 Atnia
 1 Golem
@@ -84,7 +82,7 @@
 1 Oldworld Home
 1 Zelor Home
 1 Martial Home
-1 Faith Home
+1 Ecclesia Home
 1 The Old Watch
 1 The College of Dreams
 1 Aton

@@ -1,64 +1,64 @@
 1 A Difficult Choice
-1 Abandoned Automaton
+1 Abominable Cleric
 1 Airdrop
+1 Ancient Excavation
+1 Arcane Burst
 1 Arcane Chains
-1 Assembly Line
 1 Astral Amulet
-1 Automaton Summoning
+1 Awakened Arbiter
 1 Blood Channeler
-1 Cleric's Lens
-1 Cranium Clasp
+1 Centrifuge
+1 Crystal Triangle
+1 Cursed Tomb
 1 Dark Wrath
 1 Doomed Nightmare
-1 Dream Stalker
-1 Durable Automaton
-1 Economy of Scale
+1 Embargo
 1 Emissary of Fear
-1 Eudoxia Unshackled
-1 Eye for an Eye
-1 Fallen Wizard
-1 Forsaken Laboratory
+1 Emotion Vampire
+1 Forsaken Dreammage
+1 Forsaken Spellcaster
 1 Gas Giant
 1 Giant Bat
-1 Golem Conjurer
-1 Hasten
-1 Horror Summoning
-1 Knowledge Collection
+1 Golem Conjuring
+1 Golem Nexus
+1 Grim Librarians
+1 Junior Adventurer
+1 Lore Dump
 1 Lost Tome
-1 Lost Traveler
 1 Maddening Visions
-1 Madman
-1 Memory Wraith
-1 Mystic Mists
+1 Master of Elements
+1 Myrkur Phantom
+1 Mysterious Mage
+1 Mystical Cache
 1 Night of the Dead
 1 Nightfall
-1 Noble Cleric
 1 Old Zombiemancer
-1 Outlands Burglar
-1 Quick Thinking
-1 Rift Shrine
-1 Scary Cleric
-1 Scrapmaster
+1 Oruva Scout
+1 Potent Divination
+1 Procrastinate
+1 Recurring Nightmare
+1 Return of the Vanished
+1 Return to the Earth
+1 Rift Ritual
+1 Rift Screech
+1 Rift Sorcerer
+1 Rift Whispers
+1 Ruins Scavenger
 1 Seasoned Loremaster
 8 See Beyond
-1 Shadowy Explosion
-1 Soul Splitter
-1 Stronghold Dispatch
+1 Squish
+1 Storm Generator
 1 Terrifying Nightmare
 1 The Dreamer
-1 The Yapper
-1 Tower Cleric
 1 Triple Spell
-1 Turn to Stone
 1 Unstable Contract
 1 Visionary Artificer
 1 Void Axe
 1 Void Drake
-1 Void Hound
+1 Void Snap
 1 Void Spike
 1 Voidsworn Apostle
 1 Walk the Plank
-1 Wealthy Trader
 10 Wilds of Atnia
 
 1 Atnia
@@ -84,7 +84,7 @@
 1 Oldworld Home
 1 Zelor Home
 1 Martial Home
-1 Faith Home
+1 Ecclesia Home
 1 The Old Watch
 1 The College of Dreams
 1 Aton

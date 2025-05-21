@@ -1,64 +1,64 @@
 1 Abominable Cleric
 1 Adapt
 1 Ambush
+1 Arcane Burst
 1 Arcane Chains
-1 Arena Merchant
-1 Battlefield Warp
+1 Astral Amulet
+1 Battlefield Commander
 1 Blood Channeler
 1 Burning Lich
-1 Cranium Clasp
+1 Contain
+1 Cruel Messenger
 1 Cursed Tomb
-1 Dagger of Undeath
 1 Dark Wrath
+1 Deadly Strike
 1 Doomed Nightmare
-1 Dream Stalker
-1 Eager Recruit
 1 Emissary of Fear
-1 Eudoxia Unshackled
-1 Eye for an Eye
-1 Fallen Wizard
-1 Flank
-1 Frost Sprint
-1 Frostblade Nomad
+1 Emotion Vampire
+1 Forsaken Dreammage
+1 Forsaken Spellcaster
 1 Gas Giant
-1 George
 1 Giant Bat
-1 Hasten
-1 Hidden Giant
-1 Horror Summoning
+1 Golem Conjuring
+1 Heroic Moment
+1 Improved Morale
+1 Infinity Vessel
+1 K.O. Punch
+1 Legion Drill Sergeant
+1 Liev Warrior
 1 Lore Dump
-1 Lost Traveler
 1 Maddening Visions
-1 Madman
-1 Masterwork Ring
+1 Master of Elements
 1 Myrkur Phantom
-1 Night of the Dead
+1 Mysterious Mage
+1 Mystical Cache
 1 Nightfall
-1 Ogre Arbiter
-1 Old Watch Shield
+1 Novice Law-Binder
+1 Old Zombiemancer
 1 Oruva Scout
-1 Quiet Mage
 1 Recurring Nightmare
+1 Rift Ritual
+1 Rift Screech
+1 Rift Sorcerer
 1 Rift Whispers
-1 Royal Guard
-1 Scary Cleric
+1 Rolead the Swift
 1 Seasoned Loremaster
 8 See Beyond
-1 Spiteful Bruiser
-1 Stronghold Guard
-1 Sword Toss
-1 The Yapper
+1 Send in the Zombies
+1 Sneaky Assassin
+1 Spare Violence
+1 Swarm the Enemy
+1 Team Up
+1 Terrifying Nightmare
+1 Trade Insight
 1 Triple Spell
-1 Turn to Stone
-1 Valorous Triumph
+1 Unstable Contract
 1 Visionary Artificer
 1 Void Axe
-1 Void Blast
 1 Void Drake
-1 Void Hound
+1 Void Snap
 1 Void Spike
 1 Voidsworn Apostle
-1 Whack
 10 Wilds of Atnia
 
 1 Atnia
@@ -84,7 +84,7 @@
 1 Oldworld Home
 1 Zelor Home
 1 Martial Home
-1 Faith Home
+1 Ecclesia Home
 1 The Old Watch
 1 The College of Dreams
 1 Aton

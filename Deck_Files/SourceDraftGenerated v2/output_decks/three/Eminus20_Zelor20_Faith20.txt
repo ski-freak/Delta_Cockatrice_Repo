@@ -1,67 +1,65 @@
-1 A Trick
-1 Abominable Egg
-1 Ancient Dreamshaper
-1 Arbiter Marshal
-1 Assassin's Armaments
-1 Astral Speculation
-1 Aton Archivist
-1 Aton Battlemaster
-1 Awaken the Hooligans
+1 Amatuer Illusionist
+1 Amatuer Wizarding
+1 Ancient Mentor
 1 BSOD
+1 Battle Rage
 1 Beckon Home
-1 Become Large
+1 Burning Man
 1 Burst of Speed
-1 Champion's Crown
-1 Cleric's Automaton
-1 Contemplate
-1 Dedicated Combatant
-1 Desperate Arbiter
-1 Devout Healer
-1 Downtown Walk
+1 Call the Divine
+1 Combo Slice
+1 Coordinated Defense
+1 Cordial Wall-Knight
+1 Dark Aperture
 1 Dropkick
-1 Duel of Honor
-1 Electrolytes
-1 Elite Smith
-1 Eternal Guard
-1 Eternal Navigator
-1 Ethereal Mirage
+1 Dune Paladin
+1 Esmund's Divination
+2 Evil Opportunity
 1 Explosive Breakthrough
-1 Fabled Blade
-1 Flashback Attack
-1 Forgetful Arbiter
-1 Forgotten Knight
-1 Giant Arbiter
-1 Knightmare
+1 Fated Return
+1 Force Field
+1 Get Back In There
+1 Honorable Knight
+1 Inspired Cleric
+1 Instant Shield
+1 Interfering Arbiter
+1 Kaboom
+1 Lavasmith
+1 Liase of the Two Scrolls
 1 Library Raid
-1 Merry Duelist
-1 Mystic Staff
-1 Old Watch Shortsword
-1 Ozen's Wrath
-1 Palace Clock
-1 Pax Nova Scout
+1 Magic Trick
+1 Mind Trauma
+1 Mindless Cleric
+1 Nullify Magic
+1 Oln's Binding
+1 Pax Nova Battlemage
+1 Plasma Bolt
 1 Psychic Intrusion
-1 Relic Recovery
-1 Rugged Runner
-1 Search for Omnipotence
+1 Reawaken in Dream
+1 Recollect
+1 Replenish
+1 Rule of Three
+1 Sagittarii
+2 Search for Omnipotence
 12 See Beyond
-1 Shem's amulet
-1 Skyhaven Cannon
-1 Snowfield Traveler
-1 Sorvald's Spark
-1 Starlight Veil
+1 Set Ablaze
+1 Skyknight
+1 Spectral Agent
+1 Stash Away
+1 Substitute
+1 Sunblade Knight
+1 Svet Scout
 1 Terrifying Vision
-1 The Departed
 1 Thunder Knight
+1 Thunderous Fury
+1 Tomb Hunter
+1 Trail of the Nightmare
 1 Tundra Arbiter
-1 Twilight Isle Cleric
-1 Underwater Emergence
-1 Unexpected Rift
-1 Void Cleric
-1 Wave of Doubt
+1 Unimaginable Nightmare
+1 Void Shift
 1 Wicked Pact
 12 Wilds of Atnia
-1 Woodland Spectre
-1 Yulia of the Lake
+1 Wolkk Twinspear
 
 1 Atnia
 1 Golem
@@ -86,7 +84,7 @@
 1 Oldworld Home
 1 Zelor Home
 1 Martial Home
-1 Faith Home
+1 Ecclesia Home
 1 The Old Watch
 1 The College of Dreams
 1 Aton

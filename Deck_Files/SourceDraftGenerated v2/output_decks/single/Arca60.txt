@@ -1,53 +1,43 @@
 1 Abominable Cleric
-1 Arcane Chains
-1 Astral Amulet
-1 Blood Channeler
+3 Arcane Burst
+2 Arcane Chains
+2 Astral Amulet
+3 Blood Channeler
 2 Burning Lich
-1 Cranium Clasp
-1 Cursed Tomb
-1 Dagger of Undeath
+2 Cursed Tomb
 1 Dark Wrath
 1 Doomed Nightmare
-1 Dream Stalker
 1 Emissary of Fear
-2 Eudoxia Unshackled
-1 Eye for an Eye
-1 Fallen Wizard
-2 Forsaken Laboratory
-1 Gas Giant
+1 Emotion Vampire
+1 Forsaken Dreammage
+1 Forsaken Spellcaster
+2 Gas Giant
 2 Giant Bat
-2 Hasten
-1 Horror Summoning
-2 Lore Dump
-1 Lost Traveler
+2 Golem Conjuring
+1 Lore Dump
 1 Maddening Visions
-1 Madman
-1 Memory Wraith
+1 Master of Elements
 1 Myrkur Phantom
+1 Mysterious Mage
+3 Mystical Cache
 1 Night of the Dead
 1 Nightfall
-1 Noble Cleric
 1 Old Zombiemancer
 1 Oruva Scout
-1 Outlands Burglar
-1 Recurring Nightmare
-1 Rift Whispers
-1 Scary Cleric
+2 Recurring Nightmare
+3 Rift Ritual
+1 Rift Screech
+2 Rift Sorcerer
+2 Rift Whispers
 1 Seasoned Loremaster
 4 See Beyond
-1 Soul Splitter
 1 Terrifying Nightmare
-2 The Yapper
-1 Tower Cleric
 1 Triple Spell
-1 Turn to Stone
-1 Unstable Contract
+2 Unstable Contract
 1 Visionary Artificer
 1 Void Axe
-1 Void Blast
-2 Void Drake
-1 Void Hound
-2 Void Snap
+1 Void Drake
+1 Void Snap
 1 Void Spike
 1 Voidsworn Apostle
 8 Wilds of Atnia
@@ -75,7 +65,7 @@
 1 Oldworld Home
 1 Zelor Home
 1 Martial Home
-1 Faith Home
+1 Ecclesia Home
 1 The Old Watch
 1 The College of Dreams
 1 Aton

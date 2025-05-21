@@ -1,63 +1,60 @@
-1 Abominable Egg
-1 Airdrop
-1 Ancient Dreamshaper
-1 Awaken the Hooligans
-1 Back Again
-1 Braeg's Hammer
+1 A Difficult Choice
+1 Amatuer Illusionist
+1 Awakened Arbiter
+1 Call the Divine
 1 Catch!
-1 Cleric's Automaton
-1 Cleric's Binding
-1 Cleric's Lens
-1 Construct a Construct
+1 Cosmic Justice
+1 Cryptic Swan
+1 Crystal Triangle
+1 Cursed Portal
+1 Dark Aperture
+1 Deja Vu
 1 Demon of Consumption
 1 Devout Healer
 1 Disappearing Orb
-1 Economy of Scale
-1 Embargo
-1 Essence of the Old World
 1 Ethereal Mirage
-1 Evil Opportunity
-1 Frost Eruption
+2 Evil Opportunity
 1 Get Back In There
 1 Glimpse Disaster
 1 Globe of 1000 Souls
-1 Goblin Scout
-1 Golem Conjurer
-1 Guile
-1 Helping Hands
-1 Holy Knife
+1 Grim Librarians
+1 Healing Amulet
+1 Inspired Cleric
 1 Interrupt
+1 Invisible Haze
+1 Junior Adventurer
 1 Loose Change
-1 Lost Tome
-1 Molten Image
+1 Lunar Suppression
+1 Mindless Cleric
+1 Mirage Manufacturer
 1 Mysterious Cleric
-1 Mystic Stone
-1 Necromancer's Touch
 1 Oana's Divination
-1 Oln's Scale
+1 Oln's Binding
 1 Out of Mind
-1 Outlands Commander
-1 Palace Sanctuary
+1 Outlander's Familiar
+1 Ozen's Fury
+1 Ozen's Temple
+1 Palace Clock
 1 Passive Income Scheme
-1 Question Station
+1 Potent Divination
+1 Power of Antiquity
 1 Reawaken in Dream
-1 Relic Invoker
 1 Relic Recovery
-1 Return to the Earth
-1 Rift Arcanist
-1 Search for Omnipotence
+1 Remake
+1 Rule of Three
+1 Sage of the Sun
+3 Search for Omnipotence
 8 See Beyond
+1 Skyhaven Cannon
 1 Spirit Guide
-1 Squiggly Slime
-1 Stash Away
+1 Storm Generator
 1 Substitute
-1 Terrifying Vision
-1 The Departed
+1 Svet Scout
+1 The Dreamer
 1 Tomb Hunter
-1 Unknowable Horror
+1 Void Capsule
 1 Void Cleric
-1 Wealthy Trader
-1 Weapon Refurbisher
+1 Void Shift
 1 Wicked Pact
 10 Wilds of Atnia
 
@@ -84,7 +81,7 @@
 1 Oldworld Home
 1 Zelor Home
 1 Martial Home
-1 Faith Home
+1 Ecclesia Home
 1 The Old Watch
 1 The College of Dreams
 1 Aton

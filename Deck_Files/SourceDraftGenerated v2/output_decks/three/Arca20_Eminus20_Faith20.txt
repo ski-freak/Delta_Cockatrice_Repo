@@ -1,64 +1,64 @@
-1 Abominable Cleric
-1 Abominable Egg
-1 Arbiter Medic
-1 Arcane Chains
-1 Astral Amulet
-1 Blood Channeler
-1 Braeg's Hammer
+1 Amatuer Illusionist
+1 Ancient Mentor
 1 Burning Lich
-1 Construct a Construct
-1 Contemplate
-1 Delay
-1 Desperate Arbiter
-1 Doomed Nightmare
+1 Coordinated Defense
+1 Cordial Wall-Knight
+1 Cosmic Justice
+1 Cursed Portal
+1 Dark Wrath
+1 Devastating Decoy
+1 Devout Healer
 1 Dropkick
+1 Emotion Vampire
 1 Ethereal Mirage
-1 Eudoxia Unshackled
-1 Everyone Forgets
-1 Fallen Wizard
-1 Forgetful Arbiter
-1 Forsaken Laboratory
+1 Evil Opportunity
+1 Forsaken Dreammage
+1 Gas Giant
+1 Get Back In There
+1 Glimpse Disaster
 1 Globe of 1000 Souls
-1 Guile
-1 Healing Amulet
-1 Horror Summoning
-1 Knight Summoning
-1 Liase of the Two Scrolls
+1 Golem Conjuring
+1 Honorable Knight
+1 Interfering Arbiter
+1 Knightly Reinforcements
 1 Lore Dump
-1 Lost Traveler
 1 Maddening Visions
-1 Madman
-1 Memory Wraith
-1 Mindless Cleric
-1 Noble Cleric
-1 Old Watch Shortsword
-1 Outpost Militia
+1 Mind Trauma
+1 Myrkur Phantom
+1 Mysterious Cleric
+1 Mysterious Mage
+1 Night of the Dead
+1 Old Zombiemancer
+1 Oln's Binding
+1 Out of Mind
+1 Ozen's Temple
 1 Pale Mountain Directive
-1 Passive Income Scheme
 1 Phantom Angel
-1 Prospector Zombie
-1 Reawaken in Dream
-1 Rift Arcanist
+1 Relic Recovery
+1 Resilient Knight
+1 Rift Ritual
+1 Rift Sorcerer
 1 Search for Omnipotence
 12 See Beyond
-1 Sir Horus The Prepared
 1 Skyknight
-1 Spear of the Lake
-1 Speed Check
-1 Spirit Guide
-1 Spiteful Hatchet
+1 Spectacular Sweep
+1 Spectral Agent
+1 Spectral Reinforcements
+1 Stash Away
 1 Steel Resolve
-1 Svet Scavenger
-1 Temporary Disappearance
+1 Svet Scout
+1 Terrifying Nightmare
 1 Terrifying Vision
-1 Tundra Arbiter
-1 Turn to Stone
-1 Unknowable Horror
-1 Void Blast
+1 Thunder Knight
+1 Triple Spell
+1 Try Again
 1 Void Cleric
+1 Void Drake
+1 Void Shift
 1 Void Snap
+1 Void Spike
 1 Voidsworn Apostle
-1 Wicked Pact
+1 Wave of Doubt
 12 Wilds of Atnia
 1 Wolkk Twinspear
 
@@ -85,7 +85,7 @@
 1 Oldworld Home
 1 Zelor Home
 1 Martial Home
-1 Faith Home
+1 Ecclesia Home
 1 The Old Watch
 1 The College of Dreams
 1 Aton

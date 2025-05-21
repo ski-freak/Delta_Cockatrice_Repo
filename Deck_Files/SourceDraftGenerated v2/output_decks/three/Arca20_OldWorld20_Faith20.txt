@@ -1,65 +1,65 @@
-1 Abandoned Automaton
+1 Abominable Cleric
 1 Airdrop
-1 Ancient Dreamshaper
+1 Ancient Excavation
+1 Ancient Necromancer
 1 Arcane Chains
-1 Automaton Summoning
-1 Countervailing Flames
-1 Dagger of Undeath
+1 Burning Lich
+1 Call the Divine
+1 Collective Knowledge
+1 Cosmic Justice
 1 Dark Aperture
-1 Dark End
+1 Deja Vu
 1 Doomed Nightmare
-1 Embargo
-1 Eudoxia Unshackled
-1 Frank
+1 Emotion Vampire
+1 Evil Opportunity
+1 Fallen Scribe
+1 Forsaken Dreammage
+1 Forsaken Spellcaster
 1 Frost Eruption
+1 Frostblade Adept
+1 Furious Sorcerer
+1 Gas Giant
+1 Get Back In There
+1 Giant Bat
 1 Glimpse Disaster
-1 Goblin Cleric
-1 Golem Conjurer
-1 Grim Librarians
-1 Haunted Warlock
+1 Globe of 1000 Souls
+1 Golem Nexus
 1 Healing Amulet
-1 Helpful Automaton
-1 Helping Hands
+1 Inspired Cleric
+1 Junior Adventurer
 1 Lore Dump
-1 Memory Wraith
-1 Micronecromancy
+1 Lunar Suppression
+1 Master of Elements
 1 Myrkur Phantom
-1 Necromancer's Touch
-1 Nightfall
-1 Old Zombiemancer
-1 Oln's Binding
+1 Mysterious Cleric
+1 Mysterious Mage
+1 Oruva Scout
 1 Out of Mind
-1 Outlands Commander
+1 Outlander's Familiar
+1 Ozen's Temple
 1 Ozen's Wrath
+1 Palace Clock
 1 Pale Mountain Directive
-1 Passive Income Scheme
-1 Question Station
-1 Recruiter of the Dead
-1 Recurring Nightmare
-1 Relic Invoker
-1 Scary Cleric
+1 Procrastinate
+1 Quick Thinking
+1 Remake
+1 Return to the Earth
+1 Ruins Scavenger
 1 Scrap Merchant
-1 Scrapmaster
 12 See Beyond
-1 Solemn Scout
-1 Soul Splitter
-1 Spiteful Hatchet
-1 Substitute
-1 Termination
+1 Squish
+1 Svet Scout
+1 Terrifying Nightmare
 1 The Departed
-1 The Dreamer
-1 Tower Cleric
-1 Turn to Stone
-1 Twilight Isle Cleric
-1 Unknowable Horror
-1 Unstable Contract
-1 Visionary Artificer
-1 Void Blast
+1 The Plan
+1 Thingamajig
+1 Tomb Hunter
+1 Triple Spell
 1 Void Capsule
-1 Void Cleric
 1 Void Drake
-1 Void Hound
+1 Void Snap
 1 Void Spike
+1 Voidsworn Apostle
 12 Wilds of Atnia
 
 1 Atnia
@@ -85,7 +85,7 @@
 1 Oldworld Home
 1 Zelor Home
 1 Martial Home
-1 Faith Home
+1 Ecclesia Home
 1 The Old Watch
 1 The College of Dreams
 1 Aton

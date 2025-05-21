@@ -1,65 +1,65 @@
-1 Annul
-1 Assassin's Armaments
-1 Aton Archivist
-1 Become Large
-1 Citadel Lord
-1 Cleric's Lens
-1 Cliffside Guard
+1 A Difficult Choice
+1 Abandoned Automaton
+1 Airdrop
+1 Amatuer Wizarding
+1 Ancient Excavation
+1 Awakened Arbiter
+1 Catch!
+1 Centrifuge
 1 Collective Knowledge
 1 Construct Constructor
-1 Double Negative
+1 Contemplate
+1 Elite Smith
 1 Embargo
-1 Errant of the Torch
 1 Essence of the Old World
-1 Eternal Navigator
-1 Flame Oracle
-1 Goblin Cleric
-1 Golem Conjurer
-1 Golem Nexus
-1 Helpful Automaton
+1 Extreme Heat
+1 Fated Return
+1 Fireball
+1 Force Field
+1 Frost Eruption
+1 Frostblade Adept
+1 Grim Librarians
 1 Helping Hands
-1 Ignition
+1 Inspired Encore
 1 Interrupt
-1 Invisible Haze
+1 Junior Adventurer
 1 Kaboom
-1 Knowledge Collection
-1 Lagoon Titan
-1 Loose Change
-1 Lost Sigil
-1 Lost Tome
-1 Mind Demolition
-1 Nomadic Spirit
-1 Out of Mind
-1 Outlands Commander
-1 Plunder
-1 Procrastinate
+1 Knight of the Moon
+1 Knight of the Torch
+1 Knowledge Requisitioner
+1 Magic Trick
+1 Mindseeker
+1 Oana's Divination
+1 Pax Nova Battlemage
+1 Potent Divination
+1 Power of Antiquity
+1 Probable Rivalry
 1 Question Station
+1 Quick Thinking
 1 Recycling
-1 Remake
-1 Replenish
+1 Return of the Vanished
 1 Return to the Earth
-1 Rift Shrine
-1 Righteous Fury
-1 Scorched Earth
-1 Scrap Merchant
-1 Scrapmaster
+1 Ruins Scavenger
+1 Sage of the Sun
+1 Scour the Ruins
 8 See Beyond
-1 Shadowy Explosion
-1 Skyhaven Figure
-1 Snowfield Traveler
+1 Sheltering Winds
+1 Sorvald's Ignition
 1 Squish
 1 Starlight Cleric
-1 Termination
+1 Stochastic Ignition
+1 Storm Generator
+1 Strategize
+1 Stronghold Dispatch
 1 The Dreamer
 1 The Plan
-1 Trade Insight
-1 Train Station
-1 Tundra Elemental
-1 Vosderon's Trident
+1 Thunderous Fury
+1 Trail of the Nightmare
+1 Vaudeville Hook
 1 Walk the Plank
-1 Wealthy Trader
+1 Wicked Pyromancer
 10 Wilds of Atnia
-1 Woodland Spectre
+1 Wizard's Familiar
 
 1 Atnia
 1 Golem
@@ -84,7 +84,7 @@
 1 Oldworld Home
 1 Zelor Home
 1 Martial Home
-1 Faith Home
+1 Ecclesia Home
 1 The Old Watch
 1 The College of Dreams
 1 Aton

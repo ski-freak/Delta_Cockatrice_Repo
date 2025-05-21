@@ -1,65 +1,64 @@
 1 A Trick
+1 Abominable Egg
 1 Amatuer Illusionist
+1 Ancient Mentor
+1 Arbiter Marshal
 1 Arbiter Medic
+1 BSOD
 1 Beckon Home
-1 Champion's Crown
-1 Cleric's Binding
-1 Contemplate
-1 Delay
-1 Demon of Consumption
+1 Call the Divine
+1 Coordinated Assault
+1 Coordinated Defense
+1 Cordial Wall-Knight
+1 Cosmic Justice
+1 Dark Aperture
 1 Desperate Arbiter
-1 Devastating Decoy
-1 Disappearing Orb
+1 Devout Healer
 1 Downtown Walk
 1 Dropkick
 1 Duel of Honor
-1 Ethereal Knight
+1 Esmund's Divination
+2 Evil Opportunity
 1 Forgetful Arbiter
 1 Frightening Arbiter
 1 Get Back In There
-1 Giant Arbiter
-1 Globe of 1000 Souls
 1 Healing Amulet
+1 Honorable Knight
 1 Instant Shield
-1 Interfering Arbiter
-1 Knight Summoning
+1 Knightly Reinforcements
+1 Liase of the Two Scrolls
 1 Liev Arbiter
-1 Mind Trauma
 1 Mysterious Cleric
-1 Mystic Staff
-1 Old Watch Shortsword
-1 Ozen's Wrath
-1 Palace Clock
+1 Nullify Magic
+1 Orb of Understanding
+1 Out of Mind
+1 Ozen's Fury
+1 Ozen's Temple
 1 Passive Income Scheme
 1 Phantom Angel
-1 Reawaken in Dream
-1 Rift Arcanist
-1 Search for Omnipotence
+1 Resilient Knight
+1 Sagittarii
 8 See Beyond
-1 Shadowy Command
-1 Shem's amulet
 1 Shifting Mirage
-1 Solemn Angel
-1 Spear of the Lake
+1 Skyhaven Cannon
+1 Skyknight
 1 Spectacular Sweep
 1 Spectral Agent
+1 Spectral Reinforcements
 1 Speed Check
-1 Stash Away
+1 Spirit Guide
 1 Steel Resolve
+1 Substitute
 1 Sunblade Knight
-1 Svet Sigil
-1 Ta's Mirror
-1 Team Up
 1 Temporary Disappearance
+1 Terrifying Vision
 1 Thunder Knight
 1 Try Again
 1 Tundra Arbiter
+1 Ward of Repellance
 1 Wave of Doubt
-1 Weapon Refurbisher
-1 Wicked Pact
 10 Wilds of Atnia
 1 Wolkk Twinspear
-1 Worldseal
 
 1 Atnia
 1 Golem
@@ -84,7 +83,7 @@
 1 Oldworld Home
 1 Zelor Home
 1 Martial Home
-1 Faith Home
+1 Ecclesia Home
 1 The Old Watch
 1 The College of Dreams
 1 Aton

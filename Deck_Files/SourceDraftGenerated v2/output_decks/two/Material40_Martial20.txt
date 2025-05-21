@@ -1,62 +1,62 @@
-1 Adapt
+1 5th Legion Lieutenant
+1 Absolute Destruction
+1 Absorb
 1 Aggravating Scribe
+1 Alliance Rallier
 1 Ambush
-1 Ancient Squire
-1 Arbiter Captain
-1 Arena Merchant
-1 Artificer's Staff
+1 Annoying Scribe
+1 Battlefield Commander
 1 Bermuda Triangle
-1 Clockwork Soldier
-1 Contain
-1 Deconstructor
-1 Defiant Scribe
-1 Desert Sentinel
-1 Embittered Scribe
+1 Blood Bank
+1 Bloodlust
+1 Borrow Time
+1 Cruel Messenger
+1 Dissociation
+1 Eager Bruiser
+1 Energy Drain
 1 Ethereal Construct
-1 Field Expedition
-1 Frostblade Nomad
+1 Familiar Shadow
+1 Final Strike
 1 Furious Automaton
-1 Graveyard Golem
+1 Golem Conjurer
 1 Healing Potion
 1 Hidden Giant
-1 Honorable Scribe
-1 Improvised Armaments
+1 Hired Hands
+1 Infinity Vessel
+1 Injury to Insult
 1 Intimidating Scribe
 1 K.O. Punch
-1 Leave me Alone
+1 Legion Drill Sergeant
+1 Legion Warlock
+1 Lekvian Butler
+1 Lekvian Traveler
+1 Lekvian Vampire
 1 Malicious Receptionist
 1 Master Duelist
-1 Mechanical Heart
 1 Mechanical Vampire
 1 Menacing Automaton
 1 Menacing Scribe
-1 Metallic Axe
-1 Metallic Cloak
-1 Oasis Giant
-1 Old Watch Shield
+1 Noddegamra
+1 Novice Law-Binder
 1 Outlands Accountant
-1 Outlast
-1 Pathway Sentry
-1 Pesky Scribe
 1 Prepared Scribe
-1 Remove from History
-1 Royal Guard
-1 Savage Snare
+1 Quagmire Elemental
+1 Reorganize
+1 Round Two
 8 See Beyond
-1 Sinkhole
 1 Siphon Power
-1 Soul Link
-1 Spiteful Bruiser
-1 Steadfast Arbiter
+1 Sneaky Assassin
+1 Sorvald's Insight
+1 Spare Violence
 1 Sublimate
-1 The Renegade
-1 Tollgate Scribe
-1 Tower Thief
+1 Swarm the Enemy
+1 Team Up
+1 Unfortunate Accident
 1 Valorous Triumph
 1 Vampire's Grasp
+1 Vampiric Recovery
 1 Vexing Scribe
-1 Warrior's Sword
-1 Whack
+1 Volcanic Giant
 1 Wild Vision
 10 Wilds of Atnia
 1 Workshop Automaton
@@ -84,7 +84,7 @@
 1 Oldworld Home
 1 Zelor Home
 1 Martial Home
-1 Faith Home
+1 Ecclesia Home
 1 The Old Watch
 1 The College of Dreams
 1 Aton

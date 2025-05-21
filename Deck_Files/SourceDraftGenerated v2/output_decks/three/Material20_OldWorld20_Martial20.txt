@@ -1,65 +1,65 @@
-1 Absolute Destruction
-1 Aggravating Scribe
-1 Ancient Greatsword
-1 Artificer's Staff
-1 Automaton Summoning
-1 Battlefield Warp
-1 Bermuda Triangle
-1 Cleric's Lens
-1 Clockwork Soldier
-1 Collective Knowledge
+1 5th Legion Lieutenant
+1 Absorb
+1 Alliance Rallier
+1 Annoying Scribe
+1 Blood Bank
+1 Bloodlust
+1 Catch!
+1 Centrifuge
 1 Construct Constructor
-1 Dead on Arrival
-1 Deconstructor
-1 Defiant Scribe
-1 Desert Sentinel
-1 Double Negative
-1 Escaped Monster
-1 Ether Charge
+1 Contemplate
+1 Cruel Messenger
+1 Crystal Triangle
+1 Devout Arbiter
+1 Dissociation
+1 Embargo
+1 Energy Drain
+1 Essence of the Old World
+1 Final Strike
 1 Flank
-1 Forbidden Knowledge
-1 Graveyard Golem
-1 Grim Librarians
-1 Hidden Giant
-1 Honorable Scribe
-1 Improvised Armaments
-1 Interceptor
-1 Intimidating Scribe
+1 Flash Freeze
+1 Fortress Automaton
+1 Golem Nexus
+1 Heroic Moment
+1 Improved Morale
+1 Investigate the Scene
 1 K.O. Punch
-1 Knowledge Collection
 1 Leave me Alone
-1 Looming Overlord
+1 Lekvian Traveler
+1 Life Manipulation
 1 Loose Change
-1 Master Duelist
-1 Masterwork Ring
-1 Myrkur Protector
-1 Oana's Divination
-1 Oasis Giant
-1 Outlands Accountant
-1 Outlands Commander
-1 Palace Sanctuary
-1 Pesky Scribe
+1 Lost in the Wilds
+1 Lunar Suppression
+1 Mechanical Vampire
+1 Menacing Scribe
+1 Mystic Stone
+1 Novice Law-Binder
+1 Priest of Death
+1 Question Station
 1 Quick Thinking
-1 Remove from History
-1 Rift Shrine
-1 Savage Snare
+1 Quiet Mage
+1 Recycling
+1 Remake
+1 Round Two
+1 Scour the Ruins
 12 See Beyond
-1 Self Improver
-1 Shadowy Explosion
-1 Sinkhole
-1 Sneak Attack
-1 Soul Link
-1 Spiteful Bruiser
+1 Spare Violence
 1 Steadfast Arbiter
-1 Stronghold Dispatch
+1 Stronghold Guard
 1 Swift Rescue
-1 The Dreamer
-1 Tundra Ogre
+1 Team Up
+1 The Plan
+1 The Renegade
+1 Thingamajig
+1 Train Station
+1 Unfortunate Accident
+1 Vampiric Recovery
+1 Vexing Scribe
+1 Volcanic Giant
 1 Walk the Plank
-1 Warrior's Sword
-1 Warrior's Training
+1 Wild Vision
 12 Wilds of Atnia
-1 Zelor Oldworld Directive
+1 Zombie Invasion
 
 1 Atnia
 1 Golem
@@ -84,7 +84,7 @@
 1 Oldworld Home
 1 Zelor Home
 1 Martial Home
-1 Faith Home
+1 Ecclesia Home
 1 The Old Watch
 1 The College of Dreams
 1 Aton

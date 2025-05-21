@@ -1,65 +1,65 @@
 1 Abominable Cleric
-1 Annul
-1 Arbiter Captain
-1 Arbiter Fabricator
-1 Arcane Chains
-1 Catch!
-1 Centrifuge
+1 Airdrop
+1 Alliance Rallier
+1 Astral Amulet
+1 Awakened Arbiter
+1 Battlefield Commander
+1 Burning Lich
 1 Collective Knowledge
-1 Construct Constructor
-1 Crackling Battleaxe
-1 Cranium Clasp
-1 Cursed Tomb
-1 Dagger of Undeath
+1 Contain
+1 Cryptic Swan
+1 Crystal Triangle
+1 Dark Wrath
+1 Dead on Arrival
+1 Deadly Strike
 1 Devout Arbiter
-1 Double Negative
-1 Dream Stalker
-1 Eager Bruiser
-1 Economy of Scale
-1 Escaped Monster
-1 Ether Charge
-1 Eudoxia Unshackled
-1 Eye for an Eye
-1 Fallen Wizard
-1 Frost Sprint
-1 George
-1 Goblin Cleric
-1 Golem Conjurer
-1 Helpful Automaton
-1 Hidden Giant
-1 Interceptor
+1 Dissociation
+1 Emergency Supply Kit
+1 Emotion Vampire
+1 Essence of the Old World
+1 Flash Freeze
+1 Forsaken Spellcaster
+1 Frank
+1 Gas Giant
+1 Helping Hands
+1 Heroic Moment
+1 Improved Morale
+1 Infinity Vessel
+1 Investigate the Scene
+1 Knowledge Collection
+1 Knowledge Requisitioner
+1 Legion Warlock
 1 Liev Warrior
 1 Loose Change
-1 Lost Sigil
-1 Memory Wraith
-1 Mystic Mists
-1 Nightfall
+1 Lore Dump
+1 Lost Tome
+1 Mirage Manufacturer
+1 Night of the Dead
 1 Novice Law-Binder
 1 Old Zombiemancer
 1 Oruva Scout
-1 Out of Mind
-1 Outlands Burglar
-1 Outlands Commander
-1 Ozen's Spear
-1 Royal Guard
-1 Scrap Merchant
-1 Seasoned Loremaster
+1 Potent Divination
+1 Power of Antiquity
+1 Return of the Vanished
+1 Rift Screech
+1 Rift Sorcerer
+1 Rift Whispers
+1 Ruins Scavenger
 12 See Beyond
-1 Sneak Attack
-1 Squish
-1 Swift Rescue
-1 Termination
-1 The Yapper
-1 Tundra Ogre
+1 Send in the Zombies
+1 Starlight Cleric
+1 Terrifying Nightmare
+1 The Doublemeister
+1 The Plan
+1 Tower Thief
+1 Triple Spell
+1 Unstable Contract
 1 Valorous Triumph
-1 Village Champion
-1 Visionary Artificer
-1 Void Blast
+1 Void Drake
 1 Void Snap
-1 Void Spike
-1 Wealthy Trader
-1 Whack
+1 Voidsworn Apostle
 12 Wilds of Atnia
+1 Zombie Invasion
 
 1 Atnia
 1 Golem
@@ -84,7 +84,7 @@
 1 Oldworld Home
 1 Zelor Home
 1 Martial Home
-1 Faith Home
+1 Ecclesia Home
 1 The Old Watch
 1 The College of Dreams
 1 Aton

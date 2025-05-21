@@ -1,65 +1,65 @@
-1 Amatuer Illusionist
-1 Ambush
-1 Ancient Traveler
-1 Atonian Phoenix
-1 Bard's Lesson
-1 Battle Rage
+1 5th Legion Lieutenant
+1 Alliance Rallier
+1 Battlefield Commander
 1 Become Large
-1 Citadel Lord
-1 Cleric's Automaton
-1 Construct a Construct
-1 Deadly Strike
-1 Devil's Mask
+1 Combo Slice
+1 Cosmic Justice
+1 Dark Aperture
 1 Devout Arbiter
+1 Disappearing Orb
+1 Dissociation
 1 Downtown Walk
-1 Eager Recruit
-1 Errant of the Torch
-1 Evil Opportunity
-1 Flame Elemental
-1 Flash Freeze
-1 Frost Eruption
-1 Frost Sprint
-1 Frostblade Nomad
-1 George
-1 Get Back In There
-1 Globe of 1000 Souls
-1 Ignition
-1 Improvised Lightning
-1 Isolated Archer
-1 Knight of the Moon
+1 Emergency Supply Kit
+1 Enterprising Merchant
+1 Eruption
+1 Extreme Heat
+1 Fallen Scribe
+1 Force Field
+1 Glimpse Disaster
+1 Healing Amulet
+1 Inspired Cleric
+1 Inspired Encore
+1 Investigate the Scene
+1 K.O. Punch
+1 Kaboom
 1 Lavasmith
-1 Looming Overlord
-1 Micronecromancy
-1 Mind Demolition
-1 Novice Law-Binder
+1 Legion Warlock
+1 Library Raid
+1 Living Relic
+1 Magical Zenith
+1 Master Duelist
+1 Mysterious Cleric
 1 Oasis Giant
-1 Ogre Arbiter
-1 Old Watch Shield
+1 Ozen's Fury
 1 Palace Clock
-1 Pax Axe
-1 Prospector Zombie
+1 Passive Income Scheme
+1 Pax Nova Guardian
+1 Plunder
+1 Psychic Intrusion
+1 Reawaken in Dream
+1 Recollect
 1 Relic Recovery
-1 Resiliant Knight
-1 Righteous Fury
+1 Reorganize
 1 Search for Omnipotence
 12 See Beyond
-1 Solemn Scout
-1 Sorvald's Spark
-1 Spirit Guide
+1 Set Ablaze
+1 Skyhaven Cannon
+1 Sorvald's Ignition
+1 Spare Violence
+1 Stash Away
+1 Steadfast Arbiter
 1 Stronghold Guard
-1 Svet Scout
-1 Swift Rescue
-1 Sword Toss
-1 Sword of Forbidden Knowledge
-1 Unknowable Horror
-1 Valorous Triumph
-1 Void Cleric
-1 Void Shift
-1 Warrior's Sword
-1 Wicked Pact
+1 Terrifying Vision
+1 The Doublemeister
+1 Thunderous Fury
+1 Tomb Hunter
+1 Tower Thief
+1 Trade Insight
+1 Trail of the Nightmare
+1 Volcanic Vision
+1 Warrior's Training
+1 Wicked Pyromancer
 12 Wilds of Atnia
-1 Wizard's Familiar
-1 Woodland Spectre
 
 1 Atnia
 1 Golem
@@ -84,7 +84,7 @@
 1 Oldworld Home
 1 Zelor Home
 1 Martial Home
-1 Faith Home
+1 Ecclesia Home
 1 The Old Watch
 1 The College of Dreams
 1 Aton

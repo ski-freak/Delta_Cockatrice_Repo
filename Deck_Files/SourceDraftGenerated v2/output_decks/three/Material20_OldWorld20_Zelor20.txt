@@ -1,65 +1,65 @@
+1 A Difficult Choice
+1 Absorb
 1 Airdrop
-1 Ancient Greatsword
+1 Amatuer Wizarding
+1 Ancient Excavation
 1 Annul
-1 Arbiter Fabricator
-1 Catch!
-1 Cleric's Lens
+1 Become Large
+1 Blood Bank
+1 Borrow Time
+1 Centrifuge
 1 Clockwork Soldier
-1 Collective Knowledge
-1 Combo Slice
-1 Dead on Arrival
-1 Deconstructor
-1 Demolisher Golem
-1 Double Negative
+1 Construct Constructor
+1 Death Elemental
+1 Dune Paladin
 1 Elite Smith
-1 Eruption
+1 Escaped Monster
 1 Eternal Navigator
-1 Ethereal Construct
-1 Extreme Heat
-1 Field Expedition
+1 Fated Return
+1 Fire Channeler
+1 Flashback Attack
 1 Force Field
 1 Forgotten Hunter
 1 Fortress Automaton
-1 Frank
-1 Furious Automaton
-1 Golem Nexus
-1 Graveyard Golem
-1 Grim Librarians
-1 Honorable Scribe
-1 Interrupt
-1 Knightmare
-1 Lagoon Titan
-1 Malicious Receptionist
-1 Metallic Axe
-1 Metallic Cloak
-1 New Recruit
-1 Nomadic Spirit
-1 Out of Mind
-1 Palace Sanctuary
-1 Pathway Sentry
-1 Pax Nova Scout
+1 Frost Eruption
+1 Frostblade Adept
+1 Gaston, Lekvian Squire
+1 Helping Hands
+1 Intimidating Scribe
+1 Knowledge Collection
+1 Leave me Alone
+1 Library Raid
+1 Lunar Suppression
+1 Mindseeker
+1 More Fire
+1 Mystic Stone
+1 Oana's Divination
+1 Outlander's Familiar
+1 Outlands Accountant
+1 Pax Nova Guardian
 1 Prepared Scribe
-1 Procrastinate
 1 Psychic Intrusion
-1 Remove from History
-1 Reorganize
-1 Rift Shrine
-1 Righteous Fury
-1 Savage Snare
+1 Quagmire Elemental
+1 Radiating Force
+1 Remake
+1 Rosilie D'Avron
+1 Rugged Outlander
+1 Sage of the Sun
 12 See Beyond
+1 Set Ablaze
 1 Sinkhole
 1 Siphon Power
-1 Snowfield Traveler
-1 Starlight Veil
-1 Strategize
-1 Sublimate
-1 Sword of Forbidden Knowledge
-1 The Plan
-1 Tollgate Scribe
-1 Tundra Elemental
+1 Squish
+1 Stronghold Dispatch
+1 The Dreamer
+1 Thorny Defense
+1 Unfortunate Accident
+1 Vaudeville Hook
+1 Volcanic Giant
+1 Wicked Pyromancer
+1 Wild Vision
 12 Wilds of Atnia
 1 Wizard's Familiar
-1 Woodland Spectre
 
 1 Atnia
 1 Golem
@@ -84,7 +84,7 @@
 1 Oldworld Home
 1 Zelor Home
 1 Martial Home
-1 Faith Home
+1 Ecclesia Home
 1 The Old Watch
 1 The College of Dreams
 1 Aton

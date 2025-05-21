@@ -1,66 +1,66 @@
 1 A Trick
+1 Alliance Rallier
 1 Ambush
-1 Arbiter Captain
+1 Ancient Mentor
 1 Arbiter Marshal
 1 Arbiter Medic
-1 Arena Merchant
-1 Battlefield Warp
+1 BSOD
+1 Battlefield Commander
 1 Beckon Home
-1 Champion's Crown
-1 Cruel Messenger
+1 Contain
+1 Coordinated Assault
+1 Coordinated Defense
+1 Cordial Wall-Knight
 1 Deadly Strike
 1 Desperate Arbiter
 1 Devastating Decoy
-1 Devout Arbiter
 1 Divine Uppercut
 1 Dropkick
-1 Ether Charge
-1 Ethereal Knight
-1 Everyone Forgets
+1 Duel of Honor
+1 Eager Bruiser
+1 Emergency Supply Kit
+1 Enterprising Merchant
+1 Esmund's Divination
 1 Forgetful Arbiter
-1 Forgotten Knight
 1 Frightening Arbiter
-1 Frostblade Nomad
-1 Great Greatsword
+1 Heroic Moment
+1 Honorable Knight
+1 Infinity Vessel
+1 Instant Shield
 1 Interfering Arbiter
-1 Knight Summoning
+1 Knightly Reinforcements
 1 Liase of the Two Scrolls
 1 Liev Arbiter
 1 Liev Warrior
-1 Master Duelist
-1 Mind Reader
 1 Mind Trauma
-1 Mystic Staff
 1 Nullify Magic
-1 Old Watch Shortsword
-1 Outpost Militia
-1 Phantom Angel
-1 Quiet Mage
-1 Runeblade
+1 Oasis Giant
+1 Orb of Understanding
+1 Resilient Knight
+1 Sagittarii
 8 See Beyond
-1 Shadowy Command
-1 Shem's amulet
-1 Sir Horus The Prepared
-1 Soul Link
-1 Spear of the Lake
+1 Shifting Mirage
+1 Sneaky Assassin
 1 Spectacular Sweep
 1 Spectral Agent
+1 Spectral Reinforcements
 1 Speed Check
-1 Speedy Arbiter
-1 Spiteful Bruiser
+1 Steadfast Arbiter
 1 Steel Resolve
+1 Stronghold Guard
 1 Sunblade Knight
-1 Swift Rescue
-1 Team Up
 1 Temporary Disappearance
-1 The Renegade
+1 Tower Thief
 1 Try Again
-1 Tundra Ogre
-1 Village Champion
-1 Warrior's Sword
+1 Tundra Arbiter
+1 War Elephant
+1 Ward of Repellance
+1 Warmongerer
+1 Warrior's Training
 1 Wave of Doubt
 10 Wilds of Atnia
-1 Yulia of the Lake
+1 Wolkk Twinspear
+1 Zombie Invasion
 
 1 Atnia
 1 Golem
@@ -85,7 +85,7 @@
 1 Oldworld Home
 1 Zelor Home
 1 Martial Home
-1 Faith Home
+1 Ecclesia Home
 1 The Old Watch
 1 The College of Dreams
 1 Aton
