@@ -1,48 +1,47 @@
 1 Abominable Egg
-1 Absorb
 1 Amatuer Illusionist
-1 Apprentice Harbinger
-1 Back Again
-1 Bermuda Triangle
-1 Borrow Time
-1 Cursed Portal
-1 Dark Aperture
-1 Defiant Scribe
+1 Ancient Vampire
+1 Blood Bank
+1 Call the Divine
+1 Cosmic Justice
+1 Deja Vu
+1 Demon of Consumption
 1 Devout Healer
-1 Disappearing Orb
+1 Downtown Walk
 1 Ethereal Mirage
-1 Evil Opportunity
-1 Fallen Scribe
-1 Glimpse Disaster
+2 Evil Opportunity
+1 Final Strike
+1 Fortress Automaton
 1 Globe of 1000 Souls
 1 Healing Amulet
+1 Hired Hands
+1 Injury to Insult
 1 Inspired Cleric
+1 Isolated Archer
+1 Leave me Alone
+1 Life Manipulation
 1 Living Relic
 1 Lost in the Wilds
-1 Malicious Receptionist
-1 Menacing Scribe
+1 Mechanical Vampire
+1 Menacing Automaton
 1 Mysterious Cleric
-1 Oln's Binding
-1 Outlands Accountant
-1 Ozen's Wrath
+1 Occult Harbinger
+1 Ozen's Fury
 1 Palace Clock
-1 Prepared Scribe
-1 Priest of Death
-1 Quiet Mage
-1 Rule of Three
+1 Passive Income Scheme
+1 Relic Recovery
 1 Search for Omnipotence
 6 See Beyond
-1 Siphon Power
+1 Sorvald's Insight
 1 Spirit Guide
+1 Spirit of Monumentality
 1 Stash Away
-1 Substitute
+1 Steven
 1 Svet Scout
 1 The Departed
 1 Tomb Hunter
 1 Transcend
-1 Unfortunate Accident
-1 Vexing Scribe
-1 Void Capsule
+1 Void Cleric
 8 Wilds of Atnia
 1 Workshop Automaton
 
@@ -54,7 +53,6 @@
 1 Blood Zombie
 1 Knight of Redemption
 8 Delta Ultimate Artifact
-1 Warrior's Talent
 1 Forgotten Relic
 1 Rift
 1 Village
@@ -79,3 +77,4 @@
 1 Lentholm
 1 Ecclesia Start
 1 Burst of Energy
+1 Three Paths

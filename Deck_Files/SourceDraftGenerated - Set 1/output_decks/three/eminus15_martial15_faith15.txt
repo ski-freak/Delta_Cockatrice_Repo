@@ -1,55 +1,56 @@
-1 5th Legion Luitenant
 1 A Trick
-1 Back Again
-1 Cruel Messenger
+1 Abominable Egg
+1 Arbiter Medic
+1 Beckon Home
+1 Bloodthirsty Warrior
+1 Coordinated Assault
+1 Cordial Wall-Knight
+1 Deadly Strike
 1 Desperate Arbiter
 1 Devout Arbiter
 1 Divine Uppercut
-1 Downtown Walk
 1 Eminus Faith Directive
 1 Eminus Martial Directive
 1 Ethereal Mirage
 1 Evil Opportunity
 1 Faith Martial Directive
-1 Flank
-1 Forgetful Arbiter
-1 Honorable Knight
+1 Get Back In There
+1 Healing Amulet
 1 Hunter's Hawk
 1 Imposing Presence
-1 Improved Morale
-1 Liase of the Two Scrolls
-1 Liev Arbiter
-1 Living Relic
-1 Master Duelist
-1 Mind Trauma
-1 Nullify Magic
+1 Infinity Vessel
+1 Inspired Cleric
+1 Interfering Arbiter
+1 Knightly Reinforcements
+1 Legion Cannoneer
+1 Legion Courier
+1 Liev Warrior
+1 Nomadic Orc
+1 Oasis Giant
+1 Occult Harbinger
 1 Oln's Binding
-1 Orb of Understanding
-1 Ozen's Temple
-1 Relic Recovery
-1 Round Two
-1 Sagittarii
-2 Search for Omnipotence
+1 Phantom Angel
+1 Reawaken in Dream
 9 See Beyond
-1 Send in the Zombies
-1 Skyknight
-1 Sneaky Assassin
-1 Spectacular Sweep
-1 Stash Away
-1 Steadfast Arbiter
-1 Team Up
+1 Shifting Mirage
+1 Spare Violence
+1 Spectral Reinforcements
+1 Spirit Guide
+1 Steel Resolve
+1 Substitute
+1 Summon Ringer
+1 Sunblade Knight
+1 Svet Scout
+1 Swift Rescue
 1 Terrifying Vision
 1 Thunder Knight
-1 Trade Insight
-1 Transcend
-1 Try Again
-1 Valorous Triumph
 1 Void Cleric
 1 War Elephant
-1 Wave of Doubt
+1 Ward of Repellance
+1 Warmongerer
+1 Warrior's Training
 1 Wicked Pact
 10 Wilds of Atnia
-1 Zombie Invasion
 
 1 Atnia
 1 Golem
@@ -59,7 +60,6 @@
 1 Blood Zombie
 1 Knight of Redemption
 8 Delta Ultimate Artifact
-1 Warrior's Talent
 1 Forgotten Relic
 1 Rift
 1 Village
@@ -84,3 +84,4 @@
 1 Lentholm
 1 Ecclesia Start
 1 Burst of Energy
+1 Three Paths

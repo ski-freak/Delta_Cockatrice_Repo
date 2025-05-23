@@ -1,49 +1,49 @@
-1 Abominable Egg
-1 Absorb
+1 Absolute Destruction
+1 Aggravating Scribe
 1 Amatuer Illusionist
-1 Bloodlust
+1 Ancient Vampire
+1 Annoying Scribe
+1 Blood Bank
 1 Borrow Time
-1 Defiant Scribe
-1 Energy Drain
-1 Escaped Monster
-1 Ethereal Construct
-1 Fortress Automaton
-1 Golem Conjurer
+1 Downtown Walk
+1 Evil Opportunity
+1 Final Strike
+1 Gaston, Lekvian Squire
 1 Healing Potion
-1 Hidden Giant
-1 Isolated Archer
-1 Leave me Alone
-1 Lekvian Butler
-1 Lekvian Traveler
+1 Hired Hands
+1 Injury to Insult
+1 Inspired Cleric
+1 Intimidating Scribe
 1 Lekvian Vampire
 1 Life Manipulation
+1 Looming Overlord
+1 Lost in the Wilds
+1 Lucy
 1 Malicious Receptionist
+1 Mechanical Vampire
+1 Menacing Automaton
 1 Mysterious Cleric
-1 Oln's Binding
+1 Occult Harbinger
+1 Out of Mind
 1 Outlands Accountant
-1 Passive Income Scheme
-1 Pesky Scribe
-1 Prepared Scribe
+1 Ozen's Fury
+1 Ozen's Wrath
+1 Palace Clock
 1 Priest of Death
-1 Quagmire Elemental
-1 Relic Recovery
+1 Quiet Mage
 1 Rosilie D'Avron
-1 Rule of Three
-1 Savage Snare
-1 Search for Omnipotence
 6 See Beyond
-1 Self Improver
-1 Sinkhole
 1 Siphon Power
-1 Skyhaven Cannon
-1 Spirit Guide
-1 Spirit of Monumentality
+1 Spire Hunter
 1 Stash Away
+1 Steven
+1 Terrifying Vision
 1 The Departed
-1 Vampire's Grasp
+1 Unfortunate Accident
+1 Vexing Scribe
 1 Void Cleric
 1 Void Shift
-1 Wild Vision
+1 Volcanic Giant
 8 Wilds of Atnia
 
 1 Atnia
@@ -54,7 +54,6 @@
 1 Blood Zombie
 1 Knight of Redemption
 8 Delta Ultimate Artifact
-1 Warrior's Talent
 1 Forgotten Relic
 1 Rift
 1 Village
@@ -79,3 +78,4 @@
 1 Lentholm
 1 Ecclesia Start
 1 Burst of Energy
+1 Three Paths

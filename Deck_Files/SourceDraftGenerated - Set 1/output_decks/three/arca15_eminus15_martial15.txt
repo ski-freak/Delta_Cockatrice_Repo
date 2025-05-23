@@ -1,56 +1,56 @@
-1 A Trick
-1 Abominable Cleric
-1 Adapt
-1 Alliance Rallier
 1 Ancient Mentor
-1 Arbiter Marshal
-1 Arcane Burst
+1 Arbiter Medic
 1 Arcane War Cry
-1 Beckon Home
+1 Astral Amulet
+1 Blood Channeler
+1 Branching Paths
 1 College of Dreams Directive
 1 Desperate Arbiter
 1 Divine Uppercut
-1 Dream Stalker
 1 Duel of Honor
 1 Eminus Martial Directive
-1 Emissary of Fear
-1 Esmund's Divination
-1 Flash Freeze
+1 Experienced Traveler
 1 Forsaken Dreammage
 1 Forsaken Spellcaster
-1 Giant Bat
+1 Golem Conjuring
+1 Heroic Moment
 1 Hunter's Hawk
-1 Investigate the Scene
-1 K.O. Punch
+1 Improved Morale
+1 Infinity Vessel
+1 Interfering Arbiter
 1 Knightly Reinforcements
-1 Legion Drill Sergeant
-1 Lore Dump
+1 Legion Courier
+1 Liev Arbiter
 1 Martial Arca Directive
-1 Master Duelist
-1 Master of Elements
-1 Mind Trauma
-1 Myrkur Phantom
-1 Novice Law-Binder
+1 Nomadic Orc
+1 Phantom Angel
+1 Recurring Nightmare
 1 Reorganize
-1 Rift Screech
-1 Rolead the Swift
-1 Seasoned Loremaster
+1 Resilient Knight
+1 Rift Whispers
+1 Sagittarii
 9 See Beyond
-1 Shifting Mirage
-1 Spare Violence
-1 Sunblade Knight
+1 Send in the Zombies
+1 Spectral Agent
+1 Spectral Reinforcements
 1 Swarm the Enemy
+1 Team Up
+1 Temporary Disappearance
 1 Terrifying Nightmare
-1 The Renegade
+1 Trade Insight
+1 Triple Spell
 1 Try Again
-1 Tundra Arbiter
+1 Tunnel Vision
 1 Unstable Contract
-1 Void Drake
-1 Ward of Repellance
-1 Warmongerer
-1 Warrior's Training
-1 Wave of Doubt
+1 Valorous Triumph
+1 Visionary Artificer
+1 Void Axe
+1 Void Snap
+1 Voidsworn Apostle
 10 Wilds of Atnia
+1 Wolkk Twinspear
+1 Zombie Invasion
+1 Zombie Summoner
 
 1 Atnia
 1 Golem
@@ -60,7 +60,6 @@
 1 Blood Zombie
 1 Knight of Redemption
 8 Delta Ultimate Artifact
-1 Warrior's Talent
 1 Forgotten Relic
 1 Rift
 1 Village
@@ -85,3 +84,4 @@
 1 Lentholm
 1 Ecclesia Start
 1 Burst of Energy
+1 Three Paths

@@ -1,48 +1,48 @@
+1 A Difficult Choice
 1 Abandoned Automaton
 1 Absolute Destruction
 1 Airdrop
-1 Ancient Excavation
-1 Bermuda Triangle
+1 Ancient Necromancer
+1 Annul
 1 Blood Bank
 1 Catch!
 1 Centrifuge
+1 Clockwork Soldier
 1 Construct Constructor
+1 Contemplate
+1 Cryptic Swan
 1 Crystal Triangle
-1 Double Negative
+1 Dead on Arrival
+1 Death Elemental
 1 Embargo
+1 Energy Cell
 1 Escaped Monster
-1 Excavation Automaton
 1 Familiar Shadow
-1 Frank
+1 Frostblade Adept
 1 Furious Sorcerer
-1 Helpful Automaton
-1 Injury to Insult
-1 Interrupt
+1 Gaston, Lekvian Squire
+1 Hired Hands
 1 Invisible Haze
-1 Junior Adventurer
-1 Knowledge Requisitioner
-1 Lekvian Butler
-1 Menacing Automaton
+1 Knowledge Collection
+1 Looming Overlord
+1 Loose Change
+1 Lucy
+1 Mechanical Vampire
 1 Menacing Scribe
 1 Mystic Stone
-1 Nomadic Spirit
-1 Potent Divination
-1 Probable Rivalry
-1 Procrastinate
-1 Quagmire Elemental
+1 Power of Antiquity
 1 Question Station
-1 Quiet Mage
+1 Quick Thinking
 1 Return of the Vanished
-1 Ruins Scavenger
-1 Savage Snare
 6 See Beyond
+1 Self Improver
 1 Sheltering Winds
-1 Sinkhole
-1 Stronghold Dispatch
-1 The Dreamer
-1 Vaudeville Hook
-1 Walk the Plank
-1 Wild Vision
+1 Squish
+1 Steven
+1 Storm Generator
+1 The Plan
+1 Thingamajig
+1 Train Station
 8 Wilds of Atnia
 1 Workshop Automaton
 
@@ -54,7 +54,6 @@
 1 Blood Zombie
 1 Knight of Redemption
 8 Delta Ultimate Artifact
-1 Warrior's Talent
 1 Forgotten Relic
 1 Rift
 1 Village
@@ -79,3 +78,4 @@
 1 Lentholm
 1 Ecclesia Start
 1 Burst of Energy
+1 Three Paths

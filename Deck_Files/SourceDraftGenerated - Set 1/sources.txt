@@ -4,9 +4,12 @@
 1 Giant Bat
 1 Void Drake
 1 Burning Lich
+1 Respected Mage
 1 Emissary of Fear
 1 Rift Sorcerer
+1 Tunnel Vision
 1 Nightfall
+1 Mystical Nightmare
 1 Myrkur Phantom
 1 Gas Giant
 1 Lore Dump
@@ -27,6 +30,7 @@
 1 Terrifying Nightmare
 1 Recurring Nightmare
 1 Astral Amulet
+1 Mystical Cache
 1 Mysterious Mage
 1 Cursed Tomb
 1 Forsaken Dreammage
@@ -34,17 +38,16 @@
 1 Arcane Burst
 1 Maddening Visions
 1 Master of Elements
-1 Dream Stalker
 1 Blood Channeler
 1 Doomed Nightmare
 1 Abominable Cleric
+1 Tunnel Vision
 1 Unstable Contract
 1 Seasoned Loremaster
 
 Eminus
 1 Devastating Decoy
 1 A Trick
-1 Contemplate
 1 Knightly Reinforcements
 1 Spectral Reinforcements
 1 Liase of the Two Scrolls
@@ -97,11 +100,9 @@ Material
 1 Sinkhole
 1 Defiant Scribe
 1 Hired Hands
-1 Bermuda Triangle
 1 Siphon Power
 1 Lekvian Vampire
 1 Rugged Outlander
-1 Might of the Woods
 1 Intimidating Scribe
 1 Outlands Accountant
 1 Prepared Scribe
@@ -132,7 +133,6 @@ Material
 1 Blood Bank
 1 Fortress Automaton
 1 Workshop Automaton
-1 Furious Automaton
 1 Sorvald's Insight
 1 Healing Potion
 1 Absolute Destruction
@@ -150,6 +150,10 @@ Material
 1 Quiet Mage
 1 Isolated Archer
 1 Hidden Giant
+1 Lucy
+1 Steven
+1 Eager Explorer
+1 Ancient Vampire
 
 Old World
 1 Recycling
@@ -170,7 +174,6 @@ Old World
 1 Train Station
 1 Quick Thinking
 1 Collective Knowledge
-1 Helpful Automaton
 1 Construct Constructor
 1 Golem Nexus
 1 Remake
@@ -194,16 +197,16 @@ Old World
 1 Energy Cell
 1 Thingamajig
 1 Crystal Triangle
+1 Contemplate
+1 Frank
 1 Interrupt
 1 Annul
 1 Lunar Suppression
 1 Catch!
 1 Starlight Cleric
 1 Excavation Automaton
-1 Nomadic Spirit
 1 Frostblade Adept
 1 Junior Adventurer
-1 Double Negative
 1 Ancient Excavation
 1 Power of Antiquity
 1 Ruins Scavenger
@@ -225,7 +228,6 @@ Zelor
 1 Inspired Encore
 1 Library Raid
 1 Psychic Intrusion
-1 Strategize
 1 Extreme Heat
 1 Plunder
 1 Wizard's Familiar
@@ -244,9 +246,9 @@ Zelor
 1 Aton Battlemaster
 1 Mindseeker
 1 Unimaginable Nightmare
-1 Elite Smith
 1 Trail of the Nightmare
 1 Replenish
+1 Pax Nova Guardian
 1 Radiating Force
 1 Magical Zenith
 1 Scorched Earth
@@ -281,58 +283,69 @@ Martial
 1 Novice Law-Binder
 1 Steadfast Arbiter
 1 Ether Charge
-1 Flash Freeze
 1 Tower Thief
 1 The Doublemeister
 1 Master Duelist
 1 Flank
-1 K.O. Punch
 1 Sneaky Assassin
 1 The Renegade
 1 Liev Warrior
 1 Cruel Messenger
 1 Team Up
 1 Valorous Triumph
+1 Branching Paths
 1 Ambush
 1 Stronghold Guard
 1 Devout Arbiter
 1 Swift Rescue
 1 Round Two
-1 Alliance Rallier
+1 Liev Grappler
 1 Legion Warlock
 1 Send in the Zombies
 1 Bold Warrior
 1 Contain
-1 5th Legion Luitenant
+1 5th Legion Lieutenant
 1 Warrior's Training
 1 Oasis Giant
 1 Adapt
 1 Legion Drill Sergeant
 1 Investigate the Scene
-1 Eager Bruiser
+1 Novice Zombiemancer
+1 Experienced Traveler
 1 Heroic Moment
 1 Battlefield Commander
 1 Spare Violence
 1 Emergency Supply Kit
+1 Nomadic Orc
 1 Warmongerer
 1 Improved Morale
 1 Zombie Invasion
+1 Bloodthirsty Warrior
 1 Trade Insight
 1 War Elephant
-1 Mystical Cache
+1 Zombie Summoner
+1 Legion Courier
+1 Banner of Lentholm
+1 Legion Cannoneer
 1 Deadly Strike
+1 Summon Ringer
 1 Swarm the Enemy
 1 Dissociation
 1 Reorganize
 1 Infinity Vessel
 1 Enterprising Merchant
 1 Rolead the Swift
+1 Dark Aperture
+1 Vicious Looter
+1 Henry
+1 Stockpile Manager
+1 Branching Paths
+1 Doomed Legionnaire
 
 Faith
 1 Search for Omnipotence
 1 Search for Omnipotence
 1 Search for Omnipotence
-1 Dark Aperture
 1 Amatuer Illusionist
 1 Oln's Binding
 1 Void Capsule
@@ -350,6 +363,7 @@ Faith
 1 Stash Away
 1 Spirit of Monumentality
 1 Rule of Three
+1 Occult Harbinger
 1 Call the Divine
 1 Healing Amulet
 1 The Departed
@@ -373,14 +387,10 @@ Faith
 1 Ozen's Wrath
 1 Terrifying Vision
 1 Globe of 1000 Souls
-1 Apprentice Harbinger
 1 Substitute
 1 Transcend
 1 Ozen's Temple
 1 Inspired Cleric
 1 Living Relic
 1 Ozen's Fury
-1 Cosmic Justice
-1 Universal Stimulant
-1 Coffee Trader
-1 Meditation"
+1 Cosmic Justice"

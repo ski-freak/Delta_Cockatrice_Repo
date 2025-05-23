@@ -1,57 +1,57 @@
-1 5th Legion Luitenant
-1 Alliance Rallier
-1 Ambush
-1 Apprentice Harbinger
-1 Arcane Burst
+1 Abominable Egg
+1 Arcane Chains
 1 Arcane War Cry
 1 Astral Amulet
+1 Branching Paths
+1 Contain
+1 Cruel Messenger
+1 Dark Aperture
 1 Deadly Strike
-1 Demon of Consumption
-1 Devout Healer
-1 Dissociation
+1 Disappearing Orb
 1 Divine Harmony
-1 Doomed Nightmare
-1 Dream Stalker
-1 Emissary of Fear
+1 Downtown Walk
+1 Emotion Vampire
+1 Ether Charge
 1 Faith Martial Directive
-1 Flank
 1 Forsaken Dreammage
-1 Gas Giant
-1 Glimpse Disaster
 1 Globe of 1000 Souls
-1 Heroic Moment
 1 Hymn to the Pale Sun
 1 Improved Morale
-1 Legion Drill Sergeant
+1 Infinity Vessel
+1 Inspired Cleric
+1 Investigate the Scene
+1 Legion Warlock
+1 Maddening Visions
 1 Martial Arca Directive
-1 Master Duelist
+1 Master of Elements
+1 Mindless Cleric
 1 Myrkur Phantom
-1 Old Zombiemancer
+1 Mysterious Cleric
+1 Mysterious Mage
+1 Mystical Cache
+1 Mystical Nightmare
+1 Night of the Dead
+1 Occult Harbinger
 1 Oln's Binding
-1 Oruva Scout
-1 Out of Mind
-1 Ozen's Temple
-1 Ozen's Wrath
+1 Ozen's Fury
+1 Palace Clock
 1 Pale Mountain Directive
 1 Pale Nightmare
-1 Passive Income Scheme
+1 Reawaken in Dream
+1 Recurring Nightmare
+1 Relic Recovery
 1 Reorganize
-1 Rift Screech
-1 Search for Omnipotence
+1 Rift Whispers
+1 Rule of Three
 9 See Beyond
-1 Skyhaven Cannon
+1 Stash Away
 1 Stronghold Guard
-1 Svet Scout
-1 The Renegade
-1 Transcend
-1 Triple Spell
-1 Unstable Contract
-1 Valorous Triumph
-1 Visionary Artificer
-1 Void Snap
-1 Warmongerer
-1 Wicked Pact
+1 Tower Thief
+1 Tunnel Vision
+1 Void Spike
 10 Wilds of Atnia
+1 Zombie Invasion
+1 Zombie Summoner
 
 1 Atnia
 1 Golem
@@ -61,7 +61,6 @@
 1 Blood Zombie
 1 Knight of Redemption
 8 Delta Ultimate Artifact
-1 Warrior's Talent
 1 Forgotten Relic
 1 Rift
 1 Village
@@ -86,3 +85,4 @@
 1 Lentholm
 1 Ecclesia Start
 1 Burst of Energy
+1 Three Paths

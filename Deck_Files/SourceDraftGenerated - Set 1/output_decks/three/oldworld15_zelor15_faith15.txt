@@ -1,52 +1,52 @@
-1 Ancient Excavation
-1 Aton Battlemaster
+1 Amnesia
 1 Aton Scout
-1 Awakened Arbiter
 1 Burning Man
-1 Combo Slice
+1 Catch!
 1 Countervailing Flames
-1 Crystal Triangle
-1 Double Negative
-1 Dune Paladin
+1 Cryptic Swan
+1 Cursed Portal
 1 Electrolytes
 1 Evil Opportunity
+1 Extreme Heat
 1 Faith Oldworld Directive
-1 Fireball
-1 Flashback Attack
-1 Forgotten Hunter
-1 Frost Eruption
+1 Fated Return
+1 Frank
+1 Frostblade Adept
 1 Glimpse Disaster
 1 Grim Librarians
-1 Inspired Cleric
-1 Invisible Haze
+1 Healing Amulet
+1 Interrupt
 1 Knight of the Moon
 1 Knight of the Torch
 1 Lavasmith
-1 Lost Tome
-1 Mysterious Cleric
-1 Mystic Stone
+1 Living Relic
+1 Loose Change
+1 Magical Zenith
+1 Mindless Cleric
+1 Occult Harbinger
+1 Out of Mind
 1 Outlander's Familiar
-1 Ozen's Fury
-1 Ozen's Temple
-1 Ozen's Wrath
-1 Pax Nova Scout
-1 Psychic Intrusion
+1 Pax Nova Guardian
+1 Plasma Bolt
+1 Potent Divination
+1 Procrastinate
+1 Question Station
 1 Reawaken in Dream
+1 Recollect
+1 Relic Recovery
+1 Return to the Earth
 1 Rule of Three
+1 Sage of the Sun
 1 Scrap Merchant
 9 See Beyond
-1 Set Ablaze
+1 Sheltering Winds
 1 Sorvald's Ignition
-1 Spirit Guide
-1 Svet Scout
-1 Terrifying Vision
-1 The Dreamer
-1 The Plan
-1 Thingamajig
-1 Tomb Hunter
-1 Void Capsule
+1 Stash Away
+1 Substitute
+1 The Departed
+1 Trail of the Nightmare
 1 Void Cleric
-1 Walk the Plank
+1 Wicked Pyromancer
 10 Wilds of Atnia
 1 Zelor Faith Directive
 1 Zelor Oldworld Directive
@@ -59,7 +59,6 @@
 1 Blood Zombie
 1 Knight of Redemption
 8 Delta Ultimate Artifact
-1 Warrior's Talent
 1 Forgotten Relic
 1 Rift
 1 Village
@@ -84,3 +83,4 @@
 1 Lentholm
 1 Ecclesia Start
 1 Burst of Energy
+1 Three Paths

@@ -1,49 +1,49 @@
 1 Absorb
-1 Borrow Time
-1 Clockwork Soldier
+1 Aggravating Scribe
+1 Amatuer Illusionist
+1 Ancient Excavation
+1 Annul
+1 Call the Divine
 1 Construct Constructor
-1 Cryptic Swan
-1 Cursed Portal
-1 Double Negative
-1 Downtown Walk
-1 Embargo
-1 Ethereal Construct
+1 Demon of Consumption
+1 Essence of the Old World
 1 Faith Oldworld Directive
-1 Frostblade Adept
-1 Get Back In There
-1 Gift of Life
-1 Golem Nexus
 1 Healing Amulet
-1 Helping Hands
 1 Hidden Giant
-1 Hired Hands
-1 Isolated Archer
-1 Junior Adventurer
-1 Lekvian Traveler
-1 Life Manipulation
-1 Living Relic
+1 Injury to Insult
+1 Invisible Haze
+1 Leave me Alone
 1 Looming Overlord
-1 Mirage Manufacturer
+1 Lunar Suppression
+1 Mechanical Vampire
+1 Oln's Binding
+1 Outlast
+1 Ozen's Fury
 1 Ozen's Temple
+1 Palace Clock
+1 Pesky Scribe
+1 Power of Antiquity
+1 Prepared Scribe
+1 Priest of Death
 1 Procrastinate
+1 Relic Recovery
 1 Ruins Scavenger
-1 Rule of Three
-1 Search for Omnipotence
+1 Scour the Ruins
+1 Scrap Merchant
 9 See Beyond
+1 Sheltering Winds
 1 Sinkhole
-1 Siphon Power
-1 Sorvald's Insight
-1 Stash Away
-1 Storm Generator
-1 Svet Scout
-1 Terrifying Vision
-1 The Departed
-1 The Plan
+1 Spirit Guide
+1 Spirit of Monumentality
+1 Starlight Cleric
+1 Steven
+1 Stronghold Dispatch
+1 Sublimate
+1 Substitute
 1 Thingamajig
-1 Tomb Hunter
-1 Universal Stimulant
-1 Vampire's Grasp
-1 Void Cleric
+1 Transcend
+1 Void Capsule
+1 Void Shift
 10 Wilds of Atnia
 1 Workshop Automaton
 
@@ -55,7 +55,6 @@
 1 Blood Zombie
 1 Knight of Redemption
 8 Delta Ultimate Artifact
-1 Warrior's Talent
 1 Forgotten Relic
 1 Rift
 1 Village
@@ -80,3 +79,4 @@
 1 Lentholm
 1 Ecclesia Start
 1 Burst of Energy
+1 Three Paths

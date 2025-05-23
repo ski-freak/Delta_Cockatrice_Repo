@@ -1,54 +1,54 @@
-1 5th Legion Luitenant
-1 Abominable Egg
-1 Amatuer Illusionist
-1 Apprentice Harbinger
-1 Aton Battlemaster
+1 5th Legion Lieutenant
+1 Amatuer Wizarding
+1 Ambush
+1 Apprentice Spellcaster
+1 Banner of Lentholm
+1 Battle Rage
+1 Become Large
+1 Combo Slice
 1 Contain
-1 Cosmic Justice
-1 Cursed Portal
-1 Devout Arbiter
-1 Disappearing Orb
-1 Dune Paladin
-1 Extreme Heat
+1 Cruel Messenger
+1 Deja Vu
+1 Devout Healer
+1 Doomed Legionnaire
 1 Faith Martial Directive
 1 Fated Return
-1 Forgotten Hunter
+1 Flashback Attack
 1 Globe of 1000 Souls
-1 Heroic Moment
+1 Healing Amulet
+1 Improved Morale
 1 Knight of the Moon
-1 Knight of the Wheat
 1 Lavasmith
-1 Legion Drill Sergeant
+1 Legion Courier
 1 Legion Pyromancer
-1 Liev Warrior
 1 Martial Zelor Directive
+1 Merry Duelist
+1 Mysterious Cleric
+1 Nomadic Orc
 1 Novice Knight
-1 Ozen's Temple
+1 Oln's Binding
 1 Ozen's Wrath
-1 Pax Nova Scout
-1 Psychic Intrusion
-1 Round Two
-1 Scorched Earth
+1 Passive Income Scheme
+1 Plasma Bolt
+1 Replenish
+1 Rule of Three
+1 Search for Omnipotence
 9 See Beyond
-1 Set Ablaze
-1 Sneaky Assassin
-1 Spare Violence
-1 Spirit Guide
+1 Send in the Zombies
+1 Skyhaven Cannon
+1 Sorvald's Ignition
 1 Stash Away
-1 Stronghold Guard
 1 Substitute
+1 Swarm the Enemy
 1 Team Up
-1 The Departed
-1 The Doublemeister
-1 Tower Thief
 1 Trade Insight
-1 Transcend
 1 Unimaginable Nightmare
-1 Valorous Triumph
+1 Vicious Looter
+1 Void Cleric
 1 Void Shift
 10 Wilds of Atnia
-1 Wizard's Familiar
 1 Zelor Faith Directive
+1 Zombie Invasion
 
 1 Atnia
 1 Golem
@@ -58,7 +58,6 @@
 1 Blood Zombie
 1 Knight of Redemption
 8 Delta Ultimate Artifact
-1 Warrior's Talent
 1 Forgotten Relic
 1 Rift
 1 Village
@@ -83,3 +82,4 @@
 1 Lentholm
 1 Ecclesia Start
 1 Burst of Energy
+1 Three Paths

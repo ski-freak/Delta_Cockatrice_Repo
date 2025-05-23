@@ -1,52 +1,52 @@
+1 A Difficult Choice
 1 Amatuer Wizarding
 1 Amnesia
-1 Ancient Necromancer
+1 Ancient Excavation
+1 Apprentice Spellcaster
+1 Aton Battlemaster
 1 Aton Scout
-1 Awakened Arbiter
+1 Battle Rage
+1 Burning Man
+1 Collective Knowledge
+1 Combo Slice
 1 Countervailing Flames
-1 Dead on Arrival
+1 Cryptic Swan
 1 Electrolytes
 1 Embrace the Arcane
-1 Energy Cell
-1 Essence of the Old World
-1 Eternal Navigator
-1 Extreme Heat
-1 Fire Channeler
-1 Flame Oracle
-1 Flashback Attack
 1 Force Field
-1 Frank
-1 Golem Nexus
+1 Frostblade Adept
+1 Helping Hands
 1 Improvised Lightning
 1 Inspired Encore
 1 Kaboom
-1 Knight of the Wheat
-1 Lost Tome
+1 Knight of the Moon
+1 Lunar Suppression
 1 Magic Trick
-1 Magical Zenith
-1 Mindseeker
-1 Oana's Divination
-1 Outlander's Familiar
+1 Merry Duelist
+1 More Fire
+1 Mystic Stone
+1 Novice Knight
 1 Pax Nova Scout
-1 Plasma Bolt
-1 Plunder
+1 Probable Rivalry
+1 Question Station
+1 Quick Thinking
 1 Radiating Force
-1 Recycling
-1 Remake
+1 Recollect
 1 Replenish
-1 Return to the Earth
 1 Scorched Earth
 6 See Beyond
 1 Set Ablaze
+1 Sorvald's Ignition
+1 Starlight Cleric
 1 Stochastic Ignition
-1 Strategize
-1 Stronghold Dispatch
 1 The Dreamer
+1 Thingamajig
 1 Thorny Defense
-1 Trail of the Nightmare
-1 Volcanic Vision
+1 Thunderous Fury
+1 Walk the Plank
 1 Wicked Pyromancer
 8 Wilds of Atnia
+1 Wizard's Familiar
 1 Zelor Oldworld Directive
 
 1 Atnia
@@ -57,7 +57,6 @@
 1 Blood Zombie
 1 Knight of Redemption
 8 Delta Ultimate Artifact
-1 Warrior's Talent
 1 Forgotten Relic
 1 Rift
 1 Village
@@ -82,3 +81,4 @@
 1 Lentholm
 1 Ecclesia Start
 1 Burst of Energy
+1 Three Paths

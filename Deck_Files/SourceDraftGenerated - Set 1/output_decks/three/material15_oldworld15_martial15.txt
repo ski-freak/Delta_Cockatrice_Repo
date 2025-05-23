@@ -1,50 +1,50 @@
-1 Absolute Destruction
-1 Aggravating Scribe
-1 Alliance Rallier
-1 Ambush
-1 Ancient Necromancer
+1 Absorb
+1 Adapt
+1 Annoying Scribe
+1 Banner of Lentholm
+1 Battlefield Commander
 1 Clockwork Soldier
+1 Collective Knowledge
 1 Contain
-1 Dissociation
-1 Eager Bruiser
-1 Emergency Supply Kit
-1 Energy Cell
-1 Escaped Monster
-1 Excavation Automaton
-1 Healing Potion
-1 Heroic Moment
-1 Improved Morale
-1 Intimidating Scribe
-1 Investigate the Scene
-1 Junior Adventurer
-1 Knowledge Collection
-1 Leave me Alone
-1 Lekvian Vampire
-1 Looming Overlord
+1 Contemplate
+1 Deadly Strike
+1 Doomed Legionnaire
+1 Embargo
+1 Energy Drain
+1 Fortress Automaton
+1 Gift of Life
+1 Golem Conjurer
+1 Injury to Insult
+1 Interrupt
+1 Liev Grappler
+1 Life Manipulation
+1 Lost in the Wilds
+1 Lucy
 1 Lunar Suppression
-1 Mechanical Vampire
-1 Mystic Stone
-1 Noddegamra
-1 Oana's Divination
 1 Oasis Giant
 1 Oldworld Martial Directive
-1 Outlander's Familiar
-1 Outlast
-1 Pesky Scribe
-1 Procrastinate
-1 Quiet Mage
-1 Remake
+1 Prepared Scribe
+1 Probable Rivalry
+1 Return of the Vanished
 1 Return to the Earth
+1 Rosilie D'Avron
+1 Ruins Scavenger
 9 See Beyond
 1 Send in the Zombies
+1 Sheltering Winds
+1 Sinkhole
 1 Sneaky Assassin
 1 Spare Violence
 1 Starlight Cleric
-1 Stronghold Guard
-1 The Doublemeister
-1 The Dreamer
-1 Unfortunate Accident
-1 Vaudeville Hook
+1 Steven
+1 Stronghold Dispatch
+1 The Plan
+1 The Renegade
+1 Tower Thief
+1 Train Station
+1 Vampiric Recovery
+1 Vicious Looter
+1 War Elephant
 10 Wilds of Atnia
 
 1 Atnia
@@ -55,7 +55,6 @@
 1 Blood Zombie
 1 Knight of Redemption
 8 Delta Ultimate Artifact
-1 Warrior's Talent
 1 Forgotten Relic
 1 Rift
 1 Village
@@ -80,3 +79,4 @@
 1 Lentholm
 1 Ecclesia Start
 1 Burst of Energy
+1 Three Paths

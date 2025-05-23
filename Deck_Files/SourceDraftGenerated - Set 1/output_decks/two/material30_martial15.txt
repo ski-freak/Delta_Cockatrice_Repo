@@ -1,49 +1,49 @@
-1 Aggravating Scribe
-1 Ambush
-1 Bermuda Triangle
-1 Blood Bank
-1 Bloodlust
+1 Absolute Destruction
+1 Absorb
+1 Adapt
+1 Annoying Scribe
+1 Banner of Lentholm
+1 Bold Warrior
 1 Borrow Time
-1 Devout Arbiter
-1 Emergency Supply Kit
-1 Familiar Shadow
-1 Flash Freeze
+1 Clockwork Soldier
+1 Defiant Scribe
+1 Eager Explorer
+1 Ethereal Construct
+1 Experienced Traveler
+1 Final Strike
 1 Fortress Automaton
 1 Gaston, Lekvian Squire
-1 Heroic Moment
+1 Healing Potion
 1 Hidden Giant
-1 Hired Hands
 1 Improved Morale
-1 Intimidating Scribe
-1 Isolated Archer
-1 K.O. Punch
-1 Legion Drill Sergeant
+1 Injury to Insult
+1 Investigate the Scene
 1 Legion Warlock
-1 Lekvian Traveler
 1 Lekvian Vampire
-1 Lost in the Wilds
-1 Menacing Automaton
-1 Menacing Scribe
-1 Might of the Woods
-1 Noddegamra
-1 Novice Law-Binder
+1 Lucy
+1 Malicious Receptionist
+1 Mechanical Vampire
+1 Nomadic Orc
+1 Oasis Giant
+1 Outlands Accountant
 1 Outlast
 1 Pesky Scribe
 1 Priest of Death
-1 Savage Snare
+1 Quagmire Elemental
 6 See Beyond
 1 Self Improver
 1 Send in the Zombies
 1 Sinkhole
-1 Sorvald's Insight
-1 Spare Violence
+1 Siphon Power
+1 Sneaky Assassin
 1 Spire Hunter
+1 Steven
+1 Stockpile Manager
+1 Stronghold Guard
 1 Sublimate
-1 Team Up
-1 The Doublemeister
-1 Unfortunate Accident
+1 Swarm the Enemy
 1 Vexing Scribe
-1 War Elephant
+1 Warmongerer
 8 Wilds of Atnia
 
 1 Atnia
@@ -54,7 +54,6 @@
 1 Blood Zombie
 1 Knight of Redemption
 8 Delta Ultimate Artifact
-1 Warrior's Talent
 1 Forgotten Relic
 1 Rift
 1 Village
@@ -79,3 +78,4 @@
 1 Lentholm
 1 Ecclesia Start
 1 Burst of Energy
+1 Three Paths

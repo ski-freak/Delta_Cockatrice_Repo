@@ -1,52 +1,52 @@
-1 5th Legion Luitenant
-1 Adapt
-1 Aggravating Scribe
+1 Abominable Cleric
+1 Absorb
 1 Arcane War Cry
-1 Astral Amulet
+1 Banner of Lentholm
+1 Battlefield Commander
 1 Blood Bank
-1 Blood Channeler
-1 Bloodlust
-1 Cursed Tomb
-1 Deadly Strike
-1 Devout Arbiter
-1 Dissociation
-1 Eager Bruiser
+1 Dark Aperture
+1 Death Elemental
+1 Defiant Scribe
+1 Doomed Nightmare
 1 Emissary of Fear
-1 Emotion Vampire
-1 Ethereal Construct
-1 Gas Giant
+1 Energy Drain
+1 Enterprising Merchant
+1 Flank
+1 Forsaken Dreammage
+1 Gaston, Lekvian Squire
 1 Giant Bat
+1 Golem Conjuring
 1 Hidden Giant
-1 Hired Hands
 1 Improved Morale
-1 Injury to Insult
 1 Investigate the Scene
-1 Lekvian Traveler
+1 Leave me Alone
+1 Lekvian Butler
+1 Liev Grappler
 1 Liev Warrior
-1 Looming Overlord
+1 Life Manipulation
 1 Lore Dump
-1 Lost in the Wilds
-1 Maddening Visions
+1 Malicious Receptionist
 1 Martial Arca Directive
-1 Master Duelist
 1 Master of Elements
-1 Might of the Woods
-1 Myrkur Phantom
-1 Mysterious Mage
-1 Noddegamra
-1 Oasis Giant
+1 Mechanical Vampire
 1 Old Zombiemancer
-1 Quiet Mage
-1 Rift Sorcerer
-1 Round Two
-1 Rugged Outlander
+1 Oruva Scout
+1 Prepared Scribe
 9 See Beyond
-1 Trade Insight
-1 Voidsworn Apostle
+1 Sorvald's Insight
+1 Stockpile Manager
+1 Swift Rescue
+1 Terrifying Nightmare
+1 Triple Spell
+1 Tunnel Vision
+1 Unstable Contract
+1 Valorous Triumph
+1 Vampire's Grasp
+1 Visionary Artificer
+1 Warmongerer
 1 Warrior's Training
 10 Wilds of Atnia
-1 Workshop Automaton
-1 Zombie Invasion
+1 Zombie Summoner
 
 1 Atnia
 1 Golem
@@ -56,7 +56,6 @@
 1 Blood Zombie
 1 Knight of Redemption
 8 Delta Ultimate Artifact
-1 Warrior's Talent
 1 Forgotten Relic
 1 Rift
 1 Village
@@ -81,3 +80,4 @@
 1 Lentholm
 1 Ecclesia Start
 1 Burst of Energy
+1 Three Paths

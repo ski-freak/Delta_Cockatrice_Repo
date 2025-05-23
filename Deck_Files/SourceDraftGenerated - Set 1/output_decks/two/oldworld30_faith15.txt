@@ -1,50 +1,48 @@
-1 A Difficult Choice
-1 Ancient Excavation
-1 Awakened Arbiter
+1 Abandoned Automaton
+1 Airdrop
+1 Ancient Necromancer
 1 Collective Knowledge
-1 Cosmic Justice
 1 Cryptic Swan
-1 Cursed Portal
+1 Crystal Triangle
+1 Dead on Arrival
 1 Devout Healer
+1 Downtown Walk
 1 Energy Cell
 1 Essence of the Old World
-1 Evil Opportunity
+1 Excavation Automaton
 1 Faith Oldworld Directive
+1 Fallen Scribe
+1 Frank
 1 Frostblade Adept
+1 Furious Sorcerer
 1 Get Back In There
-1 Gift of Life
+1 Healing Amulet
 1 Helping Hands
 1 Interrupt
 1 Invisible Haze
 1 Junior Adventurer
 1 Knowledge Collection
-1 Knowledge Requisitioner
+1 Living Relic
+1 Loose Change
 1 Lost Tome
-1 Lunar Suppression
-1 Mysterious Cleric
-1 Mystic Stone
-1 Oana's Divination
-1 Out of Mind
-1 Ozen's Fury
+1 Mindless Cleric
 1 Ozen's Wrath
-1 Passive Income Scheme
+1 Palace Clock
 1 Power of Antiquity
-1 Quick Thinking
-1 Return to the Earth
-1 Ruins Scavenger
+1 Reawaken in Dream
 1 Sage of the Sun
-1 Scour the Ruins
-1 Search for Omnipotence
+3 Search for Omnipotence
 6 See Beyond
 1 Sheltering Winds
-1 Spirit Guide
 1 Squish
-1 Storm Generator
-1 Thingamajig
+1 Starlight Cleric
+1 Stronghold Dispatch
+1 Substitute
+1 The Departed
+1 The Dreamer
+1 Train Station
 1 Vaudeville Hook
-1 Void Capsule
-1 Void Shift
-1 Wicked Pact
+1 Walk the Plank
 8 Wilds of Atnia
 
 1 Atnia
@@ -55,7 +53,6 @@
 1 Blood Zombie
 1 Knight of Redemption
 8 Delta Ultimate Artifact
-1 Warrior's Talent
 1 Forgotten Relic
 1 Rift
 1 Village
@@ -80,3 +77,4 @@
 1 Lentholm
 1 Ecclesia Start
 1 Burst of Energy
+1 Three Paths

@@ -1,56 +1,56 @@
-1 A Difficult Choice
-1 Aton Scout
+1 Airdrop
+1 Apprentice Spellcaster
+1 Arcane Chains
+1 Aton Battlemaster
 1 Awakened Arbiter
+1 Blood Channeler
 1 Burning Man
 1 Burning Plain Directive
 1 Chaotic Whirlwind
+1 Collective Knowledge
+1 Contemplate
 1 Countervailing Flames
-1 Cryptic Swan
-1 Crystal Triangle
-1 Dark Wrath
-1 Dream Stalker
-1 Dune Paladin
+1 Cursed Tomb
+1 Dead on Arrival
 1 Electrolytes
-1 Elite Smith
-1 Embargo
 1 Emotion Vampire
+1 Eruption
+1 Eternal Navigator
 1 Extreme Heat
-1 Fire Channeler
-1 Furious Sorcerer
-1 Gift of Life
+1 Frostblade Adept
 1 Golem Conjuring
-1 Kaboom
-1 Knight of the Wheat
+1 Grim Librarians
+1 Improvised Lightning
+1 Interrupt
+1 Knight of the Torch
 1 Lagoon Titan
-1 Lore Dump
-1 Merry Duelist
-1 Myrkur Phantom
-1 Mysterious Mage
-1 Night of the Dead
+1 Lavasmith
+1 Loose Change
+1 Maddening Visions
+1 Magical Zenith
+1 More Fire
+1 Mystical Nightmare
+1 Old Zombiemancer
+1 Oruva Scout
 1 Pax Directive
-1 Plasma Bolt
-1 Potent Divination
+1 Plunder
 1 Power of Antiquity
-1 Probable Rivalry
-1 Psychic Intrusion
-1 Recurring Nightmare
-1 Remake
-1 Seasoned Loremaster
+1 Quick Thinking
+1 Radiating Force
+1 Respected Mage
+1 Return of the Vanished
+1 Rift Screech
+1 Rift Sorcerer
 9 See Beyond
-1 Set Ablaze
-1 Sheltering Winds
-1 Sorvald's Ignition
-1 Train Station
+1 Stochastic Ignition
+1 The Dreamer
+1 The Plan
+1 Triple Spell
+1 Tunnel Vision
 1 Unimaginable Nightmare
-1 Unstable Contract
 1 Vampire's Bite
-1 Vaudeville Hook
-1 Visionary Artificer
-1 Void Axe
-1 Void Drake
 1 Void Snap
 1 Walk the Plank
-1 Wicked Pyromancer
 1 Wild Wizard
 10 Wilds of Atnia
 1 Zelor Oldworld Directive
@@ -63,7 +63,6 @@
 1 Blood Zombie
 1 Knight of Redemption
 8 Delta Ultimate Artifact
-1 Warrior's Talent
 1 Forgotten Relic
 1 Rift
 1 Village
@@ -88,3 +87,4 @@
 1 Lentholm
 1 Ecclesia Start
 1 Burst of Energy
+1 Three Paths

@@ -1,52 +1,53 @@
-1 Abominable Cleric
-1 Absorb
-1 Aggravating Scribe
+1 Abominable Egg
+1 Absolute Destruction
+1 Arcane Burst
 1 Arcane Chains
-1 Bloodlust
-1 Cosmic Justice
-1 Cursed Portal
-1 Defiant Scribe
-1 Disappearing Orb
+1 Borrow Time
+1 Burning Lich
+1 Dark Wrath
+1 Devout Healer
 1 Divine Harmony
-1 Dream Stalker
-1 Escaped Monster
-1 Ethereal Mirage
-1 Familiar Shadow
+1 Eager Explorer
+1 Emotion Vampire
+1 Energy Drain
+1 Evil Opportunity
+1 Final Strike
 1 Forsaken Dreammage
-1 Fortress Automaton
-1 Gas Giant
+1 Get Back In There
 1 Golem Conjurer
-1 Healing Amulet
+1 Golem Conjuring
 1 Hymn to the Pale Sun
-1 Injury to Insult
-1 Intimidating Scribe
+1 Isolated Archer
 1 Living Relic
 1 Lore Dump
-1 Master of Elements
-1 Meditation
+1 Lost in the Wilds
 1 Menacing Scribe
-1 Mysterious Mage
-1 Ozen's Fury
+1 Mysterious Cleric
+1 Noddegamra
+1 Occult Harbinger
+1 Oln's Binding
+1 Outlast
+1 Palace Clock
 1 Pale Mountain Directive
 1 Pale Nightmare
-1 Prepared Scribe
-1 Recurring Nightmare
+1 Passive Income Scheme
+1 Reawaken in Dream
+1 Respected Mage
 1 Rift Ritual
-1 Rosilie D'Avron
-2 Search for Omnipotence
+1 Rift Whispers
+1 Savage Snare
 9 See Beyond
-1 Spirit Guide
-1 Sublimate
-1 Terrifying Nightmare
-1 Terrifying Vision
-1 The Departed
-1 Universal Stimulant
-1 Unstable Contract
+1 Sinkhole
+1 Stash Away
+1 Svet Scout
+1 Tomb Hunter
+1 Transcend
+1 Triple Spell
+1 Tunnel Vision
 1 Vampire's Grasp
-1 Visionary Artificer
-1 Void Drake
+1 Vampiric Recovery
+1 Void Axe
 1 Void Snap
-1 Wicked Pact
 10 Wilds of Atnia
 
 1 Atnia
@@ -57,7 +58,6 @@
 1 Blood Zombie
 1 Knight of Redemption
 8 Delta Ultimate Artifact
-1 Warrior's Talent
 1 Forgotten Relic
 1 Rift
 1 Village
@@ -82,3 +82,4 @@
 1 Lentholm
 1 Ecclesia Start
 1 Burst of Energy
+1 Three Paths

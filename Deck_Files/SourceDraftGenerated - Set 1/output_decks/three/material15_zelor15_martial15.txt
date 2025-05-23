@@ -1,52 +1,52 @@
-1 Adapt
+1 5th Legion Lieutenant
+1 Ancient Vampire
 1 Annoying Scribe
-1 Battlefield Commander
-1 Bloodlust
-1 Deadly Strike
+1 Aton Battlemaster
+1 Battle Rage
+1 Borrow Time
+1 Clockwork Soldier
 1 Death Elemental
-1 Defiant Scribe
-1 Dissociation
+1 Devout Arbiter
+1 Doomed Legionnaire
 1 Emergency Supply Kit
-1 Energy Drain
-1 Escaped Monster
-1 Eternal Navigator
-1 Ether Charge
-1 Fire Channeler
-1 Flame Oracle
-1 Flash Freeze
 1 Flashback Attack
 1 Force Field
-1 Furious Automaton
-1 Infinity Vessel
-1 Injury to Insult
+1 Gaston, Lekvian Squire
+1 Healing Potion
+1 Henry
+1 Hired Hands
+1 Improvised Lightning
 1 Inspired Encore
-1 Isolated Archer
-1 K.O. Punch
+1 Investigate the Scene
+1 Knight of the Torch
 1 Knight of the Wheat
+1 Leave me Alone
 1 Legion Pyromancer
-1 Magical Zenith
+1 Legion Warlock
+1 Lekvian Butler
+1 Lucy
+1 Magic Trick
 1 Martial Zelor Directive
-1 Might of the Woods
 1 Mindseeker
-1 Novice Law-Binder
+1 Novice Knight
 1 Outlands Accountant
-1 Outlast
-1 Pax Nova Battlemage
-1 Priest of Death
-1 Radiating Force
-1 Replenish
+1 Pesky Scribe
+1 Plasma Bolt
+1 Recollect
+1 Rolead the Swift
+1 Round Two
+1 Scorched Earth
 9 See Beyond
-1 Send in the Zombies
-1 Steadfast Arbiter
-1 Stronghold Guard
-1 Swarm the Enemy
-1 Thorny Defense
-1 Trail of the Nightmare
-1 Volcanic Giant
+1 Set Ablaze
+1 Spare Violence
+1 Team Up
+1 The Renegade
+1 Valorous Triumph
+1 Vampiric Recovery
+1 War Elephant
 1 Warmongerer
-1 Wicked Pyromancer
-1 Wild Vision
 10 Wilds of Atnia
+1 Workshop Automaton
 
 1 Atnia
 1 Golem
@@ -56,7 +56,6 @@
 1 Blood Zombie
 1 Knight of Redemption
 8 Delta Ultimate Artifact
-1 Warrior's Talent
 1 Forgotten Relic
 1 Rift
 1 Village
@@ -81,3 +80,4 @@
 1 Lentholm
 1 Ecclesia Start
 1 Burst of Energy
+1 Three Paths

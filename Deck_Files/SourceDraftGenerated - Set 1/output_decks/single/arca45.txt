@@ -1,14 +1,13 @@
 1 Abominable Cleric
 1 Arcane Burst
 1 Arcane Chains
-2 Astral Amulet
+1 Astral Amulet
 1 Blood Channeler
 1 Burning Lich
 1 Cursed Tomb
 1 Dark Wrath
 1 Doomed Nightmare
-1 Dream Stalker
-2 Emissary of Fear
+1 Emissary of Fear
 1 Emotion Vampire
 1 Forsaken Dreammage
 1 Forsaken Spellcaster
@@ -20,19 +19,23 @@
 1 Master of Elements
 1 Myrkur Phantom
 1 Mysterious Mage
+1 Mystical Cache
+1 Mystical Nightmare
 1 Night of the Dead
 1 Nightfall
 1 Old Zombiemancer
 1 Oruva Scout
 1 Recurring Nightmare
+1 Respected Mage
 1 Rift Ritual
 1 Rift Screech
 1 Rift Sorcerer
 1 Rift Whispers
-2 Seasoned Loremaster
+1 Seasoned Loremaster
 3 See Beyond
-2 Terrifying Nightmare
+1 Terrifying Nightmare
 1 Triple Spell
+2 Tunnel Vision
 1 Unstable Contract
 1 Visionary Artificer
 1 Void Axe
@@ -50,7 +53,6 @@
 1 Blood Zombie
 1 Knight of Redemption
 8 Delta Ultimate Artifact
-1 Warrior's Talent
 1 Forgotten Relic
 1 Rift
 1 Village
@@ -75,3 +77,4 @@
 1 Lentholm
 1 Ecclesia Start
 1 Burst of Energy
+1 Three Paths

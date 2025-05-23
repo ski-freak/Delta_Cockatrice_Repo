@@ -1,51 +1,51 @@
-1 A Difficult Choice
-1 Abandoned Automaton
-1 Awakened Arbiter
+1 Ambush
+1 Ancient Excavation
+1 Centrifuge
 1 Collective Knowledge
 1 Construct Constructor
-1 Contain
+1 Cruel Messenger
 1 Crystal Triangle
 1 Dead on Arrival
-1 Eager Bruiser
-1 Ether Charge
-1 Excavation Automaton
-1 Flash Freeze
-1 Gift of Life
+1 Devout Arbiter
+1 Doomed Legionnaire
+1 Embargo
+1 Frost Eruption
+1 Frostblade Adept
 1 Golem Nexus
+1 Grim Librarians
+1 Helping Hands
+1 Heroic Moment
 1 Improved Morale
-1 Interrupt
-1 Investigate the Scene
 1 Invisible Haze
-1 Junior Adventurer
+1 Knowledge Collection
 1 Knowledge Requisitioner
-1 Legion Warlock
+1 Loose Change
+1 Lost Tome
 1 Lunar Suppression
-1 Master Duelist
 1 Mirage Manufacturer
-1 Nomadic Spirit
+1 Novice Law-Binder
+1 Novice Zombiemancer
 1 Oana's Divination
 1 Oldworld Martial Directive
-1 Outlander's Familiar
-1 Probable Rivalry
 1 Procrastinate
-1 Remake
+1 Question Station
+1 Recycling
 1 Return of the Vanished
-1 Round Two
-1 Scour the Ruins
-1 Scrap Merchant
+1 Return to the Earth
 6 See Beyond
-1 Sheltering Winds
+1 Send in the Zombies
 1 Sneaky Assassin
-1 Spare Violence
-1 Starlight Cleric
 1 Storm Generator
-1 Stronghold Guard
-1 Swarm the Enemy
-1 Team Up
-1 The Doublemeister
+1 Swift Rescue
+1 The Dreamer
+1 The Plan
 1 Thingamajig
-1 Train Station
+1 Trade Insight
+1 Walk the Plank
+1 War Elephant
 8 Wilds of Atnia
+1 Zombie Invasion
+1 Zombie Summoner
 
 1 Atnia
 1 Golem
@@ -55,7 +55,6 @@
 1 Blood Zombie
 1 Knight of Redemption
 8 Delta Ultimate Artifact
-1 Warrior's Talent
 1 Forgotten Relic
 1 Rift
 1 Village
@@ -80,3 +79,4 @@
 1 Lentholm
 1 Ecclesia Start
 1 Burst of Energy
+1 Three Paths
