@@ -1,0 +1,81 @@
+1 5th Legion Lieutenant
+1 Absolute Destruction
+1 Absorb
+1 Aggravating Scribe
+1 Battlefield Commander
+1 Blood Bank
+1 Borrow Time
+1 Death Elemental
+1 Defiant Scribe
+1 Doomed Legionnaire
+1 Ethereal Construct
+1 Fortress Automaton
+1 Gaston, Lekvian Squire
+1 Golem Conjurer
+1 Henry
+1 Hidden Giant
+1 Isolated Archer
+1 Legion Courier
+1 Legion Drill Sergeant
+1 Lekvian Vampire
+1 Liev Grappler
+1 Lucy
+1 Malicious Receptionist
+1 Mechanical Vampire
+1 Noddegamra
+1 Nomadic Orc
+1 Novice Law-Binder
+1 Outlast
+1 Prepared Scribe
+1 Quiet Mage
+1 Rosilie D'Avron
+1 Rugged Outlander
+1 Savage Snare
+6 See Beyond
+1 Self Improver
+1 Sinkhole
+1 Sorvald's Insight
+1 Stockpile Manager
+1 Team Up
+1 Trade Insight
+1 Vampire's Grasp
+1 Vicious Looter
+1 Volcanic Giant
+1 War Elephant
+1 Warmongerer
+1 Wild Vision
+8 Wilds of Atnia
+
+1 Atnia
+1 Golem
+1 Night Horror
+1 Law-Mage
+1 Survivor
+1 Blood Zombie
+1 Knight of Redemption
+8 Delta Ultimate Artifact
+1 Forgotten Relic
+1 Rift
+1 Village
+1 Grove
+1 Ruins
+1 Dreamscape
+1 Outpost
+1 Shrine
+1 Helpful Automaton
+1 Arca Home
+1 Eminus Home
+1 Materia Home
+1 Oldworld Home
+1 Zelor Home
+1 Martial Home
+1 Deitus Home
+1 The Old Watch
+1 The College of Dreams
+1 Aton
+1 Skyhaven
+1 Pax Nova
+1 Lentholm
+1 Deitus Start
+1 Burst of Energy
+1 Three Paths

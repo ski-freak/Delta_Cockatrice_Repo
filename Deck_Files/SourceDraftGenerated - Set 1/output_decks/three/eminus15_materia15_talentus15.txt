@@ -1,0 +1,83 @@
+1 5th Legion Lieutenant
+1 Absorb
+1 Ancient Vampire
+1 Arbiter Marshal
+1 BSOD
+1 Battlefield Commander
+1 Beckon Home
+1 Cruel Messenger
+1 Deadly Strike
+1 Death Elemental
+1 Desperate Arbiter
+1 Dropkick
+1 Eager Explorer
+1 Emergency Supply Kit
+1 Energy Drain
+1 Experienced Traveler
+1 Final Strike
+1 Forgetful Arbiter
+1 Fost Feac Directive
+1 Healing Potion
+1 Legion Courier
+1 Legion Drill Sergeant
+1 Liev Arbiter
+1 Master Duelist
+1 Mechanical Vampire
+1 Menacing Automaton
+1 Mind Reader
+1 Nomadic Orc
+1 Orb of Understanding
+1 Pesky Scribe
+1 Phantom Angel
+1 Quiet Mage
+1 Rugged Outlander
+1 Sagittarii
+1 Savage Snare
+9 See Beyond
+1 Sneaky Assassin
+1 Spectral Agent
+1 Spectral Reinforcements
+1 Speed Check
+1 Sublimate
+1 Sunblade Knight
+1 Swift Rescue
+1 The Doublemeister
+1 The Renegade
+1 Vicious Looter
+1 Volcanic Giant
+10 Wilds of Atnia
+1 Wolkk Twinspear
+
+1 Atnia
+1 Golem
+1 Night Horror
+1 Law-Mage
+1 Survivor
+1 Blood Zombie
+1 Knight of Redemption
+8 Delta Ultimate Artifact
+1 Forgotten Relic
+1 Rift
+1 Village
+1 Grove
+1 Ruins
+1 Dreamscape
+1 Outpost
+1 Shrine
+1 Helpful Automaton
+1 Arca Home
+1 Eminus Home
+1 Materia Home
+1 Oldworld Home
+1 Zelor Home
+1 Martial Home
+1 Deitus Home
+1 The Old Watch
+1 The College of Dreams
+1 Aton
+1 Skyhaven
+1 Pax Nova
+1 Lentholm
+1 Deitus Start
+1 Burst of Energy
+1 Three Paths

@@ -1,0 +1,81 @@
+1 5th Legion Lieutenant
+1 A Trick
+1 Adapt
+1 Ancient Mentor
+1 Arbiter Marshal
+1 Arbiter Medic
+1 BSOD
+1 Beckon Home
+1 Cloaked Mindmage
+1 Coordinated Defense
+1 Cordial Wall-Knight
+1 Deadly Strike
+1 Dominate Will
+1 Dropkick
+1 Ether Charge
+1 Forgetful Arbiter
+1 Henry
+1 Honorable Knight
+1 Improved Morale
+1 Interfering Arbiter
+1 Knightly Reinforcements
+1 Liase of the Two Scrolls
+1 Liev Arbiter
+1 Liev Warrior
+1 Mind Trauma
+1 Nullify Magic
+1 Phantom Angel
+1 Resilient Knight
+1 Round Two
+6 See Beyond
+1 Skyknight
+1 Spare Violence
+1 Spectacular Sweep
+1 Spectral Agent
+1 Steadfast Arbiter
+1 Sunblade Knight
+1 Swift Rescue
+1 Thunder Knight
+1 Tower Thief
+1 Trade Insight
+1 Try Again
+1 Vicious Looter
+1 Ward of Repellance
+1 Warrior's Training
+1 Wave of Doubt
+8 Wilds of Atnia
+1 Wolkk Twinspear
+
+1 Atnia
+1 Golem
+1 Night Horror
+1 Law-Mage
+1 Survivor
+1 Blood Zombie
+1 Knight of Redemption
+8 Delta Ultimate Artifact
+1 Forgotten Relic
+1 Rift
+1 Village
+1 Grove
+1 Ruins
+1 Dreamscape
+1 Outpost
+1 Shrine
+1 Helpful Automaton
+1 Arca Home
+1 Eminus Home
+1 Materia Home
+1 Oldworld Home
+1 Zelor Home
+1 Martial Home
+1 Deitus Home
+1 The Old Watch
+1 The College of Dreams
+1 Aton
+1 Skyhaven
+1 Pax Nova
+1 Lentholm
+1 Deitus Start
+1 Burst of Energy
+1 Three Paths

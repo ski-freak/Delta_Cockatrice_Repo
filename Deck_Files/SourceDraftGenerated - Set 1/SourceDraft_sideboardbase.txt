@@ -21,13 +21,13 @@
 1 Oldworld Home
 1 Zelor Home
 1 Martial Home
-1 Faith Home
+1 Deitus Home
 1 The Old Watch
 1 The College of Dreams
 1 Aton
 1 Skyhaven
 1 Pax Nova
 1 Lentholm
-1 Ecclesia Start
+1 Deitus Start
 1 Burst of Energy
 1 Three Paths

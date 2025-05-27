@@ -1,0 +1,80 @@
+1 Arcane Burst
+1 Astral Amulet
+1 Blood Channeler
+1 Burning Lich
+1 Cruel Messenger
+1 Cursed Tomb
+1 Dark Aperture
+1 Devout Arbiter
+1 Doomed Legionnaire
+1 Emissary of Fear
+1 Emotion Vampire
+1 Ether Charge
+1 Forsaken Dreammage
+1 Frost Eruption
+1 Gas Giant
+1 Giant Bat
+1 Golem Conjuring
+1 Henry
+1 Liev Grappler
+1 Liev Warrior
+1 Lore Dump
+1 Myrkur Phantom
+1 Mysterious Mage
+1 Mystical Nightmare
+1 Novice Law-Binder
+1 Oruva Scout
+1 Recurring Nightmare
+1 Reorganize
+1 Rift Ritual
+1 Rift Sorcerer
+1 Rift Whispers
+1 Rolead the Swift
+1 Seasoned Loremaster
+6 See Beyond
+1 Stockpile Manager
+1 Swarm the Enemy
+1 Terrifying Nightmare
+1 The Renegade
+2 Tunnel Vision
+1 Unstable Contract
+1 Visionary Artificer
+1 Void Axe
+1 Void Snap
+1 Void Spike
+8 Wilds of Atnia
+1 Zombie Summoner
+
+1 Atnia
+1 Golem
+1 Night Horror
+1 Law-Mage
+1 Survivor
+1 Blood Zombie
+1 Knight of Redemption
+8 Delta Ultimate Artifact
+1 Forgotten Relic
+1 Rift
+1 Village
+1 Grove
+1 Ruins
+1 Dreamscape
+1 Outpost
+1 Shrine
+1 Helpful Automaton
+1 Arca Home
+1 Eminus Home
+1 Materia Home
+1 Oldworld Home
+1 Zelor Home
+1 Martial Home
+1 Deitus Home
+1 The Old Watch
+1 The College of Dreams
+1 Aton
+1 Skyhaven
+1 Pax Nova
+1 Lentholm
+1 Deitus Start
+1 Burst of Energy
+1 Three Paths

@@ -1,0 +1,80 @@
+1 Airdrop
+1 Back Again
+1 Borrow Time
+1 Crystal Triangle
+1 Doomsday Prophet
+1 Embargo
+1 Energy Cell
+1 Energy Drain
+1 Escaped Monster
+1 Evil Opportunity
+1 Final Strike
+1 Frank
+1 Frostblade Adept
+1 Gaston, Lekvian Squire
+1 Golem Conjurer
+1 Golem Nexus
+1 Interrupt
+1 Lekvian Vampire
+1 Living Relic
+1 Lost Tome
+1 Lost in the Wilds
+1 Lunar Suppression
+1 Malicious Receptionist
+1 Menacing Scribe
+1 Probable Rivalry
+1 Reawaken in Dream
+1 Return of the Vanished
+1 Rosilie D'Avron
+1 Sage of the Sun
+1 Scrap Merchant
+2 Search for Omnipotence
+9 See Beyond
+1 Sinkhole
+1 Siphon Power
+1 Spire Hunter
+1 Starlight Cleric
+1 Stash Away
+1 Substitute
+1 Svet Scout
+1 Terrifying Vision
+1 The Bringer
+1 Tomb Hunter
+1 Vexing Scribe
+1 Void Capsule
+1 Void Cleric
+10 Wilds of Atnia
+
+1 Atnia
+1 Golem
+1 Night Horror
+1 Law-Mage
+1 Survivor
+1 Blood Zombie
+1 Knight of Redemption
+8 Delta Ultimate Artifact
+1 Forgotten Relic
+1 Rift
+1 Village
+1 Grove
+1 Ruins
+1 Dreamscape
+1 Outpost
+1 Shrine
+1 Helpful Automaton
+1 Arca Home
+1 Eminus Home
+1 Materia Home
+1 Oldworld Home
+1 Zelor Home
+1 Martial Home
+1 Deitus Home
+1 The Old Watch
+1 The College of Dreams
+1 Aton
+1 Skyhaven
+1 Pax Nova
+1 Lentholm
+1 Deitus Start
+1 Burst of Energy
+1 Three Paths

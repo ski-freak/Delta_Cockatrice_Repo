@@ -1,0 +1,85 @@
+1 Amnesia
+1 Ancient Excavation
+1 Arbiter Medic
+1 Battle Rage
+1 Beckon Home
+1 Burst of Speed
+1 Cloaked Mindmage
+1 Construct Constructor
+1 Cordial Wall-Knight
+1 Desperate Arbiter
+1 Dominate Will
+1 Dropkick
+1 Explosive Breakthrough
+1 Extreme Heat
+1 Fated Return
+1 Fireball
+1 Flashback Attack
+1 Frank
+1 Honorable Knight
+1 Knight of the Moon
+1 Knight of the Torch
+1 Knight of the Wheat
+1 Knightly Mentor
+1 Knowledge Collection
+1 Liase of the Two Scrolls
+1 Liev Arbiter
+1 Lost Tome
+1 Lunar Suppression
+1 Nullify Magic
+1 Pax Nova Battlemage
+1 Pax Nova Directive
+1 Phantom Angel
+1 Plasma Bolt
+1 Power of Antiquity
+1 Procrastinate
+1 Quick Thinking
+1 Resilient Knight
+1 Return of the Vanished
+1 Return to the Earth
+1 Sage of the Sun
+1 Scorched Earth
+9 See Beyond
+1 Shifting Mirage
+1 Squish
+1 Stochastic Ignition
+1 Stronghold Dispatch
+1 The Dreamer
+1 Thought Extraction
+1 Thunderous Fury
+10 Wilds of Atnia
+1 Wolkk Twinspear
+
+1 Atnia
+1 Golem
+1 Night Horror
+1 Law-Mage
+1 Survivor
+1 Blood Zombie
+1 Knight of Redemption
+8 Delta Ultimate Artifact
+1 Forgotten Relic
+1 Rift
+1 Village
+1 Grove
+1 Ruins
+1 Dreamscape
+1 Outpost
+1 Shrine
+1 Helpful Automaton
+1 Arca Home
+1 Eminus Home
+1 Materia Home
+1 Oldworld Home
+1 Zelor Home
+1 Martial Home
+1 Deitus Home
+1 The Old Watch
+1 The College of Dreams
+1 Aton
+1 Skyhaven
+1 Pax Nova
+1 Lentholm
+1 Deitus Start
+1 Burst of Energy
+1 Three Paths

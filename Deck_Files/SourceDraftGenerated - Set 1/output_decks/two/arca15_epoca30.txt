@@ -1,0 +1,81 @@
+1 Ancient Excavation
+1 Arcane Chains
+1 Burning Lich
+1 Construct Constructor
+1 Cryptic Swan
+1 Crystal Triangle
+1 Dead on Arrival
+1 Doomed Nightmare
+1 Embargo
+1 Essence of the Old World
+1 Forsaken Spellcaster
+1 Frank
+1 Gas Giant
+1 Giant Bat
+1 Grim Librarians
+1 Helping Hands
+1 Hourglass of Ages
+1 Interrupt
+1 Knowledge Collection
+1 Loose Change
+1 Mysterious Mage
+1 Mystical Nightmare
+1 Outlander's Familiar
+1 Potent Divination
+1 Probable Rivalry
+1 Procrastinate
+1 Question Station
+1 Quick Thinking
+1 Recycling
+1 Remake
+1 Respected Mage
+1 Return of the Vanished
+1 Rift Ritual
+1 Rift's Grasp
+1 Ruins Scavenger
+1 Sage of the Sun
+1 Scour the Ruins
+1 Scrap Merchant
+1 Seasoned Loremaster
+6 See Beyond
+1 Squish
+1 The Dreamer
+1 Train Station
+1 Tunnel Vision
+1 Unstable Contract
+1 Void Drake
+8 Wilds of Atnia
+
+1 Atnia
+1 Golem
+1 Night Horror
+1 Law-Mage
+1 Survivor
+1 Blood Zombie
+1 Knight of Redemption
+8 Delta Ultimate Artifact
+1 Forgotten Relic
+1 Rift
+1 Village
+1 Grove
+1 Ruins
+1 Dreamscape
+1 Outpost
+1 Shrine
+1 Helpful Automaton
+1 Arca Home
+1 Eminus Home
+1 Materia Home
+1 Oldworld Home
+1 Zelor Home
+1 Martial Home
+1 Deitus Home
+1 The Old Watch
+1 The College of Dreams
+1 Aton
+1 Skyhaven
+1 Pax Nova
+1 Lentholm
+1 Deitus Start
+1 Burst of Energy
+1 Three Paths

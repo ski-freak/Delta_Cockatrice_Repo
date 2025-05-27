@@ -1,0 +1,89 @@
+1 Annoying Scribe
+1 Arcane Burst
+1 Astral Amulet
+1 Aton Battlemaster
+1 Bloodlust
+1 Burning Lich
+1 Burning Man
+1 Burning Plain Directive
+1 Cursed Tomb
+1 Defiant Scribe
+1 Doomed Nightmare
+1 Eager Explorer
+1 Energy Drain
+1 Eruption
+1 Extreme Heat
+1 Familiar Shadow
+1 Gas Giant
+1 Hired Hands
+1 Isolated Archer
+1 Lekvian Traveler
+1 Lentholm Directive
+1 Lore Dump
+1 Maddening Visions
+1 Magical Zenith
+1 Menacing Scribe
+1 Mysterious Mage
+1 Mystical Nightmare
+1 Novice Knight
+1 Old Zombiemancer
+1 Outlast
+1 Power from Beyond
+1 Prepared Scribe
+1 Replenish
+1 Rift Fire
+1 Rift Screech
+1 Rift's Grasp
+1 Rosilie D'Avron
+1 Seasonal Festeval
+9 See Beyond
+1 Sink into the Bog
+1 Skyhaven Directive
+1 Steven
+1 Stochastic Ignition
+1 Sublimate
+1 Thorny Defense
+1 Thought Extraction
+1 Trail of the Nightmare
+1 Twist of Fate
+1 Unimaginable Nightmare
+1 Vampire's Bite
+1 Volcanic Vision
+1 Walk the Plank
+1 Wild Wizard
+10 Wilds of Atnia
+1 Wizard's Familiar
+
+1 Atnia
+1 Golem
+1 Night Horror
+1 Law-Mage
+1 Survivor
+1 Blood Zombie
+1 Knight of Redemption
+8 Delta Ultimate Artifact
+1 Forgotten Relic
+1 Rift
+1 Village
+1 Grove
+1 Ruins
+1 Dreamscape
+1 Outpost
+1 Shrine
+1 Helpful Automaton
+1 Arca Home
+1 Eminus Home
+1 Materia Home
+1 Oldworld Home
+1 Zelor Home
+1 Martial Home
+1 Deitus Home
+1 The Old Watch
+1 The College of Dreams
+1 Aton
+1 Skyhaven
+1 Pax Nova
+1 Lentholm
+1 Deitus Start
+1 Burst of Energy
+1 Three Paths

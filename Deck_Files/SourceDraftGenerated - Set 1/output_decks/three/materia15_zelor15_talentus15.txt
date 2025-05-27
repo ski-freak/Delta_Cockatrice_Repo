@@ -1,0 +1,83 @@
+1 Absolute Destruction
+1 Absorb
+1 Ambush
+1 Banner of Lentholm
+1 Combo Slice
+1 Fire Channeler
+1 Flashback Attack
+1 Force Field
+1 Golem Conjurer
+1 Healing Potion
+1 Improved Morale
+1 Injury to Insult
+1 Investigate the Scene
+1 Knight of the Torch
+1 Lentholm Directive
+1 Liev Warrior
+1 Lost in the Wilds
+1 Lucy
+1 Magic Trick
+1 Menacing Scribe
+1 Noddegamra
+1 Novice Knight
+1 Novice Zombiemancer
+1 Pax Nova Guardian
+1 Prepared Scribe
+1 Recollect
+1 Replenish
+1 Round Two
+1 Rugged Outlander
+1 Scorched Earth
+9 See Beyond
+1 Set Ablaze
+1 Sink into the Bog
+1 Siphon Power
+1 Spare Violence
+1 Spire Hunter
+1 Steadfast Arbiter
+1 Steven
+1 Stochastic Ignition
+1 Swarm the Enemy
+1 Swift Rescue
+1 Team Up
+1 Thought Extraction
+1 Unimaginable Nightmare
+1 Vampiric Recovery
+1 Vicious Looter
+1 Warmongerer
+10 Wilds of Atnia
+1 Zombie Summoner
+
+1 Atnia
+1 Golem
+1 Night Horror
+1 Law-Mage
+1 Survivor
+1 Blood Zombie
+1 Knight of Redemption
+8 Delta Ultimate Artifact
+1 Forgotten Relic
+1 Rift
+1 Village
+1 Grove
+1 Ruins
+1 Dreamscape
+1 Outpost
+1 Shrine
+1 Helpful Automaton
+1 Arca Home
+1 Eminus Home
+1 Materia Home
+1 Oldworld Home
+1 Zelor Home
+1 Martial Home
+1 Deitus Home
+1 The Old Watch
+1 The College of Dreams
+1 Aton
+1 Skyhaven
+1 Pax Nova
+1 Lentholm
+1 Deitus Start
+1 Burst of Energy
+1 Three Paths

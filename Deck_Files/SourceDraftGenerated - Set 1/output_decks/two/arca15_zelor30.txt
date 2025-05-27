@@ -1,50 +1,51 @@
-1 Abominable Cleric
-1 Amatuer Wizarding
-1 Apprentice Spellcaster
 1 Arcane Burst
+1 Arcane Chains
+1 Arcane Imitation
+1 Astral Amulet
 1 Aton Battlemaster
+1 Burning Lich
 1 Burning Man
 1 Burning Plain Directive
 1 Combo Slice
-1 Dark Wrath
-1 Emotion Vampire
-1 Eternal Navigator
+1 Dune Paladin
+1 Eruption
 1 Extreme Heat
-1 Fated Return
+1 Fire Channeler
+1 Flame Oracle
+1 Flashback Attack
 1 Force Field
 1 Forgotten Hunter
 1 Forsaken Dreammage
-1 Giant Bat
-1 Kaboom
-1 Knight of the Moon
-1 Knight of the Wheat
-1 Lavasmith
+1 Golem Conjuring
+1 Knight of the Torch
+1 Library Raid
 1 Maddening Visions
 1 Magic Trick
-1 Master of Elements
-1 Merry Duelist
-1 More Fire
-1 Mystical Nightmare
+1 Magical Zenith
+1 Mystical Cache
+1 Nightfall
 1 Novice Knight
-1 Pax Nova Battlemage
+1 Old Zombiemancer
 1 Pax Nova Guardian
-1 Pax Nova Scout
-1 Psychic Intrusion
-1 Recurring Nightmare
+1 Pentahedron Lightning
+1 Plasma Bolt
+1 Radiating Force
 1 Replenish
-1 Rift Sorcerer
+1 Rift Fire
 1 Seasoned Loremaster
 6 See Beyond
 1 Set Ablaze
-1 Sorvald's Ignition
 1 Stochastic Ignition
+1 Terrifying Nightmare
 1 Thorny Defense
-1 Trail of the Nightmare
-1 Triple Spell
+1 Thought Extraction
+1 Unimaginable Nightmare
 1 Vampire's Bite
-1 Visionary Artificer
-1 Void Snap
+1 Void Drake
+1 Void Spike
 1 Volcanic Vision
+1 Walk the Plank
+1 Wicked Pyromancer
 1 Wild Wizard
 8 Wilds of Atnia
 1 Wizard's Familiar
@@ -72,13 +73,13 @@
 1 Oldworld Home
 1 Zelor Home
 1 Martial Home
-1 Faith Home
+1 Deitus Home
 1 The Old Watch
 1 The College of Dreams
 1 Aton
 1 Skyhaven
 1 Pax Nova
 1 Lentholm
-1 Ecclesia Start
+1 Deitus Start
 1 Burst of Energy
 1 Three Paths

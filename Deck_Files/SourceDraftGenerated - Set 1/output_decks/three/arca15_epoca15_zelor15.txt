@@ -1,0 +1,84 @@
+1 Ancient Necromancer
+1 Burning Lich
+1 Burning Man
+1 Burning Plain Directive
+1 Catch!
+1 Combo Slice
+1 Doomed Nightmare
+1 Dune Paladin
+1 Emotion Vampire
+1 Energy Cell
+1 Essence of the Old World
+1 Fireball
+1 Flashback Attack
+1 Furious Sorcerer
+1 Gift of Life
+1 Interrupt
+1 Knight of the Moon
+1 Knight of the Torch
+1 Lavasmith
+1 Lost Tome
+1 Maddening Visions
+1 Master of Elements
+1 Mystical Cache
+1 Night of the Dead
+1 Plasma Bolt
+1 Potent Divination
+1 Procrastinate
+1 Radiating Force
+1 Replenish
+1 Respected Mage
+1 Rift Fire
+1 Sage of the Sun
+1 Scorched Earth
+1 Scour the Ruins
+1 Seasoned Loremaster
+9 See Beyond
+1 Stochastic Ignition
+1 Storm Generator
+1 Thingamajig
+1 Thorny Defense
+1 Train Station
+1 Triple Spell
+2 Tunnel Vision
+1 Unstable Contract
+1 Vampire's Bite
+1 Visionary Artificer
+1 Void Snap
+1 Wild Wizard
+10 Wilds of Atnia
+1 Wizard's Familiar
+
+1 Atnia
+1 Golem
+1 Night Horror
+1 Law-Mage
+1 Survivor
+1 Blood Zombie
+1 Knight of Redemption
+8 Delta Ultimate Artifact
+1 Forgotten Relic
+1 Rift
+1 Village
+1 Grove
+1 Ruins
+1 Dreamscape
+1 Outpost
+1 Shrine
+1 Helpful Automaton
+1 Arca Home
+1 Eminus Home
+1 Materia Home
+1 Oldworld Home
+1 Zelor Home
+1 Martial Home
+1 Deitus Home
+1 The Old Watch
+1 The College of Dreams
+1 Aton
+1 Skyhaven
+1 Pax Nova
+1 Lentholm
+1 Deitus Start
+1 Burst of Energy
+1 Three Paths

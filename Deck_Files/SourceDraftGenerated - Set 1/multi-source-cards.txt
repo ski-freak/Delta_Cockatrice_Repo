@@ -2,11 +2,11 @@
 Vampire's Bite
 Burning Plain Directive
 Wild Wizard
-
+Rift Fire
 ---Arca-Eminus
 College of Dreams Directive
-
-
+Mind Control
+Malfunctioning Law
 
 ---Arca-Faith
 Pale Mountain Directive
@@ -20,18 +20,18 @@ Pax Nova Directive
 Knightly Mentor
 ---Zelor-Faith
 Zelor Faith Directive
-
-
-
+Divine Favor
+Vosderon's Wrath
+Avatar of Vosderon
 ---Zelor-Oldworld
 Zelor Oldworld Directive
 Countervailing Flames
 Electrolytes
-
+Unstable Core
 ---Eminus-Faith
 Eminus Faith Directive
 Imposing Presence
-
+Evacuation
 
 ---Eminus-Oldworld
 Stronghold Directive
@@ -39,10 +39,10 @@ Outlands Commander
 
 
 ---Eminus-Martial
-Divine Uppercut
+Dropkick
 Eminus Martial Directive
 Hunter's Hawk
-
+Infectious Fervor
 ---Faith-Oldworld
 Faith Oldworld Directive
 
@@ -60,8 +60,8 @@ Faith Materia Directive
 
 ---Oldworld-Martial
 Oldworld Martial Directive
-
-
+Jane
+Ogre Chronomancer
 
 ---Oldworld-Materia
 Twilight Isle Directive
@@ -86,7 +86,7 @@ Arcane War Cry
 ---Martial-Zelor
 Martial Zelor Directive
 Legion Pyromancer
-
+Invisible Wraith
 
 ---Materia-Arca
 Skyhaven Directive

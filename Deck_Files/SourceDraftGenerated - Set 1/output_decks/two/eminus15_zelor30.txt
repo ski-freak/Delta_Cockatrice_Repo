@@ -1,54 +1,54 @@
 1 A Trick
-1 Amatuer Wizarding
 1 Amnesia
 1 Ancient Mentor
+1 Apprentice Spellcaster
 1 Arbiter Medic
+1 Arcane Imitation
 1 Aton Battlemaster
-1 Aton Scout
 1 Become Large
 1 Burning Man
 1 Burst of Speed
 1 Coordinated Assault
 1 Desperate Arbiter
-1 Dropkick
-1 Dune Paladin
-1 Eternal Navigator
+1 Devastating Decoy
+1 Dominate Will
+1 Embrace the Arcane
 1 Explosive Breakthrough
 1 Extreme Heat
-1 Fireball
+1 Fated Return
+1 Fire Channeler
+1 Flame Oracle
 1 Flashback Attack
-1 Force Field
+1 Forgetful Arbiter
 1 Forgotten Hunter
-1 Honorable Knight
-1 Instant Shield
+1 Frightening Arbiter
+1 Knight of the Moon
 1 Knight of the Torch
 1 Knightly Mentor
-1 Lavasmith
 1 Library Raid
-1 Liev Arbiter
 1 Magic Trick
-1 Magical Zenith
-1 Mind Trauma
 1 Mindseeker
-1 More Fire
-1 Nullify Magic
+1 Novice Knight
+1 Orb of Understanding
+1 Pax Nova Battlemage
 1 Pax Nova Directive
-1 Plunder
-1 Psychic Intrusion
-1 Radiating Force
+1 Pax Nova Guardian
+1 Pentahedron Lightning
+1 Plasma Bolt
 1 Recollect
-1 Replenish
-1 Scorched Earth
+1 Resilient Knight
 6 See Beyond
-1 Spectacular Sweep
-1 Spectral Reinforcements
-1 Sunblade Knight
-1 Unimaginable Nightmare
+1 Set Ablaze
+1 Sorvald's Ignition
+1 Speed Check
+1 Steel Resolve
+1 Stochastic Ignition
+1 Thorny Defense
+1 Trail of the Nightmare
+1 Tundra Arbiter
 1 Volcanic Vision
-1 Wicked Pyromancer
+1 Wave of Doubt
 8 Wilds of Atnia
-1 Wizard's Familiar
-1 Wolkk Twinspear
 
 1 Atnia
 1 Golem
@@ -73,13 +73,13 @@
 1 Oldworld Home
 1 Zelor Home
 1 Martial Home
-1 Faith Home
+1 Deitus Home
 1 The Old Watch
 1 The College of Dreams
 1 Aton
 1 Skyhaven
 1 Pax Nova
 1 Lentholm
-1 Ecclesia Start
+1 Deitus Start
 1 Burst of Energy
 1 Three Paths

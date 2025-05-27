@@ -21,7 +21,7 @@
 2 Dream Stalker
 
 2 Aton
-1 Ecclesia Start
+1 Deitus Start
 1 Night Horror
 1 Law-Mage
 1 Blood Zombie
@@ -44,4 +44,4 @@
 1 Oldworld Home
 1 Zelor Home
 1 Martial Home
-1 Faith Home
+1 Deitus Home

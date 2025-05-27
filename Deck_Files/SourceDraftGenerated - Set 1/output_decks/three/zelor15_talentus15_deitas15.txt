@@ -1,0 +1,81 @@
+1 Abominable Egg
+1 Adapt
+1 Amatuer Illusionist
+1 Amnesia
+1 Apprentice Spellcaster
+1 Arcane Imitation
+1 Banner of Lentholm
+1 Brag's Prison
+1 Combo Slice
+1 Contain
+1 Cruel Messenger
+1 Deja Vu
+1 Devout Healer
+1 Disappearing Orb
+1 Dissociation
+1 Dune Paladin
+1 Embrace the Arcane
+1 Eruption
+1 Evil Opportunity
+1 Flank
+1 Flashback Attack
+1 Henry
+1 Infinity Vessel
+1 Knight of the Moon
+1 Legion Warlock
+1 Master Duelist
+1 Mindseeker
+1 Oasis Giant
+1 Occult Harbinger
+1 Palace Clock
+1 Passive Income Scheme
+1 Pax Nova Battlemage
+1 Plasma Bolt
+1 Relic Recovery
+1 Replenish
+1 Scorched Earth
+9 See Beyond
+1 Shem's Binding
+1 Sneaky Assassin
+1 Substitute
+1 Svet Scout
+1 Swift Rescue
+1 Void Shift
+1 War Elephant
+1 Wicked Pyromancer
+10 Wilds of Atnia
+1 Zombie Invasion
+
+1 Atnia
+1 Golem
+1 Night Horror
+1 Law-Mage
+1 Survivor
+1 Blood Zombie
+1 Knight of Redemption
+8 Delta Ultimate Artifact
+1 Forgotten Relic
+1 Rift
+1 Village
+1 Grove
+1 Ruins
+1 Dreamscape
+1 Outpost
+1 Shrine
+1 Helpful Automaton
+1 Arca Home
+1 Eminus Home
+1 Materia Home
+1 Oldworld Home
+1 Zelor Home
+1 Martial Home
+1 Deitus Home
+1 The Old Watch
+1 The College of Dreams
+1 Aton
+1 Skyhaven
+1 Pax Nova
+1 Lentholm
+1 Deitus Start
+1 Burst of Energy
+1 Three Paths

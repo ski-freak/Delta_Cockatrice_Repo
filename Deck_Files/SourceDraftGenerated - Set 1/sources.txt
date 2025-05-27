@@ -32,6 +32,7 @@
 1 Astral Amulet
 1 Mystical Cache
 1 Mysterious Mage
+1 Rift's Grasp
 1 Cursed Tomb
 1 Forsaken Dreammage
 1 Emotion Vampire
@@ -44,6 +45,10 @@
 1 Tunnel Vision
 1 Unstable Contract
 1 Seasoned Loremaster
+1 A Difficult Choice
+1 Frost Eruption
+1 Walk the Plank
+1 Twist of Fate
 
 Eminus
 1 Devastating Decoy
@@ -53,7 +58,6 @@ Eminus
 1 Liase of the Two Scrolls
 1 Skyknight
 1 Ancient Mentor
-1 Duel of Honor
 1 Honorable Knight
 1 Resilient Knight
 1 Liev Arbiter
@@ -62,7 +66,6 @@ Eminus
 1 Wave of Doubt
 1 Spectacular Sweep
 1 Temporary Disappearance
-1 Esmund's Divination
 1 BSOD
 1 Mind Trauma
 1 Arbiter Marshal
@@ -71,6 +74,8 @@ Eminus
 1 Spectral Agent
 1 Phantom Angel
 1 Tundra Arbiter
+1 Dominate Will
+1 Cloaked Mindmage
 1 Arbiter Medic
 1 Desperate Arbiter
 1 Frightening Arbiter
@@ -90,9 +95,8 @@ Eminus
 1 Steel Resolve
 1 Thunder Knight
 
-Material
+Materia
 1 Malicious Receptionist
-1 Leave me Alone
 1 Sublimate
 1 Unfortunate Accident
 1 Lekvian Traveler
@@ -154,8 +158,9 @@ Material
 1 Steven
 1 Eager Explorer
 1 Ancient Vampire
+1 Earthquake
 
-Old World
+Epoca
 1 Recycling
 1 Lost Tome
 1 The Dreamer
@@ -163,7 +168,6 @@ Old World
 1 The Plan
 1 Invisible Haze
 1 Ancient Necromancer
-1 A Difficult Choice
 1 Dead on Arrival
 1 Airdrop
 1 Scrap Merchant
@@ -193,59 +197,53 @@ Old World
 1 Question Station
 1 Furious Sorcerer
 1 Helping Hands
-1 Frost Eruption
 1 Energy Cell
 1 Thingamajig
 1 Crystal Triangle
 1 Contemplate
-1 Frank
 1 Interrupt
 1 Annul
 1 Lunar Suppression
 1 Catch!
 1 Starlight Cleric
 1 Excavation Automaton
+1 Hourglass of Ages
 1 Frostblade Adept
 1 Junior Adventurer
 1 Ancient Excavation
 1 Power of Antiquity
 1 Ruins Scavenger
 1 Outlander's Familiar
-1 Abandoned Automaton
-1 Walk the Plank
 1 Oana's Divination
 1 Essence of the Old World
 1 Return to the Earth
 1 Scour the Ruins
-1 Sheltering Winds
 1 Mirage Manufacturer
 1 Storm Generator
 1 Vaudeville Hook
 
 Zelor
 1 Amnesia
-1 More Fire
-1 Inspired Encore
 1 Library Raid
-1 Psychic Intrusion
 1 Extreme Heat
-1 Plunder
+1 Thought Extraction
 1 Wizard's Familiar
-1 Aton Scout
 1 Set Ablaze
 1 Fireball
+1 Pentahedron Lightning
 1 Thunderous Fury
 1 Stochastic Ignition
 1 Become Large
 1 Sorvald's Ignition
 1 Thorny Defense
 1 Combo Slice
-1 Improvised Lightning
+1 Arcane Imitation
 1 Knight of the Moon
 1 Dune Paladin
 1 Aton Battlemaster
 1 Mindseeker
 1 Unimaginable Nightmare
+1 Seasonal Festeval
 1 Trail of the Nightmare
 1 Replenish
 1 Pax Nova Guardian
@@ -256,19 +254,14 @@ Zelor
 1 Eruption
 1 Magic Trick
 1 Forgotten Hunter
-1 Pax Nova Scout
 1 Knight of the Wheat
 1 Knight of the Torch
 1 Force Field
-1 Kaboom
-1 Amatuer Wizarding
 1 Volcanic Vision
 1 Wicked Pyromancer
 1 Battle Rage
 1 Fire Channeler
 1 Apprentice Spellcaster
-1 Eternal Navigator
-1 Merry Duelist
 1 Fated Return
 1 Recollect
 1 Embrace the Arcane
@@ -279,7 +272,7 @@ Zelor
 1 Novice Knight
 1 Pax Nova Battlemage
 
-Martial
+Talentus
 1 Novice Law-Binder
 1 Steadfast Arbiter
 1 Ether Charge
@@ -293,7 +286,7 @@ Martial
 1 Cruel Messenger
 1 Team Up
 1 Valorous Triumph
-1 Branching Paths
+1 Zombie Ambush
 1 Ambush
 1 Stronghold Guard
 1 Devout Arbiter
@@ -342,7 +335,7 @@ Martial
 1 Branching Paths
 1 Doomed Legionnaire
 
-Faith
+Deitas
 1 Search for Omnipotence
 1 Search for Omnipotence
 1 Search for Omnipotence
@@ -354,6 +347,7 @@ Faith
 1 Out of Mind
 1 Back Again
 1 Get Back In There
+1 Doomsday Prophet
 1 Reawaken in Dream
 1 Devout Healer
 1 Deja Vu
@@ -362,12 +356,11 @@ Faith
 1 Evil Opportunity
 1 Stash Away
 1 Spirit of Monumentality
-1 Rule of Three
 1 Occult Harbinger
+1 Pale Sun's Influence
 1 Call the Divine
 1 Healing Amulet
 1 The Departed
-1 Fallen Scribe
 1 Passive Income Scheme
 1 Abominable Egg
 1 Void Cleric
@@ -377,20 +370,21 @@ Faith
 1 Glimpse Disaster
 1 Ethereal Mirage
 1 Mindless Cleric
-1 Evil Opportunity
 1 Wicked Pact
 1 Mysterious Cleric
 1 Relic Recovery
 1 Tomb Hunter
 1 Cursed Portal
 1 Demon of Consumption
-1 Ozen's Wrath
 1 Terrifying Vision
 1 Globe of 1000 Souls
+1 The Bringer
 1 Substitute
 1 Transcend
 1 Ozen's Temple
 1 Inspired Cleric
 1 Living Relic
 1 Ozen's Fury
-1 Cosmic Justice"
+1 Cosmic Justice
+1 Shem's Binding
+1 Brag's Prison"

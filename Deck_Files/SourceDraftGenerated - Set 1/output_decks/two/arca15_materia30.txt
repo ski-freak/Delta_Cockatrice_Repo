@@ -1,0 +1,83 @@
+1 Absorb
+1 Aggravating Scribe
+1 Annoying Scribe
+1 Blood Channeler
+1 Bloodlust
+1 Burning Lich
+1 Death Elemental
+1 Defiant Scribe
+1 Eager Explorer
+1 Emissary of Fear
+1 Familiar Shadow
+1 Final Strike
+1 Golem Conjuring
+1 Healing Potion
+1 Hired Hands
+1 Intimidating Scribe
+1 Lekvian Vampire
+1 Lore Dump
+1 Lucy
+1 Maddening Visions
+1 Master of Elements
+1 Mechanical Vampire
+1 Menacing Automaton
+1 Night of the Dead
+1 Nightfall
+1 Oruva Scout
+1 Outlast
+1 Power from Beyond
+1 Prepared Scribe
+1 Priest of Death
+1 Quiet Mage
+1 Rift Ritual
+1 Rosilie D'Avron
+6 See Beyond
+1 Self Improver
+1 Sinkhole
+1 Skyhaven Directive
+1 Spire Hunter
+1 Steven
+1 Sublimate
+1 Terrifying Nightmare
+1 Tunnel Vision
+1 Vampire's Grasp
+1 Vampiric Recovery
+1 Void Drake
+1 Walk the Plank
+1 Wild Vision
+8 Wilds of Atnia
+1 Workshop Automaton
+
+1 Atnia
+1 Golem
+1 Night Horror
+1 Law-Mage
+1 Survivor
+1 Blood Zombie
+1 Knight of Redemption
+8 Delta Ultimate Artifact
+1 Forgotten Relic
+1 Rift
+1 Village
+1 Grove
+1 Ruins
+1 Dreamscape
+1 Outpost
+1 Shrine
+1 Helpful Automaton
+1 Arca Home
+1 Eminus Home
+1 Materia Home
+1 Oldworld Home
+1 Zelor Home
+1 Martial Home
+1 Deitus Home
+1 The Old Watch
+1 The College of Dreams
+1 Aton
+1 Skyhaven
+1 Pax Nova
+1 Lentholm
+1 Deitus Start
+1 Burst of Energy
+1 Three Paths
