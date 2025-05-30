@@ -1,46 +1,50 @@
-1 A Trick
-1 Ancient Excavation
+1 Airdrop
+1 Alert the Knights
 1 Ancient Mentor
-1 Ancient Necromancer
 1 Annul
-1 Arbiter Medic
-1 Awakened Arbiter
+1 Arbiter Marshal
 1 BSOD
-1 Beckon Home
-1 Centrifuge
+1 Cloaked Mindmage
 1 Collective Knowledge
+1 Contemplate
 1 Coordinated Defense
 1 Cordial Wall-Knight
 1 Desperate Arbiter
 1 Devastating Decoy
-1 Energy Cell
-1 Excavation Automaton
-1 Forgetful Arbiter
+1 Distress Signal
+1 Esteemed Archivist
+1 Gift of Life
+1 Grand Creation
 1 Helping Hands
-1 Honorable Knight
 1 Instant Shield
-1 Invisible Haze
-1 Knowledge Collection
+1 Knight's Familiar
+1 Liase of the Two Scrolls
 1 Liev Arbiter
 1 Mind Trauma
+1 Mystical Oil
 1 Orb of Understanding
+1 Outlands Commander
 1 Phantom Angel
-1 Potent Divination
-1 Probable Rivalry
-1 Sagittarii
+1 Power of Antiquity
+1 Quinn
+1 Recycling
+1 Return to the Earth
+1 Ruins Scavenger
+1 Scrap Merchant
 6 See Beyond
 1 Shifting Mirage
 1 Skyknight
 1 Spectacular Sweep
-1 Spectral Agent
 1 Spectral Reinforcements
 1 Speed Check
 1 Squish
 1 Steel Resolve
-1 Sunblade Knight
-1 The Dreamer
+1 Stronghold Directive
+1 Stunt Double
+1 Thunder Knight
 1 Try Again
 1 Tundra Arbiter
+1 Veteran Skyknight
 1 Ward of Repellance
 1 Wave of Doubt
 8 Wilds of Atnia
@@ -63,19 +67,12 @@
 1 Outpost
 1 Shrine
 1 Helpful Automaton
-1 Arca Home
-1 Eminus Home
-1 Materia Home
-1 Oldworld Home
-1 Zelor Home
-1 Martial Home
-1 Deitus Home
 1 The Old Watch
 1 The College of Dreams
 1 Aton
 1 Skyhaven
 1 Pax Nova
 1 Lentholm
-1 Deitus Start
+1 Deitas Start
 1 Burst of Energy
 1 Three Paths

@@ -1,49 +1,53 @@
-1 Absolute Destruction
 1 Adapt
+1 Alexander
+1 Ambush
 1 Ancient Vampire
 1 Annoying Scribe
-1 Banner of Lentholm
 1 Battlefield Commander
-1 Branching Paths
-1 Cruel Messenger
-1 Dark Aperture
-1 Deadly Strike
-1 Experienced Traveler
-1 Fortress Automaton
+1 Death Elemental
+1 Devout Arbiter
+1 Dissociation
+1 Earthquake
+1 Enterprising Merchant
+1 Ether Charge
+1 Familiar Shadow
+1 George
+1 Gregory
+1 Henry
+1 Heroic Moment
 1 Hidden Giant
-1 Improved Morale
-1 Infinity Vessel
-1 Intimidating Scribe
+1 Hired Hands
 1 Investigate the Scene
-1 Legion Cannoneer
-1 Legion Drill Sergeant
+1 Jasper
 1 Legion Warlock
-1 Lekvian Butler
-1 Lost in the Wilds
-1 Oasis Giant
-1 Outlands Accountant
-1 Quagmire Elemental
+1 Liev Grappler
+1 Malicious Receptionist
+1 Martial Materia Directive
+1 Nomadic Orc
+1 Novice Law-Binder
+1 Outlands Leader
+1 Reorganize
 1 Rolead the Swift
-1 Round Two
 6 See Beyond
-1 Send in the Zombies
-1 Sneaky Assassin
+1 Sorvald's Insight
 1 Spire Hunter
+1 Stash Away
 1 Steadfast Arbiter
-1 Stronghold Guard
-1 Sublimate
+1 Stockpile Manager
 1 Summon Ringer
-1 The Renegade
+1 Swift Rescue
+1 The Calling
+1 The Doublemeister
 1 Tower Thief
-1 Trade Insight
-1 Unfortunate Accident
 1 Valorous Triumph
-1 Vampire's Grasp
-1 War Elephant
+1 Vampiric Recovery
+1 Vicious Looter
+1 Volcanic Giant
+1 Warmongerer
 1 Warrior's Training
+1 Wild Vision
 8 Wilds of Atnia
-1 Workshop Automaton
-1 Zombie Ambush
+1 Zombie Invasion
 1 Zombie Summoner
 
 1 Atnia
@@ -63,19 +67,12 @@
 1 Outpost
 1 Shrine
 1 Helpful Automaton
-1 Arca Home
-1 Eminus Home
-1 Materia Home
-1 Oldworld Home
-1 Zelor Home
-1 Martial Home
-1 Deitus Home
 1 The Old Watch
 1 The College of Dreams
 1 Aton
 1 Skyhaven
 1 Pax Nova
 1 Lentholm
-1 Deitus Start
+1 Deitas Start
 1 Burst of Energy
 1 Three Paths

@@ -1,47 +1,49 @@
-1 Arcane Burst
-1 Arcane Chains
+1 Abominable Cleric
+1 Ambush
+1 Arcane War Cry
 1 Banner of Lentholm
-1 Battlefield Commander
+1 Battlehardened Soldier
 1 Bloodthirsty Warrior
-1 Bold Warrior
-1 Contain
+1 Branching Paths
 1 Cruel Messenger
 1 Dark Aperture
+1 Dark Wrath
 1 Deadly Strike
-1 Dissociation
-1 Emergency Supply Kit
-1 Forsaken Spellcaster
-1 Frost Eruption
-1 Golem Conjuring
+1 Devout Arbiter
+1 Doomed Nightmare
+1 Ether Charge
+1 Experienced Traveler
+1 Flank
+1 Giant Bat
+1 Henry
 1 Heroic Moment
-1 Investigate the Scene
-1 Legion Cannoneer
+1 Improved Morale
 1 Legion Courier
 1 Legion Drill Sergeant
-1 Liev Grappler
-1 Liev Warrior
+1 Martial Arca Directive
 1 Master Duelist
-1 Myrkur Phantom
+1 Master of Elements
 1 Mysterious Mage
+1 Mystical Cache
+1 Mystical Nightmare
 1 Night of the Dead
-1 Nightfall
-1 Nomadic Orc
 1 Novice Law-Binder
+1 Novice Zombiemancer
 1 Old Zombiemancer
-1 Respected Mage
+1 Reorganize
+1 Rift Screech
 1 Rolead the Swift
 1 Round Two
 6 See Beyond
-1 Spare Violence
 1 Stockpile Manager
 1 Stronghold Guard
+1 Summon Ringer
 1 Swarm the Enemy
 1 Swift Rescue
-1 Team Up
-1 The Doublemeister
+1 Triple Spell
 1 Tunnel Vision
-1 Visionary Artificer
-1 Void Drake
+1 Vicious Looter
+1 Void Axe
 1 Walk the Plank
 8 Wilds of Atnia
 1 Zombie Invasion
@@ -63,19 +65,12 @@
 1 Outpost
 1 Shrine
 1 Helpful Automaton
-1 Arca Home
-1 Eminus Home
-1 Materia Home
-1 Oldworld Home
-1 Zelor Home
-1 Martial Home
-1 Deitus Home
 1 The Old Watch
 1 The College of Dreams
 1 Aton
 1 Skyhaven
 1 Pax Nova
 1 Lentholm
-1 Deitus Start
+1 Deitas Start
 1 Burst of Energy
 1 Three Paths

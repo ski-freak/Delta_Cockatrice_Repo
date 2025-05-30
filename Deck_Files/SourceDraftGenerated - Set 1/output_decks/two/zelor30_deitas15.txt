@@ -1,50 +1,54 @@
-1 Amnesia
-1 Arcane Imitation
+1 Avatar of Vosderon
+1 Battle Rage
 1 Become Large
-1 Burning Man
-1 Deja Vu
+1 Call to Arms
+1 Cosmic Justice
+1 Devouring Sphere
 1 Devout Healer
+1 Divine Favor
 1 Dune Paladin
+1 Elderly Monk
 1 Embrace the Arcane
 1 Eruption
-1 Ethereal Mirage
-1 Evil Opportunity
-1 Extreme Heat
+1 Escape to Dream
+1 Eye for an Eye
+1 Fated Return
 1 Fire Channeler
 1 Fireball
-1 Flashback Attack
-1 Forgotten Hunter
-1 Glimpse Disaster
-1 Knight of the Torch
+1 Force Field
+1 Globe of 1000 Souls
+1 Guardian Relic
+1 Knight of the Moon
 1 Knight of the Wheat
 1 Lavasmith
+1 Library Raid
+1 Lisa
 1 Living Relic
-1 Magical Zenith
+1 Magic Trick
 1 Mindseeker
 1 Novice Knight
-1 Occult Harbinger
-1 Oln's Binding
-1 Ozen's Fury
-1 Passive Income Scheme
-1 Pax Nova Battlemage
+1 Out of Mind
 1 Pax Nova Guardian
+1 Pentahedron Lightning
 1 Plasma Bolt
+1 Radiating Force
 1 Reawaken in Dream
+1 Reckless Sculptor
 1 Recollect
 1 Replenish
-1 Search for Omnipotence
 1 Seasonal Festeval
 6 See Beyond
-1 Stash Away
-1 Thorny Defense
-1 Thought Extraction
-1 Trail of the Nightmare
+1 Set Ablaze
+1 Sorvald's Ignition
+1 Spirit Guide
+1 Stochastic Ignition
 1 Transcend
 1 Unimaginable Nightmare
+1 Void Capsule
 1 Void Shift
-1 Wicked Pyromancer
+1 Vosderon's Wrath
 8 Wilds of Atnia
-1 Wizard's Familiar
+1 Zelor Faith Directive
 
 1 Atnia
 1 Golem
@@ -63,19 +67,12 @@
 1 Outpost
 1 Shrine
 1 Helpful Automaton
-1 Arca Home
-1 Eminus Home
-1 Materia Home
-1 Oldworld Home
-1 Zelor Home
-1 Martial Home
-1 Deitus Home
 1 The Old Watch
 1 The College of Dreams
 1 Aton
 1 Skyhaven
 1 Pax Nova
 1 Lentholm
-1 Deitus Start
+1 Deitas Start
 1 Burst of Energy
 1 Three Paths

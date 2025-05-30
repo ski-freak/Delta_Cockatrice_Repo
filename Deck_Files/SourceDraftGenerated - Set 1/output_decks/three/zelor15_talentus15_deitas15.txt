@@ -1,50 +1,61 @@
 1 Abominable Egg
 1 Adapt
-1 Amatuer Illusionist
-1 Amnesia
-1 Apprentice Spellcaster
-1 Arcane Imitation
+1 Ambush
+1 Avatar of Vosderon
 1 Banner of Lentholm
-1 Brag's Prison
-1 Combo Slice
-1 Contain
+1 Battlefield Commander
+1 Bloodthirsty Warrior
+1 Cosmic Justice
 1 Cruel Messenger
-1 Deja Vu
+1 Devouring Sphere
 1 Devout Healer
-1 Disappearing Orb
 1 Dissociation
-1 Dune Paladin
-1 Embrace the Arcane
-1 Eruption
+1 Divine Favor
+1 Doomed Cleric
+1 Doomed Legionnaire
+1 Escape Artist
 1 Evil Opportunity
-1 Flank
-1 Flashback Attack
-1 Henry
-1 Infinity Vessel
+1 Extreme Heat
+1 Faith Martial Directive
+1 Fated Return
+1 Fervent Devotion
+1 Fire Channeler
+1 Fireball
+1 Force Field
+1 Healing Amulet
+1 Heroic Moment
+1 Invisible Wraith
 1 Knight of the Moon
-1 Legion Warlock
-1 Master Duelist
-1 Mindseeker
+1 Lavasmith
+1 Legion Pyromancer
+1 Magic Trick
+1 Magical Zenith
+1 Martial Zelor Directive
+1 Novice Knight
 1 Oasis Giant
 1 Occult Harbinger
-1 Palace Clock
-1 Passive Income Scheme
-1 Pax Nova Battlemage
+1 Out of Mind
+1 Ozen's Fury
+1 Pentahedron Lightning
 1 Plasma Bolt
-1 Relic Recovery
-1 Replenish
-1 Scorched Earth
+1 Pondering Cleric
+1 Rolead the Swift
 9 See Beyond
-1 Shem's Binding
 1 Sneaky Assassin
-1 Substitute
-1 Svet Scout
-1 Swift Rescue
+1 Sorvald's Ignition
+1 Spirit Guide
+1 Spirit of Monumentality
+1 The Bringer
+1 The Meatgrinder
+1 Vicious Looter
+1 Void Capsule
 1 Void Shift
-1 War Elephant
-1 Wicked Pyromancer
+1 Volcanic Vision
+1 Vosderon's Wrath
+1 Warmongerer
 10 Wilds of Atnia
-1 Zombie Invasion
+1 Zelor Faith Directive
+1 Zombie Ambush
 
 1 Atnia
 1 Golem
@@ -63,19 +74,12 @@
 1 Outpost
 1 Shrine
 1 Helpful Automaton
-1 Arca Home
-1 Eminus Home
-1 Materia Home
-1 Oldworld Home
-1 Zelor Home
-1 Martial Home
-1 Deitus Home
 1 The Old Watch
 1 The College of Dreams
 1 Aton
 1 Skyhaven
 1 Pax Nova
 1 Lentholm
-1 Deitus Start
+1 Deitas Start
 1 Burst of Energy
 1 Three Paths

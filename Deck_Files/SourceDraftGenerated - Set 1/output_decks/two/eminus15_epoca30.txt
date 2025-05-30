@@ -1,48 +1,52 @@
-1 A Trick
-1 Ancient Mentor
+1 Alert the Knights
+1 Ancient Excavation
+1 Ancient Necromancer
 1 Annul
+1 Awakened Arbiter
+1 BSOD
 1 Catch!
+1 Centrifuge
 1 Collective Knowledge
+1 Contemplate
 1 Coordinated Assault
 1 Cryptic Swan
 1 Crystal Triangle
-1 Dominate Will
-1 Dropkick
-1 Excavation Automaton
-1 Forgetful Arbiter
+1 Distress Signal
+1 Energy Cell
+1 Essence of the Old World
+1 Esteemed Archivist
+1 Frank
+1 Frightening Arbiter
 1 Frostblade Adept
-1 Furious Sorcerer
+1 Grand Creation
 1 Grim Librarians
-1 Honorable Knight
-1 Invisible Haze
+1 Interfering Arbiter
+1 Junior Adventurer
+1 Knight's Familiar
 1 Knightly Reinforcements
 1 Knowledge Collection
 1 Knowledge Requisitioner
-1 Loose Change
-1 Lost Tome
-1 Lunar Suppression
-1 Nullify Magic
+1 Liase of the Two Scrolls
+1 Liev Arbiter
+1 Mirage Manufacturer
+1 Mystic Stone
+1 Mystical Oil
 1 Oana's Divination
-1 Orb of Understanding
-1 Outlander's Familiar
-1 Potent Divination
+1 Outlands Commander
 1 Power of Antiquity
-1 Question Station
-1 Quick Thinking
 1 Remake
-1 Return to the Earth
-1 Ruins Scavenger
+1 Return of the Vanished
 1 Sagittarii
-1 Scour the Ruins
 1 Scrap Merchant
 6 See Beyond
-1 Spectacular Sweep
-1 Spectral Reinforcements
 1 Starlight Cleric
-1 Steel Resolve
-1 Storm Generator
+1 Stronghold Directive
 1 Stronghold Dispatch
-1 Train Station
+1 Stunt Double
+1 Sunblade Knight
+1 Temporary Disappearance
+1 The Dreamer
+1 Ward of Repellance
 1 Wave of Doubt
 8 Wilds of Atnia
 
@@ -63,19 +67,12 @@
 1 Outpost
 1 Shrine
 1 Helpful Automaton
-1 Arca Home
-1 Eminus Home
-1 Materia Home
-1 Oldworld Home
-1 Zelor Home
-1 Martial Home
-1 Deitus Home
 1 The Old Watch
 1 The College of Dreams
 1 Aton
 1 Skyhaven
 1 Pax Nova
 1 Lentholm
-1 Deitus Start
+1 Deitas Start
 1 Burst of Energy
 1 Three Paths

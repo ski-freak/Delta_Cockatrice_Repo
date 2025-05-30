@@ -7,7 +7,6 @@
 1 Respected Mage
 1 Emissary of Fear
 1 Rift Sorcerer
-1 Tunnel Vision
 1 Nightfall
 1 Mystical Nightmare
 1 Myrkur Phantom
@@ -29,6 +28,7 @@
 1 Arcane Chains
 1 Terrifying Nightmare
 1 Recurring Nightmare
+1 Pact of Annihilation
 1 Astral Amulet
 1 Mystical Cache
 1 Mysterious Mage
@@ -40,6 +40,7 @@
 1 Maddening Visions
 1 Master of Elements
 1 Blood Channeler
+1 Spell Collector
 1 Doomed Nightmare
 1 Abominable Cleric
 1 Tunnel Vision
@@ -78,18 +79,21 @@ Eminus
 1 Cloaked Mindmage
 1 Arbiter Medic
 1 Desperate Arbiter
+1 Veteran Skyknight
 1 Frightening Arbiter
 1 Ward of Repellance
+1 Knight's Familiar
 1 Sunblade Knight
 1 Interfering Arbiter
 1 Coordinated Assault
 1 Coordinated Defense
 1 Orb of Understanding
 1 Cordial Wall-Knight
-1 Dropkick
+1 Alert the Knights
 1 Instant Shield
 1 Speed Check
 1 Beckon Home
+1 Stunt Double
 1 Wolkk Twinspear
 1 Sagittarii
 1 Steel Resolve
@@ -102,13 +106,13 @@ Materia
 1 Lekvian Traveler
 1 Savage Snare
 1 Sinkhole
+1 The Calling
 1 Defiant Scribe
 1 Hired Hands
 1 Siphon Power
 1 Lekvian Vampire
 1 Rugged Outlander
 1 Intimidating Scribe
-1 Outlands Accountant
 1 Prepared Scribe
 1 Rosilie D'Avron
 1 Lost in the Wilds
@@ -159,6 +163,9 @@ Materia
 1 Eager Explorer
 1 Ancient Vampire
 1 Earthquake
+1 Outlands Leader
+1 Old Watch Scribe
+1 Dutiful Scribe
 
 Epoca
 1 Recycling
@@ -195,6 +202,7 @@ Epoca
 1 Procrastinate
 1 Return of the Vanished
 1 Question Station
+1 Mystical Oil
 1 Furious Sorcerer
 1 Helping Hands
 1 Energy Cell
@@ -208,19 +216,23 @@ Epoca
 1 Starlight Cleric
 1 Excavation Automaton
 1 Hourglass of Ages
+1 Pax Valley Wyvern
 1 Frostblade Adept
 1 Junior Adventurer
 1 Ancient Excavation
 1 Power of Antiquity
 1 Ruins Scavenger
 1 Outlander's Familiar
+1 Quinn
 1 Oana's Divination
 1 Essence of the Old World
 1 Return to the Earth
 1 Scour the Ruins
+1 Esteemed Archivist
 1 Mirage Manufacturer
 1 Storm Generator
 1 Vaudeville Hook
+1 Outlands Cleric
 
 Zelor
 1 Amnesia
@@ -257,11 +269,17 @@ Zelor
 1 Knight of the Wheat
 1 Knight of the Torch
 1 Force Field
+1 Disappearing Orb
+1 Void Shift
 1 Volcanic Vision
 1 Wicked Pyromancer
+1 Amatuer Illusionist
+1 Forsaken Displacer
 1 Battle Rage
 1 Fire Channeler
 1 Apprentice Spellcaster
+1 Traverse Dream
+1 Escape to Dream
 1 Fated Return
 1 Recollect
 1 Embrace the Arcane
@@ -271,6 +289,7 @@ Zelor
 1 Plasma Bolt
 1 Novice Knight
 1 Pax Nova Battlemage
+1 Call to Arms
 
 Talentus
 1 Novice Law-Binder
@@ -309,6 +328,7 @@ Talentus
 1 Battlefield Commander
 1 Spare Violence
 1 Emergency Supply Kit
+1 Stash Away
 1 Nomadic Orc
 1 Warmongerer
 1 Improved Morale
@@ -334,18 +354,21 @@ Talentus
 1 Stockpile Manager
 1 Branching Paths
 1 Doomed Legionnaire
+1 Gregory
+1 Battlehardened Soldier
 
 Deitas
 1 Search for Omnipotence
 1 Search for Omnipotence
 1 Search for Omnipotence
-1 Amatuer Illusionist
 1 Oln's Binding
 1 Void Capsule
-1 Disappearing Orb
-1 Void Shift
+1 Zombie Egg
+1 Devouring Sphere
+1 Dark Apostle
 1 Out of Mind
 1 Back Again
+1 Temple Artificer
 1 Get Back In There
 1 Doomsday Prophet
 1 Reawaken in Dream
@@ -354,29 +377,33 @@ Deitas
 1 Svet Scout
 1 Downtown Walk
 1 Evil Opportunity
-1 Stash Away
+1 Elderly Monk
 1 Spirit of Monumentality
+1 Serene Dove
 1 Occult Harbinger
 1 Pale Sun's Influence
 1 Call the Divine
 1 Healing Amulet
 1 The Departed
+1 Spiritual Awakening
 1 Passive Income Scheme
 1 Abominable Egg
 1 Void Cleric
+1 Guardian Relic
 1 Spirit Guide
-1 Palace Clock
+1 Doomed Cleric
 1 Skyhaven Cannon
-1 Glimpse Disaster
+1 Unnatural Disaster
 1 Ethereal Mirage
 1 Mindless Cleric
+1 Consuming Ooze
 1 Wicked Pact
 1 Mysterious Cleric
 1 Relic Recovery
 1 Tomb Hunter
 1 Cursed Portal
 1 Demon of Consumption
-1 Terrifying Vision
+1 Lisa
 1 Globe of 1000 Souls
 1 The Bringer
 1 Substitute
@@ -387,4 +414,10 @@ Deitas
 1 Ozen's Fury
 1 Cosmic Justice
 1 Shem's Binding
-1 Brag's Prison"
+1 Brag's Prison
+1 Universal Stimulant
+1 Coffee Trader
+1 Eye for an Eye
+1 Pondering Cleric
+1 Insane Guy
+1 Reckless Sculptor"

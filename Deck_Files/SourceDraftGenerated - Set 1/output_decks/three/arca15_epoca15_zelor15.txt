@@ -1,53 +1,62 @@
-1 Ancient Necromancer
-1 Burning Lich
-1 Burning Man
+1 Airdrop
+1 Amatuer Illusionist
+1 Amnesia
+1 Become Large
 1 Burning Plain Directive
-1 Catch!
+1 Chaotic Whirlwind
 1 Combo Slice
-1 Doomed Nightmare
-1 Dune Paladin
+1 Construct Constructor
+1 Countervailing Flames
+1 Cursed Tomb
+1 Denise
+1 Electrolytes
+1 Emissary of Fear
 1 Emotion Vampire
 1 Energy Cell
-1 Essence of the Old World
+1 Eruption
+1 Escape to Dream
+1 Excavation Automaton
+1 Extreme Heat
+1 Fated Return
 1 Fireball
-1 Flashback Attack
-1 Furious Sorcerer
-1 Gift of Life
-1 Interrupt
-1 Knight of the Moon
-1 Knight of the Torch
-1 Lavasmith
+1 Flame Oracle
+1 Golem Nexus
+1 Junior Adventurer
+1 Knowledge Requisitioner
+1 Lagoon Titan
+1 Lore Dump
 1 Lost Tome
-1 Maddening Visions
-1 Master of Elements
-1 Mystical Cache
-1 Night of the Dead
-1 Plasma Bolt
-1 Potent Divination
-1 Procrastinate
+1 Lunar Suppression
+1 Mindseeker
+1 Mirage Manufacturer
+1 Myrkur Phantom
+1 Nightfall
+1 Old Zombiemancer
+1 Pax Directive
+1 Question Station
 1 Radiating Force
+1 Recollect
+1 Remake
 1 Replenish
-1 Respected Mage
+1 Return of the Vanished
 1 Rift Fire
-1 Sage of the Sun
+1 Rift Screech
 1 Scorched Earth
-1 Scour the Ruins
 1 Seasoned Loremaster
 9 See Beyond
-1 Stochastic Ignition
-1 Storm Generator
-1 Thingamajig
-1 Thorny Defense
+1 Stronghold Dispatch
+1 Terrifying Nightmare
 1 Train Station
 1 Triple Spell
-2 Tunnel Vision
-1 Unstable Contract
+1 Tunnel Vision
+1 Unstable Core
 1 Vampire's Bite
-1 Visionary Artificer
-1 Void Snap
+1 Void Axe
+1 Voidsworn Apostle
+1 Walk the Plank
 1 Wild Wizard
 10 Wilds of Atnia
-1 Wizard's Familiar
+1 Zelor Oldworld Directive
 
 1 Atnia
 1 Golem
@@ -66,19 +75,12 @@
 1 Outpost
 1 Shrine
 1 Helpful Automaton
-1 Arca Home
-1 Eminus Home
-1 Materia Home
-1 Oldworld Home
-1 Zelor Home
-1 Martial Home
-1 Deitus Home
 1 The Old Watch
 1 The College of Dreams
 1 Aton
 1 Skyhaven
 1 Pax Nova
 1 Lentholm
-1 Deitus Start
+1 Deitas Start
 1 Burst of Energy
 1 Three Paths

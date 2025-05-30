@@ -1,48 +1,48 @@
-1 Absolute Destruction
 1 Absorb
 1 Aggravating Scribe
 1 Ancient Vampire
 1 Annoying Scribe
 1 Blood Bank
+1 Bloodlust
 1 Borrow Time
 1 Clockwork Soldier
-1 Energy Drain
+1 Defiant Scribe
+1 Dutiful Scribe
+1 Eager Explorer
+1 Earthquake
 1 Escaped Monster
 1 Familiar Shadow
-1 Final Strike
 1 Fortress Automaton
 1 Gaston, Lekvian Squire
-1 Healing Potion
+1 Golem Conjurer
+1 Hidden Giant
 1 Hired Hands
-1 Injury to Insult
-1 Intimidating Scribe
-1 Isolated Archer
+1 Lekvian Butler
+1 Lekvian Traveler
 1 Lekvian Vampire
 1 Life Manipulation
-1 Looming Overlord
 1 Lost in the Wilds
 1 Lucy
+1 Mechanical Vampire
 1 Menacing Automaton
 1 Menacing Scribe
-1 Noddegamra
-1 Outlands Accountant
-1 Pesky Scribe
+1 Outlands Leader
+1 Outlast
 1 Priest of Death
 1 Quagmire Elemental
+1 Quiet Mage
 1 Rosilie D'Avron
 1 Rugged Outlander
-1 Savage Snare
 3 See Beyond
-1 Self Improver
+1 Sinkhole
 1 Siphon Power
 1 Sorvald's Insight
 1 Spire Hunter
 1 Steven
-1 Sublimate
-1 Unfortunate Accident
+1 The Calling
 1 Vampiric Recovery
 1 Vexing Scribe
-1 Volcanic Giant
+1 Wild Vision
 6 Wilds of Atnia
 1 Workshop Automaton
 
@@ -63,19 +63,12 @@
 1 Outpost
 1 Shrine
 1 Helpful Automaton
-1 Arca Home
-1 Eminus Home
-1 Materia Home
-1 Oldworld Home
-1 Zelor Home
-1 Martial Home
-1 Deitus Home
 1 The Old Watch
 1 The College of Dreams
 1 Aton
 1 Skyhaven
 1 Pax Nova
 1 Lentholm
-1 Deitus Start
+1 Deitas Start
 1 Burst of Energy
 1 Three Paths

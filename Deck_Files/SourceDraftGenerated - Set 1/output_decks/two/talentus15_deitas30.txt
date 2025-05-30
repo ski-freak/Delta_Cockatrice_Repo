@@ -1,48 +1,52 @@
 1 5th Legion Lieutenant
 1 Abominable Egg
-1 Amatuer Illusionist
-1 Brag's Prison
+1 Bloodthirsty Warrior
 1 Cosmic Justice
-1 Dark Aperture
-1 Deja Vu
+1 Deadly Strike
 1 Demon of Consumption
-1 Dissociation
-1 Doomsday Prophet
-1 Downtown Walk
-1 Emergency Supply Kit
-1 Ethereal Mirage
-1 Evil Opportunity
-1 Glimpse Disaster
+1 Devouring Sphere
+1 Devout Arbiter
+1 Escape Artist
+1 Eye for an Eye
+1 Faith Martial Directive
+1 Fervent Devotion
+1 Get Back In There
 1 Globe of 1000 Souls
-1 Infinity Vessel
+1 Healing Amulet
+1 Insane Guy
 1 Inspired Cleric
-1 Legion Drill Sergeant
-1 Living Relic
-1 Mindless Cleric
+1 Legion Courier
+1 Liev Grappler
+1 Mysterious Cleric
 1 Occult Harbinger
-1 Out of Mind
 1 Ozen's Fury
-1 Palace Clock
-1 Pale Sun's Influence
+1 Ozen's Temple
 1 Passive Income Scheme
+1 Pondering Cleric
 1 Reawaken in Dream
 1 Relic Recovery
 1 Reorganize
-1 Round Two
 1 Search for Omnipotence
 6 See Beyond
+1 Serene Dove
 1 Skyhaven Cannon
 1 Sneaky Assassin
 1 Spare Violence
 1 Spirit of Monumentality
-1 Stronghold Guard
-1 Svet Scout
+1 Spiritual Awakening
+1 Substitute
+1 Summon Ringer
+1 Team Up
 1 The Bringer
-1 The Doublemeister
-1 The Renegade
-1 Tomb Hunter
+1 The Departed
+1 The Meatgrinder
 1 Trade Insight
+1 Transcend
+1 Universal Stimulant
+1 Valorous Triumph
 1 Void Capsule
+1 Void Cleric
+1 Warrior's Training
 8 Wilds of Atnia
 1 Zombie Summoner
 
@@ -63,19 +67,12 @@
 1 Outpost
 1 Shrine
 1 Helpful Automaton
-1 Arca Home
-1 Eminus Home
-1 Materia Home
-1 Oldworld Home
-1 Zelor Home
-1 Martial Home
-1 Deitus Home
 1 The Old Watch
 1 The College of Dreams
 1 Aton
 1 Skyhaven
 1 Pax Nova
 1 Lentholm
-1 Deitus Start
+1 Deitas Start
 1 Burst of Energy
 1 Three Paths

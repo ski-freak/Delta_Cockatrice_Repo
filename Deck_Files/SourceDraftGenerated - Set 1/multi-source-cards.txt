@@ -3,87 +3,88 @@ Vampire's Bite
 Burning Plain Directive
 Wild Wizard
 Rift Fire
+
 ---Arca-Eminus
 College of Dreams Directive
 Mind Control
 Malfunctioning Law
 
----Arca-Faith
+---Arca-Deitas
 Pale Mountain Directive
 Hymn to the Pale Sun
-Pale Nightmare
+Pact of Eons
 Divine Harmony
 ---Zelor-Eminus
 Burst of Speed
 Explosive Breakthrough
 Pax Nova Directive
 Knightly Mentor
----Zelor-Faith
+---Zelor-Deitas
 Zelor Faith Directive
 Divine Favor
 Vosderon's Wrath
 Avatar of Vosderon
----Zelor-Oldworld
+---Zelor-Epoca
 Zelor Oldworld Directive
 Countervailing Flames
 Electrolytes
 Unstable Core
----Eminus-Faith
+---Eminus-Deitas
 Eminus Faith Directive
 Imposing Presence
 Evacuation
-
----Eminus-Oldworld
+Arcane Tower
+---Eminus-Epoca
 Stronghold Directive
 Outlands Commander
-
-
----Eminus-Martial
+Grand Creation
+Distress Signal
+---Eminus-Talentus
 Dropkick
 Eminus Martial Directive
 Hunter's Hawk
 Infectious Fervor
----Faith-Oldworld
+---Deitas-Epoca
 Faith Oldworld Directive
+Temple Librarian
+Pax Seeker
 
-
-
----Faith-Martial
+---Deitas-Talentus
 Faith Martial Directive
-
-
-
----Faith-Materia
+Fervent Devotion
+Escape Artist
+The Meatgrinder
+---Deitas-Materia
 Faith Materia Directive
-
-
-
----Oldworld-Martial
+Billy Bob
+David
+Higher Purpose
+---Epoca-Talentus
 Oldworld Martial Directive
 Jane
 Ogre Chronomancer
 
----Oldworld-Materia
+---Epoca-Materia
 Twilight Isle Directive
 Ray of Scorn
 
 
----Oldworld-Arca
+---Epoca-Arca
 Pax Directive
 Lagoon Titan
 Chaotic Whirlwind
-
----Martial-Materia
+Denise
+---Talentus-Materia
 Martial Materia Directive
 George
-
-
----Martial-Arca
+Alexander
+Jasper
+---Talentus-Arca
 Martial Arca Directive
 Arcane War Cry
 
 
----Martial-Zelor
+---Talentus-Zelor
 Martial Zelor Directive
 Legion Pyromancer
 Invisible Wraith
@@ -91,10 +92,10 @@ Invisible Wraith
 ---Materia-Arca
 Skyhaven Directive
 Power from Beyond
-
+Pale Lich
 
 ---Materia-Zelor
-Sink into the Bog
+
 Lentholm Directive
 
 

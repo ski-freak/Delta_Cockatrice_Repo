@@ -1,48 +1,54 @@
-1 Ancient Vampire
-1 Back Again
-1 Bloodlust
-1 Brag's Prison
-1 Call the Divine
+1 Billy Bob
+1 Borrow Time
 1 Cosmic Justice
+1 Cursed Portal
+1 Dark Apostle
+1 David
+1 Death Elemental
 1 Deja Vu
-1 Demon of Consumption
-1 Disappearing Orb
+1 Devout Healer
+1 Doomsday Prophet
+1 Downtown Walk
+1 Escaped Monster
 1 Ethereal Mirage
-1 Gaston, Lekvian Squire
-1 Get Back In There
-1 Healing Amulet
-1 Hidden Giant
-1 Lekvian Traveler
+1 Eye for an Eye
+1 Faith Materia Directive
+1 Familiar Shadow
+1 Guardian Relic
+1 Higher Purpose
+1 Hired Hands
+1 Inspired Cleric
+1 Intimidating Scribe
 1 Lekvian Vampire
-1 Looming Overlord
-1 Lucy
-1 Menacing Scribe
+1 Life Manipulation
 1 Mindless Cleric
-1 Noddegamra
-1 Occult Harbinger
+1 Mysterious Cleric
+1 Oln's Binding
 1 Out of Mind
-1 Ozen's Fury
-1 Ozen's Temple
-1 Palace Clock
 1 Pale Sun's Influence
-1 Pesky Scribe
+1 Passive Income Scheme
+1 Pondering Cleric
+1 Priest of Death
 1 Reawaken in Dream
-3 Search for Omnipotence
+1 Reckless Sculptor
+1 Rosilie D'Avron
+1 Search for Omnipotence
 6 See Beyond
-1 Shem's Binding
+1 Serene Dove
+1 Siphon Power
+1 Spire Hunter
+1 Spirit Guide
 1 Spirit of Monumentality
-1 Stash Away
-1 Steven
-1 Sublimate
-1 Substitute
 1 Svet Scout
-1 The Bringer
-1 Tomb Hunter
+1 The Calling
 1 Unfortunate Accident
-1 Void Shift
-1 Volcanic Giant
+1 Unnatural Disaster
+1 Vampire's Grasp
+1 Void Capsule
+1 Void Cleric
 1 Wicked Pact
 8 Wilds of Atnia
+1 Zombie Egg
 
 1 Atnia
 1 Golem
@@ -61,19 +67,12 @@
 1 Outpost
 1 Shrine
 1 Helpful Automaton
-1 Arca Home
-1 Eminus Home
-1 Materia Home
-1 Oldworld Home
-1 Zelor Home
-1 Martial Home
-1 Deitus Home
 1 The Old Watch
 1 The College of Dreams
 1 Aton
 1 Skyhaven
 1 Pax Nova
 1 Lentholm
-1 Deitus Start
+1 Deitas Start
 1 Burst of Energy
 1 Three Paths

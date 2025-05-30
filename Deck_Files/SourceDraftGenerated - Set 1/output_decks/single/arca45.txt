@@ -1,46 +1,47 @@
 1 A Difficult Choice
-1 Abominable Cleric
-1 Arcane Burst
 1 Arcane Chains
 1 Astral Amulet
 1 Blood Channeler
+1 Burning Lich
 1 Cursed Tomb
 1 Dark Wrath
 1 Doomed Nightmare
 1 Emissary of Fear
 1 Emotion Vampire
-1 Forsaken Spellcaster
+1 Forsaken Dreammage
 1 Frost Eruption
-1 Gas Giant
 1 Giant Bat
+1 Golem Conjuring
 1 Lore Dump
 1 Maddening Visions
 1 Master of Elements
 1 Myrkur Phantom
 1 Mysterious Mage
+1 Mystical Cache
 1 Mystical Nightmare
 1 Night of the Dead
 1 Nightfall
 1 Old Zombiemancer
 1 Oruva Scout
+1 Pact of Annihilation
 1 Recurring Nightmare
 1 Respected Mage
-1 Rift Ritual
 1 Rift Screech
 1 Rift Sorcerer
 1 Rift Whispers
 1 Rift's Grasp
 1 Seasoned Loremaster
 3 See Beyond
+1 Spell Collector
 1 Terrifying Nightmare
 1 Triple Spell
-2 Tunnel Vision
+1 Tunnel Vision
 1 Twist of Fate
 1 Unstable Contract
 1 Visionary Artificer
 1 Void Axe
-1 Void Drake
 1 Void Snap
+1 Void Spike
 1 Voidsworn Apostle
 1 Walk the Plank
 6 Wilds of Atnia
@@ -62,19 +63,12 @@
 1 Outpost
 1 Shrine
 1 Helpful Automaton
-1 Arca Home
-1 Eminus Home
-1 Materia Home
-1 Oldworld Home
-1 Zelor Home
-1 Martial Home
-1 Deitus Home
 1 The Old Watch
 1 The College of Dreams
 1 Aton
 1 Skyhaven
 1 Pax Nova
 1 Lentholm
-1 Deitus Start
+1 Deitas Start
 1 Burst of Energy
 1 Three Paths

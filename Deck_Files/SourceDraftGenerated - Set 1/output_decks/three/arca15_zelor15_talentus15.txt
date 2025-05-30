@@ -1,54 +1,59 @@
-1 5th Legion Lieutenant
-1 Arcane Imitation
-1 Banner of Lentholm
+1 Amnesia
+1 Arcane War Cry
+1 Astral Amulet
+1 Aton Battlemaster
 1 Battlefield Commander
-1 Bold Warrior
+1 Blood Channeler
 1 Burning Lich
-1 Burning Man
 1 Burning Plain Directive
-1 Contain
+1 Call to Arms
 1 Cruel Messenger
-1 Dark Wrath
-1 Devout Arbiter
-1 Embrace the Arcane
+1 Disappearing Orb
+1 Emergency Supply Kit
 1 Emissary of Fear
-1 Experienced Traveler
-1 Extreme Heat
-1 Fireball
-1 Flank
-1 Flashback Attack
-1 Forgotten Hunter
-1 Forsaken Spellcaster
-1 Giant Bat
-1 Henry
-1 Knight of the Moon
-1 Knight of the Wheat
+1 Eruption
+1 Flame Oracle
+1 Frost Eruption
+1 Investigate the Scene
+1 Invisible Wraith
+1 Legion Courier
+1 Legion Pyromancer
 1 Liev Grappler
 1 Maddening Visions
 1 Magical Zenith
-1 Mindseeker
-1 Night of the Dead
-1 Novice Law-Binder
-1 Oruva Scout
-1 Recurring Nightmare
+1 Martial Arca Directive
+1 Martial Zelor Directive
+1 Master of Elements
+1 Myrkur Phantom
+1 Mystical Nightmare
+1 Nightfall
+1 Pax Nova Battlemage
+1 Pax Nova Guardian
+1 Radiating Force
+1 Recollect
+1 Reorganize
+1 Replenish
 1 Rift Fire
-1 Rift's Grasp
+1 Rift Ritual
+1 Rift Screech
+1 Rift Whispers
 9 See Beyond
+1 Send in the Zombies
 1 Sneaky Assassin
-1 Stochastic Ignition
-1 Terrifying Nightmare
-1 Thunderous Fury
-1 Triple Spell
+1 Stockpile Manager
+1 Swarm the Enemy
+1 Tower Thief
+1 Trade Insight
+1 Trail of the Nightmare
+1 Traverse Dream
 1 Tunnel Vision
-1 Unimaginable Nightmare
 1 Unstable Contract
-1 Valorous Triumph
 1 Vampire's Bite
-1 Void Drake
-1 Volcanic Vision
+1 Vicious Looter
+1 Wicked Pyromancer
 1 Wild Wizard
 10 Wilds of Atnia
-1 Zombie Summoner
+1 Zombie Invasion
 
 1 Atnia
 1 Golem
@@ -67,19 +72,12 @@
 1 Outpost
 1 Shrine
 1 Helpful Automaton
-1 Arca Home
-1 Eminus Home
-1 Materia Home
-1 Oldworld Home
-1 Zelor Home
-1 Martial Home
-1 Deitus Home
 1 The Old Watch
 1 The College of Dreams
 1 Aton
 1 Skyhaven
 1 Pax Nova
 1 Lentholm
-1 Deitus Start
+1 Deitas Start
 1 Burst of Energy
 1 Three Paths

@@ -1,50 +1,51 @@
 1 Abominable Cleric
+1 Absorb
 1 Ancient Vampire
-1 Annoying Scribe
-1 Arcane Chains
 1 Astral Amulet
-1 Blood Channeler
-1 Borrow Time
-1 Burning Lich
-1 Cursed Tomb
-1 Dark Wrath
-1 Death Elemental
+1 Bloodlust
 1 Doomed Nightmare
 1 Eager Explorer
-1 Emissary of Fear
 1 Emotion Vampire
-1 Forsaken Dreammage
-1 Forsaken Spellcaster
+1 Ethereal Construct
+1 Frost Eruption
+1 Gas Giant
 1 Giant Bat
-1 Golem Conjurer
-1 Intimidating Scribe
-1 Lekvian Vampire
+1 Golem Conjuring
+1 Healing Potion
+1 Lekvian Butler
 1 Lore Dump
-1 Malicious Receptionist
+1 Maddening Visions
+1 Master of Elements
 1 Menacing Automaton
-1 Mystical Cache
+1 Menacing Scribe
+1 Mystical Nightmare
+1 Night of the Dead
 1 Old Zombiemancer
-1 Oruva Scout
-1 Outlast
+1 Pact of Annihilation
+1 Pale Lich
 1 Power from Beyond
-1 Quagmire Elemental
 1 Recurring Nightmare
 1 Respected Mage
 1 Rift Ritual
+1 Rift Screech
 1 Rift Sorcerer
-1 Rift Whispers
 1 Rift's Grasp
+1 Rugged Outlander
+1 Savage Snare
+1 Seasoned Loremaster
 6 See Beyond
 1 Self Improver
-1 Sinkhole
 1 Skyhaven Directive
-1 Terrifying Nightmare
+1 Spell Collector
+1 Spire Hunter
+1 The Calling
 1 Triple Spell
-1 Unstable Contract
+1 Tunnel Vision
+1 Twist of Fate
 1 Vampiric Recovery
 1 Visionary Artificer
-1 Void Drake
-1 Void Spike
+1 Void Axe
+1 Void Snap
 1 Voidsworn Apostle
 8 Wilds of Atnia
 
@@ -65,19 +66,12 @@
 1 Outpost
 1 Shrine
 1 Helpful Automaton
-1 Arca Home
-1 Eminus Home
-1 Materia Home
-1 Oldworld Home
-1 Zelor Home
-1 Martial Home
-1 Deitus Home
 1 The Old Watch
 1 The College of Dreams
 1 Aton
 1 Skyhaven
 1 Pax Nova
 1 Lentholm
-1 Deitus Start
+1 Deitas Start
 1 Burst of Energy
 1 Three Paths
