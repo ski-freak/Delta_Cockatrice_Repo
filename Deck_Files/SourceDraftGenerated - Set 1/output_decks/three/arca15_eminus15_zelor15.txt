@@ -1,70 +1,68 @@
-1 Abominable Cleric
-1 Alert the Knights
-1 Arcane Chains
-1 Arcane Imitation
-1 Astral Amulet
-1 Aton Battlemaster
+1 A Difficult Choice
+1 Apprentice Spellcaster
+1 Arbiter Marshal
+1 Arcane Burst
+1 BSOD
 1 Become Large
-1 Burning Lich
+1 Burning Man
 1 Burning Plain Directive
 1 Burst of Speed
 1 College of Dreams Directive
-1 Desperate Arbiter
-1 Dominate Will
-1 Doomed Nightmare
+1 Coordinated Defense
+1 Cordial Wall-Knight
+1 Dark Wrath
 1 Embrace the Arcane
-1 Emissary of Fear
+1 Emotion Vampire
 1 Explosive Breakthrough
-1 Extreme Heat
-1 Fire Channeler
+1 Fated Return
 1 Flashback Attack
-1 Forsaken Displacer
-1 Instant Shield
-1 Interfering Arbiter
-1 Knight of the Moon
+1 Force Field
+1 Forgetful Arbiter
+1 Forsaken Dreammage
+1 Knight of the Torch
 1 Knightly Mentor
-1 Knightly Reinforcements
-1 Liase of the Two Scrolls
+1 Lavasmith
 1 Malfunctioning Law
 1 Mind Control
-1 Mind Trauma
-1 Mysterious Mage
-1 Night of the Dead
-1 Nightfall
-1 Orb of Understanding
+1 Myrkur Phantom
+1 Mystical Nightmare
+1 Pact of Annihilation
 1 Pax Nova Directive
-1 Pentahedron Lightning
 1 Phantom Angel
-1 Plasma Bolt
-1 Respected Mage
+1 Radiating Force
+1 Recollect
 1 Rift Fire
-1 Rift Screech
-1 Rift Sorcerer
+1 Rift Ritual
+2 Rift's Grasp
+1 Seasonal Festeval
+1 Seasoned Loremaster
 9 See Beyond
-1 Shifting Mirage
+1 Skyknight
 1 Sorvald's Ignition
+1 Spectacular Sweep
 1 Spectral Agent
-1 Thought Extraction
-1 Thunder Knight
+1 Spectral Reinforcements
+1 Speed Check
+1 Spell Collector
+1 Steel Resolve
+1 Temporary Disappearance
+1 Thorny Defense
 1 Trail of the Nightmare
-1 Traverse Dream
 1 Tundra Arbiter
+1 Tunnel Vision
+1 Twist of Fate
 1 Vampire's Bite
-1 Void Snap
-1 Void Spike
-1 Voidsworn Apostle
-1 Ward of Repellance
+1 Wave of Doubt
 1 Wild Wizard
 10 Wilds of Atnia
 
-1 Atnia
 1 Golem
 1 Night Horror
 1 Law-Mage
 1 Survivor
 1 Blood Zombie
 1 Knight of Redemption
-8 Delta Ultimate Artifact
+12 Delta Ultimate Artifact
 1 Forgotten Relic
 1 Rift
 1 Village

@@ -1,61 +1,58 @@
-1 Abominable Cleric
+1 5th Legion Lieutenant
+1 A Difficult Choice
 1 Ambush
+1 Arcane Burst
+1 Arcane Chains
 1 Arcane War Cry
 1 Banner of Lentholm
-1 Battlehardened Soldier
+1 Battlefield Commander
 1 Bloodthirsty Warrior
+1 Bold Warrior
 1 Branching Paths
-1 Cruel Messenger
-1 Dark Aperture
-1 Dark Wrath
-1 Deadly Strike
-1 Devout Arbiter
-1 Doomed Nightmare
-1 Ether Charge
-1 Experienced Traveler
-1 Flank
+1 Burning Lich
+2 Contain
+2 Deadly Strike
+1 Dissociation
+1 Doomed Legionnaire
+1 Emissary of Fear
+1 Enterprising Merchant
+1 Forsaken Dreammage
+1 Forsaken Spellcaster
 1 Giant Bat
 1 Henry
 1 Heroic Moment
 1 Improved Morale
-1 Legion Courier
-1 Legion Drill Sergeant
+1 Legion Cannoneer
+1 Liev Grappler
+1 Liev Warrior
 1 Martial Arca Directive
 1 Master Duelist
-1 Master of Elements
-1 Mysterious Mage
-1 Mystical Cache
-1 Mystical Nightmare
+1 Midnight Duel
+1 Myrkur Phantom
 1 Night of the Dead
-1 Novice Law-Binder
-1 Novice Zombiemancer
+1 Nomadic Orc
 1 Old Zombiemancer
-1 Reorganize
+1 Oruva Scout
 1 Rift Screech
-1 Rolead the Swift
-1 Round Two
+1 Rift Whispers
+1 Seasoned Loremaster
 6 See Beyond
-1 Stockpile Manager
+1 Sneaky Assassin
 1 Stronghold Guard
-1 Summon Ringer
-1 Swarm the Enemy
-1 Swift Rescue
-1 Triple Spell
-1 Tunnel Vision
-1 Vicious Looter
-1 Void Axe
-1 Walk the Plank
+1 Team Up
+1 The Renegade
+1 Valorous Triumph
+1 War Elephant
+1 Warmongerer
 8 Wilds of Atnia
-1 Zombie Invasion
 
-1 Atnia
 1 Golem
 1 Night Horror
 1 Law-Mage
 1 Survivor
 1 Blood Zombie
 1 Knight of Redemption
-8 Delta Ultimate Artifact
+12 Delta Ultimate Artifact
 1 Forgotten Relic
 1 Rift
 1 Village

@@ -1,70 +1,69 @@
-1 A Trick
+1 Adapt
 1 Airdrop
 1 Alert the Knights
-1 Arbiter Marshal
+1 Ancient Excavation
+1 BSOD
 1 Beckon Home
-1 Bold Warrior
-1 Construct Constructor
-1 Contemplate
+1 Centrifuge
 1 Coordinated Defense
-1 Cruel Messenger
-1 Desperate Arbiter
-1 Devout Arbiter
+1 Crystal Triangle
+1 Deadly Strike
 1 Distress Signal
 1 Dropkick
-1 Embargo
 1 Eminus Martial Directive
-1 Ether Charge
-1 Frightening Arbiter
+1 Energy Cell
+1 Enterprising Merchant
+1 Excavation Automaton
+1 Experienced Traveler
+1 Frank
 1 Furious Sorcerer
-1 Gift of Life
 1 Grand Creation
 1 Gregory
-1 Grim Librarians
-1 Helping Hands
-1 Henry
-1 Hourglass of Ages
 1 Hunter's Hawk
+1 Improved Morale
 1 Infectious Fervor
+1 Investigate the Scene
 1 Jane
+1 Junior Adventurer
 1 Knight's Familiar
+1 Legion Cannoneer
 1 Legion Drill Sergeant
-1 Legion Warlock
-1 Oasis Giant
+1 Liase of the Two Scrolls
+1 Liev Arbiter
+1 Lost Tome
 1 Ogre Chronomancer
 1 Oldworld Martial Directive
+1 Orb of Understanding
 1 Outlands Commander
-1 Potent Divination
 1 Power of Antiquity
-1 Procrastinate
-1 Ruins Scavenger
+1 Probable Rivalry
+1 Remake
+1 Reorganize
+1 Resilient Knight
+1 Return to the Earth
 9 See Beyond
-1 Skyknight
+1 Send in the Zombies
+1 Shifting Mirage
+1 Sneaky Assassin
 1 Spectacular Sweep
 1 Spectral Reinforcements
-1 Storm Generator
+1 Steel Resolve
 1 Stronghold Directive
-1 Sunblade Knight
+1 Swift Rescue
 1 Team Up
+1 Temporary Disappearance
 1 Thunder Knight
-1 Trade Insight
-1 Train Station
-1 Try Again
-1 Veteran Skyknight
-1 Vicious Looter
-1 War Elephant
+1 Vaudeville Hook
 1 Warrior's Training
 10 Wilds of Atnia
-1 Zombie Invasion
 
-1 Atnia
 1 Golem
 1 Night Horror
 1 Law-Mage
 1 Survivor
 1 Blood Zombie
 1 Knight of Redemption
-8 Delta Ultimate Artifact
+12 Delta Ultimate Artifact
 1 Forgotten Relic
 1 Rift
 1 Village

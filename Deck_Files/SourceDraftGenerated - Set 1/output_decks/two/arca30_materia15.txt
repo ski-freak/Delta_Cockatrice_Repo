@@ -1,62 +1,60 @@
-1 Abominable Cleric
-1 Absorb
-1 Ancient Vampire
-1 Astral Amulet
-1 Bloodlust
-1 Doomed Nightmare
-1 Eager Explorer
-1 Emotion Vampire
-1 Ethereal Construct
+1 Annoying Scribe
+1 Blood Channeler
+1 Burning Lich
+1 Cursed Tomb
+1 Death Elemental
+1 Defiant Scribe
+1 Final Strike
+1 Forsaken Spellcaster
 1 Frost Eruption
 1 Gas Giant
 1 Giant Bat
 1 Golem Conjuring
-1 Healing Potion
-1 Lekvian Butler
+1 Injury to Insult
+1 Intimidating Scribe
+1 Lekvian Vampire
 1 Lore Dump
 1 Maddening Visions
 1 Master of Elements
-1 Menacing Automaton
-1 Menacing Scribe
-1 Mystical Nightmare
+1 Myrkur Phantom
+1 Mysterious Mage
+1 Mystical Cache
 1 Night of the Dead
-1 Old Zombiemancer
-1 Pact of Annihilation
+1 Noddegamra
+1 Old Watch Scribe
 1 Pale Lich
 1 Power from Beyond
 1 Recurring Nightmare
 1 Respected Mage
-1 Rift Ritual
 1 Rift Screech
 1 Rift Sorcerer
+1 Rift Whispers
 1 Rift's Grasp
-1 Rugged Outlander
-1 Savage Snare
-1 Seasoned Loremaster
+1 Rosilie D'Avron
 6 See Beyond
-1 Self Improver
+1 Sinkhole
+1 Siphon Power
 1 Skyhaven Directive
 1 Spell Collector
 1 Spire Hunter
-1 The Calling
+1 Terrifying Nightmare
 1 Triple Spell
 1 Tunnel Vision
 1 Twist of Fate
-1 Vampiric Recovery
-1 Visionary Artificer
-1 Void Axe
+1 Unfortunate Accident
 1 Void Snap
-1 Voidsworn Apostle
+2 Void Spike
+1 Walk the Plank
 8 Wilds of Atnia
+1 Workshop Automaton
 
-1 Atnia
 1 Golem
 1 Night Horror
 1 Law-Mage
 1 Survivor
 1 Blood Zombie
 1 Knight of Redemption
-8 Delta Ultimate Artifact
+12 Delta Ultimate Artifact
 1 Forgotten Relic
 1 Rift
 1 Village

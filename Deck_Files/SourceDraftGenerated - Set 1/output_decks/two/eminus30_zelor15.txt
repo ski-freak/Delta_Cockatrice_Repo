@@ -1,63 +1,62 @@
+1 A Trick
 1 Alert the Knights
-1 Arbiter Marshal
+1 Ancient Mentor
 1 Arbiter Medic
 1 BSOD
 1 Beckon Home
-1 Become Large
-1 Burning Man
 1 Burst of Speed
-1 Call to Arms
 1 Cloaked Mindmage
-1 Coordinated Defense
+1 Combo Slice
+1 Coordinated Assault
 1 Cordial Wall-Knight
 1 Devastating Decoy
+1 Disappearing Orb
 1 Dominate Will
+1 Dune Paladin
+1 Embrace the Arcane
+1 Escape to Dream
 1 Explosive Breakthrough
-1 Fireball
 1 Forgetful Arbiter
+1 Forsaken Displacer
 1 Honorable Knight
-1 Interfering Arbiter
-1 Knight of the Wheat
+1 Knight's Familiar
 1 Knightly Mentor
 1 Knightly Reinforcements
 1 Liase of the Two Scrolls
 1 Library Raid
 1 Liev Arbiter
-1 Mindseeker
+1 Mind Trauma
 1 Novice Knight
-1 Orb of Understanding
+1 Pax Nova Battlemage
 1 Pax Nova Directive
 1 Phantom Angel
 1 Resilient Knight
 1 Sagittarii
 6 See Beyond
-1 Skyknight
-1 Sorvald's Ignition
-1 Spectacular Sweep
-1 Spectral Agent
+1 Set Ablaze
 1 Speed Check
-1 Stochastic Ignition
+1 Steel Resolve
 1 Stunt Double
+1 Sunblade Knight
+1 Temporary Disappearance
 1 Thought Extraction
-1 Thunder Knight
 1 Thunderous Fury
 1 Trail of the Nightmare
 1 Try Again
+1 Unimaginable Nightmare
 1 Veteran Skyknight
-1 Volcanic Vision
+1 Void Shift
 1 Ward of Repellance
 1 Wave of Doubt
-1 Wicked Pyromancer
 8 Wilds of Atnia
 
-1 Atnia
 1 Golem
 1 Night Horror
 1 Law-Mage
 1 Survivor
 1 Blood Zombie
 1 Knight of Redemption
-8 Delta Ultimate Artifact
+12 Delta Ultimate Artifact
 1 Forgotten Relic
 1 Rift
 1 Village

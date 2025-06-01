@@ -1,63 +1,60 @@
-1 Abominable Egg
-1 Absorb
+1 Absolute Destruction
 1 Ancient Vampire
+1 Annoying Scribe
+1 Back Again
 1 Billy Bob
-1 Blood Bank
 1 Bloodlust
-1 Brag's Prison
-1 Call the Divine
-1 Dark Apostle
+1 Borrow Time
+1 Clockwork Soldier
+1 Cursed Portal
 1 David
-1 Eager Explorer
-1 Earthquake
-1 Escaped Monster
-1 Evil Opportunity
+1 Death Elemental
+1 Devout Healer
+1 Downtown Walk
+1 Ethereal Construct
 1 Eye for an Eye
 1 Faith Materia Directive
 1 Final Strike
-1 Gaston, Lekvian Squire
-1 Golem Conjurer
-1 Healing Amulet
-1 Healing Potion
+1 Guardian Relic
 1 Higher Purpose
-1 Hired Hands
+2 Injury to Insult
 1 Inspired Cleric
-1 Intimidating Scribe
 1 Isolated Archer
+1 Lekvian Butler
+1 Lekvian Vampire
 1 Life Manipulation
-1 Living Relic
 1 Lost in the Wilds
-1 Lucy
 1 Mechanical Vampire
-1 Menacing Scribe
 1 Mysterious Cleric
+1 Oln's Binding
 1 Outlands Leader
-1 Pesky Scribe
-1 Relic Recovery
+1 Outlast
+1 Ozen's Fury
+1 Prepared Scribe
+1 Quiet Mage
 1 Rosilie D'Avron
-1 Rugged Outlander
-1 Savage Snare
-1 Search for Omnipotence
 6 See Beyond
-1 Shem's Binding
+2 Shem's Binding
+1 Sinkhole
 1 Siphon Power
 1 Sorvald's Insight
-1 Spire Hunter
-1 Spirit of Monumentality
 1 Sublimate
-1 Transcend
-1 Vexing Scribe
+1 The Calling
+1 The Departed
+1 Unfortunate Accident
+1 Unnatural Disaster
+1 Void Capsule
 1 Wild Vision
 8 Wilds of Atnia
+1 Workshop Automaton
 
-1 Atnia
 1 Golem
 1 Night Horror
 1 Law-Mage
 1 Survivor
 1 Blood Zombie
 1 Knight of Redemption
-8 Delta Ultimate Artifact
+12 Delta Ultimate Artifact
 1 Forgotten Relic
 1 Rift
 1 Village

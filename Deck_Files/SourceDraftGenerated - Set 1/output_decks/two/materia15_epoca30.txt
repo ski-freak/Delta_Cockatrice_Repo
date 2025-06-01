@@ -1,61 +1,58 @@
+1 Aggravating Scribe
 1 Ancient Excavation
+1 Ancient Necromancer
 1 Annoying Scribe
 1 Annul
-1 Bloodlust
-1 Borrow Time
+1 Awakened Arbiter
+2 Bloodlust
 1 Catch!
-1 Clockwork Soldier
+1 Centrifuge
 1 Collective Knowledge
-1 Contemplate
-1 Dead on Arrival
 1 Death Elemental
-1 Defiant Scribe
+1 Eager Explorer
+1 Earthquake
+1 Embargo
 1 Energy Cell
-1 Essence of the Old World
-1 Esteemed Archivist
-1 Familiar Shadow
+1 Energy Drain
+1 Escaped Monster
+1 Final Strike
 1 Frank
+1 Frostblade Adept
 1 Furious Sorcerer
-1 Gift of Life
-1 Grim Librarians
-1 Helping Hands
 1 Interrupt
-1 Intimidating Scribe
-1 Knowledge Collection
-1 Lekvian Vampire
-1 Loose Change
-1 Lost Tome
+1 Knowledge Requisitioner
+1 Looming Overlord
+1 Lost in the Wilds
+1 Lunar Suppression
+1 Mechanical Vampire
 1 Mystic Stone
-1 Noddegamra
-1 Oana's Divination
+1 Outlander's Familiar
 1 Outlands Cleric
+1 Pax Valley Wyvern
 1 Potent Divination
-1 Probable Rivalry
 1 Quagmire Elemental
-1 Question Station
+1 Quinn
 1 Ray of Scorn
-1 Remake
+1 Return of the Vanished
+1 Return to the Earth
+1 Sage of the Sun
+1 Scour the Ruins
 6 See Beyond
-1 Spire Hunter
-1 Squish
-1 Steven
-1 Storm Generator
-1 Stronghold Dispatch
-1 The Calling
-1 The Dreamer
+1 Siphon Power
+2 Squish
+1 The Plan
+1 Train Station
 1 Twilight Isle Directive
 1 Vaudeville Hook
-1 Vexing Scribe
 8 Wilds of Atnia
 
-1 Atnia
 1 Golem
 1 Night Horror
 1 Law-Mage
 1 Survivor
 1 Blood Zombie
 1 Knight of Redemption
-8 Delta Ultimate Artifact
+12 Delta Ultimate Artifact
 1 Forgotten Relic
 1 Rift
 1 Village

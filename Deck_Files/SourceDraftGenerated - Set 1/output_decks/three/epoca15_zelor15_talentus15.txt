@@ -1,69 +1,67 @@
 1 5th Legion Lieutenant
-1 Airdrop
-1 Ambush
-1 Ancient Necromancer
-1 Annul
-1 Aton Battlemaster
-1 Battlefield Commander
-1 Battlehardened Soldier
-1 Bold Warrior
+1 Adapt
+1 Amatuer Illusionist
+1 Amnesia
+1 Battle Rage
+1 Become Large
 1 Combo Slice
-1 Construct Constructor
-1 Contain
 1 Countervailing Flames
-1 Cruel Messenger
-1 Cryptic Swan
-1 Crystal Triangle
-1 Deadly Strike
-1 Dissociation
+1 Dead on Arrival
+1 Devout Arbiter
+1 Disappearing Orb
 1 Electrolytes
-1 Embargo
-1 Embrace the Arcane
-1 Fated Return
-1 Fire Channeler
-1 Force Field
-1 Forsaken Displacer
-1 Frank
-1 Improved Morale
+1 Escape to Dream
+1 Essence of the Old World
+1 Esteemed Archivist
+1 Grim Librarians
+1 Heroic Moment
+1 Hourglass of Ages
+1 Interrupt
+1 Invisible Haze
 1 Invisible Wraith
 1 Jane
-1 Knight of the Torch
 1 Knight of the Wheat
 1 Legion Pyromancer
-1 Loose Change
+1 Liev Grappler
+1 Lunar Suppression
+1 Magic Trick
 1 Martial Zelor Directive
-1 Mirage Manufacturer
+1 Midnight Duel
+1 Nomadic Orc
+1 Novice Knight
 1 Novice Law-Binder
-1 Oana's Divination
 1 Ogre Chronomancer
 1 Oldworld Martial Directive
-1 Pax Nova Battlemage
+1 Pentahedron Lightning
+1 Procrastinate
 1 Quick Thinking
 1 Radiating Force
-1 Remake
-1 Ruins Scavenger
-1 Scorched Earth
+1 Recollect
+1 Return of the Vanished
+1 Scour the Ruins
 9 See Beyond
-1 Sneaky Assassin
+1 Set Ablaze
+1 Stash Away
 1 Stronghold Dispatch
-1 Thorny Defense
+1 Swift Rescue
+1 The Doublemeister
+1 The Dreamer
+1 Thingamajig
+2 Tower Thief
 1 Unstable Core
-1 Valorous Triumph
-1 Vicious Looter
-1 Volcanic Vision
-1 Warrior's Training
-1 Wicked Pyromancer
+1 Void Shift
+1 War Elephant
+1 Warmongerer
 10 Wilds of Atnia
 1 Zelor Oldworld Directive
 
-1 Atnia
 1 Golem
 1 Night Horror
 1 Law-Mage
 1 Survivor
 1 Blood Zombie
 1 Knight of Redemption
-8 Delta Ultimate Artifact
+12 Delta Ultimate Artifact
 1 Forgotten Relic
 1 Rift
 1 Village

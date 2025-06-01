@@ -1,70 +1,68 @@
-1 Absolute Destruction
-1 Annoying Scribe
-1 Arcane Chains
+1 A Difficult Choice
+1 Absorb
+1 Aggravating Scribe
+1 Arcane Burst
 1 Astral Amulet
 1 Billy Bob
-1 Blood Channeler
+1 Bloodlust
 1 Brag's Prison
-1 Cursed Tomb
-1 Dark Apostle
+1 Burning Lich
+1 Call the Divine
+1 Consuming Ooze
 1 David
-1 Death Elemental
-1 Deja Vu
-1 Demon of Consumption
 1 Divine Harmony
-1 Doomed Cleric
-1 Doomed Nightmare
+1 Doomsday Prophet
 1 Downtown Walk
 1 Elderly Monk
-1 Ethereal Construct
+1 Energy Drain
 1 Faith Materia Directive
 1 Forsaken Dreammage
-1 Fortress Automaton
-1 Frost Eruption
-1 Gas Giant
-1 Gaston, Lekvian Squire
-1 Giant Bat
 1 Globe of 1000 Souls
+1 Guardian Relic
+1 Healing Potion
 1 Higher Purpose
 1 Hymn to the Pale Sun
-1 Insane Guy
-1 Intimidating Scribe
-1 Lekvian Vampire
+1 Injury to Insult
+1 Lekvian Traveler
 1 Lore Dump
+1 Maddening Visions
 1 Mechanical Vampire
-1 Mysterious Cleric
+1 Mysterious Mage
 1 Nightfall
+1 Noddegamra
+1 Old Zombiemancer
+1 Oln's Binding
 1 Pact of Eons
 1 Pale Lich
 1 Pale Mountain Directive
+1 Pale Sun's Influence
+1 Passive Income Scheme
+1 Pesky Scribe
 1 Power from Beyond
-1 Prepared Scribe
-1 Quagmire Elemental
-1 Relic Recovery
-1 Rift Whispers
-1 Savage Snare
-1 Search for Omnipotence
+1 Priest of Death
+1 Rift Ritual
+1 Rugged Outlander
 9 See Beyond
-1 Self Improver
-1 Sinkhole
 1 Skyhaven Directive
-1 The Bringer
-1 Triple Spell
-1 Unnatural Disaster
+1 Temple Artificer
+1 Unfortunate Accident
+1 Vampire's Grasp
+1 Vexing Scribe
+1 Visionary Artificer
+2 Void Capsule
 1 Void Cleric
 1 Void Drake
-1 Volcanic Giant
+1 Voidsworn Apostle
 1 Walk the Plank
 10 Wilds of Atnia
 
-1 Atnia
 1 Golem
 1 Night Horror
 1 Law-Mage
 1 Survivor
 1 Blood Zombie
 1 Knight of Redemption
-8 Delta Ultimate Artifact
+12 Delta Ultimate Artifact
 1 Forgotten Relic
 1 Rift
 1 Village

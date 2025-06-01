@@ -1,61 +1,56 @@
 1 Absolute Destruction
 1 Absorb
 1 Aggravating Scribe
-1 Ancient Excavation
-1 Ancient Necromancer
-1 Ancient Vampire
+1 Annoying Scribe
+1 Annul
+1 Awakened Arbiter
+2 Bloodlust
 1 Borrow Time
-1 Catch!
-1 Death Elemental
+2 Catch!
+1 Centrifuge
+1 Clockwork Soldier
+1 Dutiful Scribe
 1 Eager Explorer
-1 Earthquake
 1 Energy Cell
-1 Escaped Monster
 1 Essence of the Old World
-1 Esteemed Archivist
-1 Ethereal Construct
-1 Final Strike
-1 Furious Sorcerer
+1 Familiar Shadow
 1 Gaston, Lekvian Squire
-1 Golem Conjurer
-1 Healing Potion
-1 Interrupt
-1 Lekvian Butler
-1 Lekvian Traveler
+1 Golem Nexus
+1 Helping Hands
+1 Intimidating Scribe
+1 Junior Adventurer
 1 Life Manipulation
 1 Loose Change
-1 Lucy
-1 Menacing Scribe
-1 Noddegamra
-1 Old Watch Scribe
-1 Outlands Cleric
-1 Outlands Leader
-1 Outlast
-1 Pax Valley Wyvern
-1 Power of Antiquity
+1 Lost Tome
+1 Lunar Suppression
+1 Mechanical Vampire
+1 Menacing Automaton
+1 Pesky Scribe
 1 Prepared Scribe
-1 Procrastinate
-1 Quagmire Elemental
 1 Quiet Mage
 1 Ray of Scorn
-1 Return to the Earth
+1 Remake
+1 Rosilie D'Avron
+1 Rugged Outlander
+1 Scrap Merchant
 6 See Beyond
-1 Self Improver
+2 Sinkhole
+1 Siphon Power
 1 Sublimate
+1 The Calling
 1 Twilight Isle Directive
-1 Vaudeville Hook
-1 Wild Vision
+2 Unfortunate Accident
+1 Volcanic Giant
 8 Wilds of Atnia
 1 Workshop Automaton
 
-1 Atnia
 1 Golem
 1 Night Horror
 1 Law-Mage
 1 Survivor
 1 Blood Zombie
 1 Knight of Redemption
-8 Delta Ultimate Artifact
+12 Delta Ultimate Artifact
 1 Forgotten Relic
 1 Rift
 1 Village

@@ -1,59 +1,55 @@
-1 Absorb
-1 Aggravating Scribe
+1 Absolute Destruction
 1 Ancient Vampire
-1 Annoying Scribe
 1 Blood Bank
-1 Bloodlust
-1 Borrow Time
+2 Bloodlust
 1 Clockwork Soldier
+1 Death Elemental
 1 Defiant Scribe
 1 Dutiful Scribe
 1 Eager Explorer
-1 Earthquake
+1 Energy Drain
 1 Escaped Monster
+1 Ethereal Construct
 1 Familiar Shadow
-1 Fortress Automaton
-1 Gaston, Lekvian Squire
+1 Final Strike
 1 Golem Conjurer
+1 Healing Potion
 1 Hidden Giant
 1 Hired Hands
+2 Injury to Insult
+1 Intimidating Scribe
 1 Lekvian Butler
 1 Lekvian Traveler
 1 Lekvian Vampire
 1 Life Manipulation
 1 Lost in the Wilds
 1 Lucy
-1 Mechanical Vampire
 1 Menacing Automaton
 1 Menacing Scribe
-1 Outlands Leader
 1 Outlast
-1 Priest of Death
-1 Quagmire Elemental
+1 Prepared Scribe
 1 Quiet Mage
-1 Rosilie D'Avron
-1 Rugged Outlander
+1 Savage Snare
 3 See Beyond
 1 Sinkhole
 1 Siphon Power
 1 Sorvald's Insight
 1 Spire Hunter
-1 Steven
+2 Sublimate
 1 The Calling
-1 Vampiric Recovery
-1 Vexing Scribe
+1 Unfortunate Accident
+1 Vampire's Grasp
+1 Volcanic Giant
 1 Wild Vision
 6 Wilds of Atnia
-1 Workshop Automaton
 
-1 Atnia
 1 Golem
 1 Night Horror
 1 Law-Mage
 1 Survivor
 1 Blood Zombie
 1 Knight of Redemption
-8 Delta Ultimate Artifact
+12 Delta Ultimate Artifact
 1 Forgotten Relic
 1 Rift
 1 Village

@@ -1,71 +1,68 @@
-1 5th Legion Lieutenant
-1 Abominable Egg
-1 Alert the Knights
-1 Ambush
+1 Ancient Mentor
 1 Arbiter Medic
 1 Arcane Tower
-1 Branching Paths
-1 Dark Aperture
+1 Contain
+1 Cursed Portal
+1 Deja Vu
 1 Desperate Arbiter
+1 Devout Arbiter
+1 Dominate Will
 1 Dropkick
 1 Elderly Monk
 1 Eminus Faith Directive
 1 Eminus Martial Directive
 1 Escape Artist
+2 Ether Charge
+1 Ethereal Mirage
 1 Evacuation
-1 Evil Opportunity
 1 Faith Martial Directive
 1 Fervent Devotion
 1 Forgetful Arbiter
-1 Gregory
 1 Guardian Relic
-1 Healing Amulet
-1 Heroic Moment
 1 Hunter's Hawk
 1 Imposing Presence
-1 Improved Morale
 1 Infectious Fervor
-1 Instant Shield
+1 Inspired Cleric
 1 Interfering Arbiter
-1 Knight's Familiar
+1 Investigate the Scene
 1 Knightly Reinforcements
-1 Legion Cannoneer
-1 Legion Courier
-1 Liev Grappler
+1 Legion Warlock
+1 Liase of the Two Scrolls
+1 Mind Trauma
 1 Mysterious Cleric
+1 Novice Law-Binder
+1 Nullify Magic
+1 Occult Harbinger
 1 Oln's Binding
-1 Pale Sun's Influence
-1 Passive Income Scheme
-1 Pondering Cleric
-1 Round Two
-1 Search for Omnipotence
+1 Out of Mind
+1 Rolead the Swift
 9 See Beyond
-1 Shem's Binding
+2 Shem's Binding
+1 Skyhaven Cannon
 1 Spectral Agent
-1 Spectral Reinforcements
-1 Spirit of Monumentality
-1 Steadfast Arbiter
-1 Temporary Disappearance
-1 The Bringer
-1 The Doublemeister
+1 Speed Check
+1 Stronghold Guard
+1 Summon Ringer
+1 Sunblade Knight
+1 Svet Scout
+1 Swift Rescue
 1 The Meatgrinder
+1 Thunder Knight
 1 Trade Insight
 1 Try Again
-1 Tundra Arbiter
-1 Void Cleric
-1 War Elephant
-1 Ward of Repellance
+1 Universal Stimulant
+1 Valorous Triumph
+1 Warrior's Training
 10 Wilds of Atnia
-1 Wolkk Twinspear
+1 Zombie Summoner
 
-1 Atnia
 1 Golem
 1 Night Horror
 1 Law-Mage
 1 Survivor
 1 Blood Zombie
 1 Knight of Redemption
-8 Delta Ultimate Artifact
+12 Delta Ultimate Artifact
 1 Forgotten Relic
 1 Rift
 1 Village

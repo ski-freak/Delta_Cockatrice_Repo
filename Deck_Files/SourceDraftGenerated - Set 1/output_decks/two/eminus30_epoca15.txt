@@ -1,63 +1,62 @@
+1 A Trick
 1 Airdrop
 1 Alert the Knights
 1 Ancient Mentor
-1 Annul
-1 Arbiter Marshal
+1 Arbiter Medic
+1 Awakened Arbiter
 1 BSOD
+1 Beckon Home
+1 Catch!
 1 Cloaked Mindmage
-1 Collective Knowledge
-1 Contemplate
 1 Coordinated Defense
 1 Cordial Wall-Knight
-1 Desperate Arbiter
 1 Devastating Decoy
 1 Distress Signal
-1 Esteemed Archivist
-1 Gift of Life
+1 Dominate Will
+1 Energy Cell
 1 Grand Creation
-1 Helping Hands
+1 Grim Librarians
+1 Honorable Knight
 1 Instant Shield
-1 Knight's Familiar
-1 Liase of the Two Scrolls
+1 Interfering Arbiter
+1 Junior Adventurer
+1 Knightly Reinforcements
+1 Knowledge Collection
 1 Liev Arbiter
+1 Lost Tome
 1 Mind Trauma
-1 Mystical Oil
+1 Nullify Magic
+1 Oana's Divination
 1 Orb of Understanding
+1 Outlander's Familiar
+1 Outlands Cleric
 1 Outlands Commander
-1 Phantom Angel
-1 Power of Antiquity
-1 Quinn
-1 Recycling
-1 Return to the Earth
-1 Ruins Scavenger
-1 Scrap Merchant
+1 Quick Thinking
+1 Sage of the Sun
+1 Sagittarii
 6 See Beyond
 1 Shifting Mirage
-1 Skyknight
 1 Spectacular Sweep
-1 Spectral Reinforcements
+1 Spectral Agent
 1 Speed Check
 1 Squish
-1 Steel Resolve
 1 Stronghold Directive
-1 Stunt Double
+1 Sunblade Knight
+1 Temporary Disappearance
 1 Thunder Knight
 1 Try Again
 1 Tundra Arbiter
-1 Veteran Skyknight
+1 Vaudeville Hook
 1 Ward of Repellance
-1 Wave of Doubt
 8 Wilds of Atnia
-1 Wolkk Twinspear
 
-1 Atnia
 1 Golem
 1 Night Horror
 1 Law-Mage
 1 Survivor
 1 Blood Zombie
 1 Knight of Redemption
-8 Delta Ultimate Artifact
+12 Delta Ultimate Artifact
 1 Forgotten Relic
 1 Rift
 1 Village

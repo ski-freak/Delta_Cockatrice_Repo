@@ -1,63 +1,61 @@
+1 Abominable Egg
+1 Absolute Destruction
 1 Billy Bob
-1 Borrow Time
+1 Bloodlust
+1 Brag's Prison
+1 Call the Divine
+1 Clockwork Soldier
+1 Coffee Trader
 1 Cosmic Justice
 1 Cursed Portal
-1 Dark Apostle
 1 David
-1 Death Elemental
 1 Deja Vu
-1 Devout Healer
-1 Doomsday Prophet
-1 Downtown Walk
 1 Escaped Monster
-1 Ethereal Mirage
-1 Eye for an Eye
 1 Faith Materia Directive
-1 Familiar Shadow
-1 Guardian Relic
+1 Final Strike
+1 Fortress Automaton
+1 Globe of 1000 Souls
 1 Higher Purpose
-1 Hired Hands
+1 Insane Guy
 1 Inspired Cleric
 1 Intimidating Scribe
 1 Lekvian Vampire
-1 Life Manipulation
-1 Mindless Cleric
+1 Living Relic
+1 Malicious Receptionist
 1 Mysterious Cleric
-1 Oln's Binding
+2 Oln's Binding
 1 Out of Mind
-1 Pale Sun's Influence
+1 Ozen's Fury
 1 Passive Income Scheme
 1 Pondering Cleric
-1 Priest of Death
-1 Reawaken in Dream
+1 Quiet Mage
 1 Reckless Sculptor
+1 Relic Recovery
 1 Rosilie D'Avron
 1 Search for Omnipotence
 6 See Beyond
-1 Serene Dove
+1 Shem's Binding
 1 Siphon Power
-1 Spire Hunter
-1 Spirit Guide
 1 Spirit of Monumentality
+1 Spiritual Awakening
+1 Steven
+1 Sublimate
+1 Substitute
 1 Svet Scout
 1 The Calling
-1 Unfortunate Accident
+1 The Departed
+1 Tomb Hunter
 1 Unnatural Disaster
-1 Vampire's Grasp
 1 Void Capsule
-1 Void Cleric
-1 Wicked Pact
 8 Wilds of Atnia
-1 Zombie Egg
 
-1 Atnia
 1 Golem
 1 Night Horror
 1 Law-Mage
 1 Survivor
 1 Blood Zombie
 1 Knight of Redemption
-8 Delta Ultimate Artifact
+12 Delta Ultimate Artifact
 1 Forgotten Relic
 1 Rift
 1 Village

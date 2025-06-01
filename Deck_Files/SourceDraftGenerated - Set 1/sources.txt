@@ -1,4 +1,7 @@
 "Arca
+1 Void Spike
+1 Rift's Grasp
+1 Twist of Fate
 1 Void Axe
 1 Oruva Scout
 1 Giant Bat
@@ -100,6 +103,15 @@ Eminus
 1 Thunder Knight
 
 Materia
+1 Sublimate
+1 Unfortunate Accident
+1 Savage Snare
+1 Sinkhole
+1 Siphon Power
+1 Final Strike
+1 Bloodlust
+1 Injury to Insult
+1 Absolute Destruction
 1 Malicious Receptionist
 1 Sublimate
 1 Unfortunate Accident
@@ -168,6 +180,13 @@ Materia
 1 Dutiful Scribe
 
 Epoca
+1 Catch!
+1 Squish
+1 Quick Thinking
+1 Interrupt
+1 Annul
+1 Lunar Suppression
+1 Vaudeville Hook
 1 Recycling
 1 Lost Tome
 1 The Dreamer
@@ -235,6 +254,8 @@ Epoca
 1 Outlands Cleric
 
 Zelor
+1 Fireball
+1 Plasma Bolt
 1 Amnesia
 1 Library Raid
 1 Extreme Heat
@@ -292,6 +313,13 @@ Zelor
 1 Call to Arms
 
 Talentus
+1 Ether Charge
+1 Tower Thief
+1 Devout Arbiter
+1 Contain
+1 Adapt
+1 Deadly Strike
+1 Summon Ringer
 1 Novice Law-Binder
 1 Steadfast Arbiter
 1 Ether Charge
@@ -356,8 +384,20 @@ Talentus
 1 Doomed Legionnaire
 1 Gregory
 1 Battlehardened Soldier
+1 Midnight Duel
 
 Deitas
+1 Oln's Binding
+1 Void Capsule
+1 Out of Mind
+1 Skyhaven Cannon
+1 Unnatural Disaster
+1 Cursed Portal
+1 Globe of 1000 Souls
+1 Shem's Binding
+1 Brag's Prison
+1 Shem's Binding
+1 Brag's Prison
 1 Search for Omnipotence
 1 Search for Omnipotence
 1 Search for Omnipotence

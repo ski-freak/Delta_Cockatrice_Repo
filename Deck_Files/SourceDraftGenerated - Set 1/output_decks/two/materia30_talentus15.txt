@@ -1,63 +1,61 @@
 1 Absolute Destruction
+1 Adapt
 1 Aggravating Scribe
 1 Alexander
-1 Ancient Vampire
-1 Annoying Scribe
-1 Battlehardened Soldier
-1 Bloodlust
-1 Bold Warrior
-1 Cruel Messenger
-1 Eager Explorer
-1 Emergency Supply Kit
+1 Ambush
+1 Borrow Time
+1 Contain
+1 Death Elemental
+1 Defiant Scribe
+1 Dutiful Scribe
+1 Earthquake
+1 Energy Drain
+1 Familiar Shadow
 1 Final Strike
 1 Fortress Automaton
-1 Gaston, Lekvian Squire
 1 George
-1 Golem Conjurer
-1 Improved Morale
 1 Injury to Insult
 1 Intimidating Scribe
 1 Isolated Archer
 1 Jasper
-1 Legion Warlock
+1 Legion Cannoneer
 1 Lekvian Traveler
-1 Liev Grappler
-1 Looming Overlord
-1 Lucy
 1 Martial Materia Directive
-1 Mechanical Vampire
 1 Menacing Automaton
-1 Novice Zombiemancer
-1 Oasis Giant
-1 Pesky Scribe
-1 Quagmire Elemental
+1 Novice Law-Binder
+1 Prepared Scribe
 1 Quiet Mage
+1 Reorganize
 1 Rosilie D'Avron
-1 Savage Snare
+2 Savage Snare
 6 See Beyond
-1 Self Improver
-1 Sinkhole
+1 Send in the Zombies
 1 Siphon Power
-1 Spire Hunter
+1 Sneaky Assassin
+1 Stash Away
+1 Steadfast Arbiter
+1 Steven
 1 Sublimate
-1 Summon Ringer
-1 Team Up
-1 The Doublemeister
+1 Swift Rescue
+1 The Calling
+1 Tower Thief
 1 Unfortunate Accident
-1 Vicious Looter
+1 Valorous Triumph
+1 Vampire's Grasp
+1 Vexing Scribe
+1 Volcanic Giant
 1 Warmongerer
+1 Warrior's Training
 1 Wild Vision
 8 Wilds of Atnia
-1 Zombie Summoner
 
-1 Atnia
 1 Golem
 1 Night Horror
 1 Law-Mage
 1 Survivor
 1 Blood Zombie
 1 Knight of Redemption
-8 Delta Ultimate Artifact
+12 Delta Ultimate Artifact
 1 Forgotten Relic
 1 Rift
 1 Village

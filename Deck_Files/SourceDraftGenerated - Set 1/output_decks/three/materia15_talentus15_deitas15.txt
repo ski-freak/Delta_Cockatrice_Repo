@@ -1,70 +1,70 @@
+1 5th Legion Lieutenant
 1 Alexander
-1 Ancient Vampire
-1 Back Again
-1 Battlehardened Soldier
 1 Billy Bob
-1 Bloodthirsty Warrior
-1 Clockwork Soldier
+1 Bloodlust
 1 Coffee Trader
-1 Cruel Messenger
+1 Cosmic Justice
 1 David
-1 Defiant Scribe
+1 Deja Vu
 1 Devouring Sphere
 1 Devout Arbiter
-1 Eager Explorer
-1 Earthquake
 1 Escape Artist
 1 Ether Charge
-1 Evil Opportunity
+1 Ethereal Mirage
 1 Faith Martial Directive
 1 Faith Materia Directive
+1 Familiar Shadow
 1 Fervent Devotion
-1 Flank
-1 Gaston, Lekvian Squire
+1 Final Strike
+1 Fortress Automaton
 1 George
 1 Get Back In There
-1 Guardian Relic
-1 Healing Potion
+1 Gregory
+1 Hidden Giant
 1 Higher Purpose
-1 Infinity Vessel
+1 Improved Morale
+1 Insane Guy
 1 Jasper
-1 Legion Cannoneer
+1 Legion Courier
+1 Lekvian Traveler
+1 Lekvian Vampire
+1 Liev Grappler
+1 Liev Warrior
 1 Life Manipulation
 1 Living Relic
+1 Malicious Receptionist
 1 Martial Materia Directive
-1 Mindless Cleric
-1 Mysterious Cleric
-1 Novice Law-Binder
-1 Oasis Giant
+1 Nomadic Orc
+1 Novice Zombiemancer
+1 Old Watch Scribe
+1 Ozen's Temple
+1 Prepared Scribe
+1 Reawaken in Dream
+1 Relic Recovery
 1 Savage Snare
-2 Search for Omnipotence
 9 See Beyond
-1 Self Improver
-1 Send in the Zombies
-1 Stash Away
+1 Shem's Binding
+1 Sinkhole
+1 Skyhaven Cannon
+1 Spare Violence
+1 Spirit Guide
+1 Stronghold Guard
 1 Summon Ringer
-1 Swift Rescue
-1 Team Up
-1 The Departed
 1 The Meatgrinder
-1 Tomb Hunter
-1 Transcend
-1 Vampire's Grasp
+1 Tower Thief
+1 Unfortunate Accident
+1 Unnatural Disaster
 1 Vexing Scribe
-1 Void Capsule
-1 Volcanic Giant
-1 Wild Vision
 10 Wilds of Atnia
-1 Workshop Automaton
+1 Zombie Invasion
 
-1 Atnia
 1 Golem
 1 Night Horror
 1 Law-Mage
 1 Survivor
 1 Blood Zombie
 1 Knight of Redemption
-8 Delta Ultimate Artifact
+12 Delta Ultimate Artifact
 1 Forgotten Relic
 1 Rift
 1 Village

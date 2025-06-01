@@ -1,68 +1,66 @@
-1 5th Legion Lieutenant
 1 A Difficult Choice
+1 Abominable Cleric
+1 Absolute Destruction
+1 Adapt
 1 Alexander
-1 Annoying Scribe
+1 Ambush
+1 Arcane Chains
 1 Arcane War Cry
-1 Banner of Lentholm
-1 Battlehardened Soldier
-1 Borrow Time
-1 Branching Paths
-1 Death Elemental
-1 Defiant Scribe
-1 Devout Arbiter
-1 Doomed Nightmare
-1 Eager Explorer
+1 Bold Warrior
+1 Cruel Messenger
+1 Emergency Supply Kit
+1 Emissary of Fear
 1 Energy Drain
-1 Enterprising Merchant
-1 Ether Charge
-1 Frost Eruption
-1 Gaston, Lekvian Squire
+1 Experienced Traveler
+1 Forsaken Dreammage
+1 Gas Giant
 1 George
-1 Henry
-1 Intimidating Scribe
+1 Gregory
+1 Hidden Giant
+1 Isolated Archer
 1 Jasper
-1 Lekvian Vampire
-1 Lucy
-1 Maddening Visions
+1 Liev Grappler
+1 Looming Overlord
+1 Malicious Receptionist
 1 Martial Arca Directive
 1 Martial Materia Directive
-1 Master of Elements
+1 Mechanical Vampire
 1 Menacing Automaton
-1 Mysterious Mage
+1 Midnight Duel
+1 Mystical Nightmare
 1 Oasis Giant
-1 Old Zombiemancer
 1 Oruva Scout
+1 Pact of Annihilation
 1 Pale Lich
-1 Pesky Scribe
 1 Power from Beyond
-1 Quagmire Elemental
-1 Recurring Nightmare
-1 Rift Ritual
 1 Rift Sorcerer
-1 Rift Whispers
 1 Rift's Grasp
-1 Rolead the Swift
+1 Rosilie D'Avron
+1 Rugged Outlander
 1 Savage Snare
 9 See Beyond
 1 Skyhaven Directive
-1 Spare Violence
 1 Stash Away
-1 Swarm the Enemy
-1 Swift Rescue
+1 Stockpile Manager
+2 Sublimate
+1 Tower Thief
 1 Triple Spell
+1 Unfortunate Accident
+1 Void Snap
 1 Void Spike
+1 Voidsworn Apostle
 1 Volcanic Giant
+1 Warrior's Training
 10 Wilds of Atnia
-1 Zombie Ambush
+1 Zombie Invasion
 
-1 Atnia
 1 Golem
 1 Night Horror
 1 Law-Mage
 1 Survivor
 1 Blood Zombie
 1 Knight of Redemption
-8 Delta Ultimate Artifact
+12 Delta Ultimate Artifact
 1 Forgotten Relic
 1 Rift
 1 Village

@@ -1,62 +1,57 @@
-1 A Difficult Choice
-1 Absolute Destruction
+2 Absolute Destruction
 1 Absorb
-1 Aggravating Scribe
-1 Arcane Burst
-1 Blood Channeler
+1 Ancient Vampire
+1 Arcane Chains
+1 Bloodlust
 1 Borrow Time
-1 Dark Wrath
+1 Clockwork Soldier
 1 Death Elemental
 1 Defiant Scribe
-1 Dutiful Scribe
+1 Doomed Nightmare
 1 Eager Explorer
-1 Escaped Monster
-1 Familiar Shadow
-1 Fortress Automaton
+1 Ethereal Construct
+2 Final Strike
+1 Forsaken Spellcaster
 1 Frost Eruption
-1 Gas Giant
-1 Hired Hands
-1 Intimidating Scribe
-1 Lekvian Traveler
-1 Lekvian Vampire
 1 Life Manipulation
-1 Lost in the Wilds
+1 Looming Overlord
 1 Malicious Receptionist
-1 Menacing Automaton
+1 Myrkur Phantom
+1 Mysterious Mage
+1 Night of the Dead
 1 Noddegamra
-1 Oruva Scout
+1 Old Watch Scribe
 1 Outlands Leader
 1 Pale Lich
 1 Power from Beyond
-1 Prepared Scribe
-1 Quiet Mage
-1 Rift Ritual
-1 Rift Sorcerer
-1 Rift Whispers
+1 Quagmire Elemental
+1 Respected Mage
+2 Rift's Grasp
+1 Rugged Outlander
+1 Savage Snare
 1 Seasoned Loremaster
 6 See Beyond
-1 Sinkhole
+2 Sinkhole
 1 Skyhaven Directive
-1 Spell Collector
-1 Spire Hunter
 1 Steven
-1 The Calling
-1 Tunnel Vision
-1 Vampiric Recovery
-1 Vexing Scribe
+1 Sublimate
+1 Twist of Fate
+1 Unfortunate Accident
+1 Unstable Contract
+1 Vampire's Grasp
+1 Void Snap
 1 Voidsworn Apostle
-1 Walk the Plank
+1 Volcanic Giant
 8 Wilds of Atnia
 1 Workshop Automaton
 
-1 Atnia
 1 Golem
 1 Night Horror
 1 Law-Mage
 1 Survivor
 1 Blood Zombie
 1 Knight of Redemption
-8 Delta Ultimate Artifact
+12 Delta Ultimate Artifact
 1 Forgotten Relic
 1 Rift
 1 Village

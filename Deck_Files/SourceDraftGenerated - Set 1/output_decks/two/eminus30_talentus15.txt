@@ -1,63 +1,61 @@
-1 A Trick
-1 Adapt
 1 Ancient Mentor
-1 Banner of Lentholm
+1 Arbiter Marshal
+1 Arbiter Medic
+1 BSOD
 1 Beckon Home
+1 Bloodthirsty Warrior
+1 Bold Warrior
 1 Cloaked Mindmage
 1 Contain
 1 Coordinated Assault
 1 Coordinated Defense
 1 Cordial Wall-Knight
-1 Dark Aperture
+1 Desperate Arbiter
+1 Devout Arbiter
 1 Dominate Will
 1 Dropkick
 1 Eminus Martial Directive
-1 Enterprising Merchant
-1 Forgetful Arbiter
-1 Henry
+1 Ether Charge
+1 Frightening Arbiter
 1 Honorable Knight
 1 Hunter's Hawk
-1 Improved Morale
 1 Infectious Fervor
+1 Infinity Vessel
+1 Interfering Arbiter
+1 Investigate the Scene
+1 Knight's Familiar
+1 Knightly Reinforcements
 1 Liev Arbiter
-1 Master Duelist
-1 Mind Trauma
-1 Nullify Magic
+1 Novice Zombiemancer
 1 Orb of Understanding
 1 Phantom Angel
+1 Reorganize
+1 Resilient Knight
 1 Sagittarii
 6 See Beyond
 1 Shifting Mirage
 1 Skyknight
-1 Sneaky Assassin
-1 Spectacular Sweep
-1 Spectral Reinforcements
+1 Spare Violence
 1 Speed Check
 1 Steel Resolve
-1 Stockpile Manager
 1 Stunt Double
+2 Summon Ringer
 1 Sunblade Knight
-1 Team Up
+1 Swift Rescue
 1 Temporary Disappearance
-1 Thunder Knight
-1 Tundra Arbiter
+1 The Renegade
 1 Valorous Triumph
 1 Veteran Skyknight
-1 Vicious Looter
-1 Ward of Repellance
-1 Warrior's Training
-1 Wave of Doubt
 8 Wilds of Atnia
-1 Zombie Summoner
+1 Wolkk Twinspear
 
-1 Atnia
 1 Golem
 1 Night Horror
 1 Law-Mage
 1 Survivor
 1 Blood Zombie
 1 Knight of Redemption
-8 Delta Ultimate Artifact
+12 Delta Ultimate Artifact
 1 Forgotten Relic
 1 Rift
 1 Village

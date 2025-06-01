@@ -1,69 +1,67 @@
-1 Adapt
 1 Airdrop
-1 Banner of Lentholm
 1 Battlefield Commander
+1 Battlehardened Soldier
 1 Brag's Prison
-1 Centrifuge
-1 Collective Knowledge
+1 Coffee Trader
 1 Construct Constructor
-1 Consuming Ooze
 1 Crystal Triangle
-1 Demon of Consumption
-1 Dissociation
-1 Doomed Cleric
+1 Dead on Arrival
+1 Deadly Strike
+1 Downtown Walk
 1 Escape Artist
-1 Eye for an Eye
+1 Essence of the Old World
+1 Ether Charge
 1 Faith Martial Directive
 1 Faith Oldworld Directive
 1 Fervent Devotion
+1 Flank
+1 Furious Sorcerer
+1 Gregory
 1 Guardian Relic
 1 Heroic Moment
 1 Infinity Vessel
 1 Insane Guy
-1 Inspired Cleric
+1 Investigate the Scene
 1 Jane
 1 Legion Cannoneer
-1 Lisa
-1 Living Relic
-1 Mindless Cleric
+1 Liev Grappler
+1 Liev Warrior
+1 Loose Change
+1 Lost Tome
+1 Mystical Oil
+1 Nomadic Orc
 1 Ogre Chronomancer
 1 Oldworld Martial Directive
-1 Oln's Binding
-1 Outlander's Familiar
-1 Ozen's Fury
+2 Out of Mind
+1 Ozen's Temple
 1 Pax Seeker
+1 Probable Rivalry
+1 Quick Thinking
+1 Reawaken in Dream
+1 Relic Recovery
 1 Remake
+1 Reorganize
 1 Return of the Vanished
 1 Round Two
-1 Search for Omnipotence
 9 See Beyond
-1 Send in the Zombies
-1 Sneaky Assassin
-1 Spare Violence
-1 Squish
+1 Serene Dove
+1 Shem's Binding
+1 Skyhaven Cannon
 1 Starlight Cleric
-1 Stockpile Manager
-1 Storm Generator
-1 Summon Ringer
 1 Svet Scout
 1 Temple Librarian
-1 The Dreamer
 1 The Meatgrinder
-1 The Plan
-1 Thingamajig
-1 Train Station
-1 Vicious Looter
+1 Vaudeville Hook
+1 Void Capsule
 10 Wilds of Atnia
-1 Zombie Ambush
 
-1 Atnia
 1 Golem
 1 Night Horror
 1 Law-Mage
 1 Survivor
 1 Blood Zombie
 1 Knight of Redemption
-8 Delta Ultimate Artifact
+12 Delta Ultimate Artifact
 1 Forgotten Relic
 1 Rift
 1 Village

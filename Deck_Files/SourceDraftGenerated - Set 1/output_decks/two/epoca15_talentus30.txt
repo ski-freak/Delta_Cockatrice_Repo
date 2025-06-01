@@ -1,62 +1,61 @@
 1 Adapt
-1 Ambush
-1 Annul
+1 Ancient Excavation
+1 Awakened Arbiter
 1 Banner of Lentholm
-1 Bold Warrior
+1 Battlehardened Soldier
 1 Branching Paths
-1 Centrifuge
+1 Catch!
 1 Contemplate
-1 Cruel Messenger
+1 Cryptic Swan
 1 Dark Aperture
 1 Dissociation
-1 Doomed Legionnaire
-1 Emergency Supply Kit
-1 Energy Cell
-1 Enterprising Merchant
 1 Ether Charge
-1 Frostblade Adept
+1 Excavation Automaton
+1 Golem Nexus
 1 Gregory
+1 Helping Hands
+1 Henry
+1 Heroic Moment
+1 Improved Morale
 1 Infinity Vessel
+1 Interrupt
 1 Jane
-1 Legion Drill Sergeant
+1 Legion Cannoneer
+1 Legion Courier
 1 Liev Grappler
-1 Lunar Suppression
+1 Loose Change
 1 Master Duelist
-1 Mystical Oil
+1 Nomadic Orc
 1 Novice Law-Binder
 1 Novice Zombiemancer
-1 Oana's Divination
 1 Oasis Giant
 1 Ogre Chronomancer
 1 Oldworld Martial Directive
-1 Outlander's Familiar
-1 Outlands Cleric
+1 Potent Divination
 1 Quick Thinking
 1 Quinn
+1 Return to the Earth
 1 Rolead the Swift
-1 Round Two
 1 Scrap Merchant
 6 See Beyond
-1 Squish
-1 Stash Away
+1 Send in the Zombies
+1 Spare Violence
+1 Stockpile Manager
+1 Stronghold Guard
 1 Summon Ringer
 1 Team Up
-1 The Renegade
-1 Trade Insight
-1 Train Station
 1 Valorous Triumph
 8 Wilds of Atnia
 1 Zombie Ambush
 1 Zombie Invasion
 
-1 Atnia
 1 Golem
 1 Night Horror
 1 Law-Mage
 1 Survivor
 1 Blood Zombie
 1 Knight of Redemption
-8 Delta Ultimate Artifact
+12 Delta Ultimate Artifact
 1 Forgotten Relic
 1 Rift
 1 Village

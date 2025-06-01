@@ -1,62 +1,57 @@
-1 Abominable Egg
-1 Ancient Excavation
 1 Ancient Necromancer
-1 Annul
 1 Back Again
-1 Brag's Prison
-1 Catch!
+1 Call the Divine
+1 Centrifuge
 1 Collective Knowledge
-1 Consuming Ooze
-1 Cryptic Swan
-1 Dark Apostle
-1 Demon of Consumption
-1 Doomed Cleric
-1 Doomsday Prophet
-1 Elderly Monk
+1 Construct Constructor
+1 Contemplate
+1 Cosmic Justice
+1 Crystal Triangle
+1 Downtown Walk
 1 Embargo
+1 Energy Cell
 1 Essence of the Old World
+1 Esteemed Archivist
+1 Excavation Automaton
+1 Eye for an Eye
 1 Faith Oldworld Directive
-1 Frank
-1 Frostblade Adept
-1 Gift of Life
-1 Golem Nexus
-1 Grim Librarians
-1 Interrupt
-1 Knowledge Collection
+1 Helping Hands
+1 Hourglass of Ages
+1 Inspired Cleric
+2 Interrupt
+1 Invisible Haze
 1 Knowledge Requisitioner
-1 Lisa
-1 Loose Change
-1 Lost Tome
-1 Mindless Cleric
+1 Lunar Suppression
 1 Mirage Manufacturer
+1 Mysterious Cleric
+1 Mystical Oil
+2 Out of Mind
 1 Pax Seeker
-1 Pax Valley Wyvern
-1 Potent Divination
+1 Pondering Cleric
 1 Power of Antiquity
-1 Procrastinate
-1 Reckless Sculptor
-1 Relic Recovery
+1 Probable Rivalry
+2 Quick Thinking
 1 Remake
 6 See Beyond
-1 Serene Dove
-1 Squish
-1 Stronghold Dispatch
-1 Svet Scout
+1 Shem's Binding
+1 Skyhaven Cannon
+1 Spiritual Awakening
+2 Squish
+1 Starlight Cleric
+1 Temple Artificer
 1 Temple Librarian
-1 The Dreamer
-1 The Plan
 1 Thingamajig
-1 Train Station
+1 Unnatural Disaster
+1 Vaudeville Hook
 8 Wilds of Atnia
 
-1 Atnia
 1 Golem
 1 Night Horror
 1 Law-Mage
 1 Survivor
 1 Blood Zombie
 1 Knight of Redemption
-8 Delta Ultimate Artifact
+12 Delta Ultimate Artifact
 1 Forgotten Relic
 1 Rift
 1 Village

@@ -1,63 +1,61 @@
-1 5th Legion Lieutenant
-1 Adapt
+2 Adapt
+1 Ambush
 1 Battlefield Commander
-1 Bloodthirsty Warrior
-1 Bold Warrior
+1 Battlehardened Soldier
+1 Brag's Prison
 1 Branching Paths
-1 Call the Divine
-1 Consuming Ooze
-1 Cursed Portal
+1 Coffee Trader
+1 Contain
 1 Devout Arbiter
-1 Dissociation
 1 Doomed Legionnaire
 1 Enterprising Merchant
 1 Escape Artist
 1 Ether Charge
 1 Evil Opportunity
+1 Experienced Traveler
+1 Eye for an Eye
 1 Faith Martial Directive
 1 Fervent Devotion
-1 Globe of 1000 Souls
-1 Henry
+1 Healing Amulet
 1 Heroic Moment
-1 Improved Morale
 1 Infinity Vessel
-1 Insane Guy
+1 Investigate the Scene
 1 Legion Courier
+1 Legion Drill Sergeant
+1 Legion Warlock
 1 Liev Grappler
-1 Liev Warrior
-1 Living Relic
-1 Master Duelist
-1 Ozen's Temple
-1 Pale Sun's Influence
-1 Search for Omnipotence
+1 Midnight Duel
+1 Mindless Cleric
+1 Novice Law-Binder
+1 Novice Zombiemancer
+1 Reawaken in Dream
+1 Reckless Sculptor
+1 Reorganize
+1 Rolead the Swift
 6 See Beyond
-1 Send in the Zombies
-1 Skyhaven Cannon
-1 Sneaky Assassin
+1 Shem's Binding
 1 Spare Violence
+1 Spirit of Monumentality
 1 Spiritual Awakening
-1 Stash Away
-1 Stronghold Guard
 1 Summon Ringer
-1 Swarm the Enemy
-1 Team Up
+1 Swift Rescue
+1 The Bringer
 1 The Meatgrinder
-1 Tomb Hunter
-1 War Elephant
-1 Warmongerer
+1 Tower Thief
+1 Universal Stimulant
+1 Unnatural Disaster
+1 Valorous Triumph
+1 Void Cleric
 1 Warrior's Training
-1 Wicked Pact
 8 Wilds of Atnia
-1 Zombie Egg
 
-1 Atnia
 1 Golem
 1 Night Horror
 1 Law-Mage
 1 Survivor
 1 Blood Zombie
 1 Knight of Redemption
-8 Delta Ultimate Artifact
+12 Delta Ultimate Artifact
 1 Forgotten Relic
 1 Rift
 1 Village

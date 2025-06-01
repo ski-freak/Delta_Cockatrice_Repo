@@ -1,63 +1,60 @@
-1 5th Legion Lieutenant
 1 A Trick
-1 Adapt
-1 Ancient Mentor
+1 Alert the Knights
 1 Arbiter Medic
-1 BSOD
-1 Banner of Lentholm
+1 Battlehardened Soldier
+1 Beckon Home
 1 Bloodthirsty Warrior
+1 Branching Paths
 1 Contain
-1 Coordinated Defense
-1 Cordial Wall-Knight
 1 Cruel Messenger
-1 Deadly Strike
-1 Devout Arbiter
-1 Doomed Legionnaire
+2 Deadly Strike
+2 Devout Arbiter
 1 Dropkick
 1 Eminus Martial Directive
 1 Enterprising Merchant
 1 Ether Charge
-1 Flank
-1 Henry
-1 Heroic Moment
+1 Forgetful Arbiter
+1 Frightening Arbiter
+1 Gregory
+1 Honorable Knight
 1 Hunter's Hawk
 1 Infectious Fervor
+1 Infinity Vessel
 1 Instant Shield
+1 Investigate the Scene
 1 Knight's Familiar
-1 Knightly Reinforcements
-1 Legion Cannoneer
-1 Legion Courier
-1 Liase of the Two Scrolls
-1 Liev Grappler
+1 Legion Warlock
 1 Liev Warrior
-1 Master Duelist
-1 Novice Zombiemancer
-1 Orb of Understanding
+1 Midnight Duel
+1 Mind Trauma
+1 Oasis Giant
 1 Rolead the Swift
+1 Round Two
 1 Sagittarii
 6 See Beyond
 1 Send in the Zombies
-1 Skyknight
-1 Spare Violence
-1 Spectral Reinforcements
-1 Speed Check
+1 Shifting Mirage
+1 Sneaky Assassin
+1 Spectacular Sweep
 1 Stash Away
-1 Stockpile Manager
-1 Team Up
-1 Trade Insight
+1 Steel Resolve
+1 Summon Ringer
+1 Swift Rescue
+1 The Renegade
+1 Tower Thief
+1 Try Again
 1 Valorous Triumph
-1 Warrior's Training
+1 Vicious Looter
 8 Wilds of Atnia
-1 Zombie Ambush
+1 Zombie Invasion
 
-1 Atnia
 1 Golem
 1 Night Horror
 1 Law-Mage
 1 Survivor
 1 Blood Zombie
 1 Knight of Redemption
-8 Delta Ultimate Artifact
+12 Delta Ultimate Artifact
 1 Forgotten Relic
 1 Rift
 1 Village
