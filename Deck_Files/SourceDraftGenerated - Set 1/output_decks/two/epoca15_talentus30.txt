@@ -1,53 +1,52 @@
 1 Adapt
+1 Airdrop
 1 Ancient Excavation
-1 Awakened Arbiter
+1 Ancient Necromancer
+1 Annul
 1 Banner of Lentholm
-1 Battlehardened Soldier
-1 Branching Paths
-1 Catch!
+1 Bloodthirsty Warrior
+1 Construct Constructor
 1 Contemplate
-1 Cryptic Swan
 1 Dark Aperture
+1 Deadly Strike
+1 Devout Arbiter
 1 Dissociation
+1 Enterprising Merchant
 1 Ether Charge
-1 Excavation Automaton
-1 Golem Nexus
+1 Flank
+1 Frank
 1 Gregory
-1 Helping Hands
 1 Henry
 1 Heroic Moment
-1 Improved Morale
-1 Infinity Vessel
-1 Interrupt
 1 Jane
-1 Legion Cannoneer
 1 Legion Courier
+1 Legion Tactician
 1 Liev Grappler
-1 Loose Change
-1 Master Duelist
+1 Midnight Duel
+1 Mirage Manufacturer
 1 Nomadic Orc
-1 Novice Law-Binder
 1 Novice Zombiemancer
 1 Oasis Giant
 1 Ogre Chronomancer
 1 Oldworld Martial Directive
-1 Potent Divination
+1 Outlands Cleric
 1 Quick Thinking
-1 Quinn
-1 Return to the Earth
+1 Remake
 1 Rolead the Swift
+1 Round Two
+1 Scour the Ruins
 1 Scrap Merchant
-6 See Beyond
-1 Send in the Zombies
+5 See Beyond
 1 Spare Violence
 1 Stockpile Manager
-1 Stronghold Guard
+1 Stronghold Dispatch
 1 Summon Ringer
 1 Team Up
-1 Valorous Triumph
+2 Tower Thief
+1 Trade Insight
+1 Train Station
+1 War Elephant
 8 Wilds of Atnia
-1 Zombie Ambush
-1 Zombie Invasion
 
 1 Golem
 1 Night Horror

@@ -1,61 +1,61 @@
-1 Adapt
 1 Airdrop
 1 Alert the Knights
-1 Ancient Excavation
-1 BSOD
+1 Annul
+1 Arbiter Medic
+1 Battlefield Commander
 1 Beckon Home
-1 Centrifuge
+1 Bloodthirsty Warrior
+1 Collective Knowledge
+1 Contain
+1 Coordinated Assault
 1 Coordinated Defense
-1 Crystal Triangle
+1 Cruel Messenger
+1 Cryptic Swan
 1 Deadly Strike
+1 Devastating Decoy
+1 Dissociation
 1 Distress Signal
 1 Dropkick
 1 Eminus Martial Directive
 1 Energy Cell
 1 Enterprising Merchant
-1 Excavation Automaton
-1 Experienced Traveler
-1 Frank
-1 Furious Sorcerer
+1 Essence of the Old World
+1 Flank
+1 Frightening Arbiter
+1 Frostblade Adept
 1 Grand Creation
-1 Gregory
 1 Hunter's Hawk
-1 Improved Morale
 1 Infectious Fervor
-1 Investigate the Scene
+1 Interfering Arbiter
+1 Interrupt
 1 Jane
 1 Junior Adventurer
-1 Knight's Familiar
-1 Legion Cannoneer
+1 Knowledge Requisitioner
 1 Legion Drill Sergeant
+1 Legion Warlock
 1 Liase of the Two Scrolls
-1 Liev Arbiter
-1 Lost Tome
+1 Liev Grappler
+1 Lunar Suppression
+1 Novice Law-Binder
 1 Ogre Chronomancer
 1 Oldworld Martial Directive
-1 Orb of Understanding
 1 Outlands Commander
-1 Power of Antiquity
-1 Probable Rivalry
+1 Phantom Angel
+1 Procrastinate
 1 Remake
-1 Reorganize
-1 Resilient Knight
-1 Return to the Earth
-9 See Beyond
-1 Send in the Zombies
-1 Shifting Mirage
-1 Sneaky Assassin
+1 Rolead the Swift
+7 See Beyond
 1 Spectacular Sweep
 1 Spectral Reinforcements
-1 Steel Resolve
+1 Steadfast Arbiter
+1 Storm Generator
 1 Stronghold Directive
-1 Swift Rescue
-1 Team Up
-1 Temporary Disappearance
+1 Thingamajig
 1 Thunder Knight
-1 Vaudeville Hook
-1 Warrior's Training
+1 Tower Thief
+1 Tundra Arbiter
 10 Wilds of Atnia
+1 Wolkk Twinspear
 
 1 Golem
 1 Night Horror

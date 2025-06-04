@@ -1,57 +1,56 @@
-1 Absolute Destruction
-1 Absorb
-2 Adapt
-1 Aggravating Scribe
+1 Adapt
 1 Alexander
-1 Amatuer Illusionist
-1 Arcane Imitation
 1 Aton Battlemaster
-1 Battle Rage
-1 Combo Slice
+1 Banner of Lentholm
+1 Borrow Time
+1 Call to Arms
 1 Contain
-1 Dark Aperture
-1 Deadly Strike
-1 Defiant Scribe
-1 Devout Arbiter
-1 Eager Explorer
-1 Earthquake
-1 Experienced Traveler
-1 Final Strike
-1 Fireball
+1 Death Elemental
+1 Dissociation
+1 Escape to Dream
+1 Escaped Monster
+1 Fated Return
+2 Fireball
+1 Forgotten Hunter
 1 George
-1 Gregory
+1 Heroic Moment
 1 Hidden Giant
-1 Improved Morale
-1 Infinity Vessel
+1 Hired Hands
 1 Invisible Wraith
 1 Jasper
 1 Knight of the Moon
+1 Knight of the Wheat
+1 Legion Cannoneer
 1 Legion Drill Sergeant
 1 Legion Pyromancer
 1 Lekvian Butler
 1 Lentholm Directive
 1 Library Raid
-1 Looming Overlord
 1 Magic Trick
 1 Martial Materia Directive
 1 Martial Zelor Directive
-1 Mindseeker
-1 Nomadic Orc
-1 Novice Law-Binder
-1 Plasma Bolt
-1 Quiet Mage
-1 Radiating Force
-1 Recollect
-1 Rugged Outlander
-9 See Beyond
-1 Siphon Power
-1 Sneaky Assassin
-1 Spire Hunter
+1 Menacing Automaton
+1 Menacing Scribe
+1 Midnight Duel
+1 Old Watch Scribe
+1 Outlast
+1 Pax Nova Battlemage
+1 Rolead the Swift
+7 See Beyond
+1 Sinkhole
+1 Stash Away
 1 Steadfast Arbiter
-1 Thought Extraction
-1 Void Shift
-1 Wild Vision
+1 Stochastic Ignition
+1 Swarm the Enemy
+1 The Calling
+1 The Doublemeister
+1 Tower Thief
+1 Trade Insight
+2 Unfortunate Accident
+1 Unimaginable Nightmare
+1 Vampiric Recovery
 10 Wilds of Atnia
+1 Wizard's Familiar
 
 1 Golem
 1 Night Horror

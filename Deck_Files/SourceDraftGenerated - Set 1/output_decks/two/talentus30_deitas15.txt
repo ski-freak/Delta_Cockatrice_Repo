@@ -1,53 +1,54 @@
-2 Adapt
-1 Ambush
+1 5th Legion Lieutenant
 1 Battlefield Commander
 1 Battlehardened Soldier
-1 Brag's Prison
-1 Branching Paths
-1 Coffee Trader
+1 Bold Warrior
 1 Contain
+1 Cruel Messenger
+1 Cursed Portal
 1 Devout Arbiter
-1 Doomed Legionnaire
-1 Enterprising Merchant
 1 Escape Artist
 1 Ether Charge
-1 Evil Opportunity
-1 Experienced Traveler
-1 Eye for an Eye
+1 Ethereal Mirage
 1 Faith Martial Directive
 1 Fervent Devotion
+1 Flank
+1 Get Back In There
+1 Globe of 1000 Souls
+1 Gregory
 1 Healing Amulet
-1 Heroic Moment
+1 Henry
 1 Infinity Vessel
 1 Investigate the Scene
 1 Legion Courier
-1 Legion Drill Sergeant
-1 Legion Warlock
+1 Legion Tactician
 1 Liev Grappler
-1 Midnight Duel
-1 Mindless Cleric
-1 Novice Law-Binder
-1 Novice Zombiemancer
-1 Reawaken in Dream
-1 Reckless Sculptor
+1 Living Relic
+1 Master Duelist
+1 Nomadic Orc
+1 Out of Mind
+1 Ozen's Fury
+1 Pondering Cleric
 1 Reorganize
-1 Rolead the Swift
-6 See Beyond
+1 Search for Omnipotence
+5 See Beyond
+1 Send in the Zombies
 1 Shem's Binding
-1 Spare Violence
-1 Spirit of Monumentality
 1 Spiritual Awakening
-1 Summon Ringer
+1 Steadfast Arbiter
+1 Stronghold Guard
+1 Svet Scout
 1 Swift Rescue
-1 The Bringer
+1 Team Up
+1 The Doublemeister
 1 The Meatgrinder
-1 Tower Thief
-1 Universal Stimulant
-1 Unnatural Disaster
 1 Valorous Triumph
+1 Void Capsule
 1 Void Cleric
 1 Warrior's Training
 8 Wilds of Atnia
+1 Zombie Ambush
+1 Zombie Invasion
+1 Zombie Summoner
 
 1 Golem
 1 Night Horror

@@ -1,48 +1,51 @@
-2 Absolute Destruction
-1 Apprentice Spellcaster
-1 Aton Battlemaster
-1 Bloodlust
-1 Borrow Time
-1 Death Elemental
-1 Eager Explorer
-1 Earthquake
-1 Ethereal Construct
-1 Extreme Heat
+1 Absolute Destruction
+1 Absorb
+1 Amnesia
+1 Annoying Scribe
+1 Burning Man
+1 Consume Flesh
+1 Defiant Scribe
+1 Energy Drain
+1 Escape to Dream
 1 Fated Return
+1 Final Strike
 1 Fire Channeler
 1 Fireball
-1 Flashback Attack
 1 Gaston, Lekvian Squire
-1 Healing Potion
-1 Hidden Giant
-1 Hired Hands
-1 Injury to Insult
 1 Isolated Archer
 1 Lekvian Vampire
 1 Lentholm Directive
 1 Library Raid
-1 Life Manipulation
+1 Looming Overlord
 1 Lost in the Wilds
 1 Lucy
-1 Malicious Receptionist
-1 Novice Knight
-1 Old Watch Scribe
+1 Menacing Automaton
+1 Menacing Scribe
+1 Outlands Leader
+1 Pentahedron Lightning
 1 Plasma Bolt
-1 Priest of Death
+1 Prepared Scribe
+1 Quagmire Elemental
 1 Radiating Force
 1 Recollect
-1 Rugged Outlander
-6 See Beyond
+1 Rosilie D'Avron
+5 See Beyond
 1 Set Ablaze
-1 Sinkhole
-2 Siphon Power
-1 Stochastic Ignition
+1 Siphon Power
+1 Sorvald's Insight
+1 Spire Hunter
+1 Steven
 1 Sublimate
 1 The Calling
-1 Thought Extraction
-2 Unfortunate Accident
+1 Trail of the Nightmare
+1 Unfortunate Accident
+1 Vampire's Grasp
+1 Vexing Scribe
+1 Volcanic Giant
+1 Volcanic Vision
+1 Wicked Pyromancer
+1 Wild Vision
 8 Wilds of Atnia
-1 Workshop Automaton
 
 1 Golem
 1 Night Horror

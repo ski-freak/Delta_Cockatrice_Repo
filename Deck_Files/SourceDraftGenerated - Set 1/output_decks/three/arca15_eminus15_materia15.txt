@@ -1,56 +1,56 @@
-1 A Trick
-1 Abominable Cleric
-1 Alert the Knights
-1 Arbiter Marshal
-1 Arcane Chains
-1 Astral Amulet
-1 Beckon Home
-1 Burning Lich
-1 Cloaked Mindmage
+1 Ancient Vampire
 1 College of Dreams Directive
-1 Cursed Tomb
-1 Defiant Scribe
-1 Dominate Will
-1 Doomed Nightmare
-1 Emotion Vampire
-1 Energy Drain
-1 Familiar Shadow
+1 Consume Flesh
+1 Desperate Arbiter
+1 Devastating Decoy
+1 Earthquake
+1 Encroaching Inevitability
+1 Entwine Fates
+1 Final Strike
 1 Forgetful Arbiter
-1 Forsaken Dreammage
+1 Forsaken Dreamweaver
 1 Fost Feac Directive
+1 Frightening Arbiter
 1 Giant Bat
+1 Guile
 1 Healing Potion
-1 Hired Hands
 1 Honorable Knight
-1 Intimidating Scribe
-1 Lekvian Traveler
-1 Lost in the Wilds
+1 Injury to Insult
+1 Knight of the Book
+1 Liase of the Two Scrolls
+1 Looming Overlord
 1 Malfunctioning Law
 1 Malicious Receptionist
 1 Mind Control
 1 Mind Reader
-1 Mysterious Mage
-1 Mystical Cache
-1 Old Watch Scribe
-1 Pact of Annihilation
+1 Mind Trauma
+1 Outlast
 1 Pale Lich
+1 Pale Prophet Zurani
+1 Pesky Scribe
 1 Phantom Angel
 1 Power from Beyond
-1 Priest of Death
+1 Prepared Scribe
+1 Pull of the Abyss
 1 Resilient Knight
+1 Rift Channeler
+1 Rift Whispers
 1 Rift's Grasp
+1 Riftcursed Farmer
 1 Rosilie D'Avron
-9 See Beyond
+1 Sagittarii
+7 See Beyond
 1 Shifting Mirage
-1 Siphon Power
 1 Skyhaven Directive
-1 Sorvald's Insight
 1 Spectral Agent
-1 Speed Check
+1 Spire Hunter
+1 Temporary Disappearance
 1 Tundra Arbiter
 1 Twist of Fate
+1 Unfortunate Accident
 1 Vampiric Recovery
-1 Void Snap
+1 Void Axe
+1 Void Replication
 1 Ward of Repellance
 10 Wilds of Atnia
 

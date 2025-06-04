@@ -1,59 +1,58 @@
-1 5th Legion Lieutenant
 1 A Trick
-1 Arbiter Marshal
+2 Adapt
+1 Arcane Revenant
 1 Arcane War Cry
+1 Aulvan Writings
 1 BSOD
-1 Cloaked Mindmage
+1 Banner of Lentholm
+1 Bloodthirsty Warrior
+1 Branching Paths
 1 College of Dreams Directive
-1 Coordinated Defense
+1 Cordial Wall-Knight
 1 Cursed Tomb
+1 Dark Aperture
 1 Deadly Strike
+1 Dissociation
+1 Doomed Legionnaire
 1 Dropkick
 1 Eminus Martial Directive
-1 Ether Charge
-1 Flank
-1 Forsaken Dreammage
-1 Frightening Arbiter
-1 Gas Giant
-1 Giant Bat
-1 Henry
+1 Enhance Spell
+1 Entwine Fates
+1 Forsaken Cultist
+1 Frost Eruption
+1 Guile
 1 Hunter's Hawk
+1 Improved Morale
 1 Infectious Fervor
-1 Infinity Vessel
+1 Instant Shield
 1 Knight's Familiar
-1 Legion Cannoneer
-1 Legion Courier
-1 Liase of the Two Scrolls
 1 Liev Arbiter
+1 Liev Grappler
 1 Malfunctioning Law
 1 Martial Arca Directive
 1 Mind Control
 1 Myrkur Phantom
-1 Mysterious Mage
 1 Nomadic Orc
-1 Orb of Understanding
+1 Novice Zombiemancer
 1 Oruva Scout
-1 Reorganize
+1 Phantom Angel
+1 Recurring Nightmare
 1 Resilient Knight
-1 Rift Screech
-1 Rift Whispers
-1 Rift's Grasp
-9 See Beyond
+7 See Beyond
+1 Shifting Mirage
+1 Spectacular Sweep
 1 Spectral Reinforcements
-1 Speed Check
-1 Spell Collector
-1 Stockpile Manager
-1 Swift Rescue
-1 Terrifying Nightmare
-1 Tundra Arbiter
-1 Valorous Triumph
-1 Vicious Looter
-1 Visionary Artificer
-1 Void Axe
+1 Steadfast Arbiter
+1 Steel Resolve
+1 Sunblade Knight
+1 Thunder Knight
+1 Void Drake
+1 Void Replication
 1 Void Spike
-1 Ward of Repellance
+1 Voidsworn Apostle
+1 Wave of Doubt
 10 Wilds of Atnia
-1 Zombie Ambush
+1 Zombie Summoner
 
 1 Golem
 1 Night Horror

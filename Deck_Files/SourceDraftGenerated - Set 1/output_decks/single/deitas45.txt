@@ -1,44 +1,45 @@
-1 Abominable Egg
-3 Brag's Prison
 1 Call the Divine
+1 Coffee Trader
 1 Consuming Ooze
+1 Cosmic Justice
 1 Cursed Portal
 1 Dark Apostle
-1 Deja Vu
 1 Demon of Consumption
-1 Devouring Sphere
 1 Devout Healer
-1 Doomed Cleric
+1 Doomsday Prophet
 1 Downtown Walk
 1 Elderly Monk
-1 Ethereal Mirage
-1 Get Back In There
+1 Eye for an Eye
 2 Globe of 1000 Souls
 1 Guardian Relic
 1 Healing Amulet
-1 Insane Guy
 1 Inspired Cleric
 1 Lisa
+1 Living Relic
 1 Mindless Cleric
-1 Oln's Binding
-2 Out of Mind
-1 Ozen's Fury
-1 Pale Sun's Influence
+1 Mysterious Cleric
+1 Occult Harbinger
+1 Out of Mind
+1 Passive Income Scheme
+1 Profane Blessing
 1 Reckless Sculptor
 1 Relic Recovery
 1 Search for Omnipotence
 3 See Beyond
+1 Serene Dove
 3 Shem's Binding
-1 Skyhaven Cannon
-1 Spirit Guide
+2 Skyhaven Cannon
 1 Spirit of Monumentality
-1 Temple Artificer
+1 Svet Scout
+1 The Bringer
 1 The Departed
-1 Transcend
 1 Universal Stimulant
+2 Unnatural Disaster
 1 Void Capsule
+1 Void Cleric
 1 Wicked Pact
 6 Wilds of Atnia
+1 Zombie Egg
 
 1 Golem
 1 Night Horror

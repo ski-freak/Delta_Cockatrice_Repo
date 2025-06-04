@@ -1,58 +1,59 @@
-1 A Difficult Choice
-1 Abominable Cleric
 1 Absolute Destruction
-1 Adapt
 1 Alexander
 1 Ambush
-1 Arcane Chains
+1 Arcane Historian
+1 Arcane Revenant
+1 Arcane Synthesizer
 1 Arcane War Cry
-1 Bold Warrior
-1 Cruel Messenger
-1 Emergency Supply Kit
-1 Emissary of Fear
-1 Energy Drain
-1 Experienced Traveler
-1 Forsaken Dreammage
-1 Gas Giant
+1 Avatar of Terror
+1 Blood Bank
+1 Bloodlust
+1 Cursed Tomb
+1 Deadly Strike
+1 Death Elemental
+1 Doomed Legionnaire
+1 Enhance Spell
+1 Forsaken Cultist
 1 George
-1 Gregory
+1 Heroic Moment
 1 Hidden Giant
-1 Isolated Archer
 1 Jasper
-1 Liev Grappler
-1 Looming Overlord
+1 Legion Courier
+1 Legion Tactician
+1 Life Manipulation
 1 Malicious Receptionist
+1 Manifest Fears
 1 Martial Arca Directive
 1 Martial Materia Directive
-1 Mechanical Vampire
-1 Menacing Automaton
-1 Midnight Duel
-1 Mystical Nightmare
+1 Myrkur Phantom
+1 Nightfall
 1 Oasis Giant
-1 Oruva Scout
-1 Pact of Annihilation
+1 Old Watch Scribe
 1 Pale Lich
+1 Pesky Scribe
 1 Power from Beyond
-1 Rift Sorcerer
-1 Rift's Grasp
+1 Priest of Death
+1 Riftcursed Farmer
 1 Rosilie D'Avron
-1 Rugged Outlander
-1 Savage Snare
-9 See Beyond
+7 See Beyond
+1 Send in the Zombies
 1 Skyhaven Directive
-1 Stash Away
-1 Stockpile Manager
-2 Sublimate
-1 Tower Thief
-1 Triple Spell
+1 Spare Violence
+1 Spire Hunter
+1 Steadfast Arbiter
+1 Steven
+1 Stronghold Guard
+1 Summon Ringer
+1 The Renegade
 1 Unfortunate Accident
-1 Void Snap
-1 Void Spike
+1 Unstable Contract
+1 Vexing Scribe
+1 Visions of the End
+1 Void Drake
 1 Voidsworn Apostle
-1 Volcanic Giant
-1 Warrior's Training
+1 Warmongerer
 10 Wilds of Atnia
-1 Zombie Invasion
+1 Zombie Ambush
 
 1 Golem
 1 Night Horror

@@ -1,47 +1,49 @@
-1 Absorb
-1 Ancient Mentor
+2 Absolute Destruction
+1 Annoying Scribe
 1 BSOD
 1 Blood Bank
-2 Bloodlust
-1 Cloaked Mindmage
+1 Bloodlust
+1 Borrow Time
+1 Clockwork Soldier
 1 Coordinated Assault
-1 Defiant Scribe
-1 Devastating Decoy
+1 Coordinated Defense
 1 Eager Explorer
-1 Familiar Shadow
+1 Escaped Monster
+1 Ethereal Construct
 2 Final Strike
-1 Forgetful Arbiter
+1 Fortress Automaton
 1 Fost Feac Directive
+1 Frightening Arbiter
 1 Gaston, Lekvian Squire
-1 Golem Conjurer
-1 Hidden Giant
+1 Healing Potion
 1 Hired Hands
 1 Honorable Knight
-1 Injury to Insult
 1 Instant Shield
 1 Intimidating Scribe
+1 Isolated Archer
 1 Knightly Reinforcements
-1 Lekvian Butler
-1 Lekvian Vampire
-1 Menacing Automaton
+1 Malicious Receptionist
 1 Mind Reader
+1 Nullify Magic
+1 Old Watch Scribe
 1 Orb of Understanding
-1 Outlands Leader
-1 Pesky Scribe
-1 Phantom Angel
-1 Savage Snare
-6 See Beyond
-1 Self Improver
-2 Sinkhole
-2 Siphon Power
-1 Spectral Agent
-1 Spire Hunter
+1 Prepared Scribe
+1 Priest of Death
+1 Rugged Outlander
+5 See Beyond
+1 Sorvald's Insight
+1 Spectacular Sweep
+1 Speed Check
 1 Steven
+1 Sublimate
 1 Sunblade Knight
 1 Tundra Arbiter
 1 Unfortunate Accident
+1 Vampiric Recovery
 1 Veteran Skyknight
 1 Volcanic Giant
+1 Wave of Doubt
+1 Wild Vision
 8 Wilds of Atnia
 
 1 Golem

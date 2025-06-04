@@ -1,12 +1,12 @@
 1 Amnesia
-1 Apprentice Spellcaster
 1 Arcane Imitation
 1 Aton Battlemaster
 1 Battle Rage
-1 Become Large
 1 Burning Man
+1 Call to Arms
 1 Combo Slice
 1 Dune Paladin
+1 Embrace the Arcane
 1 Eruption
 1 Escape to Dream
 1 Extreme Heat
@@ -15,29 +15,29 @@
 1 Fireball
 1 Flame Oracle
 1 Flashback Attack
-1 Force Field
 1 Forgotten Hunter
 1 Forsaken Displacer
+1 Journey Through Dream
 1 Knight of the Moon
+1 Knight of the Torch
 1 Knight of the Wheat
-1 Lavasmith
 1 Library Raid
 1 Magic Trick
-1 Magical Zenith
 1 Mindseeker
-1 Novice Knight
-1 Pentahedron Lightning
+1 Pax Nova Battlemage
+1 Pax Nova Guardian
 2 Plasma Bolt
-1 Radiating Force
 1 Recollect
 1 Replenish
 1 Scorched Earth
 1 Seasonal Festeval
 3 See Beyond
-1 Sorvald's Ignition
+1 Set Ablaze
 1 Stochastic Ignition
 1 Thorny Defense
-1 Trail of the Nightmare
+1 Thought Extraction
+1 Thunderous Fury
+1 Traverse Dream
 1 Unimaginable Nightmare
 1 Void Shift
 1 Volcanic Vision

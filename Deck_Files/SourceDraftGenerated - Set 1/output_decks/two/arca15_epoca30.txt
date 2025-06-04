@@ -1,51 +1,53 @@
-1 A Difficult Choice
 1 Airdrop
-1 Ancient Necromancer
-1 Astral Amulet
+1 Ancient Excavation
+1 Annul
+1 Arcane Historian
+1 Awakened Arbiter
 1 Blood Channeler
+1 Catch!
+1 Centrifuge
 1 Chaotic Whirlwind
-1 Collective Knowledge
-1 Construct Constructor
+1 Contemplate
+1 Corpse Amalgam
 1 Cryptic Swan
-1 Dead on Arrival
+1 Crystal Triangle
 1 Denise
-1 Doomed Nightmare
-1 Emotion Vampire
-1 Essence of the Old World
+1 Energy Cell
 1 Esteemed Archivist
-1 Forsaken Spellcaster
+1 Excavation Automaton
+1 Forsaken Cultist
+1 Fractal Prism
 1 Furious Sorcerer
-1 Gift of Life
-1 Golem Nexus
+1 Giant Bat
+1 Giant Dragonfly
 1 Grim Librarians
 1 Helping Hands
+1 Illusory Chains
 1 Interrupt
+1 Junior Adventurer
+1 Knowledge Collection
+1 Knowledge Requisitioner
 1 Lagoon Titan
 1 Loose Change
-1 Lost Tome
 1 Lunar Suppression
-1 Maddening Visions
-1 Mirage Manufacturer
-1 Myrkur Phantom
-1 Mysterious Mage
-1 Mystic Stone
-1 Mystical Nightmare
+1 Manifest Fears
+1 Nightfall
 1 Oana's Divination
+1 Outlander's Familiar
+1 Pact of Annihilation
 1 Pax Directive
 1 Pax Valley Wyvern
-1 Power of Antiquity
-1 Recurring Nightmare
-1 Remake
-1 Respected Mage
-1 Return of the Vanished
-1 Rift's Grasp
-6 See Beyond
-2 Squish
-1 Starlight Cleric
-1 The Plan
-2 Vaudeville Hook
-1 Void Snap
-1 Walk the Plank
+1 Potent Divination
+1 Procrastinate
+1 Quinn
+1 Rift Channeler
+1 Ruins Scavenger
+5 See Beyond
+1 Storm Generator
+1 Vaudeville Hook
+1 Void Replication
+1 Void Spike
+1 Voidsworn Apostle
 8 Wilds of Atnia
 
 1 Golem

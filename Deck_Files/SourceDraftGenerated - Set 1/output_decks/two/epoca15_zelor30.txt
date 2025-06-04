@@ -1,50 +1,50 @@
-1 Amatuer Illusionist
 1 Annul
+1 Apprentice Spellcaster
 1 Aton Battlemaster
-1 Collective Knowledge
-1 Combo Slice
+1 Battle Rage
+1 Catch!
 1 Countervailing Flames
-1 Crystal Triangle
 1 Disappearing Orb
+1 Dune Paladin
 1 Electrolytes
-1 Embrace the Arcane
 1 Eruption
-1 Essence of the Old World
-1 Excavation Automaton
+1 Escape to Dream
+1 Esteemed Archivist
+1 Extreme Heat
 1 Fated Return
 1 Fire Channeler
-1 Fireball
-1 Flame Oracle
 1 Force Field
-1 Frostblade Adept
+1 Grim Librarians
 1 Interrupt
-1 Knight of the Torch
+1 Journey Through Dream
 1 Knight of the Wheat
-1 Lavasmith
-1 Magic Trick
-1 Mindseeker
-1 Mystic Stone
-1 Outlander's Familiar
-1 Outlands Cleric
-1 Pax Nova Guardian
-1 Pentahedron Lightning
+1 Lunar Suppression
+1 Magical Zenith
+1 Mirage Manufacturer
+1 Novice Knight
+1 Pax Nova Battlemage
+1 Pax Valley Wyvern
+1 Plasma Bolt
+1 Probable Rivalry
 1 Quinn
-1 Radiating Force
-1 Recycling
+1 Recollect
+1 Remake
 1 Replenish
-6 See Beyond
+1 Return of the Vanished
+1 Scorched Earth
+5 See Beyond
+1 Set Ablaze
+1 Squish
+1 Starlight Cleric
+1 Stochastic Ignition
 1 Stronghold Dispatch
-1 The Dreamer
 1 Thorny Defense
 1 Thought Extraction
 1 Thunderous Fury
 1 Trail of the Nightmare
-1 Train Station
 1 Traverse Dream
-1 Unimaginable Nightmare
 1 Unstable Core
 1 Void Shift
-1 Volcanic Vision
 1 Wicked Pyromancer
 8 Wilds of Atnia
 1 Wizard's Familiar

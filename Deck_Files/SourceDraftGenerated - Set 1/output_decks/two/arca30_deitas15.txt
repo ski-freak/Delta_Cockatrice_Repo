@@ -1,53 +1,51 @@
-1 Arcane Chains
+1 Arcane Historian
+1 Arcane Revenant
+1 Arcane Synthesizer
+1 Avatar of Terror
 1 Blood Channeler
-1 Brag's Prison
-1 Burning Lich
-1 Consuming Ooze
+1 Bloodcrazed Knight
+1 Cemetary Rift
+1 Cursed Portal
 1 Cursed Tomb
-1 Dark Wrath
+1 Dark Apostle
 1 Divine Harmony
-1 Emotion Vampire
-1 Forsaken Spellcaster
-1 Frost Eruption
+1 Emissary of Fear
+1 Encroaching Inevitability
+1 Enhance Spell
+1 Entwine Fates
+1 Eye for an Eye
+1 Forsaken Cultist
+1 Fractal Prism
+1 Giant Bat
+1 Guile
 1 Hymn to the Pale Sun
-1 Lore Dump
-1 Master of Elements
-1 Mindless Cleric
+1 Knight of the Book
 1 Myrkur Phantom
-1 Mystical Cache
-1 Nightfall
-1 Oruva Scout
-1 Out of Mind
-1 Pact of Annihilation
+1 Oln's Binding
+1 Ozen's Fury
 1 Pact of Eons
 1 Pale Mountain Directive
-1 Passive Income Scheme
-1 Reawaken in Dream
+1 Pale Prophet Zurani
+1 Pale Sun's Influence
 1 Recurring Nightmare
-1 Respected Mage
-1 Rift Ritual
-1 Rift Whispers
-1 Rift's Grasp
-1 Search for Omnipotence
-1 Seasoned Loremaster
-6 See Beyond
-1 Serene Dove
+1 Relic Recovery
+1 Rift Screech
+1 Rift Surge
+2 Rift's Grasp
+1 Riftcursed Farmer
+1 Scrap Summoning
+2 Search for Omnipotence
+5 See Beyond
 1 Shem's Binding
-1 Skyhaven Cannon
-1 Spell Collector
-1 Spirit of Monumentality
-1 Substitute
-1 Svet Scout
-1 Triple Spell
-1 Twist of Fate
-1 Universal Stimulant
-1 Visionary Artificer
-1 Void Axe
+1 The Bringer
+1 The Departed
+2 Twist of Fate
+1 Unnatural Disaster
+1 Visions of the End
 1 Void Cleric
-1 Void Drake
 1 Void Snap
-2 Void Spike
 8 Wilds of Atnia
+1 Zombie Egg
 
 1 Golem
 1 Night Horror

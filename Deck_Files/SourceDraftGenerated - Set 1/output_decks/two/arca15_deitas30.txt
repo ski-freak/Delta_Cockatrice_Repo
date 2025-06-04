@@ -1,49 +1,48 @@
-1 Astral Amulet
-2 Brag's Prison
+1 Abominable Egg
+1 Absence
+1 Back Again
+1 Brag's Prison
 1 Call the Divine
-1 Consuming Ooze
+1 Corpse Amalgam
+2 Cursed Portal
 1 Devout Healer
 1 Divine Harmony
 1 Doomed Cleric
-1 Elderly Monk
+1 Downtown Walk
 1 Emissary of Fear
-1 Emotion Vampire
-1 Evil Opportunity
-1 Forsaken Spellcaster
-1 Globe of 1000 Souls
+1 Forsaken Dreamweaver
+1 Get Back In There
 1 Guardian Relic
+1 Healing Amulet
 1 Hymn to the Pale Sun
+1 Illusory Chains
+1 Insane Guy
 1 Inspired Cleric
-1 Living Relic
-1 Mysterious Cleric
-1 Mystical Cache
-1 Mystical Nightmare
-1 Night of the Dead
-1 Occult Harbinger
-1 Oln's Binding
+1 Knight of the Book
+1 Manifest Fears
+1 Mindless Cleric
+1 Myrkur Phantom
 1 Out of Mind
-1 Ozen's Temple
+1 Pact of Annihilation
 1 Pact of Eons
 1 Pale Mountain Directive
+1 Pale Prophet Zurani
 1 Pale Sun's Influence
-1 Passive Income Scheme
+1 Profane Blessing
+1 Reawaken in Dream
 1 Relic Recovery
-1 Rift Sorcerer
-1 Rift Whispers
-1 Rift's Grasp
+1 Rift Surge
 1 Search for Omnipotence
-6 See Beyond
+5 See Beyond
 1 Serene Dove
-1 Shem's Binding
 2 Skyhaven Cannon
-1 Spell Collector
 1 Spirit of Monumentality
-1 Temple Artificer
-1 Twist of Fate
-2 Unnatural Disaster
-1 Visionary Artificer
+1 The Bringer
+2 Twist of Fate
+1 Universal Stimulant
+2 Void Capsule
 1 Void Drake
-1 Void Spike
+1 Void Snap
 8 Wilds of Atnia
 1 Zombie Egg
 

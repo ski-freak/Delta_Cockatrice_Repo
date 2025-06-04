@@ -1,51 +1,50 @@
 1 Airdrop
-1 Amnesia
-1 Ancient Excavation
-1 Annul
+1 Aton Battlemaster
 1 Catch!
-1 Collective Knowledge
-1 Contemplate
+1 Centrifuge
+1 Construct Constructor
 1 Countervailing Flames
-1 Disappearing Orb
+1 Cryptic Swan
+1 Dead on Arrival
 1 Electrolytes
-1 Energy Cell
-1 Escape to Dream
+1 Embrace the Arcane
 1 Essence of the Old World
+1 Esteemed Archivist
 1 Excavation Automaton
+1 Fireball
+1 Flame Oracle
 1 Flashback Attack
-1 Force Field
-1 Forsaken Displacer
-1 Frank
-1 Gift of Life
+1 Forgotten Hunter
+1 Hourglass of Ages
 1 Interrupt
-1 Invisible Haze
-1 Junior Adventurer
-1 Knight of the Torch
 1 Knight of the Wheat
 1 Knowledge Collection
 1 Knowledge Requisitioner
-1 Magic Trick
-1 Mystic Stone
+1 Lunar Suppression
+1 Oana's Divination
 1 Outlander's Familiar
-1 Pax Nova Battlemage
-1 Pax Nova Guardian
-1 Pax Valley Wyvern
-1 Potent Divination
+1 Outlands Cleric
+1 Plasma Bolt
+1 Probable Rivalry
 1 Procrastinate
 2 Quick Thinking
-1 Return of the Vanished
-1 Scrap Merchant
-6 See Beyond
-1 Sorvald's Ignition
-1 Stochastic Ignition
+1 Recollect
+1 Recycling
+1 Replenish
+1 Return to the Earth
+1 Scour the Ruins
+5 See Beyond
+1 Starlight Cleric
 1 Storm Generator
 1 Stronghold Dispatch
-1 The Dreamer
-1 Thingamajig
 1 Thorny Defense
+1 Thought Extraction
+1 Trail of the Nightmare
+1 Train Station
 1 Unstable Core
-1 Vaudeville Hook
+2 Vaudeville Hook
 1 Void Shift
+1 Wicked Pyromancer
 8 Wilds of Atnia
 1 Zelor Oldworld Directive
 

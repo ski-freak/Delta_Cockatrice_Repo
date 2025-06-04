@@ -1,48 +1,47 @@
-1 Abominable Cleric
-1 Arcane Burst
-1 Arcane Chains
-1 Astral Amulet
+1 Arcane Historian
+1 Arcane Revenant
+1 Arcane Synthesizer
+1 Aulvan Writings
+1 Avatar of Terror
 1 Blood Channeler
+1 Bloodcrazed Knight
+1 Cemetary Rift
 1 Cursed Tomb
-1 Dark Wrath
-1 Emotion Vampire
-1 Forsaken Dreammage
-1 Forsaken Spellcaster
-1 Frost Eruption
-1 Gas Giant
+1 Dream of the Dead
+1 Emissary of Fear
+1 Encroaching Inevitability
+1 Enhance Spell
+1 Forsaken Cultist
+1 Fractal Prism
 1 Giant Bat
-1 Golem Conjuring
-1 Lore Dump
-1 Master of Elements
+1 Giant Dragonfly
+1 Guile
+1 Illusory Chains
+1 Knight of the Book
+1 Manifest Fears
 1 Myrkur Phantom
-1 Mysterious Mage
-1 Mystical Cache
-1 Mystical Nightmare
-1 Night of the Dead
 1 Nightfall
-1 Old Zombiemancer
 1 Pact of Annihilation
+1 Pale Prophet Zurani
+1 Pull of the Abyss
 1 Recurring Nightmare
-1 Respected Mage
-1 Rift Ritual
+1 Rift Cache
+1 Rift Channeler
 1 Rift Screech
-1 Rift Sorcerer
-1 Rift Whispers
-1 Rift's Grasp
-1 Seasoned Loremaster
+1 Rift Surge
+2 Rift's Grasp
+1 Riftcursed Farmer
+1 Scrap Summoning
 3 See Beyond
-1 Spell Collector
-1 Terrifying Nightmare
-1 Triple Spell
-1 Tunnel Vision
-2 Twist of Fate
+1 Twist of Fate
 1 Unstable Contract
-1 Visionary Artificer
+1 Visions of the End
 1 Void Axe
 1 Void Drake
-1 Void Spike
+1 Void Replication
+1 Void Snap
+2 Void Spike
 1 Voidsworn Apostle
-1 Walk the Plank
 6 Wilds of Atnia
 
 1 Golem

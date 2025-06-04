@@ -1,57 +1,59 @@
-1 A Difficult Choice
+1 Adapt
+1 Ambush
+1 Annul
 1 Arcane War Cry
 1 Blood Channeler
-1 Bold Warrior
-1 Burning Lich
-2 Catch!
+1 Cemetary Rift
 1 Chaotic Whirlwind
-1 Cryptic Swan
+1 Construct Constructor
+1 Corpse Amalgam
+1 Deadly Strike
 1 Denise
-1 Dissociation
 1 Doomed Legionnaire
-1 Emissary of Fear
-1 Emotion Vampire
-1 Energy Cell
-1 Ether Charge
-1 Flank
+1 Esteemed Archivist
+1 Excavation Automaton
+1 Fractal Prism
+1 Frost Eruption
+1 Frostblade Adept
+1 Giant Dragonfly
 1 Gift of Life
-1 Golem Conjuring
 1 Golem Nexus
+1 Grim Librarians
+1 Guile
+1 Henry
+1 Hourglass of Ages
+1 Improved Morale
 1 Jane
-1 Knowledge Collection
 1 Lagoon Titan
+1 Legion Cannoneer
 1 Liev Grappler
-1 Loose Change
-1 Lost Tome
-1 Lunar Suppression
+1 Manifest Fears
 1 Martial Arca Directive
-1 Mirage Manufacturer
-1 Novice Law-Binder
-1 Oasis Giant
+1 Nightfall
 1 Ogre Chronomancer
-1 Old Zombiemancer
 1 Oldworld Martial Directive
+1 Outlander's Familiar
 1 Pax Directive
-1 Probable Rivalry
-1 Quick Thinking
-1 Recurring Nightmare
-1 Respected Mage
-1 Rift Screech
+1 Return of the Vanished
+1 Return to the Earth
+1 Rift Channeler
+1 Riftcursed Farmer
 1 Round Two
-9 See Beyond
-1 Squish
-1 Steadfast Arbiter
-1 Summon Ringer
+7 See Beyond
+1 Starlight Cleric
+1 Stronghold Dispatch
 1 Swarm the Enemy
-1 The Dreamer
-2 Tower Thief
+1 The Doublemeister
 1 Trade Insight
-1 Triple Spell
+1 Twist of Fate
 1 Unstable Contract
-1 Void Axe
-1 Void Snap
-1 Walk the Plank
+1 Vaudeville Hook
+1 Void Replication
+1 Void Spike
+1 War Elephant
 10 Wilds of Atnia
+1 Zombie Ambush
+1 Zombie Invasion
 
 1 Golem
 1 Night Horror

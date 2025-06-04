@@ -6,52 +6,51 @@
 1 Oruva Scout
 1 Giant Bat
 1 Void Drake
-1 Burning Lich
-1 Respected Mage
+1 Arcane Revenant
+1 Arcane Historian
 1 Emissary of Fear
-1 Rift Sorcerer
+1 Rift Channeler
 1 Nightfall
-1 Mystical Nightmare
+1 Dream of the Dead
 1 Myrkur Phantom
-1 Gas Giant
-1 Lore Dump
+1 Corpse Amalgam
+1 Aulvan Writings
 1 Rift Screech
-1 Visionary Artificer
 1 Void Snap
-1 Forsaken Spellcaster
-1 Old Zombiemancer
-1 Triple Spell
+1 Forsaken Dreamweaver
+1 Absence
+1 Void Replication
 1 Voidsworn Apostle
 1 Rift Whispers
-1 Night of the Dead
-1 Rift Ritual
-1 Dark Wrath
-1 Golem Conjuring
+1 Cemetary Rift
+1 Rift Surge
+1 Pull of the Abyss
+1 Scrap Summoning
 1 Void Spike
-1 Arcane Chains
-1 Terrifying Nightmare
+1 Illusory Chains
+1 Manifest Fears
 1 Recurring Nightmare
 1 Pact of Annihilation
-1 Astral Amulet
-1 Mystical Cache
-1 Mysterious Mage
+1 Arcane Synthesizer
+1 Rift Cache
+1 Guile
 1 Rift's Grasp
 1 Cursed Tomb
-1 Forsaken Dreammage
-1 Emotion Vampire
-1 Arcane Burst
-1 Maddening Visions
-1 Master of Elements
+1 Forsaken Cultist
+1 Giant Dragonfly
+1 Enhance Spell
+1 Visions of the End
+1 Pale Prophet Zurani
 1 Blood Channeler
-1 Spell Collector
-1 Doomed Nightmare
-1 Abominable Cleric
-1 Tunnel Vision
+1 Riftcursed Farmer
+1 Avatar of Terror
+1 Bloodcrazed Knight
+1 Fractal Prism
 1 Unstable Contract
-1 Seasoned Loremaster
-1 A Difficult Choice
+1 Knight of the Book
+1 Entwine Fates
 1 Frost Eruption
-1 Walk the Plank
+1 Encroaching Inevitability
 1 Twist of Fate
 
 Eminus
@@ -110,7 +109,6 @@ Materia
 1 Siphon Power
 1 Final Strike
 1 Bloodlust
-1 Injury to Insult
 1 Absolute Destruction
 1 Malicious Receptionist
 1 Sublimate
@@ -132,6 +130,7 @@ Materia
 1 Vexing Scribe
 1 Annoying Scribe
 1 Aggravating Scribe
+1 Consume Flesh
 1 Ethereal Construct
 1 Looming Overlord
 1 Self Improver
@@ -287,6 +286,7 @@ Zelor
 1 Eruption
 1 Magic Trick
 1 Forgotten Hunter
+1 Journey Through Dream
 1 Knight of the Wheat
 1 Knight of the Torch
 1 Force Field
@@ -334,6 +334,7 @@ Talentus
 1 Team Up
 1 Valorous Triumph
 1 Zombie Ambush
+1 Legion Tactician
 1 Ambush
 1 Stronghold Guard
 1 Devout Arbiter
@@ -430,6 +431,7 @@ Deitas
 1 Abominable Egg
 1 Void Cleric
 1 Guardian Relic
+1 Profane Blessing
 1 Spirit Guide
 1 Doomed Cleric
 1 Skyhaven Cannon
@@ -447,7 +449,6 @@ Deitas
 1 Globe of 1000 Souls
 1 The Bringer
 1 Substitute
-1 Transcend
 1 Ozen's Temple
 1 Inspired Cleric
 1 Living Relic

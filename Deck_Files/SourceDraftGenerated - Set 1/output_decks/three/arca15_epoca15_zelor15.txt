@@ -1,58 +1,58 @@
-1 Amnesia
+1 Airdrop
+1 Amatuer Illusionist
 1 Annul
-1 Arcane Chains
-1 Astral Amulet
-1 Aton Battlemaster
-1 Awakened Arbiter
-1 Battle Rage
-1 Become Large
+1 Arcane Historian
 1 Blood Channeler
-1 Burning Lich
+1 Bloodcrazed Knight
 1 Burning Plain Directive
-1 Call to Arms
-1 Catch!
+1 Cemetary Rift
 1 Chaotic Whirlwind
-1 Collective Knowledge
 1 Countervailing Flames
 1 Denise
 1 Electrolytes
-1 Embargo
 1 Emissary of Fear
-1 Emotion Vampire
-1 Energy Cell
-1 Essence of the Old World
+1 Encroaching Inevitability
 1 Fated Return
-1 Forgotten Hunter
-1 Forsaken Displacer
-1 Gas Giant
+1 Flashback Attack
+1 Forsaken Cultist
+1 Frost Eruption
 1 Grim Librarians
-1 Knight of the Wheat
-1 Knowledge Requisitioner
+1 Interrupt
+1 Invisible Haze
+1 Junior Adventurer
 1 Lagoon Titan
-1 Lunar Suppression
-1 Maddening Visions
+1 Lavasmith
+1 Lost Tome
+1 Magical Zenith
 1 Mirage Manufacturer
-1 Mystical Nightmare
-1 Night of the Dead
+1 Mystic Stone
 1 Novice Knight
+1 Outlander's Familiar
 1 Pax Directive
-2 Quick Thinking
+1 Pax Valley Wyvern
+2 Plasma Bolt
+1 Procrastinate
+1 Remake
+1 Rift Channeler
 1 Rift Fire
-1 Rift Ritual
-1 Scour the Ruins
-1 Scrap Merchant
+1 Rift Surge
+1 Rift Whispers
+1 Rift's Grasp
 1 Seasonal Festeval
-9 See Beyond
-1 Spell Collector
+7 See Beyond
+1 Sorvald's Ignition
+1 Squish
 1 Stochastic Ignition
-1 Thought Extraction
+1 Thunderous Fury
 1 Trail of the Nightmare
-1 Triple Spell
-1 Unstable Contract
+1 Traverse Dream
+1 Twist of Fate
 1 Unstable Core
 1 Vampire's Bite
-1 Void Axe
-1 Volcanic Vision
+1 Vaudeville Hook
+1 Visions of the End
+1 Void Replication
+1 Wicked Pyromancer
 1 Wild Wizard
 10 Wilds of Atnia
 1 Zelor Oldworld Directive

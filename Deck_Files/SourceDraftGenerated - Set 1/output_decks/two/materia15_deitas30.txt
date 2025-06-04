@@ -1,53 +1,51 @@
-1 Abominable Egg
-1 Absolute Destruction
 1 Billy Bob
-1 Bloodlust
-1 Brag's Prison
-1 Call the Divine
-1 Clockwork Soldier
+2 Brag's Prison
 1 Coffee Trader
-1 Cosmic Justice
+1 Consuming Ooze
 1 Cursed Portal
 1 David
-1 Deja Vu
-1 Escaped Monster
+1 Demon of Consumption
+1 Devout Healer
+1 Eager Explorer
+1 Earthquake
+1 Energy Drain
 1 Faith Materia Directive
-1 Final Strike
-1 Fortress Automaton
+2 Final Strike
 1 Globe of 1000 Souls
+1 Healing Potion
 1 Higher Purpose
-1 Insane Guy
 1 Inspired Cleric
-1 Intimidating Scribe
-1 Lekvian Vampire
-1 Living Relic
-1 Malicious Receptionist
-1 Mysterious Cleric
-2 Oln's Binding
-1 Out of Mind
+1 Lekvian Butler
+1 Lost in the Wilds
+1 Mindless Cleric
+1 Oln's Binding
+2 Out of Mind
 1 Ozen's Fury
-1 Passive Income Scheme
+1 Ozen's Temple
 1 Pondering Cleric
+1 Priest of Death
+1 Profane Blessing
 1 Quiet Mage
-1 Reckless Sculptor
 1 Relic Recovery
-1 Rosilie D'Avron
 1 Search for Omnipotence
-6 See Beyond
+5 See Beyond
 1 Shem's Binding
 1 Siphon Power
+1 Skyhaven Cannon
+1 Spirit Guide
 1 Spirit of Monumentality
-1 Spiritual Awakening
-1 Steven
-1 Sublimate
-1 Substitute
 1 Svet Scout
+1 Temple Artificer
 1 The Calling
 1 The Departed
 1 Tomb Hunter
-1 Unnatural Disaster
-1 Void Capsule
+1 Unfortunate Accident
+1 Universal Stimulant
+1 Vexing Scribe
+1 Void Cleric
 8 Wilds of Atnia
+1 Workshop Automaton
+1 Zombie Egg
 
 1 Golem
 1 Night Horror

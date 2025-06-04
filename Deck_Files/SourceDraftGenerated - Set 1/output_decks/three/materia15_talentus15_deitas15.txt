@@ -1,62 +1,60 @@
 1 5th Legion Lieutenant
+1 Absolute Destruction
+1 Adapt
 1 Alexander
 1 Billy Bob
-1 Bloodlust
-1 Coffee Trader
-1 Cosmic Justice
+1 Clockwork Soldier
+1 Contain
 1 David
-1 Deja Vu
-1 Devouring Sphere
-1 Devout Arbiter
+1 Deadly Strike
+1 Demon of Consumption
+1 Enterprising Merchant
 1 Escape Artist
 1 Ether Charge
 1 Ethereal Mirage
+1 Experienced Traveler
 1 Faith Martial Directive
 1 Faith Materia Directive
-1 Familiar Shadow
 1 Fervent Devotion
 1 Final Strike
 1 Fortress Automaton
+1 Gaston, Lekvian Squire
 1 George
 1 Get Back In There
+1 Globe of 1000 Souls
 1 Gregory
-1 Hidden Giant
+1 Heroic Moment
 1 Higher Purpose
-1 Improved Morale
-1 Insane Guy
+1 Hired Hands
 1 Jasper
-1 Legion Courier
-1 Lekvian Traveler
-1 Lekvian Vampire
-1 Liev Grappler
-1 Liev Warrior
-1 Life Manipulation
-1 Living Relic
-1 Malicious Receptionist
+1 Lisa
 1 Martial Materia Directive
-1 Nomadic Orc
-1 Novice Zombiemancer
-1 Old Watch Scribe
-1 Ozen's Temple
-1 Prepared Scribe
-1 Reawaken in Dream
-1 Relic Recovery
-1 Savage Snare
-9 See Beyond
-1 Shem's Binding
+1 Menacing Automaton
+1 Novice Law-Binder
+1 Oasis Giant
+1 Out of Mind
+1 Outlands Leader
+1 Quiet Mage
+1 Rosilie D'Avron
+1 Search for Omnipotence
+7 See Beyond
+1 Self Improver
+1 Send in the Zombies
+3 Shem's Binding
 1 Sinkhole
-1 Skyhaven Cannon
-1 Spare Violence
-1 Spirit Guide
-1 Stronghold Guard
-1 Summon Ringer
+1 Spiritual Awakening
+1 Steadfast Arbiter
+1 Steven
+1 Stockpile Manager
+1 Temple Artificer
+1 The Bringer
+1 The Doublemeister
 1 The Meatgrinder
-1 Tower Thief
-1 Unfortunate Accident
-1 Unnatural Disaster
+1 Tomb Hunter
 1 Vexing Scribe
+1 Void Cleric
+1 Volcanic Giant
 10 Wilds of Atnia
-1 Zombie Invasion
 
 1 Golem
 1 Night Horror

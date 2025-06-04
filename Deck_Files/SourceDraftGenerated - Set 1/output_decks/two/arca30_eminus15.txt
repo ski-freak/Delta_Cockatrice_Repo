@@ -1,51 +1,52 @@
-1 A Difficult Choice
-1 Abominable Cleric
-1 Arbiter Marshal
+1 A Trick
+1 Absence
+1 Alert the Knights
 1 Arbiter Medic
-1 Blood Channeler
+1 Arcane Revenant
+1 Arcane Synthesizer
+1 Aulvan Writings
+1 Avatar of Terror
+1 Bloodcrazed Knight
+1 Cloaked Mindmage
 1 College of Dreams Directive
-1 Coordinated Defense
+1 Coordinated Assault
+1 Corpse Amalgam
 1 Cursed Tomb
-1 Doomed Nightmare
+1 Desperate Arbiter
+1 Dream of the Dead
 1 Emissary of Fear
-1 Emotion Vampire
+1 Encroaching Inevitability
+1 Enhance Spell
+1 Entwine Fates
 1 Forgetful Arbiter
-1 Forsaken Dreammage
-1 Frost Eruption
-1 Knightly Reinforcements
-1 Liase of the Two Scrolls
-1 Maddening Visions
+1 Forsaken Cultist
+1 Forsaken Dreamweaver
+1 Fractal Prism
+1 Giant Dragonfly
+1 Instant Shield
 1 Malfunctioning Law
+1 Manifest Fears
 1 Mind Control
-1 Mysterious Mage
-1 Mystical Nightmare
+1 Myrkur Phantom
 1 Nightfall
-1 Nullify Magic
-1 Old Zombiemancer
-1 Oruva Scout
-1 Pact of Annihilation
+1 Orb of Understanding
+1 Pale Prophet Zurani
+1 Pull of the Abyss
 1 Recurring Nightmare
-1 Resilient Knight
-1 Rift Ritual
+1 Rift Channeler
 1 Rift Screech
-1 Rift Sorcerer
-1 Rift Whispers
 1 Rift's Grasp
-1 Seasoned Loremaster
-6 See Beyond
+5 See Beyond
 1 Shifting Mirage
-1 Skyknight
-1 Spectacular Sweep
 1 Spectral Reinforcements
-1 Spell Collector
 1 Stunt Double
-1 Temporary Disappearance
-1 Tunnel Vision
+1 Try Again
 1 Unstable Contract
+1 Veteran Skyknight
+1 Visions of the End
 1 Void Drake
-2 Void Spike
-1 Voidsworn Apostle
-1 Wave of Doubt
+1 Void Snap
+1 Ward of Repellance
 8 Wilds of Atnia
 
 1 Golem

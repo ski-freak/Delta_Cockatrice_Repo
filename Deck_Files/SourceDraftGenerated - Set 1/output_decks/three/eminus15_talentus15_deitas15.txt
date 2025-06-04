@@ -1,60 +1,62 @@
-1 Ancient Mentor
+1 Abominable Egg
+1 Adapt
+1 Ambush
 1 Arbiter Medic
 1 Arcane Tower
-1 Contain
-1 Cursed Portal
-1 Deja Vu
-1 Desperate Arbiter
-1 Devout Arbiter
-1 Dominate Will
+1 BSOD
+1 Branching Paths
+1 Dark Apostle
+1 Deadly Strike
+1 Devouring Sphere
+1 Dissociation
+1 Doomed Cleric
+1 Doomed Legionnaire
 1 Dropkick
-1 Elderly Monk
 1 Eminus Faith Directive
 1 Eminus Martial Directive
+1 Enterprising Merchant
 1 Escape Artist
-2 Ether Charge
+1 Ether Charge
 1 Ethereal Mirage
 1 Evacuation
+1 Eye for an Eye
 1 Faith Martial Directive
 1 Fervent Devotion
-1 Forgetful Arbiter
-1 Guardian Relic
+1 Globe of 1000 Souls
 1 Hunter's Hawk
 1 Imposing Presence
 1 Infectious Fervor
-1 Inspired Cleric
-1 Interfering Arbiter
-1 Investigate the Scene
+1 Instant Shield
+1 Knight's Familiar
 1 Knightly Reinforcements
-1 Legion Warlock
 1 Liase of the Two Scrolls
-1 Mind Trauma
-1 Mysterious Cleric
-1 Novice Law-Binder
-1 Nullify Magic
-1 Occult Harbinger
-1 Oln's Binding
+1 Midnight Duel
+1 Orb of Understanding
 1 Out of Mind
-1 Rolead the Swift
-9 See Beyond
-2 Shem's Binding
+1 Reckless Sculptor
+1 Reorganize
+1 Resilient Knight
+1 Search for Omnipotence
+7 See Beyond
 1 Skyhaven Cannon
-1 Spectral Agent
-1 Speed Check
-1 Stronghold Guard
+1 Stockpile Manager
+1 Stunt Double
 1 Summon Ringer
-1 Sunblade Knight
-1 Svet Scout
-1 Swift Rescue
+1 Temple Artificer
+1 Temporary Disappearance
+1 The Bringer
 1 The Meatgrinder
+1 The Renegade
 1 Thunder Knight
-1 Trade Insight
 1 Try Again
 1 Universal Stimulant
-1 Valorous Triumph
+1 Unnatural Disaster
+1 Veteran Skyknight
+1 War Elephant
 1 Warrior's Training
+1 Wave of Doubt
 10 Wilds of Atnia
-1 Zombie Summoner
+1 Wolkk Twinspear
 
 1 Golem
 1 Night Horror

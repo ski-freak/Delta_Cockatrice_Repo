@@ -1,50 +1,50 @@
-1 5th Legion Lieutenant
-1 A Difficult Choice
-1 Ambush
-1 Arcane Burst
-1 Arcane Chains
+1 Arcane Revenant
 1 Arcane War Cry
-1 Banner of Lentholm
+1 Aulvan Writings
 1 Battlefield Commander
-1 Bloodthirsty Warrior
+1 Battlehardened Soldier
 1 Bold Warrior
-1 Branching Paths
-1 Burning Lich
-2 Contain
+1 Contain
+1 Cruel Messenger
 2 Deadly Strike
-1 Dissociation
+2 Devout Arbiter
 1 Doomed Legionnaire
-1 Emissary of Fear
-1 Enterprising Merchant
-1 Forsaken Dreammage
-1 Forsaken Spellcaster
-1 Giant Bat
-1 Henry
+1 Dream of the Dead
+1 Emergency Supply Kit
+1 Enhance Spell
+1 Ether Charge
+1 Flank
+1 Forsaken Dreamweaver
+1 Guile
 1 Heroic Moment
+1 Illusory Chains
 1 Improved Morale
+1 Knight of the Book
 1 Legion Cannoneer
-1 Liev Grappler
-1 Liev Warrior
+1 Legion Tactician
+1 Legion Warlock
 1 Martial Arca Directive
-1 Master Duelist
-1 Midnight Duel
 1 Myrkur Phantom
-1 Night of the Dead
 1 Nomadic Orc
-1 Old Zombiemancer
-1 Oruva Scout
-1 Rift Screech
+1 Reorganize
+1 Rift Surge
 1 Rift Whispers
-1 Seasoned Loremaster
-6 See Beyond
-1 Sneaky Assassin
-1 Stronghold Guard
-1 Team Up
+1 Rift's Grasp
+1 Rolead the Swift
+1 Scrap Summoning
+5 See Beyond
+1 Stash Away
+1 Steadfast Arbiter
+1 Stockpile Manager
+1 Summon Ringer
 1 The Renegade
-1 Valorous Triumph
-1 War Elephant
-1 Warmongerer
+1 Tower Thief
+1 Trade Insight
+1 Void Snap
+1 Voidsworn Apostle
+1 Warrior's Training
 8 Wilds of Atnia
+1 Zombie Summoner
 
 1 Golem
 1 Night Horror

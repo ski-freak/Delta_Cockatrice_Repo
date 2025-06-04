@@ -1,58 +1,59 @@
-1 Airdrop
-1 Battlefield Commander
-1 Battlehardened Soldier
-1 Brag's Prison
-1 Coffee Trader
-1 Construct Constructor
-1 Crystal Triangle
-1 Dead on Arrival
+1 5th Legion Lieutenant
+1 Abominable Egg
+1 Ancient Necromancer
+1 Bloodthirsty Warrior
+1 Catch!
+1 Contemplate
 1 Deadly Strike
-1 Downtown Walk
+1 Demon of Consumption
+1 Devout Arbiter
+1 Devout Healer
+1 Dissociation
+1 Doomsday Prophet
 1 Escape Artist
-1 Essence of the Old World
 1 Ether Charge
+1 Evil Opportunity
+1 Excavation Automaton
 1 Faith Martial Directive
 1 Faith Oldworld Directive
 1 Fervent Devotion
-1 Flank
+1 Frostblade Adept
 1 Furious Sorcerer
-1 Gregory
+1 Globe of 1000 Souls
+1 Grim Librarians
 1 Guardian Relic
-1 Heroic Moment
-1 Infinity Vessel
-1 Insane Guy
-1 Investigate the Scene
+1 Hourglass of Ages
 1 Jane
-1 Legion Cannoneer
-1 Liev Grappler
-1 Liev Warrior
-1 Loose Change
+1 Lisa
 1 Lost Tome
-1 Mystical Oil
+1 Midnight Duel
 1 Nomadic Orc
+1 Novice Law-Binder
+1 Novice Zombiemancer
 1 Ogre Chronomancer
 1 Oldworld Martial Directive
-2 Out of Mind
-1 Ozen's Temple
+1 Oln's Binding
 1 Pax Seeker
-1 Probable Rivalry
-1 Quick Thinking
-1 Reawaken in Dream
-1 Relic Recovery
-1 Remake
+1 Question Station
+1 Quinn
 1 Reorganize
 1 Return of the Vanished
-1 Round Two
-9 See Beyond
-1 Serene Dove
-1 Shem's Binding
+1 Ruins Scavenger
+1 Scrap Merchant
+1 Search for Omnipotence
+7 See Beyond
 1 Skyhaven Cannon
-1 Starlight Cleric
-1 Svet Scout
+1 Sneaky Assassin
+1 Squish
+1 Substitute
 1 Temple Librarian
+1 The Bringer
 1 The Meatgrinder
-1 Vaudeville Hook
-1 Void Capsule
+1 Tower Thief
+1 Unnatural Disaster
+1 Valorous Triumph
+1 Warrior's Training
+1 Wicked Pact
 10 Wilds of Atnia
 
 1 Golem

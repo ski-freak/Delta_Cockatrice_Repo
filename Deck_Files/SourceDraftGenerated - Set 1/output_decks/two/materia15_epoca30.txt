@@ -1,49 +1,48 @@
+1 Absolute Destruction
+1 Absorb
 1 Aggravating Scribe
 1 Ancient Excavation
-1 Ancient Necromancer
-1 Annoying Scribe
 1 Annul
-1 Awakened Arbiter
-2 Bloodlust
+1 Blood Bank
 1 Catch!
 1 Centrifuge
 1 Collective Knowledge
+1 Construct Constructor
+1 Cryptic Swan
+1 Dead on Arrival
 1 Death Elemental
-1 Eager Explorer
-1 Earthquake
-1 Embargo
-1 Energy Cell
-1 Energy Drain
 1 Escaped Monster
-1 Final Strike
-1 Frank
-1 Frostblade Adept
-1 Furious Sorcerer
-1 Interrupt
-1 Knowledge Requisitioner
-1 Looming Overlord
-1 Lost in the Wilds
-1 Lunar Suppression
-1 Mechanical Vampire
+1 Essence of the Old World
+1 Excavation Automaton
+1 Gift of Life
+1 Golem Nexus
+1 Grim Librarians
+1 Hourglass of Ages
+1 Invisible Haze
+1 Loose Change
+1 Lost Tome
+2 Lunar Suppression
+1 Menacing Scribe
+1 Mirage Manufacturer
 1 Mystic Stone
+1 Mystical Oil
+1 Oana's Divination
 1 Outlander's Familiar
-1 Outlands Cleric
+1 Outlast
 1 Pax Valley Wyvern
-1 Potent Divination
-1 Quagmire Elemental
-1 Quinn
+1 Power of Antiquity
+1 Prepared Scribe
 1 Ray of Scorn
-1 Return of the Vanished
-1 Return to the Earth
-1 Sage of the Sun
-1 Scour the Ruins
-6 See Beyond
-1 Siphon Power
+5 See Beyond
+1 Self Improver
+1 Sinkhole
+1 Sorvald's Insight
 2 Squish
-1 The Plan
+1 Stronghold Dispatch
+2 Sublimate
 1 Train Station
 1 Twilight Isle Directive
-1 Vaudeville Hook
+1 Vampiric Recovery
 8 Wilds of Atnia
 
 1 Golem

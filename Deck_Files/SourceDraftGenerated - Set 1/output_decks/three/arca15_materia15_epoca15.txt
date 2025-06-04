@@ -1,58 +1,58 @@
-1 Astral Amulet
-1 Blood Bank
+1 Absolute Destruction
+1 Aggravating Scribe
+1 Ancient Excavation
+1 Annul
+1 Aulvan Writings
+1 Bloodcrazed Knight
 1 Bloodlust
-1 Catch!
-1 Centrifuge
+1 Borrow Time
 1 Chaotic Whirlwind
-1 Clockwork Soldier
-1 Collective Knowledge
-1 Crystal Triangle
-1 Cursed Tomb
+1 Cryptic Swan
 1 Denise
-1 Dutiful Scribe
+1 Earthquake
 1 Embargo
-1 Forsaken Dreammage
-1 Forsaken Spellcaster
-1 Frost Eruption
-1 Furious Sorcerer
+1 Encroaching Inevitability
+1 Familiar Shadow
+1 Final Strike
+1 Gaston, Lekvian Squire
 1 Golem Conjurer
-1 Injury to Insult
+1 Helping Hands
 1 Interrupt
-1 Intimidating Scribe
-1 Isolated Archer
 1 Lagoon Titan
-1 Looming Overlord
-1 Lucy
-1 Maddening Visions
+1 Loose Change
+1 Lost Tome
+1 Lost in the Wilds
 1 Menacing Automaton
-1 Mystical Cache
-1 Mystical Oil
-1 Night of the Dead
-1 Oana's Divination
+1 Menacing Scribe
+1 Myrkur Phantom
+1 Old Watch Scribe
+1 Oruva Scout
+1 Pact of Annihilation
 1 Pale Lich
+1 Pale Prophet Zurani
 1 Pax Directive
+1 Pax Valley Wyvern
 1 Power from Beyond
-1 Power of Antiquity
-1 Probable Rivalry
-1 Question Station
-1 Quiet Mage
+1 Pull of the Abyss
 1 Ray of Scorn
-1 Recycling
-1 Rift Ritual
-1 Rift's Grasp
-9 See Beyond
-1 Self Improver
+1 Recurring Nightmare
+1 Return of the Vanished
+1 Return to the Earth
+1 Rift Channeler
+1 Rift Screech
+7 See Beyond
+1 Siphon Power
 1 Skyhaven Directive
-1 Spire Hunter
 1 Squish
-1 Thingamajig
+1 Starlight Cleric
+1 The Plan
 1 Twilight Isle Directive
-1 Twist of Fate
-1 Unstable Contract
-1 Void Spike
+1 Vampire's Grasp
+1 Vaudeville Hook
+1 Visions of the End
+1 Void Axe
+1 Void Snap
 1 Voidsworn Apostle
-1 Walk the Plank
-1 Wild Vision
 10 Wilds of Atnia
 
 1 Golem

@@ -1,60 +1,58 @@
-1 Abominable Egg
-1 Adapt
-1 Ambush
-1 Arcane Burst
 1 Arcane War Cry
-1 Astral Amulet
-1 Back Again
-1 Battlehardened Soldier
-1 Bold Warrior
+1 Blood Channeler
+1 Bloodthirsty Warrior
 1 Brag's Prison
-1 Burning Lich
-1 Coffee Trader
-1 Cursed Tomb
-1 Devout Arbiter
-1 Dissociation
+1 Branching Paths
+1 Contain
+1 Cosmic Justice
+1 Cursed Portal
+1 Deadly Strike
 1 Divine Harmony
-1 Doomsday Prophet
-1 Enterprising Merchant
+1 Dream of the Dead
+1 Enhance Spell
 1 Escape Artist
 1 Faith Martial Directive
 1 Fervent Devotion
-1 Globe of 1000 Souls
-1 Healing Amulet
-1 Henry
+1 Forsaken Dreamweaver
+1 Heroic Moment
 1 Hymn to the Pale Sun
-1 Improved Morale
-1 Infinity Vessel
-1 Legion Cannoneer
-1 Lore Dump
-1 Maddening Visions
+1 Illusory Chains
+1 Knight of the Book
 1 Martial Arca Directive
-1 Master Duelist
-1 Mysterious Cleric
-1 Out of Mind
+1 Midnight Duel
+1 Nightfall
+1 Nomadic Orc
+1 Novice Zombiemancer
+1 Occult Harbinger
+1 Oln's Binding
+1 Ozen's Fury
 1 Pact of Eons
 1 Pale Mountain Directive
-1 Passive Income Scheme
+1 Pull of the Abyss
+1 Recurring Nightmare
+1 Relic Recovery
+1 Reorganize
 1 Rift Screech
-1 Rift Sorcerer
-1 Rift Whispers
 1 Rift's Grasp
-1 Rolead the Swift
 1 Round Two
-9 See Beyond
-1 Shem's Binding
+7 See Beyond
+2 Shem's Binding
 1 Skyhaven Cannon
-1 Spare Violence
 1 Spirit Guide
-1 Terrifying Nightmare
+1 Stockpile Manager
+1 Summon Ringer
+1 Team Up
 1 The Bringer
+1 The Departed
 1 The Meatgrinder
-1 Tunnel Vision
 1 Twist of Fate
-1 Void Axe
-1 Voidsworn Apostle
-1 Wicked Pact
+1 Unstable Contract
+1 Void Capsule
+1 Void Cleric
+2 Void Spike
 10 Wilds of Atnia
+1 Zombie Ambush
+1 Zombie Summoner
 
 1 Golem
 1 Night Horror

@@ -1,61 +1,60 @@
-1 Airdrop
-1 Amatuer Illusionist
-1 Amnesia
+1 Alert the Knights
+1 Ancient Excavation
 1 Ancient Mentor
-1 Ancient Necromancer
-1 Annul
-1 BSOD
+1 Arbiter Marshal
+1 Arcane Imitation
 1 Burst of Speed
 1 Call to Arms
 1 Catch!
+1 Centrifuge
+1 Cloaked Mindmage
+1 Cordial Wall-Knight
 1 Countervailing Flames
 1 Distress Signal
 1 Electrolytes
-1 Escape to Dream
+1 Embargo
 1 Explosive Breakthrough
-1 Fireball
-1 Flashback Attack
+1 Flame Oracle
+1 Frank
+1 Frightening Arbiter
+1 Golem Nexus
 1 Grand Creation
 1 Knight's Familiar
 1 Knightly Mentor
-1 Knightly Reinforcements
-1 Lavasmith
+1 Liase of the Two Scrolls
 1 Liev Arbiter
 1 Loose Change
-1 Lunar Suppression
-1 Mind Trauma
-1 Nullify Magic
-1 Orb of Understanding
+1 Mystic Stone
+1 Novice Knight
+1 Outlands Cleric
 1 Outlands Commander
+1 Pax Nova Battlemage
 1 Pax Nova Directive
-1 Pax Nova Guardian
-1 Power of Antiquity
-1 Probable Rivalry
+1 Pentahedron Lightning
+1 Plasma Bolt
+1 Question Station
+2 Quick Thinking
 1 Quinn
-1 Recollect
-1 Sage of the Sun
+1 Sagittarii
 1 Scour the Ruins
+1 Scrap Merchant
 1 Seasonal Festeval
-9 See Beyond
-1 Set Ablaze
-1 Shifting Mirage
+7 See Beyond
+1 Skyknight
 1 Sorvald's Ignition
-1 Spectacular Sweep
-1 Spectral Reinforcements
-1 Speed Check
-1 Squish
-1 Steel Resolve
+1 Spectral Agent
+1 Stochastic Ignition
 1 Stronghold Directive
 1 Sunblade Knight
-1 The Dreamer
-1 Thingamajig
-1 Thorny Defense
-1 Traverse Dream
+1 Thunderous Fury
+1 Unimaginable Nightmare
 1 Unstable Core
-1 Vaudeville Hook
-1 Volcanic Vision
-1 Ward of Repellance
+1 Veteran Skyknight
+1 Void Shift
+1 Wave of Doubt
+1 Wicked Pyromancer
 10 Wilds of Atnia
+1 Wizard's Familiar
 1 Zelor Oldworld Directive
 
 1 Golem

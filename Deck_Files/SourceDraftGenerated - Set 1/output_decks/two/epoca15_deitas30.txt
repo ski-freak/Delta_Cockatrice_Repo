@@ -1,46 +1,49 @@
 1 Abominable Egg
 1 Annul
+1 Back Again
 1 Brag's Prison
-1 Coffee Trader
-1 Collective Knowledge
-1 Crystal Triangle
-1 Cursed Portal
+2 Catch!
+1 Consuming Ooze
+2 Cursed Portal
 1 Demon of Consumption
+1 Devouring Sphere
+1 Doomed Cleric
 1 Doomsday Prophet
-1 Elderly Monk
+1 Embargo
+1 Ethereal Mirage
+1 Eye for an Eye
 1 Faith Oldworld Directive
 1 Frostblade Adept
-2 Globe of 1000 Souls
-1 Healing Amulet
-1 Insane Guy
-1 Junior Adventurer
-1 Lisa
+1 Furious Sorcerer
+1 Globe of 1000 Souls
+1 Guardian Relic
+1 Interrupt
 1 Living Relic
-1 Mystic Stone
-2 Oln's Binding
-1 Out of Mind
-1 Ozen's Fury
+1 Loose Change
+1 Mysterious Cleric
+1 Oln's Binding
+1 Ozen's Temple
+1 Pale Sun's Influence
 1 Pax Seeker
-1 Power of Antiquity
-1 Question Station
+1 Pondering Cleric
+1 Potent Divination
+1 Profane Blessing
 1 Quick Thinking
-1 Quinn
 1 Remake
-1 Scour the Ruins
-6 See Beyond
-1 Shem's Binding
-1 Skyhaven Cannon
+1 Sage of the Sun
+5 See Beyond
+1 Spirit Guide
 1 Spiritual Awakening
 1 Squish
+1 Starlight Cleric
 1 Substitute
+1 Svet Scout
+1 Temple Artificer
 1 Temple Librarian
-1 Tomb Hunter
-1 Transcend
+1 Thingamajig
 1 Universal Stimulant
-2 Unnatural Disaster
-2 Vaudeville Hook
-2 Void Capsule
-1 Void Cleric
+1 Unnatural Disaster
+1 Wicked Pact
 8 Wilds of Atnia
 1 Zombie Egg
 

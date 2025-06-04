@@ -1,46 +1,50 @@
-1 Absolute Destruction
-1 Absorb
-1 Aggravating Scribe
-1 Annoying Scribe
-1 Annul
-1 Awakened Arbiter
-2 Bloodlust
+1 Bloodlust
 1 Borrow Time
-2 Catch!
-1 Centrifuge
-1 Clockwork Soldier
+1 Collective Knowledge
+1 Consume Flesh
+1 Dead on Arrival
+1 Death Elemental
 1 Dutiful Scribe
-1 Eager Explorer
-1 Energy Cell
-1 Essence of the Old World
-1 Familiar Shadow
-1 Gaston, Lekvian Squire
-1 Golem Nexus
+1 Earthquake
+1 Embargo
+1 Energy Drain
+1 Escaped Monster
+1 Esteemed Archivist
+1 Final Strike
+1 Frostblade Adept
 1 Helping Hands
+1 Hidden Giant
+1 Interrupt
 1 Intimidating Scribe
-1 Junior Adventurer
+1 Knowledge Collection
+1 Lekvian Butler
 1 Life Manipulation
-1 Loose Change
-1 Lost Tome
-1 Lunar Suppression
+1 Looming Overlord
+1 Lost in the Wilds
+1 Malicious Receptionist
 1 Mechanical Vampire
 1 Menacing Automaton
+1 Mystic Stone
+1 Oana's Divination
+1 Outlander's Familiar
+1 Outlast
 1 Pesky Scribe
 1 Prepared Scribe
-1 Quiet Mage
+1 Quagmire Elemental
+1 Quinn
 1 Ray of Scorn
 1 Remake
-1 Rosilie D'Avron
 1 Rugged Outlander
-1 Scrap Merchant
-6 See Beyond
-2 Sinkhole
-1 Siphon Power
-1 Sublimate
-1 The Calling
+1 Ruins Scavenger
+1 Savage Snare
+5 See Beyond
+1 Self Improver
+1 Sinkhole
+1 Sorvald's Insight
+1 Thingamajig
 1 Twilight Isle Directive
-2 Unfortunate Accident
-1 Volcanic Giant
+1 Vampire's Grasp
+1 Wild Vision
 8 Wilds of Atnia
 1 Workshop Automaton
 

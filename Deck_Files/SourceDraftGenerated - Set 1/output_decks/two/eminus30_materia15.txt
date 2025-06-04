@@ -1,48 +1,49 @@
 1 A Trick
-1 Absolute Destruction
-1 Absorb
 1 Alert the Knights
 1 Arbiter Medic
-1 BSOD
 1 Beckon Home
-1 Blood Bank
-1 Borrow Time
+1 Bloodlust
+1 Clockwork Soldier
+1 Consume Flesh
+1 Coordinated Assault
 1 Coordinated Defense
 1 Cordial Wall-Knight
-1 Defiant Scribe
 1 Desperate Arbiter
-1 Dominate Will
-1 Familiar Shadow
-1 Forgetful Arbiter
 1 Fost Feac Directive
-1 Gaston, Lekvian Squire
-1 Honorable Knight
+1 Frightening Arbiter
+1 Hidden Giant
+1 Injury to Insult
 1 Instant Shield
+1 Interfering Arbiter
+1 Intimidating Scribe
 1 Knight's Familiar
+1 Knightly Reinforcements
+1 Lekvian Traveler
+1 Liase of the Two Scrolls
+1 Liev Arbiter
 1 Mind Reader
-1 Nullify Magic
-1 Orb of Understanding
+1 Noddegamra
 1 Phantom Angel
+1 Prepared Scribe
 1 Resilient Knight
+1 Rosilie D'Avron
 1 Sagittarii
 1 Savage Snare
-6 See Beyond
+5 See Beyond
 1 Shifting Mirage
-2 Sinkhole
+1 Sinkhole
+1 Siphon Power
 1 Spectacular Sweep
+1 Spectral Agent
 1 Spectral Reinforcements
+1 Spire Hunter
 1 Steel Resolve
-1 Stunt Double
 1 Sublimate
 1 Sunblade Knight
-1 The Calling
-1 Thunder Knight
+1 Temporary Disappearance
 1 Try Again
 1 Tundra Arbiter
-1 Unfortunate Accident
-1 Vampiric Recovery
 1 Veteran Skyknight
-1 Vexing Scribe
 1 Ward of Repellance
 1 Wave of Doubt
 8 Wilds of Atnia

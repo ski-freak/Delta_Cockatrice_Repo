@@ -1,55 +1,57 @@
+1 Abominable Egg
+1 Aggravating Scribe
+1 Ancient Excavation
+1 Back Again
 1 Billy Bob
-1 Borrow Time
-2 Brag's Prison
-1 Cryptic Swan
+1 Blood Bank
+1 Brag's Prison
+1 Centrifuge
+1 Clockwork Soldier
+1 Contemplate
 1 David
-1 Devouring Sphere
-1 Devout Healer
-1 Doomsday Prophet
-1 Downtown Walk
-1 Energy Cell
+1 Death Elemental
+1 Eager Explorer
 1 Excavation Automaton
 1 Faith Materia Directive
 1 Faith Oldworld Directive
-1 Final Strike
+1 Familiar Shadow
+2 Final Strike
 1 Frostblade Adept
-1 Get Back In There
-1 Gift of Life
+1 Gaston, Lekvian Squire
 1 Globe of 1000 Souls
-1 Golem Conjurer
-1 Grim Librarians
-1 Healing Amulet
 1 Higher Purpose
-1 Injury to Insult
-1 Intimidating Scribe
-1 Lekvian Traveler
-1 Looming Overlord
-1 Lucy
-1 Lunar Suppression
-1 Menacing Automaton
-1 Mysterious Cleric
+1 Hourglass of Ages
+1 Junior Adventurer
+1 Knowledge Requisitioner
+1 Lekvian Butler
+1 Mindless Cleric
+1 Occult Harbinger
 1 Old Watch Scribe
-1 Oln's Binding
 1 Outlander's Familiar
 1 Pale Sun's Influence
 1 Pax Seeker
-1 Potent Divination
-1 Power of Antiquity
-1 Priest of Death
-2 Quick Thinking
-1 Quiet Mage
+1 Pax Valley Wyvern
+1 Pesky Scribe
+1 Prepared Scribe
+1 Procrastinate
+1 Profane Blessing
+1 Quick Thinking
 1 Ray of Scorn
-1 Search for Omnipotence
-9 See Beyond
-1 Siphon Power
-1 Stronghold Dispatch
+1 Relic Recovery
+1 Rugged Outlander
+1 Ruins Scavenger
+7 See Beyond
+1 Shem's Binding
+1 Skyhaven Cannon
+1 Squish
+1 Steven
 1 Substitute
+1 Temple Artificer
 1 Temple Librarian
-1 The Calling
 1 Twilight Isle Directive
-1 Unfortunate Accident
-2 Vaudeville Hook
-1 Void Cleric
+1 Universal Stimulant
+1 Vaudeville Hook
+1 Void Capsule
 10 Wilds of Atnia
 
 1 Golem

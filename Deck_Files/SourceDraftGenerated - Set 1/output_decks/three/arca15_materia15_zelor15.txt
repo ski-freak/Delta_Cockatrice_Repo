@@ -1,58 +1,56 @@
-1 A Difficult Choice
-1 Absolute Destruction
+1 Absence
 1 Apprentice Spellcaster
-1 Arcane Burst
-1 Arcane Chains
-1 Aton Battlemaster
-1 Become Large
+1 Arcane Revenant
 1 Blood Bank
-1 Bloodlust
 1 Burning Plain Directive
-1 Cursed Tomb
-1 Disappearing Orb
-1 Emotion Vampire
-1 Energy Drain
-1 Extreme Heat
+1 Clockwork Soldier
+1 Consume Flesh
+1 Dream of the Dead
+1 Dune Paladin
+1 Emissary of Fear
 1 Fated Return
-1 Flame Oracle
-1 Forgotten Hunter
-1 Forsaken Dreammage
-1 Fortress Automaton
-1 Gas Giant
-1 Golem Conjurer
-1 Healing Potion
+1 Flashback Attack
+1 Forsaken Cultist
+1 Frost Eruption
+1 Gaston, Lekvian Squire
+1 Guile
 1 Knight of the Moon
-1 Lekvian Butler
-1 Lekvian Vampire
+1 Knight of the Torch
+1 Lekvian Traveler
 1 Lentholm Directive
-1 Lore Dump
-1 Maddening Visions
-1 Mechanical Vampire
-1 Menacing Automaton
-1 Mysterious Mage
+1 Magic Trick
+1 Noddegamra
+1 Pact of Annihilation
 1 Pale Lich
+1 Pax Nova Battlemage
+1 Pax Nova Guardian
 1 Pentahedron Lightning
+1 Plasma Bolt
 1 Power from Beyond
+1 Recollect
+1 Rift Channeler
 1 Rift Fire
+2 Rift's Grasp
+1 Riftcursed Farmer
 1 Rosilie D'Avron
-1 Seasonal Festeval
-9 See Beyond
-1 Set Ablaze
-1 Siphon Power
+7 See Beyond
+1 Sinkhole
 1 Skyhaven Directive
-1 Spell Collector
-1 Terrifying Nightmare
-1 Thorny Defense
-1 Thunderous Fury
+1 Spire Hunter
+1 Steven
+1 Stochastic Ignition
 1 Twist of Fate
+2 Unfortunate Accident
 1 Vampire's Bite
-1 Void Drake
-1 Void Shift
-1 Walk the Plank
+1 Vampiric Recovery
+1 Vexing Scribe
+1 Void Axe
+1 Void Spike
+1 Wicked Pyromancer
 1 Wild Vision
 1 Wild Wizard
 10 Wilds of Atnia
-1 Workshop Automaton
+1 Wizard's Familiar
 
 1 Golem
 1 Night Horror

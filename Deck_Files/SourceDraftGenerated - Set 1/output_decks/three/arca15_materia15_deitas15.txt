@@ -1,59 +1,60 @@
-1 A Difficult Choice
 1 Absorb
 1 Aggravating Scribe
-1 Arcane Burst
-1 Astral Amulet
+1 Arcane Synthesizer
+1 Avatar of Terror
 1 Billy Bob
+1 Blood Bank
 1 Bloodlust
-1 Brag's Prison
-1 Burning Lich
 1 Call the Divine
-1 Consuming Ooze
+1 Cemetary Rift
+1 Coffee Trader
+1 Cosmic Justice
+1 Cursed Tomb
 1 David
+1 Death Elemental
+1 Deja Vu
 1 Divine Harmony
-1 Doomsday Prophet
-1 Downtown Walk
-1 Elderly Monk
-1 Energy Drain
+1 Doomed Cleric
+1 Dream of the Dead
+1 Enhance Spell
+1 Entwine Fates
+1 Escaped Monster
 1 Faith Materia Directive
-1 Forsaken Dreammage
+1 Fortress Automaton
+1 Fractal Prism
+1 Gaston, Lekvian Squire
+1 Giant Bat
 1 Globe of 1000 Souls
-1 Guardian Relic
-1 Healing Potion
 1 Higher Purpose
 1 Hymn to the Pale Sun
-1 Injury to Insult
-1 Lekvian Traveler
-1 Lore Dump
-1 Maddening Visions
+1 Knight of the Book
+1 Malicious Receptionist
+1 Manifest Fears
 1 Mechanical Vampire
-1 Mysterious Mage
-1 Nightfall
-1 Noddegamra
-1 Old Zombiemancer
-1 Oln's Binding
+1 Menacing Automaton
+1 Mysterious Cleric
+1 Ozen's Temple
 1 Pact of Eons
 1 Pale Lich
 1 Pale Mountain Directive
-1 Pale Sun's Influence
-1 Passive Income Scheme
-1 Pesky Scribe
 1 Power from Beyond
-1 Priest of Death
-1 Rift Ritual
-1 Rugged Outlander
-9 See Beyond
+1 Reawaken in Dream
+1 Relic Recovery
+1 Rift Surge
+1 Search for Omnipotence
+7 See Beyond
+1 Siphon Power
+1 Skyhaven Cannon
 1 Skyhaven Directive
+1 Sorvald's Insight
+1 Substitute
 1 Temple Artificer
-1 Unfortunate Accident
+1 Twist of Fate
+1 Unstable Contract
 1 Vampire's Grasp
 1 Vexing Scribe
-1 Visionary Artificer
-2 Void Capsule
-1 Void Cleric
-1 Void Drake
-1 Voidsworn Apostle
-1 Walk the Plank
+1 Visions of the End
+1 Wicked Pact
 10 Wilds of Atnia
 
 1 Golem

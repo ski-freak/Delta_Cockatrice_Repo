@@ -1,51 +1,50 @@
 1 Amatuer Illusionist
+1 Apprentice Spellcaster
 1 Avatar of Vosderon
 1 Back Again
-1 Battle Rage
-1 Brag's Prison
-1 Cosmic Justice
-2 Cursed Portal
+2 Brag's Prison
+1 Coffee Trader
+1 Combo Slice
+1 Cursed Portal
+1 Deja Vu
 1 Demon of Consumption
 1 Devouring Sphere
+1 Devout Healer
 1 Divine Favor
-1 Downtown Walk
-1 Eye for an Eye
-1 Fated Return
-1 Flame Oracle
+1 Doomed Cleric
+1 Doomsday Prophet
+1 Dune Paladin
+1 Embrace the Arcane
+1 Fire Channeler
 1 Forsaken Displacer
+2 Globe of 1000 Souls
 1 Guardian Relic
-1 Healing Amulet
-1 Inspired Cleric
-1 Knight of the Torch
-1 Lisa
-1 Mindseeker
-1 Mysterious Cleric
-1 Novice Knight
-1 Oln's Binding
+1 Knight of the Moon
+1 Lavasmith
+1 Magical Zenith
+1 Mindless Cleric
+1 Out of Mind
+1 Ozen's Fury
 1 Ozen's Temple
-1 Pentahedron Lightning
-1 Plasma Bolt
-1 Recollect
+1 Pale Sun's Influence
+1 Pax Nova Battlemage
+1 Pondering Cleric
 1 Search for Omnipotence
-6 See Beyond
-1 Serene Dove
+5 See Beyond
 1 Set Ablaze
-1 Shem's Binding
-2 Skyhaven Cannon
-1 Spirit of Monumentality
+3 Shem's Binding
 1 Stochastic Ignition
 1 Substitute
+1 Svet Scout
 1 Temple Artificer
-1 The Bringer
-1 Thunderous Fury
-1 Transcend
-2 Unnatural Disaster
-1 Void Capsule
+1 The Departed
+1 Traverse Dream
 1 Void Cleric
 1 Vosderon's Wrath
 8 Wilds of Atnia
 1 Wizard's Familiar
 1 Zelor Faith Directive
+1 Zombie Egg
 
 1 Golem
 1 Night Horror

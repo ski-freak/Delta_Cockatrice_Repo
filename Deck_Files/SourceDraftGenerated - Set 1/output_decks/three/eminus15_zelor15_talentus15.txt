@@ -1,61 +1,61 @@
-1 A Trick
+1 Amnesia
 1 Ancient Mentor
-1 Apprentice Spellcaster
-1 Beckon Home
+1 Arbiter Medic
+1 Become Large
+1 Burning Man
 1 Burst of Speed
+1 Call to Arms
 1 Cloaked Mindmage
-1 Contain
-1 Cordial Wall-Knight
-1 Desperate Arbiter
+1 Coordinated Assault
+1 Coordinated Defense
+1 Cruel Messenger
+1 Deadly Strike
 1 Dominate Will
 1 Dropkick
-1 Dune Paladin
+1 Embrace the Arcane
 1 Eminus Martial Directive
-1 Enterprising Merchant
 1 Explosive Breakthrough
-1 Extreme Heat
 1 Fire Channeler
-1 Fireball
-1 Forsaken Displacer
-1 Gregory
+1 Flank
+1 Forgotten Hunter
+1 Frightening Arbiter
+1 Henry
 1 Hunter's Hawk
-1 Improved Morale
 1 Infectious Fervor
-1 Investigate the Scene
+1 Infinity Vessel
 1 Invisible Wraith
 1 Knightly Mentor
-1 Legion Drill Sergeant
 1 Legion Pyromancer
-1 Liase of the Two Scrolls
 1 Liev Arbiter
+1 Magic Trick
+1 Magical Zenith
 1 Martial Zelor Directive
-1 Master Duelist
-1 Novice Zombiemancer
-1 Nullify Magic
-1 Oasis Giant
+1 Novice Law-Binder
 1 Pax Nova Directive
-1 Pax Nova Guardian
-1 Phantom Angel
-1 Radiating Force
-1 Scorched Earth
-9 See Beyond
+1 Pentahedron Lightning
+1 Reorganize
+7 See Beyond
 1 Set Ablaze
-1 Sorvald's Ignition
-1 Spectral Reinforcements
-1 Stockpile Manager
-1 Summon Ringer
-1 Sunblade Knight
+1 Spectral Agent
+1 Speed Check
+1 Steadfast Arbiter
+1 Stunt Double
 1 Swarm the Enemy
+1 Team Up
+1 Temporary Disappearance
 1 The Renegade
-1 Thought Extraction
-1 Traverse Dream
-1 Try Again
-1 Tundra Arbiter
+1 Thunder Knight
+1 Thunderous Fury
+1 Tower Thief
+1 Trail of the Nightmare
+1 Vicious Looter
 1 Volcanic Vision
-1 War Elephant
-1 Wicked Pyromancer
+1 Ward of Repellance
 10 Wilds of Atnia
+1 Wizard's Familiar
+1 Wolkk Twinspear
 1 Zombie Invasion
+1 Zombie Summoner
 
 1 Golem
 1 Night Horror
