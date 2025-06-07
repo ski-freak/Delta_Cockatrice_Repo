@@ -1,53 +1,52 @@
-1 Absolute Destruction
 1 Adapt
-1 Alexander
-1 Ambush
+1 Advanced Tactics
 1 Banner of Lentholm
-1 Bloodlust
-1 Bloodthirsty Warrior
-1 Bold Warrior
-1 Branching Paths
-1 Contain
-1 Dark Aperture
-1 Eager Explorer
+1 Battlefield Looter
+1 Clang-Blade Duelist
+1 Clockwork Duelist
+1 Conceal
+2 Deadly Strike
 1 Earthquake
-1 Emergency Supply Kit
-1 Ether Charge
+1 Energy Drain
+1 Filibuster Specialist
 1 Fortress Automaton
-1 George
-1 Improved Morale
-1 Isolated Archer
-1 Jasper
-1 Legion Drill Sergeant
-1 Legion Tactician
-1 Legion Warlock
-1 Lekvian Butler
-1 Lost in the Wilds
-1 Malicious Receptionist
-1 Martial Materia Directive
-1 Mechanical Vampire
-1 Menacing Automaton
-1 Novice Law-Binder
-1 Pesky Scribe
-1 Reorganize
-1 Rolead the Swift
-1 Rosilie D'Avron
-1 Rugged Outlander
+1 General Akkir
+1 General Falfar Kelwyn
+1 Heroic Moment
+1 Investigate the Scene
+1 Legion Courier
+1 Legion Mageslayer
+1 Legion Quartermaster
+1 Legion Sergeant
+1 Lekvian Vampire
+1 Lesser War Demon
+1 Long-Winded Orator
+1 Lopsided Truce
+1 Marla, Respected Chef
+1 Master Duelist
+1 Midnight Duel
+1 Militia Leader
+1 Ogre Tactician
+1 Ogre of Mnem
+1 Outlands Brawler
+1 Possessed Legionnaire
+1 Reserve Tactics
+1 Revenants of War
+1 Rockfall
+1 Salt Alliance Directive
 5 See Beyond
-1 Spare Violence
-1 Stronghold Guard
-2 Summon Ringer
+2 Siphon Strength
+1 Skyhaven Archer
+1 Sorvald's Insight
+1 Supply-Line Runner
 1 Swift Rescue
+1 Toglu
 1 Tower Thief
 1 Trade Insight
-1 Unfortunate Accident
 1 Valorous Triumph
-1 Vicious Looter
 1 War Elephant
-1 Warrior's Training
 8 Wilds of Atnia
-1 Zombie Invasion
-1 Zombie Summoner
+1 Yeo
 
 1 Golem
 1 Night Horror

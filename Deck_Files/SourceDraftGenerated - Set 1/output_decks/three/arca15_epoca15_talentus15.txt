@@ -1,59 +1,58 @@
-1 Adapt
-1 Ambush
+1 Absence
+1 Advanced Tactics
+1 Ancient Swordsmaster
 1 Annul
 1 Arcane War Cry
-1 Blood Channeler
-1 Cemetary Rift
+1 Aulvan Cypher
+1 Avatar of Terror
+1 Banner of Lentholm
+1 Battlefield Looter
+1 Bold Warrior
 1 Chaotic Whirlwind
-1 Construct Constructor
+1 Clang-Blade Duelist
+1 Clockwork Assembly
 1 Corpse Amalgam
-1 Deadly Strike
-1 Denise
-1 Doomed Legionnaire
-1 Esteemed Archivist
-1 Excavation Automaton
-1 Fractal Prism
-1 Frost Eruption
-1 Frostblade Adept
-1 Giant Dragonfly
-1 Gift of Life
-1 Golem Nexus
-1 Grim Librarians
-1 Guile
-1 Henry
-1 Hourglass of Ages
-1 Improved Morale
-1 Jane
-1 Lagoon Titan
-1 Legion Cannoneer
-1 Liev Grappler
+1 Corrupted River Spirit
+1 Crippling Shot
+1 Decode the Runes
+1 Disciple of Nyka
+1 Embargo
+1 Emissary of Fear
+1 Encroaching Inevitability
+1 Energy Cell
+1 Experienced Traveler
+1 General Falfar Kelwyn
+1 Giant Bat
+1 Heroic Moment
+1 Inspired Archaeologist
+1 Interrupt
+1 Legion Directive
+1 Legion Rider
 1 Manifest Fears
-1 Martial Arca Directive
-1 Nightfall
+1 Marla, Respected Chef
 1 Ogre Chronomancer
-1 Oldworld Martial Directive
-1 Outlander's Familiar
+1 Oguth of Mnem
+1 Pact of Annihilation
+1 Pale Prophet Zurani
 1 Pax Directive
-1 Return of the Vanished
-1 Return to the Earth
+1 Pax Valley Wyvern
+1 Read the Stars
+2 Reserve Tactics
+1 Restore Order
+1 Return to Dust
 1 Rift Channeler
+1 Rift Directive
+1 Rift Herald
 1 Riftcursed Farmer
-1 Round Two
+1 Rune of Antiquity
 7 See Beyond
-1 Starlight Cleric
-1 Stronghold Dispatch
-1 Swarm the Enemy
-1 The Doublemeister
-1 Trade Insight
 1 Twist of Fate
-1 Unstable Contract
-1 Vaudeville Hook
-1 Void Replication
+1 Void Snap
 1 Void Spike
+1 Voidsworn Apostle
 1 War Elephant
+1 Warden of the Portals
 10 Wilds of Atnia
-1 Zombie Ambush
-1 Zombie Invasion
 
 1 Golem
 1 Night Horror

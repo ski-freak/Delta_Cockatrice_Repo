@@ -1,51 +1,50 @@
-1 Absolute Destruction
-1 Absorb
+1 Alliance Berserker
+1 Alliance General
+1 Alliance Pyromancer
 1 Amnesia
-1 Annoying Scribe
-1 Burning Man
+1 Ancient Vampire
+1 Assembly Construct
+1 Bloodburst
+1 Clockwork Duelist
+1 Clockwork Soldier
 1 Consume Flesh
-1 Defiant Scribe
-1 Energy Drain
-1 Escape to Dream
+1 Councilor Corsovo
+1 Crackling Hurricane
+1 Devastating Landslide
+1 Earthquake
+1 Eruption
 1 Fated Return
-1 Final Strike
-1 Fire Channeler
+1 Filibuster Specialist
+1 Fire Shield
 1 Fireball
-1 Gaston, Lekvian Squire
-1 Isolated Archer
+1 Hired Hands
+1 Knight of the Moon
 1 Lekvian Vampire
 1 Lentholm Directive
-1 Library Raid
-1 Looming Overlord
-1 Lost in the Wilds
-1 Lucy
-1 Menacing Automaton
-1 Menacing Scribe
-1 Outlands Leader
-1 Pentahedron Lightning
+1 Logistics Expert
+1 Mud Golem
+1 Omen of Winter
 1 Plasma Bolt
 1 Prepared Scribe
-1 Quagmire Elemental
-1 Radiating Force
-1 Recollect
+2 Rockfall
 1 Rosilie D'Avron
+1 Rousing Tale
+1 Scrap Technician
+1 Scribe Tactician
 5 See Beyond
-1 Set Ablaze
-1 Siphon Power
-1 Sorvald's Insight
-1 Spire Hunter
-1 Steven
+1 Shadow of the Nightmare
+1 Shield of Earth
+1 Siphon Strength
+1 Skyhaven Archer
 1 Sublimate
-1 The Calling
-1 Trail of the Nightmare
-1 Unfortunate Accident
-1 Vampire's Grasp
+1 Sudden Drop
+1 Survivor Knight
+1 Thought Extraction
+1 Unstable Staff
 1 Vexing Scribe
-1 Volcanic Giant
-1 Volcanic Vision
-1 Wicked Pyromancer
-1 Wild Vision
+1 Watch Bureaucrat
 8 Wilds of Atnia
+1 Wizard's Familiar
 
 1 Golem
 1 Night Horror

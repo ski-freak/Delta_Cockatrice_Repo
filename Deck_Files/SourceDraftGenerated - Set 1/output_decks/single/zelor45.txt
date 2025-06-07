@@ -1,47 +1,47 @@
+1 Amatuer Illusionist
 1 Amnesia
-1 Arcane Imitation
-1 Aton Battlemaster
+1 Avatar of Defeat
 1 Battle Rage
-1 Burning Man
 1 Call to Arms
-1 Combo Slice
-1 Dune Paladin
-1 Embrace the Arcane
+1 Cleave
+1 Divergent Dreams
+1 Dream Haven
+1 Dream Jaunt
+1 Enlarge
 1 Eruption
 1 Escape to Dream
+1 Exposed Leyline
 1 Extreme Heat
 1 Fated Return
-1 Fire Channeler
-1 Fireball
+1 Fire Shield
+2 Fireball
 1 Flame Oracle
-1 Flashback Attack
-1 Forgotten Hunter
+1 Flaming Berserker
 1 Forsaken Displacer
+1 Forsaken Initiate
+1 Forsaken Loremaster
+1 Forsaken Reveller
 1 Journey Through Dream
-1 Knight of the Moon
 1 Knight of the Torch
 1 Knight of the Wheat
-1 Library Raid
-1 Magic Trick
-1 Mindseeker
+1 Omen of Winter
+1 Pale Zealot
 1 Pax Nova Battlemage
-1 Pax Nova Guardian
-2 Plasma Bolt
-1 Recollect
-1 Replenish
+1 Plasma Bolt
+1 Rousing Tale
 1 Scorched Earth
-1 Seasonal Festeval
+1 Scour the Signs
 3 See Beyond
-1 Set Ablaze
+1 Shadow of the Nightmare
+1 Sleep Eater
+1 Smoldering Embers
+1 Sorvald's Ignition
 1 Stochastic Ignition
-1 Thorny Defense
+1 Survivor Knight
 1 Thought Extraction
-1 Thunderous Fury
 1 Traverse Dream
-1 Unimaginable Nightmare
-1 Void Shift
-1 Volcanic Vision
-1 Wicked Pyromancer
+1 Unstable Staff
+1 Wildfire
 6 Wilds of Atnia
 1 Wizard's Familiar
 

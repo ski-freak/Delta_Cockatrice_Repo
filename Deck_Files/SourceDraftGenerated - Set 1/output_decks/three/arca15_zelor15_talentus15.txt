@@ -1,56 +1,57 @@
-1 Absence
-2 Adapt
-1 Arcane Synthesizer
+1 Amnesia
+1 Ancient Swordsmaster
 1 Arcane War Cry
-1 Avatar of Terror
-1 Battle Rage
-1 Bloodcrazed Knight
+1 Aulvan Writings
+1 Avatar of Defeat
+1 Blood Channeler
+1 Bold Warrior
 1 Burning Plain Directive
-1 Cemetary Rift
-1 Contain
-1 Dissociation
-1 Dune Paladin
-1 Emergency Supply Kit
-1 Enterprising Merchant
-1 Escape to Dream
-1 Ether Charge
-1 Extreme Heat
-1 Fireball
-1 Flashback Attack
-1 Force Field
-1 Giant Bat
+1 Commander Garis
+1 Conceal
+1 Crippling Shot
+1 Cursed Tomb
+1 Divergent Dreams
+1 Dream of the Dead
+1 Encroaching Inevitability
+1 Enlarge
+1 Exposed Leyline
+1 Fated Return
+1 Foretold Cataclysm
+1 Forsaken Displacer
+1 Forsaken Reveller
+1 Heretic of the Torch
+1 Heroic Moment
+1 Hostage Negotiations
+1 Inspired Charge
 1 Invisible Wraith
-1 Knight of the Book
-1 Lavasmith
+1 Legion Assassin
+1 Legion Courier
 1 Legion Pyromancer
-1 Legion Warlock
-1 Liev Warrior
-1 Manifest Fears
-1 Martial Arca Directive
-1 Martial Zelor Directive
-1 Myrkur Phantom
-1 Novice Law-Binder
-1 Pact of Annihilation
-1 Pale Prophet Zurani
-1 Recollect
-1 Recurring Nightmare
+1 Midnight Duel
+1 Pale Zealot
+1 Plasma Bolt
+1 Pull of the Abyss
 1 Reorganize
+1 Rift Cache
+1 Rift Channeler
+1 Rift Directive
 1 Rift Fire
-1 Rift Surge
+1 Rift's Grasp
+1 Rousing Tale
 1 Scorched Earth
+1 Seasonal Festeval
 7 See Beyond
-1 Send in the Zombies
-1 Stochastic Ignition
-1 Stronghold Guard
-1 Thought Extraction
-1 Thunderous Fury
-1 Traverse Dream
+2 Supply Logistics
+1 Tower Thief
+1 Twist of Fate
+1 Unstable Contract
+1 Unstable Staff
 1 Valorous Triumph
 1 Vampire's Bite
-1 Visions of the End
+1 Void Axe
 1 Void Spike
-1 War Elephant
-1 Wicked Pyromancer
+1 Voidsworn Apostle
+1 Wall Directive
 1 Wild Wizard
 10 Wilds of Atnia
 

@@ -1,59 +1,59 @@
-1 Absolute Destruction
-1 Absorb
-2 Adapt
-1 Aggravating Scribe
-1 Alexander
-1 Ancient Mentor
+1 Adapt
+1 Advanced Tactics
+1 Ambush
+1 Ancient Vampire
 1 Arbiter Marshal
-1 Arbiter Medic
-1 BSOD
-1 Battlehardened Soldier
-1 Borrow Time
-1 Desperate Arbiter
-1 Devastating Decoy
-1 Devout Arbiter
-1 Dropkick
+1 Arcane Shield
+1 Assembly Construct
+1 Banishment
+1 Battle Plans
+1 Bloodcaster
+1 Cloaked Inquisitor
+1 Clockwork Soldier
+1 Consume Flesh
+1 Crackling Hurricane
+1 Crippling Shot
 1 Eager Explorer
-1 Emergency Supply Kit
-1 Eminus Martial Directive
-1 Ether Charge
-1 Forgetful Arbiter
-1 Fost Feac Directive
-1 Frightening Arbiter
-1 George
-1 Hidden Giant
+1 Evasive Scribe
+1 Fortress Automaton
+1 General Akkir
+1 General's Directive
+1 Glyph of Summoning
 1 Honorable Knight
 1 Hunter's Hawk
-1 Infectious Fervor
-1 Jasper
-1 Knight's Familiar
+1 Inspiring Banner
 1 Legion Cannoneer
+1 Legion Drill Sergeant
+1 Lekvian Butler
+1 Lekvian Vampire
 1 Liev Arbiter
-1 Liev Warrior
-1 Lost in the Wilds
-1 Lucy
-1 Martial Materia Directive
+1 Logol of The Mirror
+1 Lopsided Truce
 1 Master Duelist
-1 Mind Reader
-1 Noddegamra
-1 Outlands Leader
-1 Priest of Death
-1 Reorganize
+1 Master Vennan
+1 No Retreat
+1 Novice Spellsealer
+1 Old Watch Directive
+1 Outlands Brawler
+1 Reserve Tactics
 1 Resilient Knight
-1 Rolead the Swift
-1 Savage Snare
+1 Retreating Slice
+1 Rewind
+1 Rockfall
+1 Salt Alliance Directive
+1 Scribe Tactician
 7 See Beyond
-1 Siphon Power
-1 Skyknight
-1 Sorvald's Insight
-1 Stunt Double
-1 Summon Ringer
-1 The Doublemeister
-1 Thunder Knight
-1 Tower Thief
-1 Unfortunate Accident
-1 Vicious Looter
+1 Skilled Lawmage
+1 Slow Magic
+1 Sound the Alarm
+2 Sudden Drop
+1 Swift Shieldmage
+1 Toglu
+1 Valorous Triumph
+1 War Elephant
 10 Wilds of Atnia
+1 Yeo
+1 Young Dragon Spider
 
 1 Golem
 1 Night Horror

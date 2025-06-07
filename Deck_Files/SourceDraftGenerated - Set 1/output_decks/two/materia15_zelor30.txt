@@ -1,48 +1,48 @@
-1 Absorb
-1 Aggravating Scribe
+1 Alliance Beastcaller
+1 Alliance Berserker
 1 Amatuer Illusionist
 1 Amnesia
 1 Ancient Vampire
-1 Apprentice Spellcaster
-1 Arcane Imitation
-1 Aton Battlemaster
-1 Battle Rage
-1 Become Large
-1 Burning Man
-1 Combo Slice
-1 Defiant Scribe
-1 Dune Paladin
-1 Dutiful Scribe
-1 Embrace the Arcane
+1 Avatar of Defeat
+1 Battlemaster of The Wall
+1 Bloodburst
+1 Call to Arms
+1 Clockwork Duelist
+1 Consume Flesh
+1 Divergent Dreams
+1 Dream Haven
+1 Dream Jaunt
+1 Earthquake
+1 Enlarge
 1 Eruption
+1 Farmland Defender
 1 Fated Return
-1 Fire Channeler
-2 Fireball
-1 Flame Oracle
-1 Flashback Attack
-1 Golem Conjurer
+1 Fire Shield
+1 Force Field
+1 Forsaken Initiate
+1 Forsaken Loremaster
+1 Forsaken Reveller
+1 Healing Potion
+1 Heretic of the Torch
 1 Journey Through Dream
-1 Knight of the Wheat
-1 Lavasmith
+1 Knight of the Moon
+1 Knight of the Torch
 1 Lekvian Vampire
 1 Lentholm Directive
-1 Magical Zenith
-1 Malicious Receptionist
-1 Mechanical Vampire
-1 Novice Knight
-1 Outlast
-1 Prepared Scribe
+1 Living Lightning
+1 Logistics Expert
+1 Omen of Winter
+1 Pax Nova Battlemage
+1 Plasma Bolt
+1 Reprise the Past
 1 Rugged Outlander
-1 Scorched Earth
+1 Seasonal Festeval
 5 See Beyond
 1 Sinkhole
 1 Stochastic Ignition
-1 The Calling
-1 Thunderous Fury
-1 Traverse Dream
-1 Unimaginable Nightmare
-1 Vampire's Grasp
-1 Void Shift
+2 Sublimate
+1 Survivor Knight
+1 Unstable Staff
 8 Wilds of Atnia
 1 Wizard's Familiar
 

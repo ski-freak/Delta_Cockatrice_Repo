@@ -1,59 +1,59 @@
-1 Absorb
-1 Adapt
-1 Alexander
-1 Ancient Excavation
-1 Annul
-1 Awakened Arbiter
-1 Banner of Lentholm
-1 Battlefield Commander
-1 Battlehardened Soldier
-1 Blood Bank
-1 Branching Paths
-1 Contain
-1 Cruel Messenger
-1 Crystal Triangle
-1 Dead on Arrival
-1 Dissociation
-1 Eager Explorer
-1 Ether Charge
+1 Alliance General
+1 Clockwork Assembly
+1 Counter
+1 Crackling Hurricane
+1 Crippling Shot
+1 Delayed Circuit
+1 Disciple of Nyka
+1 Embargo
+1 Energy Drain
+1 Evasive Scribe
 1 Excavation Automaton
-1 Final Strike
-1 Furious Sorcerer
-1 George
-1 Jane
-1 Jasper
-1 Legion Cannoneer
+1 Expedition Leader
+1 General Akkir
+1 Goblin Sharptooth
+1 Golem Nexus
+1 Inspired Archaeologist
+1 Legion Directive
+1 Legion Quartermaster
+1 Legion Rider
+1 Legion Scout
 1 Legion Warlock
-1 Liev Grappler
-1 Life Manipulation
-1 Looming Overlord
-1 Lunar Suppression
-1 Martial Materia Directive
-1 Mechanical Vampire
-1 Mirage Manufacturer
+1 Lekvian Butler
+1 Lost in The Borderwood
+1 Marla, Respected Chef
+1 Nomadic Orc
+1 Oana's Divination
+1 Obliterate
 1 Ogre Chronomancer
-1 Oldworld Martial Directive
-1 Pesky Scribe
-1 Prepared Scribe
-1 Probable Rivalry
-1 Ray of Scorn
-1 Remake
-1 Rolead the Swift
-1 Rosilie D'Avron
+1 Ogre Tactician
+1 Ogre of Mnem
+1 Oguth of Mnem
+1 Outlands Brawler
+1 Resourceful Cleric
+1 Restore Barrier
 1 Rugged Outlander
-1 Ruins Scavenger
+1 Rune of Antiquity
+1 Salt Alliance Directive
+1 Scavenged Munitions
+1 Scrap Technician
 7 See Beyond
-1 Self Improver
+1 Selfless Legionnaire
+1 Shield of Earth
 1 Sinkhole
-1 Siphon Power
-1 Starlight Cleric
-1 Stronghold Guard
+1 Skyhaven Archer
+1 Squelch
 1 Sublimate
-1 The Plan
+1 Toglu
 1 Trade Insight
-1 Train Station
 1 Twilight Isle Directive
+1 Vexing Scribe
+1 War Elephant
+1 Watch Quartermaster
+1 Whirring Contraption
 10 Wilds of Atnia
+1 Yeo
+1 Young Dragon Spider
 
 1 Golem
 1 Night Horror

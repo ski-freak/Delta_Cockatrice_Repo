@@ -1,56 +1,59 @@
-1 Absence
-1 Apprentice Spellcaster
+1 Amatuer Illusionist
+1 Amnesia
 1 Arcane Revenant
-1 Blood Bank
+1 Battle Rage
+1 Bloodburst
+1 Bloodcaster
 1 Burning Plain Directive
-1 Clockwork Soldier
+1 Caged Rift
+1 Cleave
 1 Consume Flesh
-1 Dream of the Dead
-1 Dune Paladin
-1 Emissary of Fear
-1 Fated Return
-1 Flashback Attack
-1 Forsaken Cultist
-1 Frost Eruption
-1 Gaston, Lekvian Squire
+1 Devastating Landslide
+1 Divergent Dreams
+1 Earthquake
+1 Enhance Spell
+1 Enlarge
+1 Entwine Fates
+1 Escape to Dream
+1 Farmland Defender
+1 Flaming Berserker
+1 Force Field
+1 Forsaken Loremaster
+1 Giant Dragonfly
 1 Guile
-1 Knight of the Moon
-1 Knight of the Torch
-1 Lekvian Traveler
+1 Healing Potion
+1 Hired Hands
+1 Lekvian Vampire
 1 Lentholm Directive
-1 Magic Trick
-1 Noddegamra
+1 Manifest Fears
+1 Ogre of Mnem
+1 Oruva Scout
 1 Pact of Annihilation
-1 Pale Lich
-1 Pax Nova Battlemage
-1 Pax Nova Guardian
-1 Pentahedron Lightning
-1 Plasma Bolt
-1 Power from Beyond
-1 Recollect
-1 Rift Channeler
+1 Pale Immortal
+1 Pale Prophet Zurani
+1 Pull of the Abyss
+1 Rift Cache
 1 Rift Fire
-2 Rift's Grasp
-1 Riftcursed Farmer
-1 Rosilie D'Avron
+1 Rift Summoning
+1 Rift's Grasp
+1 Scour the Signs
+1 Scrap Summoning
+1 Scrap Technician
 7 See Beyond
-1 Sinkhole
+1 Siphon Strength
+1 Skyhaven Archer
 1 Skyhaven Directive
-1 Spire Hunter
-1 Steven
-1 Stochastic Ignition
-1 Twist of Fate
-2 Unfortunate Accident
+1 Sudden Drop
+1 Survivor Knight
+1 Traverse Dream
+1 Unstable Staff
 1 Vampire's Bite
-1 Vampiric Recovery
-1 Vexing Scribe
-1 Void Axe
+1 Void Replication
 1 Void Spike
-1 Wicked Pyromancer
-1 Wild Vision
+1 Watch Bureaucrat
 1 Wild Wizard
+1 Wildfire
 10 Wilds of Atnia
-1 Wizard's Familiar
 
 1 Golem
 1 Night Horror

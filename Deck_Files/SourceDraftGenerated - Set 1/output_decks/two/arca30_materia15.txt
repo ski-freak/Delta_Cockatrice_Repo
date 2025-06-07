@@ -1,50 +1,51 @@
-1 Aggravating Scribe
+1 Absence
 1 Ancient Vampire
-1 Arcane Revenant
 1 Arcane Synthesizer
+1 Assembly Construct
 1 Aulvan Writings
-1 Avatar of Terror
-1 Blood Bank
-1 Bloodlust
+1 Blood Channeler
+1 Bloodcaster
+1 Bloodcrazed Knight
+1 Caged Rift
+1 Clockwork Guardian
 1 Corpse Amalgam
-1 Eager Explorer
+1 Councilor Corsovo
+1 Cursed Tomb
+1 Devastating Landslide
 1 Emissary of Fear
-1 Enhance Spell
-1 Escaped Monster
-1 Forsaken Cultist
+1 Encroaching Inevitability
+1 Energy Drain
+1 Forsaken Dreamweaver
+1 Giant Bat
 1 Giant Dragonfly
-1 Guile
-1 Hired Hands
 1 Illusory Chains
-1 Life Manipulation
-1 Lucy
+1 Leyline Summoning
+1 Lost in The Borderwood
 1 Manifest Fears
-1 Mechanical Vampire
-1 Nightfall
 1 Oruva Scout
 1 Pact of Annihilation
-1 Pale Lich
-1 Pale Prophet Zurani
-1 Power from Beyond
-1 Quagmire Elemental
+1 Pale Immortal
+1 Pull of the Abyss
+1 Recurring Nightmare
+1 Rift Cache
 1 Rift Screech
-1 Rift Surge
+1 Rift Summoning
 1 Rift Whispers
-1 Rift's Grasp
-1 Rosilie D'Avron
+2 Rift's Grasp
+1 Rugged Outlander
 1 Scrap Summoning
+1 Scrap Technician
 5 See Beyond
-1 Self Improver
+1 Shield of Earth
+1 Sinkhole
 1 Skyhaven Directive
-2 Twist of Fate
-1 Unfortunate Accident
+1 Sublimate
+1 Sudden Drop
 1 Unstable Contract
-1 Void Axe
 1 Void Drake
 1 Void Snap
 2 Void Spike
 1 Voidsworn Apostle
-1 Wild Vision
 8 Wilds of Atnia
 
 1 Golem

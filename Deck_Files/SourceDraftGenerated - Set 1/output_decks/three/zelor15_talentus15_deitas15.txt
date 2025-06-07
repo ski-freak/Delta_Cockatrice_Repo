@@ -1,61 +1,60 @@
-1 Amnesia
+1 Adapt
+1 Advance Supply Convoy
+1 Alliance Pyromancer
+1 Ambush
+1 Avatar of Defeat
 1 Avatar of Vosderon
-1 Back Again
-1 Banner of Lentholm
-1 Battlefield Commander
-1 Become Large
+1 Battle Rage
 1 Brag's Prison
-1 Coffee Trader
-1 Dark Aperture
-1 Deadly Strike
-1 Demon of Consumption
-1 Devout Healer
-1 Disappearing Orb
-1 Divine Favor
-1 Escape Artist
-1 Escape to Dream
-1 Faith Martial Directive
-1 Fervent Devotion
-1 Forsaken Displacer
-1 Globe of 1000 Souls
-1 Henry
-1 Heroic Moment
-1 Infinity Vessel
+1 Call to Arms
+1 Commander Garis
+2 Crippling Shot
+1 Decree of Peace
+2 Demon Chains
+1 Demonic Harbinger
+1 Desperate Stand
+1 Disciple of The Shattered Mirror
+1 Divergent Dreams
+1 Doomed Prophet
+1 Emergency Supply Kit
+1 Exposed Leyline
+1 Extreme Heat
+1 Fervent Ritual
+1 Fireball
+1 Flame Oracle
+1 Forsaken Initiate
+1 General Falfar Kelwyn
+1 Generous Merchant
 1 Invisible Wraith
-1 Lavasmith
-1 Legion Cannoneer
+1 Journey Through Dream
+1 Legion Mageslayer
 1 Legion Pyromancer
-1 Legion Warlock
-1 Martial Zelor Directive
-1 Mindseeker
-1 Nomadic Orc
-1 Novice Knight
-1 Oln's Binding
+1 Lesser War Demon
+1 Living Lightning
+1 Living Relic
+1 Master Duelist
+1 Midnight Duel
+1 Moon's Favor
+1 Noble Ancestor
+1 Ozen's Directive
 1 Ozen's Fury
-1 Ozen's Temple
-1 Reckless Sculptor
-1 Relic Recovery
-1 Scorched Earth
-1 Search for Omnipotence
+1 Pale Sun's Influence
+1 Plasma Bolt
+1 Prophet of Ozen
+1 Relic Channeler
+1 Revenants of War
 7 See Beyond
-1 Send in the Zombies
-1 Serene Dove
-1 Shem's Binding
-1 Stochastic Ignition
-1 Stockpile Manager
-1 Summon Ringer
-1 The Meatgrinder
-1 Thorny Defense
-1 Thought Extraction
-1 Trail of the Nightmare
-1 Traverse Dream
-1 Universal Stimulant
-1 Void Shift
+1 Selfless Cultist
+1 Shadow of the Nightmare
+1 Soul Shift
+1 Team Up
+1 Trade Insight
 1 Vosderon's Wrath
-1 Warrior's Training
+1 Wall Directive
+1 War Elephant
 10 Wilds of Atnia
-1 Zelor Faith Directive
-1 Zombie Summoner
+1 Wizard's Familiar
+1 Zoggir's Directive
 
 1 Golem
 1 Night Horror

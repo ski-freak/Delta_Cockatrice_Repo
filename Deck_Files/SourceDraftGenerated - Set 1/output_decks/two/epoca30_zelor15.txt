@@ -1,52 +1,53 @@
-1 Airdrop
-1 Aton Battlemaster
-1 Catch!
+1 Annul
+1 Antimagic Haze
+1 Avatar of Defeat
+1 Call to Arms
 1 Centrifuge
-1 Construct Constructor
-1 Countervailing Flames
-1 Cryptic Swan
-1 Dead on Arrival
-1 Electrolytes
-1 Embrace the Arcane
-1 Essence of the Old World
-1 Esteemed Archivist
+1 Chart the Possibilities
+1 Cleric of Hwain
+1 Clockwork Generator
+2 Condescend
+1 Counter
+1 Countervailing Force
+1 Depleted Relic
+1 Embargo
+1 Energy Cell
+1 Eruption
+1 Escape to Dream
 1 Excavation Automaton
-1 Fireball
-1 Flame Oracle
-1 Flashback Attack
-1 Forgotten Hunter
+1 Force Field
+1 Forsaken Chanter
+1 Gift of Life
+1 Glyph of Distress
+1 Glyph of Warding
+1 Golem Nexus
 1 Hourglass of Ages
-1 Interrupt
+1 Journey Through Dream
+1 Knight of the Moon
+1 Knight of the Torch
 1 Knight of the Wheat
-1 Knowledge Collection
-1 Knowledge Requisitioner
-1 Lunar Suppression
-1 Oana's Divination
-1 Outlander's Familiar
-1 Outlands Cleric
-1 Plasma Bolt
-1 Probable Rivalry
-1 Procrastinate
-2 Quick Thinking
-1 Recollect
-1 Recycling
-1 Replenish
-1 Return to the Earth
-1 Scour the Ruins
+1 Leyline Conduit
+1 Lightning Prophecy
+1 Lost Tome
+1 Mirage Glyph
+1 Old-World Scholar
+1 Overcharged Circuit
+1 Patriotic Directive
+1 Pax Nova Battlemage
+1 Read the Stars
+1 Resourceful Cleric
+1 Restore Barrier
+1 Return to Dust
+1 Rousing Tale
 5 See Beyond
-1 Starlight Cleric
-1 Storm Generator
+1 Smoldering Embers
+1 Sorvald's Ignition
+1 Squelch
 1 Stronghold Dispatch
-1 Thorny Defense
-1 Thought Extraction
-1 Trail of the Nightmare
-1 Train Station
 1 Unstable Core
-2 Vaudeville Hook
-1 Void Shift
-1 Wicked Pyromancer
+1 Whirring Contraption
 8 Wilds of Atnia
-1 Zelor Oldworld Directive
+1 Wizard's Familiar
 
 1 Golem
 1 Night Horror

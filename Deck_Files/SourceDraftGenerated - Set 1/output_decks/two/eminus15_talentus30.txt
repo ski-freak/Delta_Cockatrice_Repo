@@ -1,52 +1,54 @@
 1 Adapt
-1 Alert the Knights
+1 Advance Supply Convoy
+1 Advanced Tactics
 1 Ambush
-1 Ancient Mentor
-1 Battlefield Commander
+1 Ancient Swordsmaster
+1 Arcane Shield
 1 Beckon Home
 1 Bold Warrior
-1 Branching Paths
-2 Contain
-1 Cordial Wall-Knight
-2 Deadly Strike
-1 Desperate Arbiter
-1 Devout Arbiter
-1 Dropkick
-1 Eminus Martial Directive
-1 Frightening Arbiter
-1 Gregory
-1 Heroic Moment
+1 Clang-Blade Duelist
+1 Combat Necromancer
+1 Conceal
+1 Crippling Shot
+1 Cunning Arbiter
+1 Deadly Strike
+1 Defender of the Lake
+1 Experienced Traveler
+1 Feigned Weakness
+1 Flank
+1 General Falfar Kelwyn
+1 General's Directive
+1 Glyph of Summoning
+1 Honorable Knight
 1 Hunter's Hawk
-1 Infectious Fervor
-1 Interfering Arbiter
+1 Investigate the Scene
+1 Legion Assassin
+1 Legion Cannoneer
 1 Legion Courier
-1 Legion Drill Sergeant
+1 Legion Mageslayer
+1 Legion Rider
+1 Legion Tactician
+1 Lesser War Demon
 1 Liev Arbiter
-1 Liev Grappler
-1 Liev Warrior
 1 Master Duelist
-1 Nomadic Orc
-1 Novice Zombiemancer
-1 Orb of Understanding
-1 Round Two
+1 Midnight Duel
+1 No Retreat
+1 Noble Orator
+1 Ozen's Faithful
+1 Reserve Tactics
+1 Retreating Slice
+1 Revenants of War
 5 See Beyond
-1 Sneaky Assassin
-1 Spectacular Sweep
-1 Steadfast Arbiter
+1 Selfless Lawmage
+1 Selfless Legionnaire
+1 Slow Magic
+1 Stall
 1 Stronghold Guard
-1 Stunt Double
-1 Summon Ringer
-1 Swarm the Enemy
-1 Team Up
-1 The Renegade
-1 Try Again
-1 Tundra Arbiter
-1 Ward of Repellance
-1 Warmongerer
-1 Wave of Doubt
+1 Truce
+1 Valorous Triumph
+1 Warrior's Training
 8 Wilds of Atnia
-1 Zombie Ambush
-1 Zombie Invasion
+1 Wolkk Twinspear
 
 1 Golem
 1 Night Horror

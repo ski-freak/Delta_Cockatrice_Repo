@@ -1,59 +1,60 @@
-1 Absolute Destruction
-1 Aggravating Scribe
-1 Ancient Excavation
+1 Animate
 1 Annul
-1 Aulvan Writings
-1 Bloodcrazed Knight
-1 Bloodlust
-1 Borrow Time
+1 Arcane Revenant
+1 Aton Excavation
+1 Aulvan Cypher
+1 Bloodburst
+1 Caged Rift
+1 Cemetery Rift
 1 Chaotic Whirlwind
-1 Cryptic Swan
-1 Denise
+1 Cleric of Hwain
+1 Clockwork Generator
+1 Clockwork Guardian
+1 Corrupted River Spirit
+1 Crackling Hurricane
+1 Cursed Tomb
 1 Earthquake
-1 Embargo
-1 Encroaching Inevitability
-1 Familiar Shadow
-1 Final Strike
-1 Gaston, Lekvian Squire
-1 Golem Conjurer
-1 Helping Hands
+1 Energy Drain
+1 Evasive Scribe
+1 Fractal Prism
+1 Futuresight Ritual
+1 Giant Bat
+1 Giant Dragonfly
+1 Glyph of Warding
 1 Interrupt
-1 Lagoon Titan
-1 Loose Change
-1 Lost Tome
-1 Lost in the Wilds
-1 Menacing Automaton
-1 Menacing Scribe
-1 Myrkur Phantom
-1 Old Watch Scribe
+1 Lekvian Vampire
+1 Leyline Summoning
+1 Long-Winded Orator
+1 Manifest Fears
+1 Oana's Divination
+1 Obliterate
+1 Ogre of Mnem
+1 Old-World Scholar
 1 Oruva Scout
-1 Pact of Annihilation
-1 Pale Lich
+1 Outlander's Familiar
+1 Pale Immortal
 1 Pale Prophet Zurani
 1 Pax Directive
 1 Pax Valley Wyvern
-1 Power from Beyond
-1 Pull of the Abyss
-1 Ray of Scorn
-1 Recurring Nightmare
-1 Return of the Vanished
-1 Return to the Earth
-1 Rift Channeler
-1 Rift Screech
+1 Resourceful Cleric
+1 Rift Herald
+1 Rift Summoning
+1 Rosilie D'Avron
+1 Rugged Outlander
+1 Scrap Summoning
 7 See Beyond
-1 Siphon Power
+1 Siphon Strength
+1 Skyhaven Archer
 1 Skyhaven Directive
-1 Squish
-1 Starlight Cleric
-1 The Plan
 1 Twilight Isle Directive
-1 Vampire's Grasp
-1 Vaudeville Hook
-1 Visions of the End
+1 Twist of Fate
+1 Underground Station
 1 Void Axe
+1 Void Drake
+1 Void Replication
 1 Void Snap
-1 Voidsworn Apostle
 10 Wilds of Atnia
+1 Workshop Automaton
 
 1 Golem
 1 Night Horror

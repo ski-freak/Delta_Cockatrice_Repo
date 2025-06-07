@@ -1,49 +1,53 @@
+1 Angelic Apparition
 1 Arbiter Marshal
-1 Arbiter Medic
+1 Arcane Shield
 1 Arcane Tower
-1 BSOD
-1 Back Again
-3 Brag's Prison
-1 Consuming Ooze
-1 Coordinated Assault
-1 Dark Apostle
-1 Deja Vu
-1 Desperate Arbiter
-1 Doomed Cleric
-1 Downtown Walk
-1 Eminus Faith Directive
+1 Beseech the Gods
+1 Blessed Harvest
+1 Brag's Prison
+1 Cosmic Justice
+1 Defender of the Lake
+1 Demon of Consumption
+1 Demonic Bargain
+1 Demonic Harbinger
+1 Devout Knight
+1 Disciple of The Shattered Mirror
+1 Divine Intervention
+1 Ethereal Voice
 1 Evacuation
-1 Guardian Relic
-1 Healing Amulet
+1 Fallen Angel
+1 Generous Merchant
+1 Glyph of Alarm
 1 Honorable Knight
 1 Imposing Presence
-1 Inspired Cleric
-1 Mindless Cleric
-1 Mysterious Cleric
-2 Oln's Binding
+1 Inquisitor's Directive
+1 Logol of The Mirror
+1 Noble Ancestor
+1 Nullify Magic
+1 Oln's Chosen
 1 Ozen's Fury
 1 Ozen's Temple
 1 Pale Sun's Influence
-1 Profane Blessing
-1 Sagittarii
-1 Search for Omnipotence
+1 Reawaken in Dream
+1 Reforge in Flame
+1 Relic Scavenger
+1 Rewind
+2 Search for Omnipotence
 5 See Beyond
-2 Shem's Binding
-1 Shifting Mirage
-2 Skyhaven Cannon
-1 Spectral Agent
-1 Spectral Reinforcements
-1 Speed Check
+1 Selfless Cultist
+1 Shem's Binding
+1 Slow Magic
+1 Soul Shift
+1 Spark of Divinity
 1 Steel Resolve
 1 Sunblade Knight
+1 Symbol of Hwain
+1 Symbol of Vosderon
+1 Ta's Sight
 1 Temple Artificer
-1 The Departed
-1 Tomb Hunter
-1 Veteran Skyknight
-1 Void Capsule
+1 Tome of Knowledge
+1 Truce
 8 Wilds of Atnia
-1 Wolkk Twinspear
-1 Zombie Egg
 
 1 Golem
 1 Night Horror

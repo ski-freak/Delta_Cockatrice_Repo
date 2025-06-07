@@ -1,53 +1,51 @@
-1 Amatuer Illusionist
-1 Apprentice Spellcaster
+1 Amnesia
 1 Arcane Revenant
-1 Aton Battlemaster
 1 Battle Rage
+1 Battlemaster of The Wall
 1 Burning Plain Directive
-1 Cemetary Rift
-1 Embrace the Arcane
-1 Emissary of Fear
+1 Divergent Dreams
+1 Dream Haven
+1 Enlarge
 1 Eruption
 1 Escape to Dream
 1 Extreme Heat
-1 Fire Channeler
+2 Fireball
 1 Flame Oracle
+1 Flaming Berserker
 1 Force Field
+1 Foretold Cataclysm
+1 Forsaken Chanter
+1 Forsaken Cultist
 1 Forsaken Displacer
-1 Forsaken Dreamweaver
-1 Frost Eruption
+1 Forsaken Loremaster
+1 Giant Bat
 1 Giant Dragonfly
-1 Journey Through Dream
-1 Knight of the Book
 1 Knight of the Moon
-1 Library Raid
-1 Manifest Fears
-1 Mindseeker
-1 Novice Knight
-1 Pale Prophet Zurani
-1 Pax Nova Battlemage
-1 Pax Nova Guardian
-1 Pentahedron Lightning
+1 Knight of the Torch
+1 Knight of the Wheat
+1 Nightfall
 1 Plasma Bolt
-1 Radiating Force
-1 Replenish
 1 Rift Fire
 1 Rift Whispers
-1 Rift's Grasp
-1 Seasonal Festeval
+2 Rift's Grasp
+1 Rousing Tale
+1 Scorched Earth
+1 Scour the Signs
 5 See Beyond
-1 Set Ablaze
-1 Sorvald's Ignition
 1 Stochastic Ignition
-1 Trail of the Nightmare
-1 Traverse Dream
+1 Survivor Knight
+1 Thought Extraction
 1 Twist of Fate
+1 Unstable Staff
 1 Vampire's Bite
+1 Void Axe
 1 Void Replication
+1 Void Snap
 2 Void Spike
-1 Volcanic Vision
 1 Wild Wizard
+1 Wildfire
 8 Wilds of Atnia
+1 Wizard's Familiar
 
 1 Golem
 1 Night Horror

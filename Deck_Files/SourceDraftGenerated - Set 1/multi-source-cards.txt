@@ -11,96 +11,96 @@ Malfunctioning Law
 ---Arca-Deitas
 Pale Mountain Directive
 Hymn to the Pale Sun
-Pact of Eons
-Divine Harmony
+Pact of Aeons
+Balance the Cosmos
 ---Zelor-Eminus
 Burst of Speed
 Explosive Breakthrough
 Pax Nova Directive
 Knightly Mentor
 ---Zelor-Deitas
-Zelor Faith Directive
-Divine Favor
+Ozen's Directive
+Moon's Favor
 Vosderon's Wrath
 Avatar of Vosderon
 ---Zelor-Epoca
-Zelor Oldworld Directive
-Countervailing Flames
-Electrolytes
+Patriotic Directive
+Countervailing Force
+Lightning Prophecy
 Unstable Core
 ---Eminus-Deitas
-Eminus Faith Directive
+Inquisitor's Directive
 Imposing Presence
 Evacuation
 Arcane Tower
 ---Eminus-Epoca
 Stronghold Directive
 Outlands Commander
-Grand Creation
-Distress Signal
+Avatar of the Winds
+Knight's Glyph
 ---Eminus-Talentus
-Dropkick
-Eminus Martial Directive
+Retreating Slice
+General's Directive
 Hunter's Hawk
-Infectious Fervor
+No Retreat
 ---Deitas-Epoca
-Faith Oldworld Directive
+Veriglas Directive
 Temple Librarian
 Pax Seeker
-
+Shard of The Mirror
 ---Deitas-Talentus
-Faith Martial Directive
-Fervent Devotion
-Escape Artist
-The Meatgrinder
+Zoggir's Directive
+Fervent Ritual
+Relic Channeler 
+Desperate Stand
 ---Deitas-Materia
-Faith Materia Directive
-Billy Bob
-David
-Higher Purpose
+Mnem Directive
+Kindling Mage
+Rash Chieftain
+Anvil of Souls
 ---Epoca-Talentus
-Oldworld Martial Directive
-Jane
+Legion Directive
+Disciple of Nyka
 Ogre Chronomancer
 
 ---Epoca-Materia
 Twilight Isle Directive
-Ray of Scorn
+Obliterate
 
 
 ---Epoca-Arca
 Pax Directive
-Lagoon Titan
+Corrupted River Spirit
 Chaotic Whirlwind
-Denise
+Rift Herald
 ---Talentus-Materia
-Martial Materia Directive
-George
-Alexander
-Jasper
+Salt Alliance Directive
+Toglu
+General Akkir
+Yeo
 ---Talentus-Arca
-Martial Arca Directive
+Rift Directive
 Arcane War Cry
 
 
 ---Talentus-Zelor
-Martial Zelor Directive
+Wall Directive
 Legion Pyromancer
 Invisible Wraith
-
+Commander Garis
 ---Materia-Arca
 Skyhaven Directive
-Power from Beyond
-Pale Lich
-
+Caged Rift
+Pale Immortal
+Rift Summoning
 ---Materia-Zelor
 
 Lentholm Directive
 
 
 ---Materia-Eminus
-Mind Reader
-Fost Feac Directive
+Master Vennan
+Old Watch Directive
 
 
 

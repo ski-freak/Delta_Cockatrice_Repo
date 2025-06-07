@@ -1,59 +1,60 @@
-1 Absolute Destruction
-1 Alexander
-1 Ambush
-1 Arcane Historian
+1 Absence
+1 Adapt
+1 Alliance Beastcaller
 1 Arcane Revenant
-1 Arcane Synthesizer
 1 Arcane War Cry
 1 Avatar of Terror
-1 Blood Bank
-1 Bloodlust
+1 Banner of Lentholm
+1 Blood Channeler
+1 Bloodcrazed Knight
+1 Caged Rift
+1 Clockwork Duelist
+1 Conceal
+1 Corpse Amalgam
+1 Councilor Corsovo
+1 Crackling Hurricane
+1 Crippling Shot
 1 Cursed Tomb
-1 Deadly Strike
-1 Death Elemental
-1 Doomed Legionnaire
-1 Enhance Spell
+1 Encroaching Inevitability
+1 Experienced Traveler
 1 Forsaken Cultist
-1 George
-1 Heroic Moment
-1 Hidden Giant
-1 Jasper
-1 Legion Courier
-1 Legion Tactician
-1 Life Manipulation
-1 Malicious Receptionist
-1 Manifest Fears
-1 Martial Arca Directive
-1 Martial Materia Directive
-1 Myrkur Phantom
+1 Fortress Automaton
+1 Fractal Prism
+1 General Akkir
+1 Hired Hands
+1 Legion Drill Sergeant
+1 Legion Infiltrator
+1 Legion Messenger
+1 Legion Quartermaster
+1 Legion Rider
+1 Lekvian Butler
+1 Logistics Expert
+1 Master Duelist
 1 Nightfall
-1 Oasis Giant
-1 Old Watch Scribe
-1 Pale Lich
-1 Pesky Scribe
-1 Power from Beyond
-1 Priest of Death
+1 Ogre Tactician
+1 Ogre of Mnem
+1 Pale Immortal
+1 Prepared Scribe
+1 Revenants of War
+1 Rift Directive
+1 Rift Summoning
+1 Rift Whispers
 1 Riftcursed Farmer
 1 Rosilie D'Avron
+1 Salt Alliance Directive
+1 Scrap Technician
 7 See Beyond
-1 Send in the Zombies
+1 Siphon Strength
 1 Skyhaven Directive
-1 Spare Violence
-1 Spire Hunter
-1 Steadfast Arbiter
-1 Steven
+1 Sorvald's Insight
 1 Stronghold Guard
-1 Summon Ringer
-1 The Renegade
-1 Unfortunate Accident
-1 Unstable Contract
-1 Vexing Scribe
-1 Visions of the End
-1 Void Drake
-1 Voidsworn Apostle
-1 Warmongerer
+1 Toglu
+1 Tower Thief
+1 Void Axe
+1 Void Spike
 10 Wilds of Atnia
-1 Zombie Ambush
+1 Yeo
+1 Young Dragon Spider
 
 1 Golem
 1 Night Horror

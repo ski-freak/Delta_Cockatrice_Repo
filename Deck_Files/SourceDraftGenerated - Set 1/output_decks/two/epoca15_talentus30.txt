@@ -1,52 +1,53 @@
 1 Adapt
-1 Airdrop
-1 Ancient Excavation
-1 Ancient Necromancer
-1 Annul
-1 Banner of Lentholm
-1 Bloodthirsty Warrior
-1 Construct Constructor
-1 Contemplate
-1 Dark Aperture
+1 Advanced Tactics
+1 Battlefield Looter
+1 Battlefield Rift
+1 Chart the Possibilities
+1 Conceal
+1 Crippling Shot
 1 Deadly Strike
-1 Devout Arbiter
-1 Dissociation
-1 Enterprising Merchant
-1 Ether Charge
-1 Flank
-1 Frank
-1 Gregory
-1 Henry
-1 Heroic Moment
-1 Jane
+1 Delayed Circuit
+1 Disciple of Nyka
+1 Expedition Leader
+1 Hindsight Crystal
+1 Hourglass of Ages
+1 Inspired Charge
+1 Interrupt
+1 Legion Assassin
+1 Legion Chevalier
 1 Legion Courier
-1 Legion Tactician
-1 Liev Grappler
-1 Midnight Duel
-1 Mirage Manufacturer
-1 Nomadic Orc
-1 Novice Zombiemancer
-1 Oasis Giant
+1 Legion Directive
+1 Legion Drill Sergeant
+1 Legion Mageslayer
+1 Legion Rider
+1 Legion Scout
+1 Legion Sergeant
+1 Leyline Conduit
+1 Lopsided Truce
+1 Master Duelist
 1 Ogre Chronomancer
-1 Oldworld Martial Directive
-1 Outlands Cleric
-1 Quick Thinking
-1 Remake
+1 Pale Sun Initiate
+1 Pax Valley Wyvern
+1 Reorganize
+1 Restore Barrier
+1 Return to Dust
 1 Rolead the Swift
-1 Round Two
-1 Scour the Ruins
-1 Scrap Merchant
+1 Rune of Antiquity
+1 Scavenged Munitions
+1 Scrap Compactor
+1 Seasoned Arbiter
 5 See Beyond
-1 Spare Violence
-1 Stockpile Manager
-1 Stronghold Dispatch
-1 Summon Ringer
-1 Team Up
-2 Tower Thief
+1 Selfless Legionnaire
+1 Supply Logistics
+1 Swift Rescue
+1 Tower Thief
 1 Trade Insight
-1 Train Station
+1 Underground Station
+1 Valorous Triumph
 1 War Elephant
+1 Warrior's Training
 8 Wilds of Atnia
+1 Young Dragon Spider
 
 1 Golem
 1 Night Horror

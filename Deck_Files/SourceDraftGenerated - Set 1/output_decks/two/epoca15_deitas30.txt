@@ -1,51 +1,52 @@
-1 Abominable Egg
-1 Annul
-1 Back Again
-1 Brag's Prison
-2 Catch!
-1 Consuming Ooze
-2 Cursed Portal
-1 Demon of Consumption
-1 Devouring Sphere
-1 Doomed Cleric
-1 Doomsday Prophet
-1 Embargo
-1 Ethereal Mirage
+1 Aulvan Cypher
+2 Brag's Prison
+1 Call of Destiny
+1 Centrifuge
+1 Chart the Possibilities
+1 Clockwork Generator
+1 Cynical Relic-Caster
+1 Dark Apostle
+1 Demon Chains
+1 Demonic Bargain
+1 Devout Healer
+2 Divine Intervention
+1 Doomed Prophet
+1 Embrace the Ephemeral
+1 Ephemerality Caster
 1 Eye for an Eye
-1 Faith Oldworld Directive
-1 Frostblade Adept
-1 Furious Sorcerer
-1 Globe of 1000 Souls
-1 Guardian Relic
+1 Fallen Angel
+1 Generous Merchant
+1 Healing Amulet
+1 Hourglass of Ages
+1 Inquisitor's Cage-Charm
 1 Interrupt
 1 Living Relic
-1 Loose Change
-1 Mysterious Cleric
-1 Oln's Binding
-1 Ozen's Temple
-1 Pale Sun's Influence
+1 Oguth of Mnem
+1 Ozen's Fury
 1 Pax Seeker
-1 Pondering Cleric
-1 Potent Divination
+1 Priest of Calamity
+1 Priest of Vosderon
 1 Profane Blessing
-1 Quick Thinking
-1 Remake
-1 Sage of the Sun
+1 Relic Recovery
+1 Relic Scavenger
+1 Resourceful Cleric
+1 Restore Barrier
 5 See Beyond
+1 Serene Dove
+1 Shard of The Mirror
+1 Spark of Divinity
 1 Spirit Guide
 1 Spiritual Awakening
-1 Squish
-1 Starlight Cleric
-1 Substitute
-1 Svet Scout
-1 Temple Artificer
+1 Stare into the Sun
+1 Stronghold Dispatch
+1 Symbol of Vosderon
 1 Temple Librarian
-1 Thingamajig
-1 Universal Stimulant
-1 Unnatural Disaster
-1 Wicked Pact
+1 Tower Mage
+1 Undying Duty
+1 Veriglas Directive
 8 Wilds of Atnia
-1 Zombie Egg
+1 Will o' the Wisp
+1 Wizened Cleric
 
 1 Golem
 1 Night Horror

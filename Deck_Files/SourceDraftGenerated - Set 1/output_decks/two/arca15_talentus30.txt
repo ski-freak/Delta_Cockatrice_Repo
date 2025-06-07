@@ -1,50 +1,52 @@
-1 Arcane Revenant
+1 Adapt
+1 Advanced Tactics
+1 Arcane Synthesizer
 1 Arcane War Cry
-1 Aulvan Writings
-1 Battlefield Commander
-1 Battlehardened Soldier
+1 Banner of Lentholm
+1 Battlefield Looter
 1 Bold Warrior
-1 Contain
-1 Cruel Messenger
-2 Deadly Strike
-2 Devout Arbiter
-1 Doomed Legionnaire
+1 Cemetery Rift
+1 Crippling Shot
+1 Cursed Tomb
 1 Dream of the Dead
-1 Emergency Supply Kit
-1 Enhance Spell
-1 Ether Charge
-1 Flank
-1 Forsaken Dreamweaver
-1 Guile
-1 Heroic Moment
+1 Experienced Traveler
+1 Giant Dragonfly
+1 Hostage Negotiations
 1 Illusory Chains
-1 Improved Morale
-1 Knight of the Book
+1 Inspired Charge
+1 Legion Assassin
 1 Legion Cannoneer
-1 Legion Tactician
-1 Legion Warlock
-1 Martial Arca Directive
-1 Myrkur Phantom
-1 Nomadic Orc
+1 Legion Courier
+1 Legion Mageslayer
+1 Legion Messenger
+1 Legion Quartermaster
+1 Legion Rider
+1 Legion Scout
+1 Legion Sergeant
+1 Lesser War Demon
+1 Lopsided Truce
+1 Oruva Scout
+1 Outlands Brawler
+1 Pale Prophet Zurani
+1 Possessed Legionnaire
 1 Reorganize
+1 Reserve Tactics
+1 Revenants of War
+1 Rift Channeler
+1 Rift Directive
 1 Rift Surge
-1 Rift Whispers
 1 Rift's Grasp
-1 Rolead the Swift
-1 Scrap Summoning
+1 Riftcursed Farmer
+1 Scavenged Munitions
 5 See Beyond
-1 Stash Away
-1 Steadfast Arbiter
-1 Stockpile Manager
-1 Summon Ringer
-1 The Renegade
+1 Swift Rescue
 1 Tower Thief
-1 Trade Insight
-1 Void Snap
-1 Voidsworn Apostle
-1 Warrior's Training
+1 Twist of Fate
+1 Visions of the End
+1 Void Drake
+1 War Elephant
+1 Watch Quartermaster
 8 Wilds of Atnia
-1 Zombie Summoner
 
 1 Golem
 1 Night Horror

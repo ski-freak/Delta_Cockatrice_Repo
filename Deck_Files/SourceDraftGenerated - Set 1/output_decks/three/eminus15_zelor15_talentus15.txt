@@ -1,61 +1,62 @@
-1 Amnesia
-1 Ancient Mentor
-1 Arbiter Medic
-1 Become Large
-1 Burning Man
+1 Apprentice Arbiter
+1 Beckon Home
 1 Burst of Speed
-1 Call to Arms
-1 Cloaked Mindmage
-1 Coordinated Assault
-1 Coordinated Defense
-1 Cruel Messenger
-1 Deadly Strike
-1 Dominate Will
-1 Dropkick
-1 Embrace the Arcane
-1 Eminus Martial Directive
+1 Cleave
+1 Combat Necromancer
+1 Commander Garis
+1 Crippling Shot
+1 Defender of the Lake
+1 Dream Haven
+1 Dream Jaunt
+1 Efficient Arbiter
+1 Eruption
 1 Explosive Breakthrough
-1 Fire Channeler
+1 Extreme Heat
 1 Flank
-1 Forgotten Hunter
-1 Frightening Arbiter
-1 Henry
+1 Force Field
+1 General's Directive
+1 Glyph of Sending
+1 Glyph of Summoning
+1 Heroic Moment
 1 Hunter's Hawk
-1 Infectious Fervor
-1 Infinity Vessel
 1 Invisible Wraith
+1 Knight of the Moon
+1 Knight of the Torch
+1 Knight of the Wheat
 1 Knightly Mentor
+1 Legion Chevalier
+1 Legion Drill Sergeant
 1 Legion Pyromancer
 1 Liev Arbiter
-1 Magic Trick
-1 Magical Zenith
-1 Martial Zelor Directive
-1 Novice Law-Binder
+1 Midnight Duel
+1 Militia Leader
+1 No Retreat
+1 Noble Orator
+1 Novice Spellsealer
 1 Pax Nova Directive
-1 Pentahedron Lightning
+1 Plasma Bolt
+1 Possessed Legionnaire
+1 Prodigal Champion
+1 Recollect
 1 Reorganize
+1 Retreating Slice
+1 Rousing Tale
+1 Royal Decoy
 7 See Beyond
-1 Set Ablaze
-1 Spectral Agent
-1 Speed Check
-1 Steadfast Arbiter
-1 Stunt Double
-1 Swarm the Enemy
-1 Team Up
-1 Temporary Disappearance
-1 The Renegade
-1 Thunder Knight
+1 Selfless Legionnaire
+1 Skilled Lawmage
+1 Stall
+1 Steel Resolve
+1 Swift Rescue
+1 Thought Extraction
 1 Thunderous Fury
-1 Tower Thief
-1 Trail of the Nightmare
-1 Vicious Looter
-1 Volcanic Vision
-1 Ward of Repellance
+1 Tome of Knowledge
+1 Traverse Dream
+1 Valorous Triumph
+1 Wall Directive
+1 War Elephant
+1 Warrior's Training
 10 Wilds of Atnia
-1 Wizard's Familiar
-1 Wolkk Twinspear
-1 Zombie Invasion
-1 Zombie Summoner
 
 1 Golem
 1 Night Horror

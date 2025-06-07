@@ -1,52 +1,52 @@
-1 A Trick
-1 Alert the Knights
-1 Ancient Mentor
+1 Annul
+1 Apprentice Arbiter
 1 Arbiter Marshal
-1 Arbiter Medic
-1 BSOD
+1 Arcane Archer
+1 Arcane Shield
+1 Avatar of the Winds
+1 Banishment
 1 Beckon Home
-1 Cloaked Mindmage
-1 Contemplate
-1 Coordinated Assault
-1 Coordinated Defense
-1 Cordial Wall-Knight
-1 Cryptic Swan
-1 Desperate Arbiter
-1 Distress Signal
-1 Dominate Will
-1 Embargo
-1 Frostblade Adept
-1 Grand Creation
+1 Clockwork Assembly
+1 Clockwork Generator
+1 Command
+1 Defender of the Gate
+1 Depleted Relic
+1 Efficient Arbiter
+1 Expedition Leader
+1 False Orders
+1 Feigned Weakness
+1 Glyph of Alarm
+1 Glyph of Summoning
+1 Glyph of Warding
+1 Hindsight Crystal
 1 Honorable Knight
-1 Hourglass of Ages
-1 Interfering Arbiter
-1 Interrupt
-1 Junior Adventurer
+1 Inspired Archaeologist
+1 Knight's Familiar
+1 Knight's Glyph
 1 Knightly Reinforcements
 1 Liase of the Two Scrolls
-1 Lunar Suppression
-1 Mind Trauma
+1 Liev Arbiter
+1 Noble Orator
+1 Oana's Divination
+1 Oguth of Mnem
 1 Outlander's Familiar
 1 Outlands Commander
-1 Phantom Angel
-1 Quick Thinking
-1 Remake
-1 Ruins Scavenger
-1 Sagittarii
-1 Scrap Merchant
+1 Ozen's Faithful
+1 Pale Sun Initiate
+1 Prodigal Champion
+1 Resilient Knight
+1 Righteous Edict
+1 Royal Decoy
 5 See Beyond
-1 Shifting Mirage
-1 Spectacular Sweep
+1 Skilled Lawmage
 1 Spectral Agent
-1 Speed Check
-1 Starlight Cleric
-1 Steel Resolve
+1 Squelch
 1 Stronghold Directive
 1 Sunblade Knight
-1 Temporary Disappearance
-1 Train Station
-1 Veteran Skyknight
-1 Wave of Doubt
+1 Tome of Knowledge
+1 Tower Mage
+1 Truce
+1 Underground Station
 8 Wilds of Atnia
 1 Wolkk Twinspear
 

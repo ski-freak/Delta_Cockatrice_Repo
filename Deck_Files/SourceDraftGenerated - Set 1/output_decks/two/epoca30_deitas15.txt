@@ -1,53 +1,52 @@
-1 Ancient Excavation
-1 Ancient Necromancer
-1 Awakened Arbiter
-1 Catch!
+1 Aton Excavation
+1 Brag's Prison
+1 Call of Destiny
 1 Centrifuge
-1 Crystal Triangle
-1 Cursed Portal
+1 Chart the Possibilities
+1 Clockwork Assembly
+1 Clockwork Generator
+1 Condescend
+2 Counter
+1 Cynical Relic-Caster
 1 Dark Apostle
+1 Decode the Runes
+1 Decree of Peace
+1 Delayed Circuit
+1 Depleted Relic
 1 Devout Healer
+1 Doomed Prophet
 1 Embargo
-1 Excavation Automaton
 1 Eye for an Eye
-1 Faith Oldworld Directive
-1 Frank
-1 Frostblade Adept
-1 Furious Sorcerer
-1 Globe of 1000 Souls
-1 Golem Nexus
-1 Grim Librarians
-1 Healing Amulet
-1 Hourglass of Ages
-1 Junior Adventurer
-1 Knowledge Collection
-1 Loose Change
+1 Fallen Angel
+1 Glyph of Warding
+1 Inspired Archaeologist
+2 Interrupt
 1 Lost Tome
-1 Lunar Suppression
-1 Mysterious Cleric
-1 Out of Mind
-1 Ozen's Fury
-1 Ozen's Temple
+1 Oana's Divination
+1 Oln's Binding
 1 Pax Seeker
-1 Potent Divination
-1 Power of Antiquity
-1 Procrastinate
-1 Question Station
-1 Recycling
-1 Return of the Vanished
-1 Return to the Earth
-1 Ruins Scavenger
+1 Pax Valley Wyvern
+1 Prophet of Ozen
+1 Reawaken in Dream
+1 Reckless Sculptor
+1 Relic Recovery
+1 Resourceful Cleric
+1 Restore Barrier
+1 Rune of Antiquity
+1 Scrap Compactor
+1 Search for Omnipotence
+1 Seasoned Arbiter
 5 See Beyond
-1 Spirit of Monumentality
+1 Shard of The Mirror
+1 Sputtering Conduit
 1 Temple Librarian
-1 The Bringer
-1 The Departed
-1 The Plan
-1 Thingamajig
-1 Vaudeville Hook
-1 Void Cleric
-1 Wicked Pact
+1 Tower Mage
+1 Veriglas Directive
+1 Wandering Protector
+1 Warden of the Portals
 8 Wilds of Atnia
+1 Will o' the Wisp
+1 Young Adventurer
 
 1 Golem
 1 Night Horror

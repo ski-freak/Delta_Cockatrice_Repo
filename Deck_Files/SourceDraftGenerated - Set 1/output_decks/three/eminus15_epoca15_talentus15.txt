@@ -1,59 +1,58 @@
-1 Airdrop
-1 Alert the Knights
+2 Adapt
+1 Advanced Tactics
+1 Ambush
 1 Annul
-1 Arbiter Medic
-1 Battlefield Commander
+1 Antimagic Haze
+1 Avatar of the Winds
 1 Beckon Home
-1 Bloodthirsty Warrior
-1 Collective Knowledge
-1 Contain
-1 Coordinated Assault
-1 Coordinated Defense
-1 Cruel Messenger
-1 Cryptic Swan
+1 Cloaked Inquisitor
+1 Conceal
+1 Condescend
+1 Crippling Shot
 1 Deadly Strike
-1 Devastating Decoy
-1 Dissociation
-1 Distress Signal
-1 Dropkick
-1 Eminus Martial Directive
-1 Energy Cell
-1 Enterprising Merchant
-1 Essence of the Old World
-1 Flank
-1 Frightening Arbiter
-1 Frostblade Adept
-1 Grand Creation
+1 Defender of the Lake
+1 Delayed Circuit
+1 Depleted Relic
+1 Devout Knight
+1 Disciple of Nyka
+1 Embargo
+1 Ephemerality Caster
+1 General's Directive
+1 Gift of Life
+1 Goblin Sharptooth
+1 Honorable Knight
+1 Hostage Negotiations
 1 Hunter's Hawk
-1 Infectious Fervor
-1 Interfering Arbiter
-1 Interrupt
-1 Jane
-1 Junior Adventurer
-1 Knowledge Requisitioner
-1 Legion Drill Sergeant
-1 Legion Warlock
-1 Liase of the Two Scrolls
-1 Liev Grappler
-1 Lunar Suppression
-1 Novice Law-Binder
+1 Inkblood Librarian
+1 Inspired Archaeologist
+1 Knight's Familiar
+1 Knight's Glyph
+1 Legion Directive
+1 Legion Messenger
+1 Legion Quartermaster
+1 Liev Arbiter
+1 Lost Tome
+1 Lure into Danger
+1 No Retreat
+1 Nullify Magic
 1 Ogre Chronomancer
-1 Oldworld Martial Directive
 1 Outlands Commander
-1 Phantom Angel
-1 Procrastinate
+1 Ozen's Faithful
 1 Remake
-1 Rolead the Swift
+1 Reserve Tactics
+1 Restore Order
+1 Retreating Slice
+1 Royal Decoy
+1 Scavenged Munitions
 7 See Beyond
-1 Spectacular Sweep
-1 Spectral Reinforcements
-1 Steadfast Arbiter
-1 Storm Generator
+1 Slow Magic
+1 Steel Resolve
+1 Storm Rune
 1 Stronghold Directive
-1 Thingamajig
-1 Thunder Knight
-1 Tower Thief
-1 Tundra Arbiter
+1 Supply Logistics
+1 Truce
+1 Untimely Investigation
+1 Whirring Contraption
 10 Wilds of Atnia
 1 Wolkk Twinspear
 

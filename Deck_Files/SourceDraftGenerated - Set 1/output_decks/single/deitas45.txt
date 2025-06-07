@@ -1,45 +1,41 @@
-1 Call the Divine
-1 Coffee Trader
-1 Consuming Ooze
-1 Cosmic Justice
-1 Cursed Portal
-1 Dark Apostle
+1 Blessed Harvest
+3 Brag's Prison
+1 Call of Destiny
+2 Decree of Peace
 1 Demon of Consumption
+1 Demonic Harbinger
 1 Devout Healer
+1 Disciple of The Shattered Mirror
+2 Divine Intervention
+1 Doomed Prophet
 1 Doomsday Prophet
-1 Downtown Walk
 1 Elderly Monk
 1 Eye for an Eye
-2 Globe of 1000 Souls
-1 Guardian Relic
-1 Healing Amulet
-1 Inspired Cleric
-1 Lisa
+1 Fallen Angel
+1 Festering Penitent
+2 Inquisitor's Cage-Charm
 1 Living Relic
-1 Mindless Cleric
-1 Mysterious Cleric
-1 Occult Harbinger
-1 Out of Mind
-1 Passive Income Scheme
+1 Noble Ancestor
+2 Oln's Binding
+1 Ozen's Fury
+1 Possessed Sycophant
+1 Priest of Vosderon
 1 Profane Blessing
+1 Reckless Acolyte
 1 Reckless Sculptor
 1 Relic Recovery
-1 Search for Omnipotence
+3 Search for Omnipotence
 3 See Beyond
+1 Selfless Cultist
 1 Serene Dove
-3 Shem's Binding
-2 Skyhaven Cannon
-1 Spirit of Monumentality
-1 Svet Scout
-1 The Bringer
-1 The Departed
-1 Universal Stimulant
-2 Unnatural Disaster
-1 Void Capsule
-1 Void Cleric
-1 Wicked Pact
+2 Shem's Binding
+1 Soul Shift
+1 Spirit Guide
+1 Spiritual Awakening
+1 Symbol of Hwain
+1 Undying Duty
+1 Wandering Protector
 6 Wilds of Atnia
-1 Zombie Egg
 
 1 Golem
 1 Night Horror

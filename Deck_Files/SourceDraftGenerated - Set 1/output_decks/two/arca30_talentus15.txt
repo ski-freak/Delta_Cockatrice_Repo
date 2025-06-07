@@ -2,50 +2,51 @@
 1 Arcane Historian
 1 Arcane Revenant
 1 Arcane War Cry
+1 Aulvan Writings
 1 Avatar of Terror
-1 Battlehardened Soldier
+1 Battlefield Looter
+1 Blood Channeler
+1 Bloodcrazed Knight
+1 Cemetery Rift
 1 Corpse Amalgam
-1 Cursed Tomb
 1 Deadly Strike
-1 Doomed Legionnaire
 1 Emissary of Fear
 1 Encroaching Inevitability
 1 Entwine Fates
+1 Foretold Cataclysm
 1 Forsaken Cultist
-1 Frost Eruption
-1 Giant Bat
+1 Fractal Prism
 1 Giant Dragonfly
-1 Guile
-1 Illusory Chains
-1 Improved Morale
-1 Investigate the Scene
-1 Knight of the Book
+1 Inspiring Banner
+1 Legion Cannoneer
 1 Legion Drill Sergeant
-1 Legion Tactician
-1 Martial Arca Directive
+1 Manifest Fears
+1 Marla, Respected Chef
+1 Nightfall
 1 Nomadic Orc
 1 Oruva Scout
+1 Possessed Legionnaire
+1 Pull of the Abyss
 1 Recurring Nightmare
+1 Reorganize
 1 Rift Cache
 1 Rift Channeler
-1 Rift Screech
-1 Rift Whispers
-2 Rift's Grasp
+1 Rift Directive
+1 Rift's Grasp
 1 Riftcursed Farmer
-1 Round Two
 1 Scrap Summoning
 5 See Beyond
-1 Send in the Zombies
-1 Swarm the Enemy
 1 Team Up
-1 The Doublemeister
 1 Tower Thief
-1 Twist of Fate
-1 Void Axe
-1 Void Replication
-1 Voidsworn Apostle
+1 Unstable Contract
+1 Valorous Triumph
+1 Void Drake
+1 Void Snap
+1 Void Spike
+1 Watch Quartermaster
+1 What You Can Carry
 8 Wilds of Atnia
-1 Zombie Summoner
+1 Young Dragon Spider
 
 1 Golem
 1 Night Horror

@@ -1,54 +1,54 @@
-1 5th Legion Lieutenant
-1 Battlefield Commander
-1 Battlehardened Soldier
-1 Bold Warrior
-1 Contain
-1 Cruel Messenger
-1 Cursed Portal
-1 Devout Arbiter
-1 Escape Artist
-1 Ether Charge
-1 Ethereal Mirage
-1 Faith Martial Directive
-1 Fervent Devotion
+1 Adapt
+1 Ancient Swordsmaster
+1 Battle Plans
+1 Battlefield Looter
+1 Clang-Blade Duelist
+1 Crippling Shot
+1 Dark Apostle
+1 Deadly Strike
+1 Desperate Stand
+1 Devout Healer
+1 Elderly Monk
+1 Ethereal Voice
+1 Fervent Ritual
 1 Flank
-1 Get Back In There
-1 Globe of 1000 Souls
-1 Gregory
-1 Healing Amulet
-1 Henry
-1 Infinity Vessel
-1 Investigate the Scene
+1 Goblin Sharptooth
+1 Inquisitor's Cage-Charm
+1 Legion Assassin
 1 Legion Courier
-1 Legion Tactician
-1 Liev Grappler
-1 Living Relic
-1 Master Duelist
-1 Nomadic Orc
-1 Out of Mind
-1 Ozen's Fury
-1 Pondering Cleric
+1 Legion Drill Sergeant
+1 Legion Quartermaster
+1 Legion Rider
+1 Legion Scout
+1 Legion Sergeant
+1 Lopsided Truce
+1 Lure into Danger
+1 Midnight Duel
+1 Oln's Binding
+1 Possessed Legionnaire
+1 Reawaken in Dream
+1 Relic Channeler
+1 Relic Recovery
+1 Relic Scavenger
 1 Reorganize
-1 Search for Omnipotence
+1 Reserve Tactics
+1 Revenants of War
+1 Scavenged Munitions
 5 See Beyond
-1 Send in the Zombies
+1 Selfless Cultist
+1 Selfless Legionnaire
+1 Serene Dove
 1 Shem's Binding
-1 Spiritual Awakening
-1 Steadfast Arbiter
-1 Stronghold Guard
-1 Svet Scout
-1 Swift Rescue
+1 Spirit Guide
+1 Supply Logistics
 1 Team Up
-1 The Doublemeister
-1 The Meatgrinder
-1 Valorous Triumph
-1 Void Capsule
+1 Temple Artificer
+1 Tower Thief
+1 Trade Insight
 1 Void Cleric
-1 Warrior's Training
+1 War Elephant
 8 Wilds of Atnia
-1 Zombie Ambush
-1 Zombie Invasion
-1 Zombie Summoner
+1 Zoggir's Directive
 
 1 Golem
 1 Night Horror

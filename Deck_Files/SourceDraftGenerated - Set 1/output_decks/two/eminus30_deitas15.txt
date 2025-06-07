@@ -1,51 +1,53 @@
-1 A Trick
-1 Ancient Mentor
+1 Angelic Apparition
+1 Apprentice Arbiter
 1 Arbiter Marshal
-1 Arbiter Medic
 1 Arcane Tower
+1 Banishment
 1 Beckon Home
-1 Brag's Prison
-1 Cloaked Mindmage
-1 Consuming Ooze
-1 Coordinated Assault
-1 Coordinated Defense
-1 Dark Apostle
-1 Deja Vu
-1 Demon of Consumption
-1 Desperate Arbiter
-1 Devastating Decoy
-1 Eminus Faith Directive
+1 Cloaked Inquisitor
+1 Cunning Arbiter
+1 Decree of Peace
+1 Defender of the Gate
+1 Devout Adventurer
+1 Devout Healer
+1 Devout Knight
+1 Doomed Prophet
+1 Doomsday Prophet
+1 Efficient Arbiter
 1 Evacuation
-1 Forgetful Arbiter
-1 Frightening Arbiter
+1 False Orders
+1 Feigned Weakness
+1 Glyph of Alarm
+1 Glyph of Sending
+1 Glyph of Summoning
 1 Imposing Presence
-1 Interfering Arbiter
+1 Inquisitor's Directive
 1 Knight's Familiar
 1 Knightly Reinforcements
-1 Mind Trauma
+1 Liase of the Two Scrolls
+1 Liev Arbiter
+1 Living Relic
+1 Noble Orator
 1 Nullify Magic
-1 Occult Harbinger
-2 Oln's Binding
-1 Orb of Understanding
-1 Phantom Angel
+1 Oln's Binding
+1 Ozen's Temple
+1 Prodigal Champion
+1 Reawaken in Dream
+1 Reforge in Flame
+1 Relic Scavenger
 1 Resilient Knight
+1 Royal Decoy
+1 Search for Omnipotence
 5 See Beyond
-1 Skyknight
-1 Spectacular Sweep
-1 Spectral Reinforcements
-1 Spirit of Monumentality
-1 Spiritual Awakening
+1 Shem's Binding
+1 Skilled Lawmage
+1 Sound the Alarm
+1 Spectral Agent
+1 Stall
 1 Steel Resolve
-1 Stunt Double
-1 Temple Artificer
-1 Temporary Disappearance
-1 Thunder Knight
-1 Try Again
-1 Tundra Arbiter
-1 Universal Stimulant
-2 Unnatural Disaster
-1 Veteran Skyknight
-1 Void Cleric
+1 Swift Shieldmage
+1 Symbol of Hwain
+1 Symbol of Vosderon
 8 Wilds of Atnia
 
 1 Golem

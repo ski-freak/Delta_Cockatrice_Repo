@@ -1,56 +1,59 @@
-1 Abominable Egg
+1 Alliance Berserker
+1 Anvil of Souls
 1 Avatar of Vosderon
-1 Billy Bob
-1 Bloodlust
 1 Brag's Prison
-1 Burning Man
-1 Call to Arms
-1 David
-1 Defiant Scribe
-1 Demon of Consumption
-1 Divine Favor
-1 Doomed Cleric
+1 Cleave
+1 Clockwork Guardian
+1 Consume Flesh
+1 Cosmic Justice
+1 Councilor Corsovo
+1 Demonic Bargain
+1 Devout Healer
+1 Doomed Prophet
+1 Earthquake
 1 Elderly Monk
-1 Ethereal Construct
-1 Eye for an Eye
-1 Faith Materia Directive
-2 Final Strike
-1 Flashback Attack
-1 Forgotten Hunter
-1 Forsaken Displacer
-1 Guardian Relic
-1 Higher Purpose
-1 Isolated Archer
-1 Knight of the Moon
-1 Lavasmith
+1 Energy Drain
+1 Evasive Scribe
+1 Flaming Berserker
+1 Forge-Priest of Brag
+1 Forsaken Initiate
+1 Forsaken Reveller
+1 Journey Through Dream
+1 Kindling Mage
+1 Knight of the Torch
 1 Lentholm Directive
-1 Library Raid
-1 Lisa
-1 Lost in the Wilds
-1 Lucy
-1 Magic Trick
-1 Out of Mind
-1 Outlands Leader
-1 Pax Nova Battlemage
-1 Pax Nova Guardian
-1 Pondering Cleric
-1 Recollect
+1 Leyline Summoning
+1 Living Relic
+1 Long-Winded Orator
+1 Mnem Directive
+1 Moon's Favor
+1 Mud Golem
+1 Oln's Chosen
+1 Ozen's Directive
+1 Pale Zealot
+1 Plasma Bolt
+1 Possessed Sycophant
+1 Priest of Calamity
+1 Rash Chieftain
+1 Rockfall
+1 Rosilie D'Avron
+1 Rugged Outlander
+1 Seasonal Festeval
 7 See Beyond
-1 Siphon Power
-2 Skyhaven Cannon
-1 Sorvald's Insight
-2 Sublimate
-1 Temple Artificer
-1 Thought Extraction
-1 Tomb Hunter
-1 Trail of the Nightmare
-1 Vampire's Grasp
-1 Vampiric Recovery
-1 Void Capsule
-1 Void Shift
+1 Set Ablaze
+1 Shadow of the Nightmare
+1 Siphon Strength
+1 Spark of Divinity
+1 Sudden Drop
+1 Survivor Knight
+1 Symbol of Vosderon
+1 Ta's Sight
+1 Thunderous Fury
+1 Undying Duty
+1 Unstable Staff
 1 Vosderon's Wrath
 10 Wilds of Atnia
-1 Zelor Faith Directive
+1 Wizard's Familiar
 
 1 Golem
 1 Night Horror

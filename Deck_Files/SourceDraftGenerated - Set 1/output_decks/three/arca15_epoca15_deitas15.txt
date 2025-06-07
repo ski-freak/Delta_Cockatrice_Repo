@@ -1,61 +1,60 @@
-1 Arcane Synthesizer
+1 Annul
+1 Arcane Revenant
 1 Aulvan Writings
+1 Balance the Cosmos
+1 Blood Channeler
 1 Brag's Prison
 1 Chaotic Whirlwind
-1 Collective Knowledge
-1 Contemplate
-1 Crystal Triangle
-1 Cursed Portal
-1 Cursed Tomb
-1 Dark Apostle
-1 Denise
-1 Divine Harmony
-1 Doomed Cleric
-1 Downtown Walk
-1 Faith Oldworld Directive
+1 Chart the Possibilities
+1 Cleric of Hwain
+2 Condescend
+1 Corrupted River Spirit
+1 Decree of Peace
+1 Depleted Relic
+1 Devout Adventurer
+1 Elderly Monk
+1 Encroaching Inevitability
+1 Ethereal Voice
+1 Festering Penitent
 1 Forsaken Cultist
 1 Fractal Prism
-1 Frost Eruption
-1 Furious Sorcerer
-1 Giant Bat
-1 Grim Librarians
-1 Hourglass of Ages
+1 Futuresight Ritual
+1 Guile
+1 Hindsight Crystal
 1 Hymn to the Pale Sun
-1 Inspired Cleric
-1 Lagoon Titan
-1 Lunar Suppression
-1 Mystical Oil
+1 Illusory Chains
+1 Inquisitor's Cage-Charm
 1 Nightfall
-1 Oana's Divination
 1 Oln's Binding
-1 Oruva Scout
-1 Pact of Annihilation
-1 Pact of Eons
+1 Ozen's Fury
+1 Ozen's Temple
+1 Pact of Aeons
 1 Pale Mountain Directive
-1 Pale Sun's Influence
 1 Pax Directive
 1 Pax Seeker
-1 Pax Valley Wyvern
-1 Pondering Cleric
 1 Pull of the Abyss
-1 Question Station
-1 Quick Thinking
-1 Reckless Sculptor
-1 Recycling
-1 Return of the Vanished
-1 Rift Whispers
-1 Rift's Grasp
-1 Search for Omnipotence
+1 Reckless Acolyte
+1 Restore Barrier
+1 Rift Herald
+1 Rift Screech
+1 Rift Surge
+1 Rune of Antiquity
+1 Scrap Compactor
 7 See Beyond
-1 Skyhaven Cannon
-1 Spirit of Monumentality
-1 Squish
+1 Shard of The Mirror
+1 Squelch
+1 Stare into the Sun
+1 Symbol of Hwain
+1 Ta's Sight
 1 Temple Librarian
-1 The Bringer
-1 Twist of Fate
-1 Visions of the End
-1 Void Capsule
+1 Tower Mage
+2 Twist of Fate
+1 Veriglas Directive
+1 Void Cleric
+1 Void Spike
+1 Warden of the Portals
 10 Wilds of Atnia
+1 Will o' the Wisp
 
 1 Golem
 1 Night Horror

@@ -1,62 +1,60 @@
-1 Alert the Knights
-1 Amatuer Illusionist
+1 Alliance Pyromancer
 1 Amnesia
-1 Ancient Mentor
-1 Arbiter Medic
-1 Arcane Imitation
 1 Arcane Tower
-1 Aton Battlemaster
 1 Avatar of Vosderon
-1 BSOD
-1 Back Again
+1 Banishment
+1 Battlemaster of The Wall
 1 Beckon Home
-1 Become Large
+1 Beseech the Gods
+1 Blessed Harvest
 1 Brag's Prison
 1 Burst of Speed
-1 Cordial Wall-Knight
-1 Cosmic Justice
-1 Cursed Portal
-1 Dark Apostle
-1 Desperate Arbiter
-1 Disappearing Orb
-1 Divine Favor
-1 Dominate Will
-1 Downtown Walk
-1 Eminus Faith Directive
+1 Call to Arms
+1 Decree of Peace
+1 Demon of Consumption
+1 Devout Knight
+1 Divine Intervention
+1 Efficient Arbiter
+1 Elderly Monk
+1 Enlarge
 1 Evacuation
 1 Explosive Breakthrough
-1 Fire Channeler
-1 Forsaken Displacer
-1 Frightening Arbiter
-1 Honorable Knight
+1 False Orders
+1 Feigned Weakness
+1 Fireball
+1 Force Field
+1 Forsaken Chanter
+1 Forsaken Initiate
+1 Glyph of Summoning
 1 Imposing Presence
-1 Insane Guy
+1 Inquisitor's Directive
+1 Journey Through Dream
+1 Knight of the Torch
 1 Knightly Mentor
 1 Knightly Reinforcements
-1 Library Raid
-1 Magic Trick
-1 Ozen's Temple
+1 Living Lightning
+1 Logol of The Mirror
+1 Moon's Favor
+1 Noble Orator
+1 Oln's Binding
+1 Ozen's Directive
 1 Pax Nova Directive
-1 Radiating Force
-1 Reawaken in Dream
-1 Recollect
-1 Replenish
-1 Sagittarii
+1 Prodigal Champion
+1 Reforge in Flame
+1 Rewind
+2 Search for Omnipotence
 7 See Beyond
-1 Shem's Binding
-1 Spectacular Sweep
-1 Spiritual Awakening
-1 Temple Artificer
-1 Temporary Disappearance
-1 The Bringer
-1 The Departed
-1 Thunderous Fury
-1 Void Cleric
+1 Selfless Lawmage
+2 Shem's Binding
+1 Slow Magic
+1 Stochastic Ignition
+1 Symbol of Vosderon
+1 Unstable Staff
 1 Vosderon's Wrath
-1 Ward of Repellance
 10 Wilds of Atnia
 1 Wizard's Familiar
-1 Zelor Faith Directive
+1 Wizened Cleric
+1 Wolkk Twinspear
 
 1 Golem
 1 Night Horror

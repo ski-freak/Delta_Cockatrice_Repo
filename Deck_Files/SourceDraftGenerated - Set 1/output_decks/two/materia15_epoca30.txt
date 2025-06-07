@@ -1,49 +1,49 @@
-1 Absolute Destruction
-1 Absorb
-1 Aggravating Scribe
-1 Ancient Excavation
-1 Annul
-1 Blood Bank
-1 Catch!
+1 Ancient Vampire
+1 Animate
+2 Annul
 1 Centrifuge
-1 Collective Knowledge
-1 Construct Constructor
-1 Cryptic Swan
-1 Dead on Arrival
-1 Death Elemental
-1 Escaped Monster
-1 Essence of the Old World
+1 Clockwork Generator
+1 Clockwork Soldier
+1 Consume Flesh
+1 Counter
+1 Devastating Landslide
+1 Embargo
+1 Embrace the Ephemeral
+1 Ephemerality Caster
 1 Excavation Automaton
-1 Gift of Life
 1 Golem Nexus
-1 Grim Librarians
+1 Healing Potion
+1 Hindsight Crystal
 1 Hourglass of Ages
-1 Invisible Haze
-1 Loose Change
+1 Inkblood Librarian
+1 Interrupt
+1 Leyline Summoning
 1 Lost Tome
-2 Lunar Suppression
-1 Menacing Scribe
-1 Mirage Manufacturer
-1 Mystic Stone
-1 Mystical Oil
-1 Oana's Divination
-1 Outlander's Familiar
-1 Outlast
+1 Obliterate
+1 Ogre of Mnem
+1 Old-World Scholar
+1 Outlands Cleric
+1 Overcharged Circuit
 1 Pax Valley Wyvern
-1 Power of Antiquity
 1 Prepared Scribe
-1 Ray of Scorn
+1 Restore Barrier
+1 Rune of Antiquity
+1 Scour the Ruins
+1 Scrap Compactor
 5 See Beyond
-1 Self Improver
-1 Sinkhole
+2 Siphon Strength
 1 Sorvald's Insight
-2 Squish
+2 Squelch
 1 Stronghold Dispatch
-2 Sublimate
-1 Train Station
+1 Sublimate
+1 Sudden Drop
+1 Supply-Line Runner
 1 Twilight Isle Directive
-1 Vampiric Recovery
+1 Warden of the Portals
+1 Watch Bureaucrat
+1 Whirring Contraption
 8 Wilds of Atnia
+1 Young Adventurer
 
 1 Golem
 1 Night Horror

@@ -1,16 +1,17 @@
-1 Arcane Historian
+1 Absence
 1 Arcane Revenant
 1 Arcane Synthesizer
-1 Aulvan Writings
 1 Avatar of Terror
 1 Blood Channeler
 1 Bloodcrazed Knight
-1 Cemetary Rift
+1 Cemetery Rift
+1 Corpse Amalgam
 1 Cursed Tomb
 1 Dream of the Dead
 1 Emissary of Fear
 1 Encroaching Inevitability
 1 Enhance Spell
+1 Entwine Fates
 1 Forsaken Cultist
 1 Fractal Prism
 1 Giant Bat
@@ -21,26 +22,25 @@
 1 Manifest Fears
 1 Myrkur Phantom
 1 Nightfall
+1 Oruva Scout
 1 Pact of Annihilation
 1 Pale Prophet Zurani
-1 Pull of the Abyss
 1 Recurring Nightmare
 1 Rift Cache
-1 Rift Channeler
 1 Rift Screech
-1 Rift Surge
+1 Rift Whispers
 2 Rift's Grasp
 1 Riftcursed Farmer
 1 Scrap Summoning
 3 See Beyond
-1 Twist of Fate
+2 Twist of Fate
 1 Unstable Contract
 1 Visions of the End
 1 Void Axe
 1 Void Drake
 1 Void Replication
 1 Void Snap
-2 Void Spike
+1 Void Spike
 1 Voidsworn Apostle
 6 Wilds of Atnia
 

@@ -1,60 +1,61 @@
-1 Arcane Imitation
-1 Aton Battlemaster
+1 Alliance Pyromancer
+1 Amatuer Illusionist
+1 Annul
+1 Aton Excavation
 1 Avatar of Vosderon
-1 Cosmic Justice
-1 Countervailing Flames
-1 Cursed Portal
-1 Dead on Arrival
-1 Disappearing Orb
-1 Divine Favor
-1 Dune Paladin
-1 Electrolytes
-1 Energy Cell
-1 Ethereal Mirage
-1 Excavation Automaton
+1 Blessed Harvest
+1 Centrifuge
+1 Counter
+1 Countervailing Force
+1 Demon Chains
+1 Demonic Harbinger
+1 Devout Healer
+1 Embrace the Ephemeral
 1 Extreme Heat
-1 Faith Oldworld Directive
-2 Fireball
-1 Flashback Attack
-1 Forgotten Hunter
-1 Grim Librarians
-1 Helping Hands
-1 Inspired Cleric
-1 Junior Adventurer
-1 Knight of the Moon
-1 Library Raid
-1 Lisa
-1 Lost Tome
-1 Lunar Suppression
-1 Novice Knight
-1 Oana's Divination
-1 Occult Harbinger
-1 Out of Mind
-1 Outlands Cleric
-1 Pale Sun's Influence
-1 Passive Income Scheme
+1 Fire Shield
+1 Fireball
+1 Forge-Priest of Brag
+1 Forsaken Initiate
+1 Forsaken Reveller
+1 Generous Merchant
+1 Inquisitor's Cage-Charm
+2 Interrupt
+1 Knight of the Torch
+1 Lightning Prophecy
+1 Mirage Glyph
+1 Moon's Favor
+1 Noble Ancestor
+1 Ozen's Directive
+1 Ozen's Fury
+1 Patriotic Directive
 1 Pax Seeker
 1 Plasma Bolt
-1 Procrastinate
-1 Quinn
-1 Return of the Vanished
-1 Sage of the Sun
+1 Remake
+1 Restore Barrier
+1 Return to Dust
+1 Scorched Earth
 7 See Beyond
+1 Set Ablaze
+1 Shard of The Mirror
 1 Shem's Binding
-1 Sorvald's Ignition
-1 Substitute
+1 Sleep Eater
+1 Smoldering Embers
+1 Sputtering Conduit
+1 Stare into the Sun
+1 Stronghold Dispatch
+1 Symbol of Vosderon
 1 Temple Artificer
 1 Temple Librarian
-1 The Dreamer
-1 Unnatural Disaster
+1 Thunderous Fury
+1 Undying Duty
 1 Unstable Core
-1 Void Cleric
-1 Volcanic Vision
+1 Unstable Staff
+1 Veriglas Directive
 1 Vosderon's Wrath
-1 Wicked Pact
+1 Wandering Protector
 10 Wilds of Atnia
-1 Zelor Faith Directive
-1 Zelor Oldworld Directive
+1 Will o' the Wisp
+1 Young Adventurer
 
 1 Golem
 1 Night Horror

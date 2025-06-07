@@ -1,51 +1,51 @@
 1 Absence
 1 Arcane Historian
-1 Arcane Revenant
-1 Aulvan Writings
-1 Blood Channeler
-1 Bloodcrazed Knight
+1 Arcane Synthesizer
 1 Burning Plain Directive
-1 Corpse Amalgam
+1 Cemetery Rift
 1 Cursed Tomb
-1 Disappearing Orb
-1 Dune Paladin
+1 Divergent Dreams
 1 Emissary of Fear
 1 Encroaching Inevitability
-1 Enhance Spell
-1 Entwine Fates
-1 Fated Return
+1 Exposed Leyline
+1 Extreme Heat
+1 Fire Shield
+1 Fireball
 1 Flame Oracle
+1 Flaming Berserker
 1 Force Field
+1 Foretold Cataclysm
+1 Forsaken Chanter
 1 Forsaken Displacer
+1 Forsaken Dreamweaver
 1 Giant Bat
+1 Giant Dragonfly
 1 Guile
+1 Heretic of the Torch
 1 Knight of the Book
-1 Knight of the Wheat
-1 Magic Trick
+1 Manifest Fears
 1 Myrkur Phantom
-1 Oruva Scout
 1 Pact of Annihilation
-1 Plasma Bolt
-1 Rift Cache
+1 Pale Prophet Zurani
+1 Pale Zealot
+1 Pax Nova Battlemage
+1 Pull of the Abyss
+1 Rift Channeler
 1 Rift Fire
-1 Rift Screech
 1 Rift Whispers
 2 Rift's Grasp
-1 Riftcursed Farmer
-1 Scorched Earth
-1 Seasonal Festeval
+1 Scrap Summoning
 5 See Beyond
-1 Thorny Defense
-1 Trail of the Nightmare
-1 Unimaginable Nightmare
+1 Smoldering Embers
+1 Thought Extraction
+1 Twist of Fate
 1 Unstable Contract
 1 Vampire's Bite
 1 Visions of the End
 1 Void Drake
-1 Void Replication
 1 Void Snap
 1 Void Spike
-1 Wicked Pyromancer
+1 Voidsworn Apostle
 1 Wild Wizard
 8 Wilds of Atnia
 

@@ -1,52 +1,52 @@
-1 Aggravating Scribe
-1 Ancient Vampire
-1 Back Again
-1 Billy Bob
-1 Blood Bank
-1 Bloodlust
-1 Borrow Time
-1 Consume Flesh
-2 Cursed Portal
-1 David
-1 Death Elemental
-1 Devouring Sphere
-1 Devout Healer
+1 Alliance Beastcaller
+1 Alliance Berserker
+1 Anvil of Souls
+1 Beseech the Gods
+1 Bloodcaster
+1 Brag's Prison
+1 Call of Destiny
+1 Councilor Corsovo
+1 Dark Apostle
+1 Demon Chains
 1 Doomsday Prophet
-1 Dutiful Scribe
 1 Earthquake
-1 Energy Drain
-1 Faith Materia Directive
-1 Familiar Shadow
-1 Gaston, Lekvian Squire
+1 Elderly Monk
+1 Evasive Scribe
+1 Fallen Angel
+1 Farmland Defender
+1 Festering Penitent
+1 Forge-Priest of Brag
+1 Fortress Automaton
 1 Healing Potion
-1 Hidden Giant
-1 Higher Purpose
 1 Hired Hands
-1 Isolated Archer
+1 Kindling Mage
 1 Lekvian Butler
-1 Lekvian Traveler
 1 Lekvian Vampire
-1 Looming Overlord
-1 Mechanical Vampire
-1 Noddegamra
-1 Occult Harbinger
-1 Outlast
-1 Pesky Scribe
-1 Priest of Death
-1 Profane Blessing
+1 Living Relic
+1 Logistics Expert
+1 Long-Winded Orator
+1 Mnem Directive
+1 Mud Golem
+1 Ogre Tactician
+1 Ogre of Mnem
+1 Oln's Chosen
+1 Prepared Scribe
+1 Rash Chieftain
 1 Reawaken in Dream
+1 Reforge in Flame
 1 Rugged Outlander
-1 Search for Omnipotence
+1 Scrap Technician
 5 See Beyond
-1 Self Improver
-1 Sinkhole
-2 Skyhaven Cannon
-1 Spire Hunter
-1 Spirit Guide
-1 Spirit of Monumentality
-1 Steven
-1 Void Capsule
+1 Shem's Binding
+1 Shield of Earth
+2 Sinkhole
+1 Sorvald's Insight
+2 Sudden Drop
+1 Vexing Scribe
+1 Watch Bureaucrat
 8 Wilds of Atnia
+1 Workshop Automaton
+1 Worldly Scribe
 
 1 Golem
 1 Night Horror

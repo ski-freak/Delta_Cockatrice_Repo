@@ -1,53 +1,51 @@
-1 Airdrop
-1 Ancient Excavation
 1 Annul
+1 Antimagic Haze
 1 Arcane Historian
-1 Awakened Arbiter
-1 Blood Channeler
-1 Catch!
-1 Centrifuge
+1 Aton Excavation
+1 Avatar of Terror
+1 Bloodcrazed Knight
+1 Cemetery Rift
 1 Chaotic Whirlwind
-1 Contemplate
-1 Corpse Amalgam
-1 Cryptic Swan
-1 Crystal Triangle
-1 Denise
+1 Cleric of Hwain
+1 Clockwork Generator
+2 Condescend
+1 Corrupted River Spirit
+2 Counter
+1 Embargo
 1 Energy Cell
-1 Esteemed Archivist
-1 Excavation Automaton
-1 Forsaken Cultist
-1 Fractal Prism
-1 Furious Sorcerer
-1 Giant Bat
-1 Giant Dragonfly
-1 Grim Librarians
-1 Helping Hands
-1 Illusory Chains
-1 Interrupt
-1 Junior Adventurer
-1 Knowledge Collection
-1 Knowledge Requisitioner
-1 Lagoon Titan
-1 Loose Change
-1 Lunar Suppression
+1 Entwine Fates
+1 Ephemerality Caster
+1 Foretold Cataclysm
+1 Glyph of Distress
+1 Glyph of Warding
+1 Golem Nexus
+1 Knight of the Coin
+1 Leyline Conduit
 1 Manifest Fears
+1 Mirage Glyph
 1 Nightfall
 1 Oana's Divination
-1 Outlander's Familiar
+1 Oguth of Mnem
+1 Oruva Scout
+1 Outlands Cleric
+1 Overcharged Circuit
 1 Pact of Annihilation
+1 Pale Prophet Zurani
+1 Pale Sun Initiate
 1 Pax Directive
-1 Pax Valley Wyvern
-1 Potent Divination
-1 Procrastinate
-1 Quinn
+1 Resourceful Cleric
+1 Restore Barrier
 1 Rift Channeler
-1 Ruins Scavenger
+1 Rift Herald
+1 Rift Whispers
+1 Rune of Antiquity
+1 Scatter to the Ages
+1 Scrap Compactor
 5 See Beyond
-1 Storm Generator
-1 Vaudeville Hook
-1 Void Replication
-1 Void Spike
-1 Voidsworn Apostle
+1 Squelch
+1 Stronghold Dispatch
+1 Void Drake
+1 Void Snap
 8 Wilds of Atnia
 
 1 Golem

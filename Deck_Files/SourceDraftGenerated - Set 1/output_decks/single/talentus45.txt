@@ -1,49 +1,47 @@
-1 5th Legion Lieutenant
+1 Adapt
+1 Advance Supply Convoy
+1 Advanced Tactics
+1 Ancient Swordsmaster
 1 Banner of Lentholm
-1 Battlefield Commander
-1 Battlehardened Soldier
-1 Bloodthirsty Warrior
+1 Battle Plans
 1 Bold Warrior
-1 Branching Paths
-1 Contain
-1 Cruel Messenger
-1 Dark Aperture
-1 Deadly Strike
-1 Devout Arbiter
-1 Enterprising Merchant
-1 Ether Charge
+1 Combat Necromancer
+2 Crippling Shot
+2 Deadly Strike
+1 Emergency Supply Kit
 1 Experienced Traveler
-1 Improved Morale
-1 Infinity Vessel
-1 Investigate the Scene
+1 Goblin Sharptooth
+1 Heroic Moment
+1 Hostage Negotiations
+1 Inspiring Banner
+1 Legion Assassin
 1 Legion Cannoneer
+1 Legion Chevalier
 1 Legion Drill Sergeant
+1 Legion Scout
+1 Legion Sergeant
 1 Legion Tactician
-1 Legion Warlock
-1 Liev Grappler
+1 Lesser War Demon
+1 Lopsided Truce
+1 Lure into Danger
 1 Master Duelist
-1 Nomadic Orc
-1 Oasis Giant
-1 Reorganize
-1 Rolead the Swift
-1 Round Two
+1 Midnight Duel
+1 Outlands Brawler
+1 Possessed Legionnaire
+1 Reserve Tactics
+1 Scavenged Munitions
 3 See Beyond
-1 Steadfast Arbiter
-1 Stronghold Guard
-2 Summon Ringer
-1 Swarm the Enemy
-1 The Doublemeister
+1 Selfless Legionnaire
+2 Supply Logistics
+1 Swift Rescue
+1 Team Up
 1 Tower Thief
 1 Trade Insight
 1 Valorous Triumph
-1 Vicious Looter
 1 War Elephant
-1 Warmongerer
-1 Warrior's Training
+1 Watch Quartermaster
+1 What You Can Carry
 6 Wilds of Atnia
-1 Zombie Ambush
-1 Zombie Invasion
-1 Zombie Summoner
 
 1 Golem
 1 Night Horror

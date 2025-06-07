@@ -1,49 +1,46 @@
-1 Absorb
-1 Annoying Scribe
-1 Blood Bank
-2 Bloodlust
-1 Borrow Time
-1 Consume Flesh
-1 Defiant Scribe
-1 Dutiful Scribe
+1 Alliance Beastcaller
+1 Alliance Berserker
+1 Alliance General
+1 Assembly Construct
+1 Bloodburst
+1 Bloodcaster
+1 Clockwork Duelist
+1 Clockwork Guardian
+1 Clockwork Soldier
+1 Crackling Hurricane
+1 Devastating Landslide
+1 Eager Explorer
+1 Earthquake
 1 Energy Drain
-1 Escaped Monster
-1 Final Strike
-1 Gaston, Lekvian Squire
-1 Golem Conjurer
+1 Evasive Scribe
+1 Farmland Defender
+1 Filibuster Specialist
 1 Healing Potion
-1 Hidden Giant
 1 Hired Hands
-1 Injury to Insult
-1 Intimidating Scribe
-1 Isolated Archer
-1 Lekvian Traveler
+1 Lekvian Butler
 1 Lekvian Vampire
-1 Life Manipulation
-1 Looming Overlord
-1 Lost in the Wilds
-1 Malicious Receptionist
-1 Mechanical Vampire
-1 Menacing Automaton
-1 Menacing Scribe
-1 Outlands Leader
-1 Outlast
-1 Pesky Scribe
+1 Leyline Summoning
+1 Logistics Expert
+1 Long-Winded Orator
+1 Ogre Tactician
+1 Ogre of Mnem
 1 Prepared Scribe
-1 Priest of Death
+2 Rockfall
 1 Rosilie D'Avron
-1 Savage Snare
+1 Scrap Technician
+1 Scribe Tactician
 3 See Beyond
-1 Sinkhole
-1 Sorvald's Insight
-1 Spire Hunter
-1 The Calling
-1 Vampiric Recovery
+1 Shield of Earth
+2 Sinkhole
+1 Siphon Strength
+2 Sublimate
+2 Sudden Drop
+1 Supply-Line Runner
 1 Vexing Scribe
-1 Volcanic Giant
-1 Wild Vision
+1 Watch Bureaucrat
 6 Wilds of Atnia
 1 Workshop Automaton
+1 Worldly Scribe
 
 1 Golem
 1 Night Horror

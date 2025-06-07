@@ -1,51 +1,51 @@
-1 5th Legion Lieutenant
-1 Ambush
-3 Brag's Prison
-1 Call the Divine
-1 Coffee Trader
-1 Contain
-1 Cruel Messenger
-1 Cursed Portal
-1 Deja Vu
-1 Devout Healer
-1 Doomed Cleric
-1 Escape Artist
-2 Ether Charge
-1 Ethereal Mirage
-1 Evil Opportunity
-1 Eye for an Eye
-1 Faith Martial Directive
-1 Fervent Devotion
-1 Globe of 1000 Souls
-1 Heroic Moment
-1 Improved Morale
-1 Lisa
-1 Mindless Cleric
-1 Mysterious Cleric
+1 Ancient Swordsmaster
+1 Blessed Harvest
+2 Brag's Prison
+1 Combat Necromancer
+1 Conceal
+1 Crippling Shot
+2 Decree of Peace
+1 Demonic Harbinger
+1 Desperate Stand
+1 Devout Adventurer
+1 Disciple of The Shattered Mirror
+1 Doomsday Prophet
+1 Elderly Monk
+1 Emergency Supply Kit
+1 Fervent Ritual
+1 Festering Penitent
+1 Generous Merchant
+1 Legion Assassin
+1 Legion Messenger
+1 Legion Sergeant
+1 Marla, Respected Chef
 1 Nomadic Orc
-1 Novice Law-Binder
 1 Oln's Binding
-1 Out of Mind
-1 Ozen's Temple
+1 Oln's Chosen
+1 Ozen's Fury
+1 Possessed Legionnaire
+1 Priest of Vosderon
+1 Profane Blessing
 1 Reawaken in Dream
-1 Reckless Sculptor
-1 Rolead the Swift
+1 Reforge in Flame
+1 Relic Channeler
+1 Relic Recovery
+1 Relic Scavenger
+1 Reorganize
+1 Scavenged Munitions
 1 Search for Omnipotence
 5 See Beyond
-1 Serene Dove
-1 Shem's Binding
-1 Spirit Guide
+2 Shem's Binding
 1 Spiritual Awakening
-1 Substitute
-1 Team Up
-1 The Meatgrinder
-1 Universal Stimulant
-1 Unnatural Disaster
-1 Void Capsule
-1 Warmongerer
-1 Warrior's Training
+1 Stare into the Sun
+1 Swift Rescue
+1 Symbol of Vosderon
+1 Temple Artificer
+1 Trade Insight
+1 Undying Duty
+1 Void Cleric
 8 Wilds of Atnia
-1 Zombie Invasion
+1 Zoggir's Directive
 
 1 Golem
 1 Night Horror

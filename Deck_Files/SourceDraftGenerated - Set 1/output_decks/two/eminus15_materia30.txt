@@ -1,50 +1,50 @@
-2 Absolute Destruction
-1 Annoying Scribe
-1 BSOD
-1 Blood Bank
-1 Bloodlust
-1 Borrow Time
-1 Clockwork Soldier
-1 Coordinated Assault
-1 Coordinated Defense
+1 Alliance Berserker
+1 Ancient Vampire
+1 Arbiter Marshal
+1 Bloodburst
+1 Bloodcaster
+1 Cloaked Inquisitor
+1 Clockwork Guardian
+1 Consume Flesh
+1 Crackling Hurricane
+1 Devastating Landslide
+1 Devout Knight
 1 Eager Explorer
-1 Escaped Monster
-1 Ethereal Construct
-2 Final Strike
+1 Farmland Defender
 1 Fortress Automaton
-1 Fost Feac Directive
-1 Frightening Arbiter
-1 Gaston, Lekvian Squire
+1 Glyph of Alarm
+1 Glyph of Summoning
 1 Healing Potion
-1 Hired Hands
-1 Honorable Knight
-1 Instant Shield
-1 Intimidating Scribe
-1 Isolated Archer
+1 Knight's Familiar
 1 Knightly Reinforcements
-1 Malicious Receptionist
-1 Mind Reader
-1 Nullify Magic
-1 Old Watch Scribe
-1 Orb of Understanding
-1 Prepared Scribe
-1 Priest of Death
+1 Lekvian Vampire
+1 Long-Winded Orator
+1 Lost in The Borderwood
+1 Master Vennan
+1 Noble Orator
+1 Old Watch Directive
+1 Resilient Knight
+2 Rockfall
+1 Rosilie D'Avron
 1 Rugged Outlander
+1 Scrap Technician
+1 Scribe Tactician
 5 See Beyond
-1 Sorvald's Insight
-1 Spectacular Sweep
-1 Speed Check
-1 Steven
+1 Selfless Lawmage
+1 Shield of Earth
+1 Sinkhole
+2 Siphon Strength
+1 Skilled Lawmage
+1 Skyhaven Archer
+1 Slow Magic
+1 Stall
 1 Sublimate
-1 Sunblade Knight
-1 Tundra Arbiter
-1 Unfortunate Accident
-1 Vampiric Recovery
-1 Veteran Skyknight
-1 Volcanic Giant
-1 Wave of Doubt
-1 Wild Vision
+1 Sudden Drop
+1 Supply-Line Runner
+1 Truce
 8 Wilds of Atnia
+1 Wolkk Twinspear
+1 Workshop Automaton
 
 1 Golem
 1 Night Horror

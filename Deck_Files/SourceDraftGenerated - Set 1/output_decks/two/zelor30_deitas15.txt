@@ -1,54 +1,52 @@
-1 Abominable Egg
-1 Apprentice Spellcaster
-1 Arcane Imitation
-1 Aton Battlemaster
+1 Amatuer Illusionist
+1 Amnesia
+1 Avatar of Defeat
 1 Avatar of Vosderon
-1 Become Large
-1 Burning Man
+1 Beseech the Gods
 1 Call to Arms
-1 Combo Slice
-1 Cursed Portal
-1 Dark Apostle
-1 Deja Vu
-1 Disappearing Orb
-1 Divine Favor
+1 Devout Adventurer
+1 Divine Intervention
 1 Doomsday Prophet
-1 Embrace the Arcane
-1 Fireball
-1 Flashback Attack
-1 Forgotten Hunter
+1 Eruption
+1 Exposed Leyline
+1 Extreme Heat
+1 Eye for an Eye
+1 Fallen Angel
+1 Festering Penitent
+2 Fireball
+1 Flame Oracle
+1 Force Field
 1 Forsaken Displacer
-1 Get Back In There
-1 Globe of 1000 Souls
-1 Inspired Cleric
-1 Journey Through Dream
-1 Knight of the Wheat
-1 Mysterious Cleric
-1 Novice Knight
-1 Occult Harbinger
+1 Forsaken Loremaster
+1 Heretic of the Torch
+1 Knight of the Torch
+1 Moon's Favor
+1 Noble Ancestor
 1 Oln's Binding
-1 Pax Nova Battlemage
-1 Pax Nova Guardian
-1 Plasma Bolt
-1 Radiating Force
+1 Ozen's Directive
+1 Pale Zealot
+2 Plasma Bolt
+1 Possessed Sycophant
+1 Profane Blessing
+1 Prophet of Ozen
+1 Reckless Acolyte
 1 Recollect
-1 Replenish
-1 Scorched Earth
-1 Search for Omnipotence
+1 Rousing Tale
+1 Seasonal Festeval
 5 See Beyond
-1 Shem's Binding
+1 Sleep Eater
+1 Smoldering Embers
+1 Sorvald's Ignition
+1 Spark of Divinity
 1 Stochastic Ignition
-1 Thorny Defense
-1 Thought Extraction
-1 Thunderous Fury
+1 Survivor Knight
+1 Symbol of Hwain
 1 Traverse Dream
-1 Unimaginable Nightmare
-1 Unnatural Disaster
+1 Unstable Staff
 1 Vosderon's Wrath
-1 Wicked Pact
+1 Wildfire
 8 Wilds of Atnia
 1 Wizard's Familiar
-1 Zelor Faith Directive
 
 1 Golem
 1 Night Horror

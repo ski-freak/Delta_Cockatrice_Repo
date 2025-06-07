@@ -1,54 +1,54 @@
-1 A Trick
-1 Ancient Mentor
-1 Apprentice Spellcaster
+1 Angelic Apparition
+1 Apprentice Arbiter
 1 Arbiter Marshal
-1 Arbiter Medic
-1 Aton Battlemaster
-1 BSOD
+1 Arcane Archer
+1 Arcane Shield
+1 Battlemaster of The Wall
 1 Beckon Home
-1 Burning Man
 1 Burst of Speed
-1 Cloaked Mindmage
-1 Combo Slice
-1 Cordial Wall-Knight
-1 Desperate Arbiter
-1 Dominate Will
+1 Command
+1 Cunning Arbiter
+1 Defender of the Gate
+1 Defender of the Lake
+1 Dream Haven
+1 Efficient Arbiter
+1 Eruption
 1 Explosive Breakthrough
+1 False Orders
+1 Fated Return
+1 Feigned Weakness
 1 Fireball
-1 Forgetful Arbiter
-1 Forgotten Hunter
-1 Frightening Arbiter
+1 Flaming Berserker
+1 Glyph of Sending
+1 Glyph of Summoning
 1 Knight of the Moon
-1 Knight's Familiar
+1 Knight of the Torch
+1 Knight of the Wheat
 1 Knightly Mentor
-1 Lavasmith
 1 Liase of the Two Scrolls
 1 Liev Arbiter
-1 Magic Trick
-1 Novice Knight
+1 Logol of The Mirror
+1 Noble Orator
+1 Ozen's Faithful
+1 Pax Nova Battlemage
 1 Pax Nova Directive
-1 Phantom Angel
-1 Plasma Bolt
+1 Prodigal Champion
 1 Resilient Knight
-1 Sagittarii
+1 Righteous Edict
 5 See Beyond
+1 Selfless Lawmage
 1 Set Ablaze
-1 Shifting Mirage
+1 Skilled Lawmage
+1 Slow Magic
+1 Smoldering Embers
 1 Sorvald's Ignition
-1 Spectacular Sweep
-1 Spectral Agent
-1 Spectral Reinforcements
-1 Speed Check
-1 Stunt Double
+1 Stall
+1 Steel Resolve
 1 Sunblade Knight
-1 Thorny Defense
-1 Try Again
-1 Tundra Arbiter
-1 Unimaginable Nightmare
-1 Ward of Repellance
-1 Wave of Doubt
+1 Survivor Knight
+1 Tome of Knowledge
+1 Wildfire
 8 Wilds of Atnia
-1 Wolkk Twinspear
 
 1 Golem
 1 Night Horror

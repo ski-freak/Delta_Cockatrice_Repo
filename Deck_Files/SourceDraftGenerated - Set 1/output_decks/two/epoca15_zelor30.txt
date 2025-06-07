@@ -1,54 +1,52 @@
-1 Annul
-1 Apprentice Spellcaster
-1 Aton Battlemaster
+1 Alliance Pyromancer
+1 Amnesia
+2 Annul
+1 Avatar of Defeat
 1 Battle Rage
-1 Catch!
-1 Countervailing Flames
-1 Disappearing Orb
-1 Dune Paladin
-1 Electrolytes
-1 Eruption
-1 Escape to Dream
-1 Esteemed Archivist
+1 Call to Arms
+1 Chart the Possibilities
+1 Cleave
+1 Condescend
+1 Counter
+1 Countervailing Force
+1 Dream Haven
+1 Dream Jaunt
+1 Embrace the Ephemeral
+1 Enlarge
+1 Excavation Automaton
 1 Extreme Heat
-1 Fated Return
-1 Fire Channeler
-1 Force Field
-1 Grim Librarians
-1 Interrupt
+1 Fire Shield
+1 Fireball
+1 Flame Oracle
+1 Forsaken Initiate
+1 Forsaken Loremaster
+1 Forsaken Reveller
+1 Futuresight Ritual
+1 Heretic of the Torch
+2 Interrupt
 1 Journey Through Dream
+1 Knight of the Torch
 1 Knight of the Wheat
-1 Lunar Suppression
-1 Magical Zenith
-1 Mirage Manufacturer
-1 Novice Knight
-1 Pax Nova Battlemage
-1 Pax Valley Wyvern
-1 Plasma Bolt
-1 Probable Rivalry
-1 Quinn
+1 Lightning Prophecy
+1 Omen of Winter
+1 Outlander's Familiar
+1 Pale Sun Initiate
+1 Pale Zealot
+1 Patriotic Directive
+1 Read the Stars
 1 Recollect
-1 Remake
-1 Replenish
-1 Return of the Vanished
-1 Scorched Earth
+1 Restore Barrier
+1 Rousing Tale
+1 Scour the Signs
+1 Seasonal Festeval
 5 See Beyond
-1 Set Ablaze
-1 Squish
-1 Starlight Cleric
-1 Stochastic Ignition
+1 Shadow of the Nightmare
 1 Stronghold Dispatch
-1 Thorny Defense
-1 Thought Extraction
+1 Survivor Knight
 1 Thunderous Fury
-1 Trail of the Nightmare
-1 Traverse Dream
 1 Unstable Core
-1 Void Shift
-1 Wicked Pyromancer
+1 Wildfire
 8 Wilds of Atnia
-1 Wizard's Familiar
-1 Zelor Oldworld Directive
 
 1 Golem
 1 Night Horror

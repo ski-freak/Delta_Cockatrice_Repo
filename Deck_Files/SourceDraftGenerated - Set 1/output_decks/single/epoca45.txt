@@ -1,50 +1,47 @@
-1 Airdrop
+1 Animate
 1 Annul
-1 Awakened Arbiter
-1 Catch!
-1 Collective Knowledge
-1 Cryptic Swan
+1 Aton Excavation
+1 Chart the Possibilities
+1 Clockwork Generator
+1 Condescend
+1 Counter
+1 Cynical Relic-Caster
+1 Decode the Runes
+1 Depleted Relic
+1 Embargo
+1 Embrace the Ephemeral
 1 Energy Cell
-1 Esteemed Archivist
 1 Excavation Automaton
-1 Frank
-1 Furious Sorcerer
 1 Gift of Life
-1 Golem Nexus
-1 Grim Librarians
-1 Interrupt
-1 Junior Adventurer
-1 Knowledge Requisitioner
-1 Loose Change
-1 Lunar Suppression
-1 Mirage Manufacturer
-1 Mystic Stone
-1 Mystical Oil
+1 Glyph of Distress
+2 Glyph of Warding
+1 Hourglass of Ages
+1 Inspired Archaeologist
+2 Interrupt
+1 Knight of the Coin
+1 Mirage Glyph
 1 Oana's Divination
-1 Outlander's Familiar
+1 Oguth of Mnem
+1 Old-World Scholar
 1 Outlands Cleric
+1 Overcharged Circuit
+1 Pale Sun Initiate
 1 Pax Valley Wyvern
-1 Power of Antiquity
-1 Probable Rivalry
-1 Procrastinate
-1 Quinn
-1 Recycling
+1 Read the Stars
 1 Remake
-1 Return of the Vanished
-1 Return to the Earth
-1 Ruins Scavenger
-1 Sage of the Sun
+1 Resourceful Cleric
+2 Restore Barrier
+1 Return to Dust
+1 Scatter to the Ages
 1 Scour the Ruins
+1 Seasoned Arbiter
 3 See Beyond
-1 Squish
-1 Starlight Cleric
-1 Stronghold Dispatch
-1 The Dreamer
-1 The Plan
-1 Thingamajig
-1 Train Station
-1 Vaudeville Hook
+1 Squelch
+1 Tower Mage
+1 Underground Station
+1 Whirring Contraption
 6 Wilds of Atnia
+1 Will o' the Wisp
 
 1 Golem
 1 Night Horror

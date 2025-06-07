@@ -1,58 +1,58 @@
-1 Abominable Egg
-1 Aggravating Scribe
-1 Ancient Excavation
-1 Back Again
-1 Billy Bob
-1 Blood Bank
-1 Brag's Prison
-1 Centrifuge
-1 Clockwork Soldier
-1 Contemplate
-1 David
-1 Death Elemental
-1 Eager Explorer
-1 Excavation Automaton
-1 Faith Materia Directive
-1 Faith Oldworld Directive
-1 Familiar Shadow
-2 Final Strike
-1 Frostblade Adept
-1 Gaston, Lekvian Squire
-1 Globe of 1000 Souls
-1 Higher Purpose
+1 Alliance Berserker
+1 Ancient Vampire
+1 Annul
+1 Anvil of Souls
+1 Condescend
+1 Consume Flesh
+1 Counter
+1 Crackling Hurricane
+1 Cynical Relic-Caster
+1 Delayed Circuit
+1 Demonic Bargain
+1 Devout Healer
+1 Disciple of The Shattered Mirror
+1 Ephemerality Caster
+1 Expedition Leader
+1 Filibuster Specialist
+1 Futuresight Ritual
+1 Hired Hands
 1 Hourglass of Ages
-1 Junior Adventurer
-1 Knowledge Requisitioner
+1 Kindling Mage
 1 Lekvian Butler
-1 Mindless Cleric
-1 Occult Harbinger
-1 Old Watch Scribe
+1 Lekvian Vampire
+1 Leyline Conduit
+1 Leyline Summoning
+1 Long-Winded Orator
+1 Lost in The Borderwood
+1 Mnem Directive
+1 Obliterate
+1 Oln's Chosen
 1 Outlander's Familiar
 1 Pale Sun's Influence
 1 Pax Seeker
-1 Pax Valley Wyvern
-1 Pesky Scribe
-1 Prepared Scribe
-1 Procrastinate
-1 Profane Blessing
-1 Quick Thinking
-1 Ray of Scorn
-1 Relic Recovery
-1 Rugged Outlander
-1 Ruins Scavenger
+1 Possessed Sycophant
+1 Rash Chieftain
+1 Rosilie D'Avron
+2 Search for Omnipotence
 7 See Beyond
-1 Shem's Binding
-1 Skyhaven Cannon
-1 Squish
-1 Steven
-1 Substitute
-1 Temple Artificer
+1 Shard of The Mirror
+2 Shem's Binding
+1 Spark of Divinity
+1 Spiritual Awakening
+1 Stare into the Sun
+1 Sudden Drop
+1 Supply-Line Runner
+1 Symbol of Vosderon
 1 Temple Librarian
+1 Tower Mage
 1 Twilight Isle Directive
-1 Universal Stimulant
-1 Vaudeville Hook
-1 Void Capsule
+1 Underground Station
+1 Undying Duty
+1 Veriglas Directive
+1 Whirring Contraption
 10 Wilds of Atnia
+1 Workshop Automaton
+1 Young Adventurer
 
 1 Golem
 1 Night Horror

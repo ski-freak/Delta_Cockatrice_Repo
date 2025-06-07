@@ -1,52 +1,53 @@
-1 Absolute Destruction
-1 Adapt
-1 Alexander
-1 Ambush
-1 Bold Warrior
-1 Borrow Time
+1 Advance Supply Convoy
+1 Advanced Tactics
+1 Alliance General
+1 Assembly Construct
+1 Bloodburst
 1 Clockwork Soldier
-1 Consume Flesh
-1 Dark Aperture
-1 Defiant Scribe
-1 Dutiful Scribe
-1 Emergency Supply Kit
-1 Energy Drain
-1 Escaped Monster
-2 Ether Charge
-1 Ethereal Construct
-1 Final Strike
+1 Conceal
+1 Councilor Corsovo
+1 Crackling Hurricane
+1 Crippling Shot
+1 Deadly Strike
+1 Devastating Landslide
+1 Eager Explorer
+1 Earthquake
+1 Evasive Scribe
+1 Experienced Traveler
+1 Farmland Defender
+1 Filibuster Specialist
 1 Fortress Automaton
-1 Gaston, Lekvian Squire
-1 George
-1 Hidden Giant
-1 Hired Hands
-1 Injury to Insult
-1 Isolated Archer
-1 Jasper
-1 Malicious Receptionist
-1 Martial Materia Directive
-1 Novice Law-Binder
-1 Outlands Leader
-1 Outlast
-1 Pesky Scribe
+1 General Akkir
+1 Healing Potion
+1 Legion Drill Sergeant
+1 Legion Mageslayer
+1 Legion Warlock
+1 Lekvian Butler
+1 Lost in The Borderwood
+1 Marla, Respected Chef
+1 Militia Leader
+1 Mud Golem
+1 Ogre Tactician
+1 Ogre of Mnem
 1 Prepared Scribe
-1 Quagmire Elemental
-1 Savage Snare
+1 Reorganize
+1 Reserve Tactics
+1 Rockfall
+1 Rosilie D'Avron
+1 Salt Alliance Directive
 5 See Beyond
-1 Stash Away
-1 Steadfast Arbiter
-2 Sublimate
-1 The Calling
-1 The Renegade
-1 Unfortunate Accident
-1 Vampire's Grasp
-1 Vampiric Recovery
-1 War Elephant
-1 Warmongerer
-1 Warrior's Training
+1 Sinkhole
+2 Siphon Strength
+1 Sudden Drop
+1 Toglu
+1 Tower Thief
+1 Valorous Triumph
+1 Vexing Scribe
+1 Watch Bureaucrat
 8 Wilds of Atnia
 1 Workshop Automaton
-1 Zombie Summoner
+1 Worldly Scribe
+1 Yeo
 
 1 Golem
 1 Night Horror

@@ -1,54 +1,53 @@
-1 A Trick
-1 Alert the Knights
-1 Ancient Mentor
-1 Arbiter Medic
-1 BSOD
-1 Banner of Lentholm
-1 Beckon Home
-1 Branching Paths
-1 Cloaked Mindmage
-1 Coordinated Assault
-1 Coordinated Defense
-1 Cordial Wall-Knight
-1 Cruel Messenger
-1 Deadly Strike
-1 Desperate Arbiter
-1 Devout Arbiter
-1 Dominate Will
-1 Dropkick
-1 Emergency Supply Kit
-1 Eminus Martial Directive
-1 Flank
-1 Forgetful Arbiter
-1 Frightening Arbiter
+1 Ambush
+1 Apprentice Arbiter
+1 Arcane Shield
+1 Cloaked Inquisitor
+1 Command
+1 Conceal
+1 Cunning Arbiter
+2 Deadly Strike
+1 Defender of the Gate
+1 Defender of the Lake
+1 Devout Knight
+1 Efficient Arbiter
+1 False Orders
+1 General Falfar Kelwyn
+1 General's Directive
+1 Glyph of Alarm
+1 Glyph of Sending
+1 Honorable Knight
 1 Hunter's Hawk
-1 Infectious Fervor
-1 Interfering Arbiter
+1 Investigate the Scene
+1 Knight's Familiar
+1 Knightly Reinforcements
+1 Legion Assassin
 1 Liev Arbiter
-1 Mind Trauma
-1 Orb of Understanding
-1 Phantom Angel
-1 Reorganize
+1 Master Duelist
+1 Militia Leader
+1 No Retreat
+1 Novice Spellsealer
 1 Resilient Knight
-1 Round Two
-1 Sagittarii
+1 Retreating Slice
+1 Revenants of War
+1 Rewind
+1 Righteous Edict
 5 See Beyond
-1 Skyknight
-1 Sneaky Assassin
-1 Spectacular Sweep
+1 Selfless Lawmage
+1 Sound the Alarm
+1 Stall
 1 Steel Resolve
 1 Stronghold Guard
-1 Stunt Double
+1 Sunblade Knight
 1 Swift Rescue
-1 Thunder Knight
-1 Tower Thief
-1 Trade Insight
-1 Try Again
-1 Tundra Arbiter
+1 Swift Shieldmage
+1 Tome of Knowledge
+1 Truce
+1 Untimely Investigation
 1 Valorous Triumph
-1 Veteran Skyknight
+1 What You Can Carry
 8 Wilds of Atnia
 1 Wolkk Twinspear
+1 Young Dragon Spider
 
 1 Golem
 1 Night Horror

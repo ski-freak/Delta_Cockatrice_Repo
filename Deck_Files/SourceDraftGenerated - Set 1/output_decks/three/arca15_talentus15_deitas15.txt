@@ -1,58 +1,60 @@
+1 Absence
+1 Advanced Tactics
+1 Arcane Historian
 1 Arcane War Cry
-1 Blood Channeler
-1 Bloodthirsty Warrior
+1 Aulvan Writings
+1 Balance the Cosmos
+1 Bloodcrazed Knight
 1 Brag's Prison
-1 Branching Paths
-1 Contain
-1 Cosmic Justice
-1 Cursed Portal
-1 Deadly Strike
-1 Divine Harmony
+1 Call of Destiny
+1 Cursed Tomb
+1 Decree of Peace
+1 Desperate Stand
 1 Dream of the Dead
-1 Enhance Spell
-1 Escape Artist
-1 Faith Martial Directive
-1 Fervent Devotion
-1 Forsaken Dreamweaver
-1 Heroic Moment
+1 Emergency Supply Kit
+1 Fervent Ritual
+1 Flank
+1 General Falfar Kelwyn
+1 Goblin Sharptooth
 1 Hymn to the Pale Sun
-1 Illusory Chains
+1 Investigate the Scene
 1 Knight of the Book
-1 Martial Arca Directive
-1 Midnight Duel
+1 Legion Assassin
+1 Legion Messenger
+1 Legion Quartermaster
+1 Lopsided Truce
+1 Marla, Respected Chef
 1 Nightfall
-1 Nomadic Orc
-1 Novice Zombiemancer
-1 Occult Harbinger
-1 Oln's Binding
-1 Ozen's Fury
-1 Pact of Eons
+1 Oln's Chosen
+1 Pact of Aeons
 1 Pale Mountain Directive
-1 Pull of the Abyss
+1 Priest of Vosderon
+1 Reawaken in Dream
+1 Reckless Sculptor
 1 Recurring Nightmare
-1 Relic Recovery
-1 Reorganize
-1 Rift Screech
-1 Rift's Grasp
-1 Round Two
+1 Reforge in Flame
+1 Relic Channeler
+1 Relic Scavenger
+1 Revenants of War
+1 Rift Cache
+1 Rift Directive
+1 Rift Surge
+1 Riftcursed Farmer
+1 Rolead the Swift
+1 Search for Omnipotence
 7 See Beyond
-2 Shem's Binding
-1 Skyhaven Cannon
+1 Serene Dove
 1 Spirit Guide
-1 Stockpile Manager
-1 Summon Ringer
-1 Team Up
-1 The Bringer
-1 The Departed
-1 The Meatgrinder
-1 Twist of Fate
-1 Unstable Contract
-1 Void Capsule
-1 Void Cleric
-2 Void Spike
+1 Stare into the Sun
+1 Swift Rescue
+1 Valorous Triumph
+1 Void Drake
+1 Void Snap
+1 Void Spike
+1 Wandering Protector
 10 Wilds of Atnia
-1 Zombie Ambush
-1 Zombie Summoner
+1 Wizened Cleric
+1 Zoggir's Directive
 
 1 Golem
 1 Night Horror

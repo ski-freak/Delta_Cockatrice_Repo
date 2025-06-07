@@ -22,7 +22,7 @@
 1 Void Replication
 1 Voidsworn Apostle
 1 Rift Whispers
-1 Cemetary Rift
+1 Cemetery Rift
 1 Rift Surge
 1 Pull of the Abyss
 1 Scrap Summoning
@@ -49,352 +49,335 @@
 1 Unstable Contract
 1 Knight of the Book
 1 Entwine Fates
-1 Frost Eruption
+1 Foretold Cataclysm
 1 Encroaching Inevitability
 1 Twist of Fate
 
 Eminus
-1 Devastating Decoy
-1 A Trick
+1 Righteous Edict
+1 Feigned Weakness
+1 Logol of The Mirror
 1 Knightly Reinforcements
-1 Spectral Reinforcements
+1 Defender of the Lake
 1 Liase of the Two Scrolls
-1 Skyknight
-1 Ancient Mentor
+1 Devout Knight
+1 Noble Orator
 1 Honorable Knight
 1 Resilient Knight
 1 Liev Arbiter
 1 Nullify Magic
-1 Try Again
-1 Wave of Doubt
-1 Spectacular Sweep
-1 Temporary Disappearance
-1 BSOD
-1 Mind Trauma
+1 Stall
+1 False Orders
+1 Rewind
+1 Untimely Investigation
+1 Truce
+1 Banishment
 1 Arbiter Marshal
-1 Shifting Mirage
-1 Forgetful Arbiter
+1 Apprentice Arbiter
+1 Cunning Arbiter
 1 Spectral Agent
-1 Phantom Angel
-1 Tundra Arbiter
-1 Dominate Will
-1 Cloaked Mindmage
-1 Arbiter Medic
-1 Desperate Arbiter
-1 Veteran Skyknight
-1 Frightening Arbiter
-1 Ward of Repellance
+1 Angelic Apparition
+1 Novice Spellsealer
+1 Command
+1 Cloaked Inquisitor
+1 Swift Shieldmage
+1 Selfless Lawmage
+1 Ozen's Faithful
+1 Skilled Lawmage
+1 Glyph of Sending
 1 Knight's Familiar
 1 Sunblade Knight
-1 Interfering Arbiter
-1 Coordinated Assault
-1 Coordinated Defense
-1 Orb of Understanding
-1 Cordial Wall-Knight
-1 Alert the Knights
-1 Instant Shield
-1 Speed Check
+1 Efficient Arbiter
+1 Glyph of Summoning
+1 Glyph of Alarm
+1 Tome of Knowledge
+1 Defender of the Gate
+1 Sound the Alarm
+1 Arcane Shield
+1 Slow Magic
 1 Beckon Home
-1 Stunt Double
+1 Royal Decoy
 1 Wolkk Twinspear
-1 Sagittarii
+1 Arcane Archer
 1 Steel Resolve
-1 Thunder Knight
+1 Prodigal Champion
 
 Materia
 1 Sublimate
-1 Unfortunate Accident
-1 Savage Snare
+1 Rockfall
+1 Sudden Drop
 1 Sinkhole
-1 Siphon Power
-1 Final Strike
-1 Bloodlust
-1 Absolute Destruction
-1 Malicious Receptionist
+1 Siphon Strength
+1 Devastating Landslide
+1 Watch Bureaucrat
 1 Sublimate
-1 Unfortunate Accident
-1 Lekvian Traveler
-1 Savage Snare
+1 Rockfall
+1 Sudden Drop
 1 Sinkhole
-1 The Calling
-1 Defiant Scribe
+1 Worldly Scribe
 1 Hired Hands
-1 Siphon Power
+1 Siphon Strength
 1 Lekvian Vampire
 1 Rugged Outlander
-1 Intimidating Scribe
+1 Scribe Tactician
 1 Prepared Scribe
 1 Rosilie D'Avron
-1 Lost in the Wilds
-1 Quagmire Elemental
+1 Lost in The Borderwood
+1 Mud Golem
 1 Vexing Scribe
-1 Annoying Scribe
-1 Aggravating Scribe
+1 Long-Winded Orator
+1 Councilor Corsovo
 1 Consume Flesh
-1 Ethereal Construct
-1 Looming Overlord
-1 Self Improver
-1 Golem Conjurer
-1 Wild Vision
-1 Volcanic Giant
-1 Familiar Shadow
-1 Death Elemental
+1 Assembly Construct
+1 Alliance Beastcaller
+1 Clockwork Guardian
+1 Scrap Technician
+1 Leyline Summoning
 1 Lekvian Butler
-1 Absorb
-1 Borrow Time
-1 Gaston, Lekvian Squire
-1 Vampire's Grasp
-1 Final Strike
+1 Bloodburst
 1 Clockwork Soldier
-1 Menacing Automaton
-1 Menacing Scribe
-1 Mechanical Vampire
-1 Blood Bank
+1 Clockwork Duelist
+1 Evasive Scribe
 1 Fortress Automaton
 1 Workshop Automaton
 1 Sorvald's Insight
 1 Healing Potion
-1 Absolute Destruction
-1 Vampiric Recovery
-1 Life Manipulation
-1 Injury to Insult
-1 Bloodlust
-1 Priest of Death
-1 Spire Hunter
+1 Devastating Landslide
 1 Energy Drain
-1 Escaped Monster
-1 Outlast
-1 Pesky Scribe
-1 Noddegamra
-1 Quiet Mage
-1 Isolated Archer
-1 Hidden Giant
-1 Lucy
-1 Steven
+1 Alliance Berserker
+1 Shield of Earth
+1 Filibuster Specialist
+1 Crackling Hurricane
+1 Ogre of Mnem
+1 Skyhaven Archer
+1 Ogre Tactician
+1 Farmland Defender
+1 Bloodcaster
 1 Eager Explorer
 1 Ancient Vampire
 1 Earthquake
-1 Outlands Leader
-1 Old Watch Scribe
-1 Dutiful Scribe
+1 Alliance General
+1 Logistics Expert
+1 Supply-Line Runner
 
 Epoca
-1 Catch!
-1 Squish
-1 Quick Thinking
+1 Restore Barrier
+1 Squelch
+1 Condescend
 1 Interrupt
 1 Annul
-1 Lunar Suppression
-1 Vaudeville Hook
-1 Recycling
+1 Counter
+1 Glyph of Warding
+1 Scrap Compactor
 1 Lost Tome
-1 The Dreamer
+1 Old-World Scholar
 1 Embargo
-1 The Plan
-1 Invisible Haze
-1 Ancient Necromancer
-1 Dead on Arrival
-1 Airdrop
-1 Scrap Merchant
+1 Aulvan Cypher
+1 Antimagic Haze
+1 Ephemerality Caster
+1 Scatter to the Ages
+1 Animate
+1 Knight of the Coin
 1 Gift of Life
-1 Potent Divination
+1 Read the Stars
 1 Centrifuge
 1 Stronghold Dispatch
-1 Train Station
-1 Quick Thinking
-1 Collective Knowledge
-1 Construct Constructor
+1 Underground Station
+1 Condescend
+1 Futuresight Ritual
+1 Clockwork Assembly
 1 Golem Nexus
 1 Remake
-1 Frank
-1 Cryptic Swan
-1 Squish
-1 Probable Rivalry
-1 Knowledge Requisitioner
-1 Sage of the Sun
-1 Knowledge Collection
-1 Loose Change
-1 Awakened Arbiter
-1 Mystic Stone
-1 Grim Librarians
-1 Procrastinate
-1 Return of the Vanished
-1 Question Station
-1 Mystical Oil
-1 Furious Sorcerer
-1 Helping Hands
+1 Inspired Archaeologist
+1 Will o' the Wisp
+1 Squelch
+1 Glyph of Distress
+1 Warden of the Portals
+1 Pale Sun Initiate
+1 Decode the Runes
+1 Depleted Relic
+1 Seasoned Arbiter
+1 Sputtering Conduit
+1 Inkblood Librarian
+1 Delayed Circuit
+1 Embrace the Ephemeral
+1 Hindsight Crystal
+1 Overcharged Circuit
+1 Cynical Relic-Caster
+1 Clockwork Generator
 1 Energy Cell
-1 Thingamajig
-1 Crystal Triangle
-1 Contemplate
+1 Whirring Contraption
+1 Leyline Conduit
+1 Chart the Possibilities
 1 Interrupt
 1 Annul
-1 Lunar Suppression
-1 Catch!
-1 Starlight Cleric
+1 Counter
+1 Restore Barrier
+1 Cleric of Hwain
 1 Excavation Automaton
 1 Hourglass of Ages
 1 Pax Valley Wyvern
-1 Frostblade Adept
-1 Junior Adventurer
-1 Ancient Excavation
-1 Power of Antiquity
-1 Ruins Scavenger
+1 Oguth of Mnem
+1 Young Adventurer
+1 Aton Excavation
+1 Rune of Antiquity
+1 Expedition Leader
 1 Outlander's Familiar
-1 Quinn
+1 Resourceful Cleric
 1 Oana's Divination
-1 Essence of the Old World
-1 Return to the Earth
+1 Restore Order
+1 Return to Dust
 1 Scour the Ruins
-1 Esteemed Archivist
-1 Mirage Manufacturer
-1 Storm Generator
-1 Vaudeville Hook
+1 Tower Mage
+1 Mirage Glyph
+1 Storm Rune
+1 Glyph of Warding
 1 Outlands Cleric
 
 Zelor
 1 Fireball
 1 Plasma Bolt
 1 Amnesia
-1 Library Raid
+1 Scour the Signs
 1 Extreme Heat
 1 Thought Extraction
 1 Wizard's Familiar
 1 Set Ablaze
 1 Fireball
-1 Pentahedron Lightning
+1 Living Lightning
 1 Thunderous Fury
 1 Stochastic Ignition
-1 Become Large
+1 Enlarge
 1 Sorvald's Ignition
-1 Thorny Defense
-1 Combo Slice
-1 Arcane Imitation
+1 Fire Shield
+1 Cleave
+1 Divergent Dreams
 1 Knight of the Moon
-1 Dune Paladin
-1 Aton Battlemaster
-1 Mindseeker
-1 Unimaginable Nightmare
+1 Survivor Knight
+1 Battlemaster of The Wall
+1 Sleep Eater
+1 Avatar of Defeat
 1 Seasonal Festeval
-1 Trail of the Nightmare
-1 Replenish
-1 Pax Nova Guardian
-1 Radiating Force
-1 Magical Zenith
+1 Shadow of the Nightmare
+1 Reprise the Past
+1 Heretic of the Torch
+1 Wildfire
+1 Exposed Leyline
 1 Scorched Earth
-1 Flashback Attack
+1 Smoldering Embers
 1 Eruption
-1 Magic Trick
-1 Forgotten Hunter
+1 Rousing Tale
+1 Forsaken Loremaster
 1 Journey Through Dream
 1 Knight of the Wheat
 1 Knight of the Torch
 1 Force Field
-1 Disappearing Orb
-1 Void Shift
-1 Volcanic Vision
-1 Wicked Pyromancer
+1 Dream Haven
+1 Dream Jaunt
+1 Omen of Winter
+1 Pale Zealot
 1 Amatuer Illusionist
 1 Forsaken Displacer
 1 Battle Rage
-1 Fire Channeler
-1 Apprentice Spellcaster
+1 Forsaken Chanter
+1 Forsaken Reveller
 1 Traverse Dream
 1 Escape to Dream
 1 Fated Return
 1 Recollect
-1 Embrace the Arcane
+1 Unstable Staff
 1 Flame Oracle
-1 Lavasmith
-1 Burning Man
+1 Alliance Pyromancer
+1 Flaming Berserker
 1 Plasma Bolt
-1 Novice Knight
+1 Forsaken Initiate
 1 Pax Nova Battlemage
 1 Call to Arms
 
 Talentus
-1 Ether Charge
+1 Crippling Shot
 1 Tower Thief
-1 Devout Arbiter
-1 Contain
+1 Legion Mageslayer
+1 Supply Logistics
 1 Adapt
 1 Deadly Strike
-1 Summon Ringer
-1 Novice Law-Binder
-1 Steadfast Arbiter
-1 Ether Charge
+1 Reserve Tactics
+1 Young Dragon Spider
+1 Legion Sergeant
+1 Crippling Shot
 1 Tower Thief
-1 The Doublemeister
+1 Clang-Blade Duelist
 1 Master Duelist
 1 Flank
-1 Sneaky Assassin
-1 The Renegade
-1 Liev Warrior
-1 Cruel Messenger
+1 Legion Assassin
+1 Legion Chevalier
+1 Legion Scout
+1 Legion Messenger
 1 Team Up
 1 Valorous Triumph
-1 Zombie Ambush
+1 Lure into Danger
 1 Legion Tactician
+1 Advanced Tactics
 1 Ambush
 1 Stronghold Guard
-1 Devout Arbiter
+1 Legion Mageslayer
 1 Swift Rescue
-1 Round Two
-1 Liev Grappler
+1 Lopsided Truce
+1 Outlands Brawler
 1 Legion Warlock
-1 Send in the Zombies
+1 Revenants of War
 1 Bold Warrior
-1 Contain
-1 5th Legion Lieutenant
+1 Supply Logistics
+1 Legion Rider
 1 Warrior's Training
-1 Oasis Giant
+1 Ancient Swordsmaster
 1 Adapt
 1 Legion Drill Sergeant
 1 Investigate the Scene
-1 Novice Zombiemancer
+1 Combat Necromancer
 1 Experienced Traveler
 1 Heroic Moment
-1 Battlefield Commander
-1 Spare Violence
+1 General Falfar Kelwyn
+1 Scavenged Munitions
 1 Emergency Supply Kit
-1 Stash Away
+1 Conceal
 1 Nomadic Orc
-1 Warmongerer
-1 Improved Morale
-1 Zombie Invasion
-1 Bloodthirsty Warrior
+1 Militia Leader
+1 Inspiring Banner
+1 Battlefield Rift
+1 Goblin Sharptooth
 1 Trade Insight
 1 War Elephant
-1 Zombie Summoner
+1 Lesser War Demon
 1 Legion Courier
 1 Banner of Lentholm
 1 Legion Cannoneer
 1 Deadly Strike
-1 Summon Ringer
-1 Swarm the Enemy
-1 Dissociation
+1 Reserve Tactics
+1 Inspired Charge
+1 What You Can Carry
 1 Reorganize
-1 Infinity Vessel
-1 Enterprising Merchant
+1 Advance Supply Convoy
+1 Legion Quartermaster
 1 Rolead the Swift
-1 Dark Aperture
-1 Vicious Looter
-1 Henry
-1 Stockpile Manager
-1 Branching Paths
-1 Doomed Legionnaire
-1 Gregory
-1 Battlehardened Soldier
+1 Hostage Negotiations
+1 Battlefield Looter
+1 Marla, Respected Chef
+1 Watch Quartermaster
+1 Battle Plans
+1 Possessed Legionnaire
+1 Legion Infiltrator
+1 Selfless Legionnaire
 1 Midnight Duel
 
 Deitas
 1 Oln's Binding
-1 Void Capsule
-1 Out of Mind
-1 Skyhaven Cannon
-1 Unnatural Disaster
-1 Cursed Portal
-1 Globe of 1000 Souls
+1 Symbol of Hwain
+1 Decree of Peace
+1 Symbol of Vosderon
+1 Divine Intervention
+1 Demon Chains
+1 Inquisitor's Cage-Charm
 1 Shem's Binding
 1 Brag's Prison
 1 Shem's Binding
@@ -403,62 +386,62 @@ Deitas
 1 Search for Omnipotence
 1 Search for Omnipotence
 1 Oln's Binding
-1 Void Capsule
-1 Zombie Egg
-1 Devouring Sphere
+1 Symbol of Hwain
+1 Festering Penitent
+1 Wandering Protector
 1 Dark Apostle
-1 Out of Mind
-1 Back Again
+1 Decree of Peace
+1 Reforge in Flame
 1 Temple Artificer
-1 Get Back In There
+1 Undying Duty
 1 Doomsday Prophet
 1 Reawaken in Dream
 1 Devout Healer
-1 Deja Vu
-1 Svet Scout
-1 Downtown Walk
-1 Evil Opportunity
+1 Call of Destiny
+1 Relic Scavenger
+1 Ta's Sight
+1 Stare into the Sun
 1 Elderly Monk
-1 Spirit of Monumentality
+1 Noble Ancestor
 1 Serene Dove
-1 Occult Harbinger
+1 Selfless Cultist
 1 Pale Sun's Influence
-1 Call the Divine
+1 Beseech the Gods
 1 Healing Amulet
-1 The Departed
+1 Doomed Prophet
 1 Spiritual Awakening
-1 Passive Income Scheme
-1 Abominable Egg
+1 Spark of Divinity
+1 Possessed Sycophant
 1 Void Cleric
-1 Guardian Relic
+1 Fallen Angel
 1 Profane Blessing
 1 Spirit Guide
-1 Doomed Cleric
-1 Skyhaven Cannon
-1 Unnatural Disaster
-1 Ethereal Mirage
-1 Mindless Cleric
-1 Consuming Ooze
-1 Wicked Pact
-1 Mysterious Cleric
+1 Oln's Chosen
+1 Symbol of Vosderon
+1 Divine Intervention
+1 Ethereal Voice
+1 Disciple of The Shattered Mirror
+1 Reckless Acolyte
+1 Demonic Bargain
+1 Forge-Priest of Brag
 1 Relic Recovery
-1 Tomb Hunter
-1 Cursed Portal
+1 Devout Adventurer
+1 Demon Chains
 1 Demon of Consumption
-1 Lisa
-1 Globe of 1000 Souls
-1 The Bringer
-1 Substitute
+1 Prophet of Ozen
+1 Inquisitor's Cage-Charm
+1 Demonic Harbinger
+1 Soul Shift
 1 Ozen's Temple
-1 Inspired Cleric
+1 Priest of Vosderon
 1 Living Relic
 1 Ozen's Fury
 1 Cosmic Justice
 1 Shem's Binding
 1 Brag's Prison
-1 Universal Stimulant
-1 Coffee Trader
+1 Blessed Harvest
+1 Generous Merchant
 1 Eye for an Eye
-1 Pondering Cleric
-1 Insane Guy
+1 Wizened Cleric
+1 Priest of Calamity
 1 Reckless Sculptor"

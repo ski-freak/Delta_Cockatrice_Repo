@@ -1,58 +1,59 @@
-1 A Trick
-2 Adapt
-1 Arcane Revenant
+1 Absence
+1 Adapt
+1 Apprentice Arbiter
+1 Arcane Archer
+1 Arcane Shield
+1 Arcane Synthesizer
 1 Arcane War Cry
 1 Aulvan Writings
-1 BSOD
-1 Banner of Lentholm
-1 Bloodthirsty Warrior
-1 Branching Paths
+1 Beckon Home
+1 Bloodcrazed Knight
+1 Clang-Blade Duelist
 1 College of Dreams Directive
-1 Cordial Wall-Knight
-1 Cursed Tomb
-1 Dark Aperture
-1 Deadly Strike
-1 Dissociation
-1 Doomed Legionnaire
-1 Dropkick
-1 Eminus Martial Directive
+1 Conceal
+1 Crippling Shot
+1 Defender of the Lake
+1 Emergency Supply Kit
 1 Enhance Spell
 1 Entwine Fates
-1 Forsaken Cultist
-1 Frost Eruption
-1 Guile
+1 General's Directive
+1 Giant Bat
+1 Glyph of Sending
+1 Honorable Knight
 1 Hunter's Hawk
-1 Improved Morale
-1 Infectious Fervor
-1 Instant Shield
+1 Illusory Chains
 1 Knight's Familiar
-1 Liev Arbiter
-1 Liev Grappler
+1 Legion Assassin
+1 Legion Mageslayer
+1 Legion Messenger
+1 Legion Scout
+1 Legion Tactician
+1 Lure into Danger
 1 Malfunctioning Law
-1 Martial Arca Directive
 1 Mind Control
-1 Myrkur Phantom
-1 Nomadic Orc
-1 Novice Zombiemancer
-1 Oruva Scout
-1 Phantom Angel
+1 No Retreat
+1 Noble Orator
+1 Novice Spellsealer
+1 Outlands Brawler
+1 Ozen's Faithful
 1 Recurring Nightmare
-1 Resilient Knight
+1 Retreating Slice
+1 Rift Directive
+1 Rift's Grasp
+1 Riftcursed Farmer
+1 Scrap Summoning
 7 See Beyond
-1 Shifting Mirage
-1 Spectacular Sweep
-1 Spectral Reinforcements
-1 Steadfast Arbiter
-1 Steel Resolve
-1 Sunblade Knight
-1 Thunder Knight
-1 Void Drake
-1 Void Replication
+1 Slow Magic
+1 Stall
+1 Supply Logistics
+1 Truce
+1 Unstable Contract
+1 Untimely Investigation
+1 Void Snap
 1 Void Spike
-1 Voidsworn Apostle
-1 Wave of Doubt
+1 Warrior's Training
+1 Watch Quartermaster
 10 Wilds of Atnia
-1 Zombie Summoner
 
 1 Golem
 1 Night Horror
