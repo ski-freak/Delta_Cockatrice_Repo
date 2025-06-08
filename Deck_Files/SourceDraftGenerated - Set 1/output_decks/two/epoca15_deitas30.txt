@@ -1,51 +1,50 @@
-1 Aulvan Cypher
-2 Brag's Prison
-1 Call of Destiny
-1 Centrifuge
+1 Aton Excavation
+1 Beseech the Gods
 1 Chart the Possibilities
-1 Clockwork Generator
-1 Cynical Relic-Caster
+1 Counter
 1 Dark Apostle
+1 Decree of Peace
 1 Demon Chains
 1 Demonic Bargain
-1 Devout Healer
+1 Depleted Relic
+1 Devout Adventurer
 2 Divine Intervention
-1 Doomed Prophet
-1 Embrace the Ephemeral
-1 Ephemerality Caster
-1 Eye for an Eye
-1 Fallen Angel
-1 Generous Merchant
+1 Elderly Monk
+1 Embargo
+1 Festering Penitent
+1 Forge-Priest of Brag
+1 Glyph of Distress
 1 Healing Amulet
-1 Hourglass of Ages
+1 Hindsight Crystal
 1 Inquisitor's Cage-Charm
-1 Interrupt
+1 Inspired Archaeologist
 1 Living Relic
-1 Oguth of Mnem
-1 Ozen's Fury
+1 Oana's Divination
+2 Oln's Binding
+1 Overcharged Circuit
+1 Ozen's Temple
+1 Pale Sun's Influence
 1 Pax Seeker
-1 Priest of Calamity
-1 Priest of Vosderon
 1 Profane Blessing
-1 Relic Recovery
+1 Reckless Acolyte
 1 Relic Scavenger
-1 Resourceful Cleric
-1 Restore Barrier
+1 Scour the Ruins
+1 Scrap Compactor
+1 Search for Omnipotence
+1 Seasoned Arbiter
 5 See Beyond
-1 Serene Dove
 1 Shard of The Mirror
-1 Spark of Divinity
-1 Spirit Guide
-1 Spiritual Awakening
-1 Stare into the Sun
-1 Stronghold Dispatch
-1 Symbol of Vosderon
+1 Soul Shift
+1 Sputtering Conduit
+1 Squelch
+2 Symbol of Hwain
+1 Ta's Sight
 1 Temple Librarian
-1 Tower Mage
 1 Undying Duty
 1 Veriglas Directive
+1 Void Cleric
+1 Wandering Protector
 8 Wilds of Atnia
-1 Will o' the Wisp
 1 Wizened Cleric
 
 1 Golem
@@ -54,7 +53,7 @@
 1 Survivor
 1 Blood Zombie
 1 Knight of Redemption
-12 Delta Ultimate Artifact
+12 Ancient Secret
 1 Forgotten Relic
 1 Rift
 1 Village
@@ -72,4 +71,4 @@
 1 Lentholm
 1 Deitas Start
 1 Burst of Energy
-1 Three Paths
+1 Divergent Paths

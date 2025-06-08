@@ -1,59 +1,59 @@
 1 Absence
-1 Advanced Tactics
+1 Ambush
 1 Arcane Historian
+1 Arcane Revenant
 1 Arcane War Cry
-1 Aulvan Writings
 1 Balance the Cosmos
-1 Bloodcrazed Knight
+1 Battlefield Rift
+1 Blood Channeler
+1 Bold Warrior
 1 Brag's Prison
 1 Call of Destiny
+1 Combat Necromancer
 1 Cursed Tomb
+1 Dark Apostle
+1 Deadly Strike
 1 Decree of Peace
 1 Desperate Stand
+1 Doomed Prophet
 1 Dream of the Dead
-1 Emergency Supply Kit
+1 Entwine Fates
+1 Ethereal Voice
 1 Fervent Ritual
-1 Flank
-1 General Falfar Kelwyn
+1 Forge-Priest of Brag
+1 Generous Merchant
+1 Giant Dragonfly
 1 Goblin Sharptooth
 1 Hymn to the Pale Sun
 1 Investigate the Scene
-1 Knight of the Book
-1 Legion Assassin
-1 Legion Messenger
-1 Legion Quartermaster
-1 Lopsided Truce
-1 Marla, Respected Chef
+1 Legion Rider
+1 Legion Scout
+1 Master Duelist
+1 Militia Leader
 1 Nightfall
-1 Oln's Chosen
+1 Outlands Brawler
 1 Pact of Aeons
+1 Pact of Annihilation
 1 Pale Mountain Directive
-1 Priest of Vosderon
-1 Reawaken in Dream
-1 Reckless Sculptor
-1 Recurring Nightmare
-1 Reforge in Flame
+1 Pale Prophet Zurani
+1 Pale Sun's Influence
+1 Pull of the Abyss
 1 Relic Channeler
-1 Relic Scavenger
-1 Revenants of War
+1 Reserve Tactics
 1 Rift Cache
 1 Rift Directive
-1 Rift Surge
-1 Riftcursed Farmer
-1 Rolead the Swift
+1 Rift Screech
 1 Search for Omnipotence
 7 See Beyond
-1 Serene Dove
-1 Spirit Guide
-1 Stare into the Sun
-1 Swift Rescue
+1 Shem's Binding
+1 Spiritual Awakening
+1 Supply Logistics
+1 Symbol of Hwain
+1 Symbol of Vosderon
+1 Undying Duty
 1 Valorous Triumph
-1 Void Drake
-1 Void Snap
 1 Void Spike
-1 Wandering Protector
 10 Wilds of Atnia
-1 Wizened Cleric
 1 Zoggir's Directive
 
 1 Golem
@@ -62,7 +62,7 @@
 1 Survivor
 1 Blood Zombie
 1 Knight of Redemption
-12 Delta Ultimate Artifact
+12 Ancient Secret
 1 Forgotten Relic
 1 Rift
 1 Village
@@ -80,4 +80,4 @@
 1 Lentholm
 1 Deitas Start
 1 Burst of Energy
-1 Three Paths
+1 Divergent Paths

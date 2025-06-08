@@ -1,50 +1,48 @@
 1 Alliance Berserker
-1 Alliance General
-1 Alliance Pyromancer
-1 Amnesia
 1 Ancient Vampire
 1 Assembly Construct
+1 Avatar of Defeat
+1 Battlemaster of The Wall
 1 Bloodburst
+1 Bloodcaster
 1 Clockwork Duelist
-1 Clockwork Soldier
+1 Clockwork Guardian
 1 Consume Flesh
-1 Councilor Corsovo
 1 Crackling Hurricane
-1 Devastating Landslide
+1 Eager Explorer
 1 Earthquake
-1 Eruption
+1 Energy Drain
+1 Evasive Scribe
+1 Farmland Defender
 1 Fated Return
-1 Filibuster Specialist
-1 Fire Shield
 1 Fireball
-1 Hired Hands
+1 Flaming Berserker
+1 Forsaken Loremaster
+1 Fortress Automaton
 1 Knight of the Moon
 1 Lekvian Vampire
 1 Lentholm Directive
-1 Logistics Expert
-1 Mud Golem
-1 Omen of Winter
+1 Living Lightning
+1 Lost in The Borderwood
+1 Ogre Tactician
+1 Ogre of Mnem
+1 Pax Nova Battlemage
 1 Plasma Bolt
-1 Prepared Scribe
-2 Rockfall
-1 Rosilie D'Avron
-1 Rousing Tale
-1 Scrap Technician
+1 Rockfall
+1 Scour the Signs
 1 Scribe Tactician
+1 Seasonal Festeval
 5 See Beyond
-1 Shadow of the Nightmare
-1 Shield of Earth
-1 Siphon Strength
+2 Sinkhole
+2 Siphon Strength
 1 Skyhaven Archer
-1 Sublimate
-1 Sudden Drop
+2 Sublimate
 1 Survivor Knight
 1 Thought Extraction
 1 Unstable Staff
-1 Vexing Scribe
 1 Watch Bureaucrat
 8 Wilds of Atnia
-1 Wizard's Familiar
+1 Workshop Automaton
 
 1 Golem
 1 Night Horror
@@ -52,7 +50,7 @@
 1 Survivor
 1 Blood Zombie
 1 Knight of Redemption
-12 Delta Ultimate Artifact
+12 Ancient Secret
 1 Forgotten Relic
 1 Rift
 1 Village
@@ -70,4 +68,4 @@
 1 Lentholm
 1 Deitas Start
 1 Burst of Energy
-1 Three Paths
+1 Divergent Paths

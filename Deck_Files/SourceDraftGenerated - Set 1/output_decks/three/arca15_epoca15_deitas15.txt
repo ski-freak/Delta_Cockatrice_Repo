@@ -1,60 +1,62 @@
+1 Absence
 1 Annul
-1 Arcane Revenant
-1 Aulvan Writings
+1 Arcane Historian
 1 Balance the Cosmos
-1 Blood Channeler
-1 Brag's Prison
+1 Beseech the Gods
+1 Call of Destiny
+1 Centrifuge
 1 Chaotic Whirlwind
-1 Chart the Possibilities
 1 Cleric of Hwain
-2 Condescend
+1 Condescend
 1 Corrupted River Spirit
-1 Decree of Peace
-1 Depleted Relic
-1 Devout Adventurer
+1 Cynical Relic-Caster
+1 Demon Chains
+1 Divine Intervention
 1 Elderly Monk
+1 Emissary of Fear
 1 Encroaching Inevitability
-1 Ethereal Voice
+1 Energy Cell
+1 Enhance Spell
+1 Ephemerality Caster
 1 Festering Penitent
-1 Forsaken Cultist
-1 Fractal Prism
-1 Futuresight Ritual
-1 Guile
-1 Hindsight Crystal
+1 Forge-Priest of Brag
 1 Hymn to the Pale Sun
-1 Illusory Chains
 1 Inquisitor's Cage-Charm
-1 Nightfall
-1 Oln's Binding
-1 Ozen's Fury
-1 Ozen's Temple
+1 Inspired Archaeologist
+1 Knight of the Coin
+1 Leyline Conduit
+1 Myrkur Phantom
+1 Oana's Divination
+1 Outlands Cleric
 1 Pact of Aeons
+1 Pact of Annihilation
 1 Pale Mountain Directive
+1 Pale Prophet Zurani
+1 Pale Sun Initiate
 1 Pax Directive
 1 Pax Seeker
-1 Pull of the Abyss
-1 Reckless Acolyte
+1 Possessed Sycophant
+1 Profane Blessing
+1 Recurring Nightmare
+1 Relic Recovery
 1 Restore Barrier
+1 Rift Channeler
 1 Rift Herald
 1 Rift Screech
-1 Rift Surge
-1 Rune of Antiquity
-1 Scrap Compactor
+1 Scrap Summoning
 7 See Beyond
+1 Serene Dove
 1 Shard of The Mirror
-1 Squelch
-1 Stare into the Sun
-1 Symbol of Hwain
-1 Ta's Sight
+1 Shem's Binding
+1 Symbol of Vosderon
 1 Temple Librarian
-1 Tower Mage
-2 Twist of Fate
+1 Twist of Fate
 1 Veriglas Directive
+1 Void Axe
 1 Void Cleric
-1 Void Spike
-1 Warden of the Portals
+1 Void Replication
+1 Whirring Contraption
 10 Wilds of Atnia
-1 Will o' the Wisp
 
 1 Golem
 1 Night Horror
@@ -62,7 +64,7 @@
 1 Survivor
 1 Blood Zombie
 1 Knight of Redemption
-12 Delta Ultimate Artifact
+12 Ancient Secret
 1 Forgotten Relic
 1 Rift
 1 Village
@@ -80,4 +82,4 @@
 1 Lentholm
 1 Deitas Start
 1 Burst of Energy
-1 Three Paths
+1 Divergent Paths

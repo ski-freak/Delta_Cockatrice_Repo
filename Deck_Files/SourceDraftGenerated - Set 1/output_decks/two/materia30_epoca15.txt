@@ -1,50 +1,52 @@
+1 Alliance Berserker
 1 Alliance General
-2 Annul
-1 Aulvan Cypher
-1 Bloodburst
+1 Ancient Vampire
+1 Assembly Construct
 1 Bloodcaster
-1 Clockwork Assembly
+1 Cleric of Hwain
 1 Clockwork Duelist
-1 Consume Flesh
-1 Counter
-1 Crackling Hurricane
+1 Clockwork Generator
+1 Clockwork Guardian
+1 Condescend
+1 Councilor Corsovo
 1 Devastating Landslide
-1 Eager Explorer
-1 Earthquake
-1 Embargo
+1 Energy Cell
 1 Energy Drain
 1 Evasive Scribe
 1 Farmland Defender
 1 Filibuster Specialist
-1 Healing Potion
-1 Hindsight Crystal
-1 Hired Hands
+1 Futuresight Ritual
+1 Golem Nexus
 1 Interrupt
-1 Lekvian Vampire
-1 Leyline Summoning
-1 Lost Tome
+1 Long-Winded Orator
+1 Lost in The Borderwood
 1 Mud Golem
 1 Obliterate
+1 Ogre Tactician
 1 Ogre of Mnem
-1 Overcharged Circuit
-1 Pale Sun Initiate
-1 Read the Stars
+1 Old-World Scholar
+1 Rockfall
 1 Rosilie D'Avron
-1 Rune of Antiquity
+1 Rugged Outlander
 1 Scrap Technician
+1 Scribe Tactician
 1 Seasoned Arbiter
 5 See Beyond
 1 Shield of Earth
 1 Siphon Strength
-2 Sublimate
+1 Sorvald's Insight
+1 Storm Rune
+1 Stronghold Dispatch
 1 Sudden Drop
-1 Supply-Line Runner
+1 Tower Mage
 1 Twilight Isle Directive
+1 Underground Station
+1 Vexing Scribe
 1 Watch Bureaucrat
+1 Whirring Contraption
 8 Wilds of Atnia
-1 Will o' the Wisp
-1 Workshop Automaton
 1 Worldly Scribe
+1 Young Adventurer
 
 1 Golem
 1 Night Horror
@@ -52,7 +54,7 @@
 1 Survivor
 1 Blood Zombie
 1 Knight of Redemption
-12 Delta Ultimate Artifact
+12 Ancient Secret
 1 Forgotten Relic
 1 Rift
 1 Village
@@ -70,4 +72,4 @@
 1 Lentholm
 1 Deitas Start
 1 Burst of Energy
-1 Three Paths
+1 Divergent Paths

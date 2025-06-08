@@ -1,61 +1,62 @@
-1 Alliance Pyromancer
-1 Amatuer Illusionist
-1 Annul
+1 Antimagic Haze
 1 Aton Excavation
+1 Avatar of Defeat
 1 Avatar of Vosderon
+1 Battle Rage
+1 Battlemaster of The Wall
+1 Beseech the Gods
 1 Blessed Harvest
-1 Centrifuge
-1 Counter
+1 Call of Destiny
+1 Clockwork Generator
+1 Condescend
 1 Countervailing Force
+1 Cynical Relic-Caster
 1 Demon Chains
-1 Demonic Harbinger
+1 Demon of Consumption
 1 Devout Healer
+1 Disciple of The Shattered Mirror
+1 Dream Haven
 1 Embrace the Ephemeral
-1 Extreme Heat
-1 Fire Shield
+1 Ephemerality Caster
 1 Fireball
-1 Forge-Priest of Brag
-1 Forsaken Initiate
+1 Forsaken Displacer
 1 Forsaken Reveller
-1 Generous Merchant
+1 Hindsight Crystal
 1 Inquisitor's Cage-Charm
-2 Interrupt
-1 Knight of the Torch
+1 Interrupt
+1 Knight of the Coin
 1 Lightning Prophecy
 1 Mirage Glyph
 1 Moon's Favor
 1 Noble Ancestor
+1 Old-World Scholar
+1 Oln's Binding
+1 Omen of Winter
 1 Ozen's Directive
-1 Ozen's Fury
+1 Pale Zealot
 1 Patriotic Directive
 1 Pax Seeker
 1 Plasma Bolt
-1 Remake
-1 Restore Barrier
-1 Return to Dust
-1 Scorched Earth
+1 Reawaken in Dream
+1 Reckless Acolyte
+1 Recollect
+1 Reforge in Flame
 7 See Beyond
+1 Selfless Cultist
 1 Set Ablaze
 1 Shard of The Mirror
 1 Shem's Binding
-1 Sleep Eater
-1 Smoldering Embers
-1 Sputtering Conduit
-1 Stare into the Sun
-1 Stronghold Dispatch
-1 Symbol of Vosderon
-1 Temple Artificer
+1 Squelch
+1 Storm Rune
 1 Temple Librarian
-1 Thunderous Fury
-1 Undying Duty
+1 Thought Extraction
+1 Traverse Dream
 1 Unstable Core
 1 Unstable Staff
 1 Veriglas Directive
 1 Vosderon's Wrath
-1 Wandering Protector
+1 Warden of the Portals
 10 Wilds of Atnia
-1 Will o' the Wisp
-1 Young Adventurer
 
 1 Golem
 1 Night Horror
@@ -63,7 +64,7 @@
 1 Survivor
 1 Blood Zombie
 1 Knight of Redemption
-12 Delta Ultimate Artifact
+12 Ancient Secret
 1 Forgotten Relic
 1 Rift
 1 Village
@@ -81,4 +82,4 @@
 1 Lentholm
 1 Deitas Start
 1 Burst of Energy
-1 Three Paths
+1 Divergent Paths

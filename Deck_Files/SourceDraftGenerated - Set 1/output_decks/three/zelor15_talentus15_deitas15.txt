@@ -1,59 +1,60 @@
-1 Adapt
 1 Advance Supply Convoy
-1 Alliance Pyromancer
-1 Ambush
-1 Avatar of Defeat
+1 Amatuer Illusionist
+1 Amnesia
 1 Avatar of Vosderon
-1 Battle Rage
+1 Battlemaster of The Wall
+1 Blessed Harvest
 1 Brag's Prison
-1 Call to Arms
 1 Commander Garis
-2 Crippling Shot
 1 Decree of Peace
-2 Demon Chains
-1 Demonic Harbinger
 1 Desperate Stand
-1 Disciple of The Shattered Mirror
-1 Divergent Dreams
-1 Doomed Prophet
-1 Emergency Supply Kit
-1 Exposed Leyline
-1 Extreme Heat
+1 Enlarge
+1 Eruption
+1 Experienced Traveler
 1 Fervent Ritual
-1 Fireball
 1 Flame Oracle
 1 Forsaken Initiate
 1 General Falfar Kelwyn
 1 Generous Merchant
+1 Healing Amulet
+1 Hostage Negotiations
 1 Invisible Wraith
 1 Journey Through Dream
-1 Legion Mageslayer
+1 Legion Messenger
 1 Legion Pyromancer
-1 Lesser War Demon
-1 Living Lightning
+1 Legion Quartermaster
+1 Legion Sergeant
+1 Legion Tactician
 1 Living Relic
 1 Master Duelist
-1 Midnight Duel
+1 Militia Leader
 1 Moon's Favor
 1 Noble Ancestor
+1 Omen of Winter
 1 Ozen's Directive
-1 Ozen's Fury
-1 Pale Sun's Influence
+1 Pax Nova Battlemage
 1 Plasma Bolt
 1 Prophet of Ozen
+1 Reforge in Flame
 1 Relic Channeler
-1 Revenants of War
+1 Relic Scavenger
+1 Reorganize
+1 Rolead the Swift
+1 Search for Omnipotence
 7 See Beyond
-1 Selfless Cultist
+1 Set Ablaze
 1 Shadow of the Nightmare
-1 Soul Shift
-1 Team Up
-1 Trade Insight
+2 Shem's Binding
+1 Sleep Eater
+1 Spirit Guide
+1 Spiritual Awakening
+1 Stochastic Ignition
+1 Supply Logistics
+1 Swift Rescue
+1 Valorous Triumph
 1 Vosderon's Wrath
 1 Wall Directive
-1 War Elephant
 10 Wilds of Atnia
-1 Wizard's Familiar
 1 Zoggir's Directive
 
 1 Golem
@@ -62,7 +63,7 @@
 1 Survivor
 1 Blood Zombie
 1 Knight of Redemption
-12 Delta Ultimate Artifact
+12 Ancient Secret
 1 Forgotten Relic
 1 Rift
 1 Village
@@ -80,4 +81,4 @@
 1 Lentholm
 1 Deitas Start
 1 Burst of Energy
-1 Three Paths
+1 Divergent Paths

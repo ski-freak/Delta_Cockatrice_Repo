@@ -1,41 +1,45 @@
-1 Blessed Harvest
+1 Beseech the Gods
 3 Brag's Prison
-1 Call of Destiny
-2 Decree of Peace
+1 Cosmic Justice
+1 Dark Apostle
+1 Decree of Peace
+1 Demon Chains
 1 Demon of Consumption
+1 Demonic Bargain
 1 Demonic Harbinger
-1 Devout Healer
+1 Devout Adventurer
 1 Disciple of The Shattered Mirror
-2 Divine Intervention
 1 Doomed Prophet
 1 Doomsday Prophet
 1 Elderly Monk
+1 Ethereal Voice
 1 Eye for an Eye
 1 Fallen Angel
-1 Festering Penitent
-2 Inquisitor's Cage-Charm
-1 Living Relic
-1 Noble Ancestor
+1 Inquisitor's Cage-Charm
 2 Oln's Binding
-1 Ozen's Fury
-1 Possessed Sycophant
-1 Priest of Vosderon
+1 Oln's Chosen
+1 Ozen's Temple
+1 Pale Sun's Influence
 1 Profane Blessing
-1 Reckless Acolyte
+1 Prophet of Ozen
+1 Reawaken in Dream
 1 Reckless Sculptor
-1 Relic Recovery
-3 Search for Omnipotence
+1 Reforge in Flame
+2 Search for Omnipotence
 3 See Beyond
 1 Selfless Cultist
 1 Serene Dove
-2 Shem's Binding
+1 Shem's Binding
 1 Soul Shift
+1 Spark of Divinity
 1 Spirit Guide
-1 Spiritual Awakening
-1 Symbol of Hwain
-1 Undying Duty
-1 Wandering Protector
+1 Stare into the Sun
+2 Symbol of Hwain
+1 Symbol of Vosderon
+1 Ta's Sight
+1 Temple Artificer
 6 Wilds of Atnia
+1 Wizened Cleric
 
 1 Golem
 1 Night Horror
@@ -43,7 +47,7 @@
 1 Survivor
 1 Blood Zombie
 1 Knight of Redemption
-12 Delta Ultimate Artifact
+12 Ancient Secret
 1 Forgotten Relic
 1 Rift
 1 Village
@@ -61,4 +65,4 @@
 1 Lentholm
 1 Deitas Start
 1 Burst of Energy
-1 Three Paths
+1 Divergent Paths

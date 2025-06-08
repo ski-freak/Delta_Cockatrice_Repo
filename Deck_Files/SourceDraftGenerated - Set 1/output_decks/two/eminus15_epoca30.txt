@@ -1,53 +1,53 @@
-1 Annul
 1 Arbiter Marshal
+1 Arcane Shield
 1 Aton Excavation
 1 Avatar of the Winds
-1 Chart the Possibilities
-1 Cleric of Hwain
+1 Centrifuge
+1 Cloaked Inquisitor
 1 Clockwork Generator
-1 Condescend
 1 Counter
-1 Cunning Arbiter
-1 Cynical Relic-Caster
-1 Decode the Runes
-1 Defender of the Gate
-1 Delayed Circuit
 1 Depleted Relic
-1 Energy Cell
-1 Ephemerality Caster
-1 False Orders
+1 Embargo
+1 Excavation Automaton
+1 Feigned Weakness
+1 Futuresight Ritual
 1 Glyph of Distress
-1 Glyph of Summoning
-1 Glyph of Warding
+1 Glyph of Sending
+2 Glyph of Warding
+1 Golem Nexus
+1 Honorable Knight
+1 Hourglass of Ages
 1 Interrupt
-1 Knight's Familiar
 1 Knight's Glyph
-1 Liase of the Two Scrolls
-1 Liev Arbiter
+1 Knightly Reinforcements
+1 Leyline Conduit
+1 Mirage Glyph
+1 Novice Spellsealer
+1 Oguth of Mnem
+1 Old-World Scholar
+1 Outlands Cleric
 1 Outlands Commander
 1 Overcharged Circuit
-1 Read the Stars
+1 Pale Sun Initiate
+1 Pax Valley Wyvern
 1 Remake
-1 Resourceful Cleric
-1 Restore Barrier
-1 Righteous Edict
-1 Rune of Antiquity
+1 Resilient Knight
+1 Return to Dust
+1 Rewind
+1 Royal Decoy
 1 Scour the Ruins
-1 Scrap Compactor
-1 Seasoned Arbiter
 5 See Beyond
 1 Selfless Lawmage
-1 Sound the Alarm
-1 Spectral Agent
-2 Squelch
-1 Steel Resolve
-1 Storm Rune
+1 Sputtering Conduit
+1 Squelch
 1 Stronghold Directive
+1 Tome of Knowledge
+1 Tower Mage
 1 Truce
-1 Underground Station
+1 Untimely Investigation
+1 Whirring Contraption
 8 Wilds of Atnia
 1 Will o' the Wisp
-1 Wolkk Twinspear
 
 1 Golem
 1 Night Horror
@@ -55,7 +55,7 @@
 1 Survivor
 1 Blood Zombie
 1 Knight of Redemption
-12 Delta Ultimate Artifact
+12 Ancient Secret
 1 Forgotten Relic
 1 Rift
 1 Village
@@ -73,4 +73,4 @@
 1 Lentholm
 1 Deitas Start
 1 Burst of Energy
-1 Three Paths
+1 Divergent Paths

@@ -1,54 +1,54 @@
-1 Angelic Apparition
 1 Apprentice Arbiter
 1 Arbiter Marshal
 1 Arcane Tower
 1 Banishment
 1 Beckon Home
 1 Cloaked Inquisitor
-1 Cunning Arbiter
-1 Decree of Peace
+1 Cosmic Justice
 1 Defender of the Gate
-1 Devout Adventurer
-1 Devout Healer
+1 Demonic Bargain
+1 Demonic Harbinger
 1 Devout Knight
+1 Disciple of The Shattered Mirror
 1 Doomed Prophet
-1 Doomsday Prophet
 1 Efficient Arbiter
 1 Evacuation
-1 False Orders
+1 Fallen Angel
 1 Feigned Weakness
+1 Festering Penitent
 1 Glyph of Alarm
 1 Glyph of Sending
-1 Glyph of Summoning
+1 Honorable Knight
 1 Imposing Presence
 1 Inquisitor's Directive
 1 Knight's Familiar
-1 Knightly Reinforcements
-1 Liase of the Two Scrolls
 1 Liev Arbiter
-1 Living Relic
-1 Noble Orator
+1 Logol of The Mirror
+1 Noble Ancestor
+1 Novice Spellsealer
 1 Nullify Magic
-1 Oln's Binding
 1 Ozen's Temple
 1 Prodigal Champion
-1 Reawaken in Dream
-1 Reforge in Flame
+1 Profane Blessing
+1 Reckless Sculptor
 1 Relic Scavenger
 1 Resilient Knight
+1 Righteous Edict
 1 Royal Decoy
-1 Search for Omnipotence
 5 See Beyond
-1 Shem's Binding
 1 Skilled Lawmage
+1 Slow Magic
+1 Soul Shift
 1 Sound the Alarm
-1 Spectral Agent
-1 Stall
+1 Spark of Divinity
 1 Steel Resolve
+1 Sunblade Knight
 1 Swift Shieldmage
-1 Symbol of Hwain
 1 Symbol of Vosderon
+1 Tome of Knowledge
+1 Untimely Investigation
 8 Wilds of Atnia
+1 Wolkk Twinspear
 
 1 Golem
 1 Night Horror
@@ -56,7 +56,7 @@
 1 Survivor
 1 Blood Zombie
 1 Knight of Redemption
-12 Delta Ultimate Artifact
+12 Ancient Secret
 1 Forgotten Relic
 1 Rift
 1 Village
@@ -74,4 +74,4 @@
 1 Lentholm
 1 Deitas Start
 1 Burst of Energy
-1 Three Paths
+1 Divergent Paths

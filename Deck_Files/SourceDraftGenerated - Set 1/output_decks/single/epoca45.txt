@@ -1,47 +1,47 @@
-1 Animate
-1 Annul
-1 Aton Excavation
+2 Annul
+1 Antimagic Haze
+1 Centrifuge
 1 Chart the Possibilities
+1 Cleric of Hwain
+1 Clockwork Assembly
 1 Clockwork Generator
-1 Condescend
-1 Counter
-1 Cynical Relic-Caster
-1 Decode the Runes
-1 Depleted Relic
+2 Condescend
+2 Counter
 1 Embargo
-1 Embrace the Ephemeral
 1 Energy Cell
-1 Excavation Automaton
+1 Futuresight Ritual
 1 Gift of Life
-1 Glyph of Distress
-2 Glyph of Warding
-1 Hourglass of Ages
+1 Glyph of Warding
+1 Golem Nexus
+1 Inkblood Librarian
 1 Inspired Archaeologist
-2 Interrupt
-1 Knight of the Coin
-1 Mirage Glyph
+1 Interrupt
+1 Leyline Conduit
+1 Lost Tome
 1 Oana's Divination
 1 Oguth of Mnem
 1 Old-World Scholar
 1 Outlands Cleric
 1 Overcharged Circuit
-1 Pale Sun Initiate
 1 Pax Valley Wyvern
 1 Read the Stars
-1 Remake
 1 Resourceful Cleric
-2 Restore Barrier
+1 Restore Barrier
+1 Restore Order
 1 Return to Dust
+1 Rune of Antiquity
 1 Scatter to the Ages
-1 Scour the Ruins
+1 Scrap Compactor
 1 Seasoned Arbiter
 3 See Beyond
+1 Sputtering Conduit
 1 Squelch
-1 Tower Mage
-1 Underground Station
-1 Whirring Contraption
+1 Storm Rune
+1 Stronghold Dispatch
+1 Warden of the Portals
 6 Wilds of Atnia
 1 Will o' the Wisp
+1 Young Adventurer
 
 1 Golem
 1 Night Horror
@@ -49,7 +49,7 @@
 1 Survivor
 1 Blood Zombie
 1 Knight of Redemption
-12 Delta Ultimate Artifact
+12 Ancient Secret
 1 Forgotten Relic
 1 Rift
 1 Village
@@ -67,4 +67,4 @@
 1 Lentholm
 1 Deitas Start
 1 Burst of Energy
-1 Three Paths
+1 Divergent Paths

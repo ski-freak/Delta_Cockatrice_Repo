@@ -1,50 +1,52 @@
-1 Ancient Swordsmaster
 1 Blessed Harvest
 2 Brag's Prison
-1 Combat Necromancer
-1 Conceal
+1 Call of Destiny
 1 Crippling Shot
-2 Decree of Peace
-1 Demonic Harbinger
+1 Dark Apostle
+1 Demon Chains
+1 Demon of Consumption
+1 Demonic Bargain
 1 Desperate Stand
 1 Devout Adventurer
 1 Disciple of The Shattered Mirror
 1 Doomsday Prophet
-1 Elderly Monk
-1 Emergency Supply Kit
+1 Ethereal Voice
 1 Fervent Ritual
 1 Festering Penitent
-1 Generous Merchant
-1 Legion Assassin
-1 Legion Messenger
+1 General Falfar Kelwyn
+1 Goblin Sharptooth
+1 Inquisitor's Cage-Charm
+1 Inspiring Banner
+1 Legion Chevalier
+1 Legion Courier
+1 Legion Mageslayer
+1 Legion Quartermaster
 1 Legion Sergeant
-1 Marla, Respected Chef
-1 Nomadic Orc
-1 Oln's Binding
 1 Oln's Chosen
-1 Ozen's Fury
-1 Possessed Legionnaire
-1 Priest of Vosderon
-1 Profane Blessing
-1 Reawaken in Dream
-1 Reforge in Flame
+1 Pale Sun's Influence
+1 Possessed Sycophant
+1 Priest of Calamity
+1 Reckless Acolyte
 1 Relic Channeler
-1 Relic Recovery
 1 Relic Scavenger
-1 Reorganize
-1 Scavenged Munitions
+1 Rolead the Swift
 1 Search for Omnipotence
 5 See Beyond
-2 Shem's Binding
-1 Spiritual Awakening
+1 Selfless Cultist
+1 Shem's Binding
+1 Soul Shift
+1 Spark of Divinity
+1 Spirit Guide
 1 Stare into the Sun
+1 Supply Logistics
 1 Swift Rescue
-1 Symbol of Vosderon
-1 Temple Artificer
-1 Trade Insight
+1 Ta's Sight
+1 Tower Thief
 1 Undying Duty
-1 Void Cleric
+1 Watch Quartermaster
+1 What You Can Carry
 8 Wilds of Atnia
+1 Wizened Cleric
 1 Zoggir's Directive
 
 1 Golem
@@ -53,7 +55,7 @@
 1 Survivor
 1 Blood Zombie
 1 Knight of Redemption
-12 Delta Ultimate Artifact
+12 Ancient Secret
 1 Forgotten Relic
 1 Rift
 1 Village
@@ -71,4 +73,4 @@
 1 Lentholm
 1 Deitas Start
 1 Burst of Energy
-1 Three Paths
+1 Divergent Paths

@@ -1,50 +1,50 @@
-1 Adapt
-1 Advanced Tactics
+2 Adapt
+1 Ambush
+1 Ancient Swordsmaster
+1 Assembly Construct
 1 Banner of Lentholm
-1 Battlefield Looter
-1 Clang-Blade Duelist
+1 Battlefield Rift
+1 Bloodburst
+1 Bold Warrior
 1 Clockwork Duelist
+1 Clockwork Soldier
 1 Conceal
-2 Deadly Strike
-1 Earthquake
-1 Energy Drain
-1 Filibuster Specialist
-1 Fortress Automaton
+1 Crippling Shot
+1 Devastating Landslide
+1 Eager Explorer
+1 Flank
 1 General Akkir
 1 General Falfar Kelwyn
 1 Heroic Moment
-1 Investigate the Scene
+1 Legion Cannoneer
 1 Legion Courier
-1 Legion Mageslayer
-1 Legion Quartermaster
+1 Legion Drill Sergeant
+1 Legion Messenger
 1 Legion Sergeant
-1 Lekvian Vampire
 1 Lesser War Demon
 1 Long-Winded Orator
 1 Lopsided Truce
-1 Marla, Respected Chef
 1 Master Duelist
 1 Midnight Duel
-1 Militia Leader
-1 Ogre Tactician
 1 Ogre of Mnem
-1 Outlands Brawler
 1 Possessed Legionnaire
-1 Reserve Tactics
+2 Reserve Tactics
 1 Revenants of War
 1 Rockfall
 1 Salt Alliance Directive
+1 Scavenged Munitions
+1 Scrap Technician
+1 Scribe Tactician
 5 See Beyond
-2 Siphon Strength
-1 Skyhaven Archer
+1 Shield of Earth
 1 Sorvald's Insight
-1 Supply-Line Runner
-1 Swift Rescue
+1 Stronghold Guard
+1 Sublimate
+1 Sudden Drop
 1 Toglu
 1 Tower Thief
-1 Trade Insight
-1 Valorous Triumph
 1 War Elephant
+1 Watch Quartermaster
 8 Wilds of Atnia
 1 Yeo
 
@@ -54,7 +54,7 @@
 1 Survivor
 1 Blood Zombie
 1 Knight of Redemption
-12 Delta Ultimate Artifact
+12 Ancient Secret
 1 Forgotten Relic
 1 Rift
 1 Village
@@ -72,4 +72,4 @@
 1 Lentholm
 1 Deitas Start
 1 Burst of Energy
-1 Three Paths
+1 Divergent Paths

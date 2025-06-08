@@ -1,52 +1,51 @@
 1 Absence
-1 Arcane Historian
+1 Advance Supply Convoy
+1 Ambush
 1 Arcane Revenant
+1 Arcane Synthesizer
 1 Arcane War Cry
 1 Aulvan Writings
-1 Avatar of Terror
 1 Battlefield Looter
-1 Blood Channeler
 1 Bloodcrazed Knight
 1 Cemetery Rift
 1 Corpse Amalgam
-1 Deadly Strike
-1 Emissary of Fear
-1 Encroaching Inevitability
+2 Crippling Shot
+1 Cursed Tomb
+1 Dream of the Dead
+1 Enhance Spell
 1 Entwine Fates
 1 Foretold Cataclysm
-1 Forsaken Cultist
+1 Forsaken Dreamweaver
 1 Fractal Prism
 1 Giant Dragonfly
+1 Guile
 1 Inspiring Banner
-1 Legion Cannoneer
-1 Legion Drill Sergeant
-1 Manifest Fears
+1 Legion Infiltrator
+1 Legion Mageslayer
+1 Legion Sergeant
+1 Lesser War Demon
 1 Marla, Respected Chef
-1 Nightfall
-1 Nomadic Orc
-1 Oruva Scout
-1 Possessed Legionnaire
-1 Pull of the Abyss
-1 Recurring Nightmare
+1 Myrkur Phantom
+1 Pact of Annihilation
 1 Reorganize
+1 Reserve Tactics
+1 Revenants of War
 1 Rift Cache
 1 Rift Channeler
 1 Rift Directive
+1 Rift Screech
 1 Rift's Grasp
 1 Riftcursed Farmer
 1 Scrap Summoning
 5 See Beyond
-1 Team Up
 1 Tower Thief
+1 Twist of Fate
 1 Unstable Contract
-1 Valorous Triumph
+1 Visions of the End
+1 Void Axe
 1 Void Drake
-1 Void Snap
 1 Void Spike
-1 Watch Quartermaster
-1 What You Can Carry
 8 Wilds of Atnia
-1 Young Dragon Spider
 
 1 Golem
 1 Night Horror
@@ -54,7 +53,7 @@
 1 Survivor
 1 Blood Zombie
 1 Knight of Redemption
-12 Delta Ultimate Artifact
+12 Ancient Secret
 1 Forgotten Relic
 1 Rift
 1 Village
@@ -72,4 +71,4 @@
 1 Lentholm
 1 Deitas Start
 1 Burst of Energy
-1 Three Paths
+1 Divergent Paths

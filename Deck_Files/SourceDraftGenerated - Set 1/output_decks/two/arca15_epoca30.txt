@@ -1,51 +1,50 @@
-1 Annul
-1 Antimagic Haze
-1 Arcane Historian
-1 Aton Excavation
-1 Avatar of Terror
-1 Bloodcrazed Knight
-1 Cemetery Rift
+1 Absence
+2 Annul
+1 Arcane Revenant
+1 Arcane Synthesizer
+1 Aulvan Writings
 1 Chaotic Whirlwind
-1 Cleric of Hwain
 1 Clockwork Generator
-2 Condescend
 1 Corrupted River Spirit
-2 Counter
+1 Counter
+1 Depleted Relic
 1 Embargo
-1 Energy Cell
-1 Entwine Fates
-1 Ephemerality Caster
+1 Emissary of Fear
+1 Enhance Spell
 1 Foretold Cataclysm
+1 Gift of Life
 1 Glyph of Distress
-1 Glyph of Warding
-1 Golem Nexus
-1 Knight of the Coin
+2 Glyph of Warding
+1 Guile
+1 Hourglass of Ages
+2 Interrupt
 1 Leyline Conduit
-1 Manifest Fears
-1 Mirage Glyph
-1 Nightfall
-1 Oana's Divination
+1 Lost Tome
 1 Oguth of Mnem
-1 Oruva Scout
+1 Old-World Scholar
 1 Outlands Cleric
-1 Overcharged Circuit
-1 Pact of Annihilation
-1 Pale Prophet Zurani
-1 Pale Sun Initiate
 1 Pax Directive
+1 Pax Valley Wyvern
+1 Pull of the Abyss
+1 Read the Stars
+1 Recurring Nightmare
+1 Remake
 1 Resourceful Cleric
 1 Restore Barrier
-1 Rift Channeler
+1 Return to Dust
+1 Rift Cache
 1 Rift Herald
-1 Rift Whispers
-1 Rune of Antiquity
 1 Scatter to the Ages
-1 Scrap Compactor
+1 Scrap Summoning
+1 Seasoned Arbiter
 5 See Beyond
-1 Squelch
+1 Sputtering Conduit
 1 Stronghold Dispatch
+1 Tower Mage
+1 Void Axe
 1 Void Drake
-1 Void Snap
+1 Voidsworn Apostle
+1 Whirring Contraption
 8 Wilds of Atnia
 
 1 Golem
@@ -54,7 +53,7 @@
 1 Survivor
 1 Blood Zombie
 1 Knight of Redemption
-12 Delta Ultimate Artifact
+12 Ancient Secret
 1 Forgotten Relic
 1 Rift
 1 Village
@@ -72,4 +71,4 @@
 1 Lentholm
 1 Deitas Start
 1 Burst of Energy
-1 Three Paths
+1 Divergent Paths

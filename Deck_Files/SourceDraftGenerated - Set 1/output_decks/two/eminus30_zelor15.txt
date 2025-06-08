@@ -3,51 +3,51 @@
 1 Arbiter Marshal
 1 Arcane Archer
 1 Arcane Shield
-1 Battlemaster of The Wall
+1 Banishment
 1 Beckon Home
 1 Burst of Speed
+1 Call to Arms
 1 Command
-1 Cunning Arbiter
 1 Defender of the Gate
 1 Defender of the Lake
-1 Dream Haven
+1 Devout Knight
+1 Divergent Dreams
+1 Dream Jaunt
 1 Efficient Arbiter
 1 Eruption
 1 Explosive Breakthrough
 1 False Orders
-1 Fated Return
-1 Feigned Weakness
-1 Fireball
-1 Flaming Berserker
+1 Force Field
+1 Forsaken Reveller
 1 Glyph of Sending
 1 Glyph of Summoning
-1 Knight of the Moon
+1 Heretic of the Torch
 1 Knight of the Torch
-1 Knight of the Wheat
+1 Knight's Familiar
 1 Knightly Mentor
 1 Liase of the Two Scrolls
-1 Liev Arbiter
-1 Logol of The Mirror
-1 Noble Orator
-1 Ozen's Faithful
-1 Pax Nova Battlemage
+1 Novice Spellsealer
+1 Omen of Winter
+1 Pale Zealot
 1 Pax Nova Directive
+1 Plasma Bolt
 1 Prodigal Champion
 1 Resilient Knight
+1 Rewind
 1 Righteous Edict
+1 Royal Decoy
 5 See Beyond
 1 Selfless Lawmage
 1 Set Ablaze
 1 Skilled Lawmage
 1 Slow Magic
-1 Smoldering Embers
 1 Sorvald's Ignition
 1 Stall
 1 Steel Resolve
 1 Sunblade Knight
-1 Survivor Knight
-1 Tome of Knowledge
-1 Wildfire
+1 Swift Shieldmage
+1 Traverse Dream
+1 Unstable Staff
 8 Wilds of Atnia
 
 1 Golem
@@ -56,7 +56,7 @@
 1 Survivor
 1 Blood Zombie
 1 Knight of Redemption
-12 Delta Ultimate Artifact
+12 Ancient Secret
 1 Forgotten Relic
 1 Rift
 1 Village
@@ -74,4 +74,4 @@
 1 Lentholm
 1 Deitas Start
 1 Burst of Energy
-1 Three Paths
+1 Divergent Paths

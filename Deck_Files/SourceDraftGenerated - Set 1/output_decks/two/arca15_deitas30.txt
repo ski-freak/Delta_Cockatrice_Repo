@@ -1,50 +1,48 @@
-1 Arcane Historian
-1 Arcane Synthesizer
+1 Arcane Revenant
 1 Avatar of Terror
 1 Balance the Cosmos
+1 Blessed Harvest
+1 Blood Channeler
 2 Brag's Prison
 1 Call of Destiny
-1 Demon of Consumption
-1 Devout Healer
+1 Cemetery Rift
+1 Corpse Amalgam
+1 Dark Apostle
+1 Decree of Peace
 1 Doomed Prophet
-1 Dream of the Dead
+1 Doomsday Prophet
 1 Elderly Monk
+1 Emissary of Fear
 1 Enhance Spell
-1 Ethereal Voice
-1 Giant Dragonfly
-1 Guile
-1 Healing Amulet
+1 Eye for an Eye
+1 Festering Penitent
+1 Foretold Cataclysm
+1 Forge-Priest of Brag
 1 Hymn to the Pale Sun
-1 Inquisitor's Cage-Charm
 1 Living Relic
-1 Myrkur Phantom
-1 Noble Ancestor
-2 Oln's Binding
-1 Oln's Chosen
-1 Ozen's Fury
+1 Oln's Binding
 1 Pact of Aeons
 1 Pale Mountain Directive
-1 Possessed Sycophant
-1 Priest of Vosderon
+1 Profane Blessing
 1 Prophet of Ozen
+1 Pull of the Abyss
 1 Reckless Acolyte
-1 Reckless Sculptor
-1 Rift Surge
-1 Rift's Grasp
-1 Scrap Summoning
+1 Relic Recovery
+1 Riftcursed Farmer
+3 Search for Omnipotence
 5 See Beyond
-1 Selfless Cultist
+1 Serene Dove
 1 Shem's Binding
 1 Soul Shift
 1 Spiritual Awakening
-1 Symbol of Hwain
+2 Symbol of Hwain
 1 Symbol of Vosderon
-1 Ta's Sight
-1 Temple Artificer
-2 Twist of Fate
-1 Void Replication
-1 Void Spike
-1 Wandering Protector
+1 Twist of Fate
+1 Undying Duty
+1 Void Cleric
+1 Void Drake
+1 Void Snap
+2 Void Spike
 8 Wilds of Atnia
 
 1 Golem
@@ -53,7 +51,7 @@
 1 Survivor
 1 Blood Zombie
 1 Knight of Redemption
-12 Delta Ultimate Artifact
+12 Ancient Secret
 1 Forgotten Relic
 1 Rift
 1 Village
@@ -71,4 +69,4 @@
 1 Lentholm
 1 Deitas Start
 1 Burst of Energy
-1 Three Paths
+1 Divergent Paths

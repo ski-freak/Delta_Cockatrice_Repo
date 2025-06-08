@@ -1,49 +1,49 @@
+1 Alliance General
 1 Ancient Vampire
-1 Animate
-2 Annul
-1 Centrifuge
+1 Annul
+1 Antimagic Haze
+1 Aton Excavation
+1 Aulvan Cypher
+1 Chart the Possibilities
+1 Clockwork Duelist
 1 Clockwork Generator
-1 Clockwork Soldier
-1 Consume Flesh
-1 Counter
+2 Condescend
+2 Counter
+1 Crackling Hurricane
+1 Decode the Runes
+1 Depleted Relic
 1 Devastating Landslide
-1 Embargo
-1 Embrace the Ephemeral
 1 Ephemerality Caster
 1 Excavation Automaton
-1 Golem Nexus
-1 Healing Potion
-1 Hindsight Crystal
+1 Expedition Leader
+1 Fortress Automaton
+1 Gift of Life
+2 Glyph of Warding
+1 Hired Hands
 1 Hourglass of Ages
 1 Inkblood Librarian
-1 Interrupt
-1 Leyline Summoning
-1 Lost Tome
+1 Lekvian Vampire
+1 Long-Winded Orator
 1 Obliterate
-1 Ogre of Mnem
+1 Oguth of Mnem
 1 Old-World Scholar
 1 Outlands Cleric
 1 Overcharged Circuit
-1 Pax Valley Wyvern
-1 Prepared Scribe
 1 Restore Barrier
 1 Rune of Antiquity
 1 Scour the Ruins
 1 Scrap Compactor
+1 Scrap Technician
+1 Scribe Tactician
 5 See Beyond
-2 Siphon Strength
 1 Sorvald's Insight
-2 Squelch
-1 Stronghold Dispatch
-1 Sublimate
+1 Squelch
 1 Sudden Drop
 1 Supply-Line Runner
 1 Twilight Isle Directive
-1 Warden of the Portals
-1 Watch Bureaucrat
-1 Whirring Contraption
+1 Underground Station
 8 Wilds of Atnia
-1 Young Adventurer
+1 Workshop Automaton
 
 1 Golem
 1 Night Horror
@@ -51,7 +51,7 @@
 1 Survivor
 1 Blood Zombie
 1 Knight of Redemption
-12 Delta Ultimate Artifact
+12 Ancient Secret
 1 Forgotten Relic
 1 Rift
 1 Village
@@ -69,4 +69,4 @@
 1 Lentholm
 1 Deitas Start
 1 Burst of Energy
-1 Three Paths
+1 Divergent Paths

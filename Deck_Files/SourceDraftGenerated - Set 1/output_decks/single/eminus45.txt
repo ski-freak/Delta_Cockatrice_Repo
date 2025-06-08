@@ -24,7 +24,6 @@
 1 Logol of The Mirror
 1 Noble Orator
 1 Novice Spellsealer
-1 Nullify Magic
 1 Ozen's Faithful
 1 Prodigal Champion
 1 Resilient Knight
@@ -45,6 +44,7 @@
 1 Truce
 1 Untimely Investigation
 6 Wilds of Atnia
+1 Wolkk Twinspear
 
 1 Golem
 1 Night Horror
@@ -52,7 +52,7 @@
 1 Survivor
 1 Blood Zombie
 1 Knight of Redemption
-12 Delta Ultimate Artifact
+12 Ancient Secret
 1 Forgotten Relic
 1 Rift
 1 Village
@@ -70,4 +70,4 @@
 1 Lentholm
 1 Deitas Start
 1 Burst of Energy
-1 Three Paths
+1 Divergent Paths

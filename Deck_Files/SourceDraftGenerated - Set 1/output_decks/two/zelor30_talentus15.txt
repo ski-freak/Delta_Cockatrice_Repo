@@ -1,53 +1,54 @@
-1 Advance Supply Convoy
-1 Amnesia
-1 Avatar of Defeat
+1 Alliance Pyromancer
+1 Ambush
 1 Battle Rage
+1 Battlefield Looter
+1 Battlefield Rift
 1 Battlemaster of The Wall
-1 Clang-Blade Duelist
+1 Cleave
 1 Commander Garis
-1 Conceal
+1 Crippling Shot
+1 Deadly Strike
+1 Divergent Dreams
 1 Dream Haven
 1 Dream Jaunt
-1 Enlarge
 1 Exposed Leyline
+1 Fated Return
 1 Fire Shield
-2 Fireball
+1 Flame Oracle
 1 Flaming Berserker
-1 Flank
 1 Force Field
-1 Forsaken Displacer
-1 Forsaken Loremaster
+1 Forsaken Chanter
 1 Forsaken Reveller
+1 Goblin Sharptooth
 1 Heretic of the Torch
-1 Inspired Charge
-1 Inspiring Banner
+1 Heroic Moment
 1 Invisible Wraith
-1 Knight of the Wheat
+1 Journey Through Dream
+1 Knight of the Torch
 1 Legion Cannoneer
-1 Legion Mageslayer
+1 Legion Messenger
 1 Legion Pyromancer
-1 Legion Quartermaster
+1 Legion Rider
+1 Legion Scout
 1 Living Lightning
-1 Lure into Danger
-1 Marla, Respected Chef
 1 Master Duelist
-1 Omen of Winter
-1 Recollect
-1 Reserve Tactics
-1 Rousing Tale
+1 Pale Zealot
+1 Plasma Bolt
+1 Revenants of War
+1 Scorched Earth
 1 Scour the Signs
+1 Seasonal Festeval
 5 See Beyond
-1 Shadow of the Nightmare
+1 Sleep Eater
 1 Smoldering Embers
-1 Sorvald's Ignition
 1 Stochastic Ignition
-1 Swift Rescue
+1 Survivor Knight
+1 Team Up
 1 Thought Extraction
-1 Traverse Dream
 1 Valorous Triumph
 1 Wall Directive
+1 Wildfire
 8 Wilds of Atnia
-1 Wizard's Familiar
 
 1 Golem
 1 Night Horror
@@ -55,7 +56,7 @@
 1 Survivor
 1 Blood Zombie
 1 Knight of Redemption
-12 Delta Ultimate Artifact
+12 Ancient Secret
 1 Forgotten Relic
 1 Rift
 1 Village
@@ -73,4 +74,4 @@
 1 Lentholm
 1 Deitas Start
 1 Burst of Energy
-1 Three Paths
+1 Divergent Paths

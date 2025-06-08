@@ -1,52 +1,52 @@
 1 Alliance Beastcaller
-1 Alliance Berserker
+1 Alliance General
+1 Ancient Vampire
 1 Anvil of Souls
+1 Assembly Construct
 1 Beseech the Gods
 1 Bloodcaster
 1 Brag's Prison
-1 Call of Destiny
+1 Consume Flesh
 1 Councilor Corsovo
+1 Crackling Hurricane
 1 Dark Apostle
+1 Decree of Peace
 1 Demon Chains
-1 Doomsday Prophet
-1 Earthquake
-1 Elderly Monk
+1 Demon of Consumption
+1 Demonic Harbinger
+2 Devastating Landslide
+1 Eager Explorer
 1 Evasive Scribe
-1 Fallen Angel
 1 Farmland Defender
-1 Festering Penitent
 1 Forge-Priest of Brag
 1 Fortress Automaton
 1 Healing Potion
 1 Hired Hands
 1 Kindling Mage
-1 Lekvian Butler
-1 Lekvian Vampire
+1 Leyline Summoning
 1 Living Relic
-1 Logistics Expert
 1 Long-Winded Orator
+1 Lost in The Borderwood
 1 Mnem Directive
 1 Mud Golem
-1 Ogre Tactician
 1 Ogre of Mnem
-1 Oln's Chosen
-1 Prepared Scribe
+1 Priest of Vosderon
+1 Prophet of Ozen
 1 Rash Chieftain
-1 Reawaken in Dream
-1 Reforge in Flame
+1 Rockfall
 1 Rugged Outlander
 1 Scrap Technician
 5 See Beyond
-1 Shem's Binding
-1 Shield of Earth
-2 Sinkhole
-1 Sorvald's Insight
+1 Sinkhole
+1 Siphon Strength
+1 Soul Shift
+1 Stare into the Sun
 2 Sudden Drop
+1 Symbol of Hwain
+1 Undying Duty
 1 Vexing Scribe
 1 Watch Bureaucrat
 8 Wilds of Atnia
-1 Workshop Automaton
-1 Worldly Scribe
 
 1 Golem
 1 Night Horror
@@ -54,7 +54,7 @@
 1 Survivor
 1 Blood Zombie
 1 Knight of Redemption
-12 Delta Ultimate Artifact
+12 Ancient Secret
 1 Forgotten Relic
 1 Rift
 1 Village
@@ -72,4 +72,4 @@
 1 Lentholm
 1 Deitas Start
 1 Burst of Energy
-1 Three Paths
+1 Divergent Paths

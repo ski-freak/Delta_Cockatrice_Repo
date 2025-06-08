@@ -1,49 +1,50 @@
-1 Aton Excavation
-1 Brag's Prison
-1 Call of Destiny
+1 Beseech the Gods
 1 Centrifuge
 1 Chart the Possibilities
-1 Clockwork Assembly
-1 Clockwork Generator
-1 Condescend
-2 Counter
-1 Cynical Relic-Caster
+1 Counter
 1 Dark Apostle
 1 Decode the Runes
 1 Decree of Peace
-1 Delayed Circuit
 1 Depleted Relic
-1 Devout Healer
+1 Divine Intervention
 1 Doomed Prophet
-1 Embargo
-1 Eye for an Eye
-1 Fallen Angel
+1 Ephemerality Caster
+1 Ethereal Voice
+1 Excavation Automaton
+1 Festering Penitent
+1 Futuresight Ritual
+1 Glyph of Distress
 1 Glyph of Warding
-1 Inspired Archaeologist
-2 Interrupt
+1 Golem Nexus
+1 Hourglass of Ages
+1 Interrupt
+1 Knight of the Coin
 1 Lost Tome
-1 Oana's Divination
+1 Mirage Glyph
 1 Oln's Binding
+1 Outlands Cleric
+1 Overcharged Circuit
+1 Ozen's Fury
+1 Ozen's Temple
+1 Pale Sun Initiate
 1 Pax Seeker
-1 Pax Valley Wyvern
-1 Prophet of Ozen
-1 Reawaken in Dream
-1 Reckless Sculptor
-1 Relic Recovery
-1 Resourceful Cleric
+1 Reforge in Flame
 1 Restore Barrier
 1 Rune of Antiquity
-1 Scrap Compactor
+1 Scatter to the Ages
 1 Search for Omnipotence
 1 Seasoned Arbiter
 5 See Beyond
+1 Serene Dove
 1 Shard of The Mirror
+1 Spirit Guide
 1 Sputtering Conduit
+2 Squelch
+1 Symbol of Vosderon
 1 Temple Librarian
 1 Tower Mage
 1 Veriglas Directive
-1 Wandering Protector
-1 Warden of the Portals
+1 Whirring Contraption
 8 Wilds of Atnia
 1 Will o' the Wisp
 1 Young Adventurer
@@ -54,7 +55,7 @@
 1 Survivor
 1 Blood Zombie
 1 Knight of Redemption
-12 Delta Ultimate Artifact
+12 Ancient Secret
 1 Forgotten Relic
 1 Rift
 1 Village
@@ -72,4 +73,4 @@
 1 Lentholm
 1 Deitas Start
 1 Burst of Energy
-1 Three Paths
+1 Divergent Paths

@@ -1,51 +1,51 @@
-1 Amatuer Illusionist
-1 Avatar of Defeat
 1 Avatar of Vosderon
-1 Cleave
-1 Cosmic Justice
-1 Decree of Peace
-2 Demon Chains
+1 Battlemaster of The Wall
+1 Beseech the Gods
+1 Blessed Harvest
+1 Call to Arms
+1 Demonic Bargain
 1 Demonic Harbinger
-1 Devout Healer
-1 Doomed Prophet
-1 Doomsday Prophet
-1 Enlarge
+1 Divergent Dreams
+1 Elderly Monk
 1 Eye for an Eye
-1 Fireball
+1 Festering Penitent
 1 Forge-Priest of Brag
+1 Forsaken Chanter
+1 Forsaken Displacer
+1 Healing Amulet
+1 Inquisitor's Cage-Charm
 1 Knight of the Torch
-1 Living Lightning
-1 Living Relic
+1 Knight of the Wheat
 1 Moon's Favor
-1 Oln's Binding
+2 Oln's Binding
 1 Ozen's Directive
-1 Ozen's Fury
+1 Ozen's Temple
 1 Pale Sun's Influence
-1 Pale Zealot
 1 Pax Nova Battlemage
-1 Prophet of Ozen
+2 Plasma Bolt
+1 Reawaken in Dream
+1 Reckless Acolyte
 1 Reckless Sculptor
 1 Reforge in Flame
-1 Relic Scavenger
+1 Relic Recovery
 1 Reprise the Past
-3 Search for Omnipotence
+1 Search for Omnipotence
 5 See Beyond
-1 Selfless Cultist
-1 Shem's Binding
+1 Serene Dove
+2 Shem's Binding
 1 Sleep Eater
-1 Smoldering Embers
-1 Soul Shift
+1 Sorvald's Ignition
 1 Spark of Divinity
 1 Spirit Guide
-1 Stochastic Ignition
+1 Spiritual Awakening
+1 Survivor Knight
 1 Symbol of Hwain
-1 Symbol of Vosderon
-1 Thunderous Fury
+1 Ta's Sight
+1 Traverse Dream
+1 Undying Duty
 1 Void Cleric
 1 Vosderon's Wrath
-1 Wildfire
 8 Wilds of Atnia
-1 Wizened Cleric
 
 1 Golem
 1 Night Horror
@@ -53,7 +53,7 @@
 1 Survivor
 1 Blood Zombie
 1 Knight of Redemption
-12 Delta Ultimate Artifact
+12 Ancient Secret
 1 Forgotten Relic
 1 Rift
 1 Village
@@ -71,4 +71,4 @@
 1 Lentholm
 1 Deitas Start
 1 Burst of Energy
-1 Three Paths
+1 Divergent Paths

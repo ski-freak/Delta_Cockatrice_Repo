@@ -1,27 +1,27 @@
-1 Absence
-1 Apprentice Arbiter
+1 Arbiter Marshal
 1 Arcane Archer
-1 Arcane Shield
 1 Arcane Tower
 1 Balance the Cosmos
-1 Cemetery Rift
+1 Beckon Home
+1 Beseech the Gods
+1 Blessed Harvest
+1 Blood Channeler
+1 Call of Destiny
 1 College of Dreams Directive
 1 Command
-1 Corpse Amalgam
-1 Cosmic Justice
+1 Cunning Arbiter
 1 Cursed Tomb
-1 Defender of the Gate
-1 Demonic Bargain
-1 Devout Adventurer
-1 Devout Healer
-1 Disciple of The Shattered Mirror
-1 Doomsday Prophet
-1 Dream of the Dead
-1 Elderly Monk
+1 Dark Apostle
+1 Decree of Peace
+1 Demon of Consumption
+1 Divine Intervention
 1 Emissary of Fear
+1 Enhance Spell
 1 Evacuation
-1 Generous Merchant
-1 Glyph of Sending
+1 Forsaken Dreamweaver
+1 Fractal Prism
+1 Guile
+1 Honorable Knight
 1 Hymn to the Pale Sun
 1 Imposing Presence
 1 Inquisitor's Directive
@@ -31,31 +31,31 @@
 1 Living Relic
 1 Malfunctioning Law
 1 Mind Control
-1 Myrkur Phantom
-1 Nightfall
-1 Ozen's Faithful
+1 Ozen's Fury
+1 Ozen's Temple
 1 Pact of Aeons
 1 Pale Mountain Directive
-1 Priest of Vosderon
-1 Reckless Acolyte
-1 Reforge in Flame
-1 Rift Channeler
-1 Rift Surge
-1 Rift's Grasp
-1 Riftcursed Farmer
+1 Pale Prophet Zurani
+1 Relic Scavenger
+1 Resilient Knight
+1 Rewind
+1 Rift Screech
 1 Righteous Edict
-1 Royal Decoy
+1 Scrap Summoning
+1 Search for Omnipotence
 7 See Beyond
 1 Selfless Lawmage
-1 Steel Resolve
-1 Sunblade Knight
-1 Symbol of Hwain
+1 Skilled Lawmage
+1 Slow Magic
+1 Symbol of Vosderon
+1 Ta's Sight
 1 Twist of Fate
 1 Undying Duty
-1 Untimely Investigation
-1 Void Replication
+1 Visions of the End
+1 Void Axe
+1 Voidsworn Apostle
 10 Wilds of Atnia
-1 Wizened Cleric
+1 Wolkk Twinspear
 
 1 Golem
 1 Night Horror
@@ -63,7 +63,7 @@
 1 Survivor
 1 Blood Zombie
 1 Knight of Redemption
-12 Delta Ultimate Artifact
+12 Ancient Secret
 1 Forgotten Relic
 1 Rift
 1 Village
@@ -81,4 +81,4 @@
 1 Lentholm
 1 Deitas Start
 1 Burst of Energy
-1 Three Paths
+1 Divergent Paths

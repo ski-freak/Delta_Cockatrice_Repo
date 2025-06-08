@@ -1,58 +1,59 @@
 1 Absence
-1 Advanced Tactics
-1 Ancient Swordsmaster
+1 Adapt
+1 Advance Supply Convoy
 1 Annul
+1 Arcane Historian
 1 Arcane War Cry
-1 Aulvan Cypher
-1 Avatar of Terror
-1 Banner of Lentholm
-1 Battlefield Looter
+1 Battlefield Rift
 1 Bold Warrior
 1 Chaotic Whirlwind
-1 Clang-Blade Duelist
-1 Clockwork Assembly
-1 Corpse Amalgam
+1 Chart the Possibilities
+1 Cleric of Hwain
+1 Clockwork Generator
+1 Conceal
 1 Corrupted River Spirit
-1 Crippling Shot
-1 Decode the Runes
 1 Disciple of Nyka
-1 Embargo
-1 Emissary of Fear
-1 Encroaching Inevitability
-1 Energy Cell
+1 Expedition Leader
 1 Experienced Traveler
-1 General Falfar Kelwyn
-1 Giant Bat
-1 Heroic Moment
-1 Inspired Archaeologist
+1 Flank
+1 Forsaken Cultist
+1 Fractal Prism
+1 Giant Dragonfly
+1 Goblin Sharptooth
+1 Inspiring Banner
 1 Interrupt
+1 Legion Courier
 1 Legion Directive
-1 Legion Rider
-1 Manifest Fears
-1 Marla, Respected Chef
+1 Legion Quartermaster
+1 Legion Warlock
+1 Lesser War Demon
+1 Lost Tome
+1 Oana's Divination
 1 Ogre Chronomancer
-1 Oguth of Mnem
-1 Pact of Annihilation
-1 Pale Prophet Zurani
+1 Oruva Scout
 1 Pax Directive
-1 Pax Valley Wyvern
 1 Read the Stars
-2 Reserve Tactics
+1 Reorganize
+1 Restore Barrier
 1 Restore Order
 1 Return to Dust
-1 Rift Channeler
 1 Rift Directive
 1 Rift Herald
+1 Rift's Grasp
 1 Riftcursed Farmer
-1 Rune of Antiquity
 7 See Beyond
-1 Twist of Fate
+1 Sputtering Conduit
+1 Unstable Contract
+1 Valorous Triumph
+1 Void Axe
+1 Void Drake
+1 Void Replication
 1 Void Snap
 1 Void Spike
 1 Voidsworn Apostle
-1 War Elephant
-1 Warden of the Portals
+1 Whirring Contraption
 10 Wilds of Atnia
+1 Young Adventurer
 
 1 Golem
 1 Night Horror
@@ -60,7 +61,7 @@
 1 Survivor
 1 Blood Zombie
 1 Knight of Redemption
-12 Delta Ultimate Artifact
+12 Ancient Secret
 1 Forgotten Relic
 1 Rift
 1 Village
@@ -78,4 +79,4 @@
 1 Lentholm
 1 Deitas Start
 1 Burst of Energy
-1 Three Paths
+1 Divergent Paths

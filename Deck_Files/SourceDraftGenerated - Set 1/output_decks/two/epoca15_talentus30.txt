@@ -1,52 +1,50 @@
-1 Adapt
-1 Advanced Tactics
-1 Battlefield Looter
+1 Advance Supply Convoy
+1 Annul
+1 Aton Excavation
+1 Banner of Lentholm
+1 Battle Plans
 1 Battlefield Rift
-1 Chart the Possibilities
-1 Conceal
-1 Crippling Shot
+1 Bold Warrior
+1 Centrifuge
+1 Cleric of Hwain
+1 Clockwork Assembly
+1 Combat Necromancer
+1 Counter
+1 Cynical Relic-Caster
 1 Deadly Strike
-1 Delayed Circuit
 1 Disciple of Nyka
-1 Expedition Leader
-1 Hindsight Crystal
-1 Hourglass of Ages
-1 Inspired Charge
-1 Interrupt
-1 Legion Assassin
+1 Emergency Supply Kit
+1 Energy Cell
+1 Excavation Automaton
+1 General Falfar Kelwyn
+1 Golem Nexus
+1 Inkblood Librarian
+1 Inspiring Banner
 1 Legion Chevalier
 1 Legion Courier
 1 Legion Directive
 1 Legion Drill Sergeant
-1 Legion Mageslayer
-1 Legion Rider
-1 Legion Scout
+1 Legion Infiltrator
+1 Legion Quartermaster
 1 Legion Sergeant
-1 Leyline Conduit
-1 Lopsided Truce
-1 Master Duelist
+1 Lure into Danger
+1 Militia Leader
+1 Nomadic Orc
 1 Ogre Chronomancer
-1 Pale Sun Initiate
-1 Pax Valley Wyvern
-1 Reorganize
-1 Restore Barrier
-1 Return to Dust
+1 Outlander's Familiar
+1 Reserve Tactics
 1 Rolead the Swift
-1 Rune of Antiquity
-1 Scavenged Munitions
-1 Scrap Compactor
-1 Seasoned Arbiter
 5 See Beyond
 1 Selfless Legionnaire
+2 Squelch
 1 Supply Logistics
 1 Swift Rescue
-1 Tower Thief
+1 Team Up
+2 Tower Thief
 1 Trade Insight
-1 Underground Station
-1 Valorous Triumph
 1 War Elephant
-1 Warrior's Training
 8 Wilds of Atnia
+1 Young Adventurer
 1 Young Dragon Spider
 
 1 Golem
@@ -55,7 +53,7 @@
 1 Survivor
 1 Blood Zombie
 1 Knight of Redemption
-12 Delta Ultimate Artifact
+12 Ancient Secret
 1 Forgotten Relic
 1 Rift
 1 Village
@@ -73,4 +71,4 @@
 1 Lentholm
 1 Deitas Start
 1 Burst of Energy
-1 Three Paths
+1 Divergent Paths

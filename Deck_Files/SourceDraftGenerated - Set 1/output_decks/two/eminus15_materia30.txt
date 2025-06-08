@@ -1,49 +1,50 @@
-1 Alliance Berserker
 1 Ancient Vampire
-1 Arbiter Marshal
-1 Bloodburst
+1 Apprentice Arbiter
+1 Beckon Home
 1 Bloodcaster
 1 Cloaked Inquisitor
+1 Clockwork Duelist
 1 Clockwork Guardian
 1 Consume Flesh
+1 Councilor Corsovo
 1 Crackling Hurricane
-1 Devastating Landslide
-1 Devout Knight
+1 Defender of the Gate
 1 Eager Explorer
+1 Efficient Arbiter
+1 False Orders
 1 Farmland Defender
-1 Fortress Automaton
-1 Glyph of Alarm
+1 Filibuster Specialist
 1 Glyph of Summoning
-1 Healing Potion
-1 Knight's Familiar
-1 Knightly Reinforcements
-1 Lekvian Vampire
+1 Lekvian Butler
+1 Liev Arbiter
+1 Logistics Expert
 1 Long-Winded Orator
 1 Lost in The Borderwood
 1 Master Vennan
-1 Noble Orator
+1 Novice Spellsealer
+1 Ogre Tactician
+1 Ogre of Mnem
 1 Old Watch Directive
-1 Resilient Knight
-2 Rockfall
-1 Rosilie D'Avron
-1 Rugged Outlander
+1 Prepared Scribe
+1 Rockfall
+1 Royal Decoy
 1 Scrap Technician
-1 Scribe Tactician
 5 See Beyond
 1 Selfless Lawmage
 1 Shield of Earth
-1 Sinkhole
-2 Siphon Strength
+2 Sinkhole
+1 Siphon Strength
 1 Skilled Lawmage
 1 Skyhaven Archer
 1 Slow Magic
-1 Stall
+1 Sorvald's Insight
+1 Sound the Alarm
 1 Sublimate
 1 Sudden Drop
+1 Sunblade Knight
 1 Supply-Line Runner
-1 Truce
+1 Watch Bureaucrat
 8 Wilds of Atnia
-1 Wolkk Twinspear
 1 Workshop Automaton
 
 1 Golem
@@ -52,7 +53,7 @@
 1 Survivor
 1 Blood Zombie
 1 Knight of Redemption
-12 Delta Ultimate Artifact
+12 Ancient Secret
 1 Forgotten Relic
 1 Rift
 1 Village
@@ -70,4 +71,4 @@
 1 Lentholm
 1 Deitas Start
 1 Burst of Energy
-1 Three Paths
+1 Divergent Paths

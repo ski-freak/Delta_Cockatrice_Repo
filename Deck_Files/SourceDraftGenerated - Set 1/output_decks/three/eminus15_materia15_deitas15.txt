@@ -1,58 +1,60 @@
 1 Alliance General
+1 Ancient Vampire
 1 Anvil of Souls
+1 Apprentice Arbiter
+1 Arcane Archer
 1 Arcane Tower
 1 Banishment
-1 Beseech the Gods
-1 Cloaked Inquisitor
-1 Command
-1 Consume Flesh
-1 Crackling Hurricane
+1 Beckon Home
+1 Bloodburst
+1 Brag's Prison
+1 Clockwork Guardian
+1 Cunning Arbiter
 1 Demon Chains
-1 Devastating Landslide
 1 Devout Healer
-1 Eager Explorer
-1 Energy Drain
-1 Ethereal Voice
+1 Divine Intervention
+1 Earthquake
 1 Evacuation
-1 Farmland Defender
+1 Evasive Scribe
+1 Fallen Angel
+1 Filibuster Specialist
+1 Fortress Automaton
+1 Glyph of Alarm
 1 Glyph of Summoning
-1 Hired Hands
 1 Imposing Presence
 1 Inquisitor's Directive
 1 Kindling Mage
-1 Knight's Familiar
-1 Leyline Summoning
-1 Liev Arbiter
+1 Lekvian Vampire
+1 Liase of the Two Scrolls
+1 Logistics Expert
+1 Long-Winded Orator
 1 Master Vennan
 1 Mnem Directive
-1 Noble Orator
-1 Novice Spellsealer
+1 Nullify Magic
 1 Old Watch Directive
-1 Priest of Vosderon
+1 Possessed Sycophant
+1 Prophet of Ozen
 1 Rash Chieftain
-1 Reawaken in Dream
-1 Reckless Sculptor
 1 Relic Recovery
+1 Relic Scavenger
 1 Resilient Knight
-1 Righteous Edict
 1 Rockfall
-1 Royal Decoy
-1 Scrap Technician
-1 Search for Omnipotence
 7 See Beyond
-1 Selfless Cultist
-1 Selfless Lawmage
-2 Shem's Binding
-1 Sorvald's Insight
+1 Serene Dove
+1 Shem's Binding
+1 Sinkhole
+1 Siphon Strength
+1 Sound the Alarm
+1 Spirit Guide
 1 Stall
-1 Stare into the Sun
-2 Sudden Drop
+1 Steel Resolve
 1 Sunblade Knight
-1 Temple Artificer
+1 Symbol of Hwain
+1 Truce
+1 Void Cleric
 1 Wandering Protector
-1 Watch Bureaucrat
 10 Wilds of Atnia
-1 Wolkk Twinspear
+1 Worldly Scribe
 
 1 Golem
 1 Night Horror
@@ -60,7 +62,7 @@
 1 Survivor
 1 Blood Zombie
 1 Knight of Redemption
-12 Delta Ultimate Artifact
+12 Ancient Secret
 1 Forgotten Relic
 1 Rift
 1 Village
@@ -78,4 +80,4 @@
 1 Lentholm
 1 Deitas Start
 1 Burst of Energy
-1 Three Paths
+1 Divergent Paths
