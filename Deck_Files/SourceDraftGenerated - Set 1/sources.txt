@@ -1,7 +1,7 @@
 "Arca
 1 Void Spike
 1 Rift's Grasp
-1 Twist of Fate
+1 Hwain's Disciple
 1 Void Axe
 1 Oruva Scout
 1 Giant Bat
@@ -16,9 +16,9 @@
 1 Corpse Amalgam
 1 Aulvan Writings
 1 Rift Screech
+1 Absence
 1 Void Snap
 1 Forsaken Dreamweaver
-1 Absence
 1 Void Replication
 1 Voidsworn Apostle
 1 Rift Whispers
@@ -31,8 +31,6 @@
 1 Manifest Fears
 1 Recurring Nightmare
 1 Pact of Annihilation
-1 Arcane Synthesizer
-1 Rift Cache
 1 Guile
 1 Rift's Grasp
 1 Cursed Tomb
@@ -45,7 +43,7 @@
 1 Riftcursed Farmer
 1 Avatar of Terror
 1 Bloodcrazed Knight
-1 Fractal Prism
+1 Forsaken Voidcaller
 1 Unstable Contract
 1 Knight of the Book
 1 Entwine Fates
@@ -80,23 +78,21 @@ Eminus
 1 Novice Spellsealer
 1 Command
 1 Cloaked Inquisitor
-1 Swift Shieldmage
 1 Selfless Lawmage
 1 Ozen's Faithful
 1 Skilled Lawmage
 1 Glyph of Sending
 1 Knight's Familiar
 1 Sunblade Knight
-1 Efficient Arbiter
 1 Glyph of Summoning
 1 Glyph of Alarm
 1 Tome of Knowledge
 1 Defender of the Gate
 1 Sound the Alarm
+1 Corrupt Chef
 1 Arcane Shield
 1 Slow Magic
 1 Beckon Home
-1 Royal Decoy
 1 Wolkk Twinspear
 1 Arcane Archer
 1 Steel Resolve
@@ -107,8 +103,6 @@ Materia
 1 Rockfall
 1 Sudden Drop
 1 Sinkhole
-1 Siphon Strength
-1 Devastating Landslide
 1 Watch Bureaucrat
 1 Sublimate
 1 Rockfall
@@ -133,6 +127,7 @@ Materia
 1 Clockwork Guardian
 1 Scrap Technician
 1 Leyline Summoning
+1 Borderwoods Alchemist
 1 Lekvian Butler
 1 Bloodburst
 1 Clockwork Soldier
@@ -159,6 +154,7 @@ Materia
 1 Alliance General
 1 Logistics Expert
 1 Supply-Line Runner
+1 Vaporize
 
 Epoca
 1 Restore Barrier
@@ -169,6 +165,7 @@ Epoca
 1 Counter
 1 Glyph of Warding
 1 Scrap Compactor
+1 Anachronistic Artificer
 1 Lost Tome
 1 Old-World Scholar
 1 Embargo
@@ -203,7 +200,6 @@ Epoca
 1 Embrace the Ephemeral
 1 Hindsight Crystal
 1 Overcharged Circuit
-1 Cynical Relic-Caster
 1 Clockwork Generator
 1 Energy Cell
 1 Whirring Contraption
@@ -252,6 +248,7 @@ Zelor
 1 Fire Shield
 1 Cleave
 1 Divergent Dreams
+1 Dreamflame Channeler
 1 Knight of the Moon
 1 Survivor Knight
 1 Battlemaster of The Wall
@@ -309,6 +306,7 @@ Talentus
 1 Clang-Blade Duelist
 1 Master Duelist
 1 Flank
+1 Expert Smith
 1 Legion Assassin
 1 Legion Chevalier
 1 Legion Scout
@@ -400,6 +398,7 @@ Deitas
 1 Call of Destiny
 1 Relic Scavenger
 1 Ta's Sight
+1 Devout Cleric
 1 Stare into the Sun
 1 Elderly Monk
 1 Noble Ancestor

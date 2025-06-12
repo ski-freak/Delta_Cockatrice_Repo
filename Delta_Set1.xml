@@ -2646,6 +2646,10 @@
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Moat.png">Del1</set>
     </card>
     <card>
+        <name>Mobilize</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Mobilize.png">Del1</set>
+    </card>
+    <card>
         <name>Molten Image</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Molten%20Image.png">Del1</set>
     </card>
@@ -3344,6 +3348,10 @@
     <card>
         <name>Recurring Nightmare</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Recurring%20Nightmare.png">Del1</set>
+    </card>
+    <card>
+        <name>Recursive Law</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Recursive%20Law.png">Del1</set>
     </card>
     <card>
         <name>Reflect</name>
