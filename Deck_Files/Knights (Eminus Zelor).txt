@@ -1,5 +1,5 @@
 10 Zelor Eminus Core
-3 Fireball
+3 Extreme Heat
 3 Wolkk Twinspear
 3 Feigned Weakness
 3 Enlarge
@@ -18,7 +18,7 @@
 3 Explosive Breakthrough
 3 Wizard's Familiar
 
-1 The College of Dreams
-2 The Old Watch
+2 The College of Dreams
+1 The Old Watch
 1 Village
 1 Dreamscape
