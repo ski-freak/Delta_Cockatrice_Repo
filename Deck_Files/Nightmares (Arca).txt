@@ -8,12 +8,11 @@
 3 Unstable Contract
 3 Void Axe
 3 Myrkur Phantom
-1 Entwine Fates
 3 Recurring Nightmare
 3 Blood Channeler
 3 Avatar of Terror
 3 Encroaching Inevitability
-1 Twist of Fate
+2 Twist of Fate
 3 Enhance Spell
 2 Aulvan Writings
 3 Oruva Scout
