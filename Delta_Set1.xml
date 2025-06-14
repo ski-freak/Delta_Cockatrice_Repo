@@ -218,6 +218,10 @@
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Arcane%20Abomination.png">Del1</set>
     </card>
     <card>
+        <name>Arcane Amalgam</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Arcane%20Amalgam.png">Del1</set>
+    </card>
+    <card>
         <name>Arcane Arbiter</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Arcane%20Arbiter.png">Del1</set>
     </card>
@@ -2080,6 +2084,10 @@
     <card>
         <name>Inconceivable Ambush</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Inconceivable%20Ambush.png">Del1</set>
+    </card>
+    <card>
+        <name>Inevitable Failure</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Inevitable%20Failure.png">Del1</set>
     </card>
     <card>
         <name>Infiltration Mission</name>
@@ -4680,6 +4688,10 @@
     <card>
         <name>Void Replication</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Void%20Replication.png">Del1</set>
+    </card>
+    <card>
+        <name>Void Slap</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Void%20Slap.png">Del1</set>
     </card>
     <card>
         <name>Void Snap</name>

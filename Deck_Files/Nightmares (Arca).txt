@@ -4,7 +4,6 @@
 3 Voidsworn Apostle
 3 Rift Whispers
 3 Void Snap
-3 Rift Screech
 3 Visions of the End
 3 Unstable Contract
 3 Void Axe
@@ -13,11 +12,12 @@
 3 Recurring Nightmare
 3 Blood Channeler
 3 Avatar of Terror
-2 Encroaching Inevitability
-2 Twist of Fate
+3 Encroaching Inevitability
+1 Twist of Fate
+3 Enhance Spell
+2 Aulvan Writings
+3 Oruva Scout
 3 Corpse Amalgam
-3 Ta's Sight
-2 Enhance Spell
 
 3 Aton
 1 Rift

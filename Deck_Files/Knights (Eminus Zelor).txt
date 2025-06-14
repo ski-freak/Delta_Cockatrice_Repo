@@ -1,10 +1,10 @@
-10 Zelor Eminus Core
-3 Extreme Heat
+9 Zelor Eminus Core
+2 Fireball
 3 Wolkk Twinspear
 3 Feigned Weakness
 3 Enlarge
-3 Knight of the Poppy
-1 Sorvald's Ignition
+3 Prodigal Champion
+3 Sorvald's Ignition
 3 Nullify Magic
 3 Liase of the Two Scrolls
 3 Heretic of the Torch
@@ -15,10 +15,11 @@
 3 Knight of the Moon
 3 Scramble Magic
 3 Burst of Speed
-3 Explosive Breakthrough
+3 Pax Nova Directive
 3 Wizard's Familiar
 
-2 The College of Dreams
-1 The Old Watch
+1 The College of Dreams
+2 The Old Watch
 1 Village
 1 Dreamscape
+3 Knight of Redemption
