@@ -1,13 +1,13 @@
-
-6 Arca Zelor Core
-3 Dungeon
+5 Arca Zelor Core
+4 Dungeon
+3 Pale Sun Initiate
 3 Aulvan Writings
 2 Void Snap
-3 Rift Surge
+2 Rift Surge
 3 Arcane Revenant
-3 Enhance Spell
+2 Enhance Spell
 3 Arcane Amalgam
-3 Manifest Fears
+2 Manifest Fears
 3 Riftcursed Farmer
 3 Rift Whispers
 2 Cemetery Rift
@@ -19,8 +19,8 @@
 3 Scour the Signs
 2 Divergent Dreams
 3 Vampire's Bite
-2 Fated Return
-2 Patriotic Directive
+1 Fated Return
+1 Patriotic Directive
 
 1 Aton
 1 The College of Dreams
