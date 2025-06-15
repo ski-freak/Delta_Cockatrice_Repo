@@ -1,107 +1,88 @@
 ---Arca-Zelor
 Vampire's Bite
 Burning Plain Directive
-Wild Wizard
 Rift Fire
 ---Arca-Eminus
 College of Dreams Directive
 Mind Control
-Malfunctioning Law
-
+Recursive Law
 ---Arca-Deitas
 Pale Mountain Directive
-Hymn to the Pale Sun
 Pact of Aeons
 Balance the Cosmos
 ---Zelor-Eminus
 Burst of Speed
-Explosive Breakthrough
+Knight of the Poppy
 Pax Nova Directive
-Knightly Mentor
 ---Zelor-Deitas
 Ozen's Directive
 Moon's Favor
 Vosderon's Wrath
-Avatar of Vosderon
 ---Zelor-Epoca
 Patriotic Directive
-Countervailing Force
 Lightning Prophecy
 Unstable Core
 ---Eminus-Deitas
 Inquisitor's Directive
 Imposing Presence
-Evacuation
 Arcane Tower
 ---Eminus-Epoca
 Stronghold Directive
-Outlands Commander
 Avatar of the Winds
 Knight's Glyph
 ---Eminus-Talentus
-Retreating Slice
 General's Directive
-Hunter's Hawk
+Retreating Slice
 No Retreat
 ---Deitas-Epoca
 Veriglas Directive
 Temple Librarian
-Pax Seeker
 Shard of The Mirror
 ---Deitas-Talentus
 Zoggir's Directive
 Fervent Ritual
-Relic Channeler 
-Desperate Stand
+Relic Channeler
 ---Deitas-Materia
 Mnem Directive
-Kindling Mage
 Rash Chieftain
 Anvil of Souls
 ---Epoca-Talentus
 Legion Directive
 Disciple of Nyka
-Ogre Chronomancer
-
+Mobilize
 ---Epoca-Materia
 Twilight Isle Directive
 Obliterate
-
-
+Efficient Arbiter
 ---Epoca-Arca
 Pax Directive
 Corrupted River Spirit
-Chaotic Whirlwind
 Rift Herald
 ---Talentus-Materia
 Salt Alliance Directive
 Toglu
-General Akkir
 Yeo
 ---Talentus-Arca
 Rift Directive
 Arcane War Cry
-
-
+Temporal Berserker
+Fractal Prism
 ---Talentus-Zelor
 Wall Directive
 Legion Pyromancer
-Invisible Wraith
 Commander Garis
 ---Materia-Arca
 Skyhaven Directive
 Caged Rift
-Pale Immortal
 Rift Summoning
 ---Materia-Zelor
-
 Lentholm Directive
-
+Bridge Guardian
 
 ---Materia-Eminus
 Master Vennan
 Old Watch Directive
-
+Hunter's Hawk
 
 
 

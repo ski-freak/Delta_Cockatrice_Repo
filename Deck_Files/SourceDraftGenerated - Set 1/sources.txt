@@ -10,6 +10,7 @@
 1 Arcane Historian
 1 Emissary of Fear
 1 Rift Channeler
+1 Arcane Amalgam
 1 Nightfall
 1 Dream of the Dead
 1 Myrkur Phantom
@@ -50,6 +51,7 @@
 1 Foretold Cataclysm
 1 Encroaching Inevitability
 1 Twist of Fate
+1 Ta's Sight
 
 Eminus
 1 Righteous Edict
@@ -68,6 +70,7 @@ Eminus
 1 False Orders
 1 Rewind
 1 Untimely Investigation
+1 Scramble Magic
 1 Truce
 1 Banishment
 1 Arbiter Marshal
@@ -176,7 +179,6 @@ Epoca
 1 Animate
 1 Knight of the Coin
 1 Gift of Life
-1 Read the Stars
 1 Centrifuge
 1 Stronghold Dispatch
 1 Underground Station
@@ -229,6 +231,7 @@ Epoca
 1 Storm Rune
 1 Glyph of Warding
 1 Outlands Cleric
+1 Inevitable Failure
 
 Zelor
 1 Fireball
@@ -397,7 +400,6 @@ Deitas
 1 Devout Healer
 1 Call of Destiny
 1 Relic Scavenger
-1 Ta's Sight
 1 Devout Cleric
 1 Stare into the Sun
 1 Elderly Monk
@@ -422,7 +424,6 @@ Deitas
 1 Disciple of The Shattered Mirror
 1 Reckless Acolyte
 1 Demonic Bargain
-1 Forge-Priest of Brag
 1 Relic Recovery
 1 Devout Adventurer
 1 Demon Chains

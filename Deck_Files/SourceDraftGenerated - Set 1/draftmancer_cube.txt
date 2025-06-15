@@ -211,6 +211,16 @@
         "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Arbiter Marshal.png"
     },
     {
+        "name": "Arcane Amalgam",
+        "rarity": "common",
+        "mana_cost": "{10}",
+        "type": "",
+        "subtypes": [
+            ""
+        ],
+        "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Arcane Amalgam.png"
+    },
+    {
         "name": "Arcane Archer",
         "rarity": "common",
         "mana_cost": "{2}",
@@ -329,16 +339,6 @@
             ""
         ],
         "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Avatar of Terror.png"
-    },
-    {
-        "name": "Avatar of Vosderon",
-        "rarity": "common",
-        "mana_cost": "{5}",
-        "type": "",
-        "subtypes": [
-            ""
-        ],
-        "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Avatar of Vosderon.png"
     },
     {
         "name": "Avatar of the Winds",
@@ -531,6 +531,16 @@
         "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Brag's Prison.png"
     },
     {
+        "name": "Bridge Guardian",
+        "rarity": "common",
+        "mana_cost": "{3}",
+        "type": "",
+        "subtypes": [
+            ""
+        ],
+        "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Bridge Guardian.png"
+    },
+    {
         "name": "Burning Plain Directive",
         "rarity": "common",
         "mana_cost": "{3}",
@@ -599,16 +609,6 @@
             ""
         ],
         "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Centrifuge.png"
-    },
-    {
-        "name": "Chaotic Whirlwind",
-        "rarity": "common",
-        "mana_cost": "{2}",
-        "type": "",
-        "subtypes": [
-            ""
-        ],
-        "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Chaotic Whirlwind.png"
     },
     {
         "name": "Chart the Possibilities",
@@ -783,7 +783,7 @@
     {
         "name": "Corpse Amalgam",
         "rarity": "common",
-        "mana_cost": "{10}",
+        "mana_cost": "{7}",
         "type": "",
         "subtypes": [
             ""
@@ -839,16 +839,6 @@
             ""
         ],
         "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Counter.png"
-    },
-    {
-        "name": "Countervailing Force",
-        "rarity": "common",
-        "mana_cost": "{4}",
-        "type": "",
-        "subtypes": [
-            ""
-        ],
-        "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Countervailing Force.png"
     },
     {
         "name": "Crackling Hurricane",
@@ -943,7 +933,7 @@
     {
         "name": "Defender of the Lake",
         "rarity": "common",
-        "mana_cost": "",
+        "mana_cost": "{4}",
         "type": "",
         "subtypes": [
             ""
@@ -1009,16 +999,6 @@
             ""
         ],
         "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Depleted Relic.png"
-    },
-    {
-        "name": "Desperate Stand",
-        "rarity": "common",
-        "mana_cost": "{3}",
-        "type": "",
-        "subtypes": [
-            ""
-        ],
-        "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Desperate Stand.png"
     },
     {
         "name": "Devastating Landslide",
@@ -1191,6 +1171,16 @@
         "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Earthquake.png"
     },
     {
+        "name": "Efficient Arbiter",
+        "rarity": "common",
+        "mana_cost": "{2}",
+        "type": "",
+        "subtypes": [
+            ""
+        ],
+        "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Efficient Arbiter.png"
+    },
+    {
         "name": "Elderly Monk",
         "rarity": "common",
         "mana_cost": "{2}",
@@ -1243,7 +1233,7 @@
     {
         "name": "Encroaching Inevitability",
         "rarity": "common",
-        "mana_cost": "{3}",
+        "mana_cost": "{2}",
         "type": "",
         "subtypes": [
             ""
@@ -1341,16 +1331,6 @@
         "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Ethereal Voice.png"
     },
     {
-        "name": "Evacuation",
-        "rarity": "common",
-        "mana_cost": "{1}",
-        "type": "",
-        "subtypes": [
-            ""
-        ],
-        "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Evacuation.png"
-    },
-    {
         "name": "Evasive Scribe",
         "rarity": "common",
         "mana_cost": "{2}",
@@ -1401,19 +1381,9 @@
         "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Expert Smith.png"
     },
     {
-        "name": "Explosive Breakthrough",
-        "rarity": "common",
-        "mana_cost": "{2}",
-        "type": "",
-        "subtypes": [
-            ""
-        ],
-        "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Explosive Breakthrough.png"
-    },
-    {
         "name": "Exposed Leyline",
         "rarity": "common",
-        "mana_cost": "{2}",
+        "mana_cost": "{3}",
         "type": "",
         "subtypes": [
             ""
@@ -1591,16 +1561,6 @@
         "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Foretold Cataclysm.png"
     },
     {
-        "name": "Forge-Priest of Brag",
-        "rarity": "common",
-        "mana_cost": "{1}",
-        "type": "",
-        "subtypes": [
-            ""
-        ],
-        "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Forge-Priest of Brag.png"
-    },
-    {
         "name": "Forsaken Chanter",
         "rarity": "common",
         "mana_cost": "{3}",
@@ -1691,6 +1651,16 @@
         "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Fortress Automaton.png"
     },
     {
+        "name": "Fractal Prism",
+        "rarity": "common",
+        "mana_cost": "{1}",
+        "type": "",
+        "subtypes": [
+            ""
+        ],
+        "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Fractal Prism.png"
+    },
+    {
         "name": "Futuresight Ritual",
         "rarity": "common",
         "mana_cost": "{3}",
@@ -1699,16 +1669,6 @@
             ""
         ],
         "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Futuresight Ritual.png"
-    },
-    {
-        "name": "General Akkir",
-        "rarity": "common",
-        "mana_cost": "{5}",
-        "type": "",
-        "subtypes": [
-            ""
-        ],
-        "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/General Akkir.png"
     },
     {
         "name": "General Falfar Kelwyn",
@@ -1813,7 +1773,7 @@
     {
         "name": "Glyph of Warding",
         "rarity": "common",
-        "mana_cost": "{3}",
+        "mana_cost": "{2}",
         "type": "",
         "subtypes": [
             ""
@@ -1961,16 +1921,6 @@
         "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Hwain's Disciple.png"
     },
     {
-        "name": "Hymn to the Pale Sun",
-        "rarity": "common",
-        "mana_cost": "{3}",
-        "type": "",
-        "subtypes": [
-            ""
-        ],
-        "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Hymn to the Pale Sun.png"
-    },
-    {
         "name": "Illusory Chains",
         "rarity": "common",
         "mana_cost": "{2}",
@@ -1989,6 +1939,16 @@
             ""
         ],
         "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Imposing Presence.png"
+    },
+    {
+        "name": "Inevitable Failure",
+        "rarity": "common",
+        "mana_cost": "{2}",
+        "type": "",
+        "subtypes": [
+            ""
+        ],
+        "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Inevitable Failure.png"
     },
     {
         "name": "Inkblood Librarian",
@@ -2071,16 +2031,6 @@
         "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Investigate the Scene.png"
     },
     {
-        "name": "Invisible Wraith",
-        "rarity": "common",
-        "mana_cost": "{2}",
-        "type": "",
-        "subtypes": [
-            ""
-        ],
-        "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Invisible Wraith.png"
-    },
-    {
         "name": "Journey Through Dream",
         "rarity": "common",
         "mana_cost": "{2}",
@@ -2089,16 +2039,6 @@
             ""
         ],
         "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Journey Through Dream.png"
-    },
-    {
-        "name": "Kindling Mage",
-        "rarity": "common",
-        "mana_cost": "{4}",
-        "type": "",
-        "subtypes": [
-            ""
-        ],
-        "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Kindling Mage.png"
     },
     {
         "name": "Knight of the Book",
@@ -2129,6 +2069,16 @@
             ""
         ],
         "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Knight of the Moon.png"
+    },
+    {
+        "name": "Knight of the Poppy",
+        "rarity": "common",
+        "mana_cost": "{2}",
+        "type": "",
+        "subtypes": [
+            ""
+        ],
+        "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Knight of the Poppy.png"
     },
     {
         "name": "Knight of the Torch",
@@ -2169,16 +2119,6 @@
             ""
         ],
         "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Knight's Glyph.png"
-    },
-    {
-        "name": "Knightly Mentor",
-        "rarity": "common",
-        "mana_cost": "{4}",
-        "type": "",
-        "subtypes": [
-            ""
-        ],
-        "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Knightly Mentor.png"
     },
     {
         "name": "Knightly Reinforcements",
@@ -2523,22 +2463,12 @@
     {
         "name": "Lure into Danger",
         "rarity": "common",
-        "mana_cost": "{3}",
+        "mana_cost": "{4}",
         "type": "",
         "subtypes": [
             ""
         ],
         "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Lure into Danger.png"
-    },
-    {
-        "name": "Malfunctioning Law",
-        "rarity": "common",
-        "mana_cost": "{3}",
-        "type": "",
-        "subtypes": [
-            ""
-        ],
-        "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Malfunctioning Law.png"
     },
     {
         "name": "Manifest Fears",
@@ -2629,6 +2559,16 @@
             ""
         ],
         "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Mnem Directive.png"
+    },
+    {
+        "name": "Mobilize",
+        "rarity": "common",
+        "mana_cost": "{1}",
+        "type": "",
+        "subtypes": [
+            ""
+        ],
+        "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Mobilize.png"
     },
     {
         "name": "Moon's Favor",
@@ -2723,7 +2663,7 @@
     {
         "name": "Nullify Magic",
         "rarity": "common",
-        "mana_cost": "{3}",
+        "mana_cost": "{2}",
         "type": "",
         "subtypes": [
             ""
@@ -2743,22 +2683,12 @@
     {
         "name": "Obliterate",
         "rarity": "common",
-        "mana_cost": "{4}",
+        "mana_cost": "{3}",
         "type": "",
         "subtypes": [
             ""
         ],
         "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Obliterate.png"
-    },
-    {
-        "name": "Ogre Chronomancer",
-        "rarity": "common",
-        "mana_cost": "{5}",
-        "type": "",
-        "subtypes": [
-            ""
-        ],
-        "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Ogre Chronomancer.png"
     },
     {
         "name": "Ogre Tactician",
@@ -2881,16 +2811,6 @@
         "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Outlands Cleric.png"
     },
     {
-        "name": "Outlands Commander",
-        "rarity": "common",
-        "mana_cost": "{3}",
-        "type": "",
-        "subtypes": [
-            ""
-        ],
-        "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Outlands Commander.png"
-    },
-    {
         "name": "Overcharged Circuit",
         "rarity": "common",
         "mana_cost": "{2}",
@@ -2959,16 +2879,6 @@
             ""
         ],
         "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Pact of Annihilation.png"
-    },
-    {
-        "name": "Pale Immortal",
-        "rarity": "common",
-        "mana_cost": "{3}",
-        "type": "",
-        "subtypes": [
-            ""
-        ],
-        "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Pale Immortal.png"
     },
     {
         "name": "Pale Mountain Directive",
@@ -3059,16 +2969,6 @@
             ""
         ],
         "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Pax Nova Directive.png"
-    },
-    {
-        "name": "Pax Seeker",
-        "rarity": "common",
-        "mana_cost": "{4}",
-        "type": "",
-        "subtypes": [
-            ""
-        ],
-        "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Pax Seeker.png"
     },
     {
         "name": "Pax Valley Wyvern",
@@ -3191,16 +3091,6 @@
         "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Rash Chieftain.png"
     },
     {
-        "name": "Read the Stars",
-        "rarity": "common",
-        "mana_cost": "{2}",
-        "type": "",
-        "subtypes": [
-            ""
-        ],
-        "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Read the Stars.png"
-    },
-    {
         "name": "Reawaken in Dream",
         "rarity": "common",
         "mana_cost": "{2}",
@@ -3249,6 +3139,16 @@
             ""
         ],
         "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Recurring Nightmare.png"
+    },
+    {
+        "name": "Recursive Law",
+        "rarity": "common",
+        "mana_cost": "{5}",
+        "type": "",
+        "subtypes": [
+            ""
+        ],
+        "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Recursive Law.png"
     },
     {
         "name": "Reforge in Flame",
@@ -3453,7 +3353,7 @@
     {
         "name": "Rift Screech",
         "rarity": "common",
-        "mana_cost": "{3}",
+        "mana_cost": "{2}",
         "type": "",
         "subtypes": [
             ""
@@ -3639,6 +3539,16 @@
             ""
         ],
         "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Scour the Signs.png"
+    },
+    {
+        "name": "Scramble Magic",
+        "rarity": "common",
+        "mana_cost": "{3}",
+        "type": "",
+        "subtypes": [
+            ""
+        ],
+        "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Scramble Magic.png"
     },
     {
         "name": "Scrap Compactor",
@@ -4191,6 +4101,16 @@
         "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Temple Librarian.png"
     },
     {
+        "name": "Temporal Berserker",
+        "rarity": "common",
+        "mana_cost": "{3}",
+        "type": "",
+        "subtypes": [
+            ""
+        ],
+        "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Temporal Berserker.png"
+    },
+    {
         "name": "Thought Extraction",
         "rarity": "common",
         "mana_cost": "{1}",
@@ -4591,16 +4511,6 @@
         "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Whirring Contraption.png"
     },
     {
-        "name": "Wild Wizard",
-        "rarity": "common",
-        "mana_cost": "{2}",
-        "type": "",
-        "subtypes": [
-            ""
-        ],
-        "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Wild Wizard.png"
-    },
-    {
         "name": "Wildfire",
         "rarity": "common",
         "mana_cost": "{2}",
@@ -4733,6 +4643,7 @@
 1 Anvil of Souls
 1 Apprentice Arbiter
 1 Arbiter Marshal
+1 Arcane Amalgam
 1 Arcane Archer
 1 Arcane Historian
 1 Arcane Revenant
@@ -4745,7 +4656,6 @@
 1 Aulvan Writings
 1 Avatar of Defeat
 1 Avatar of Terror
-1 Avatar of Vosderon
 1 Avatar of the Winds
 1 Balance the Cosmos
 1 Banishment
@@ -4765,6 +4675,7 @@
 1 Bold Warrior
 1 Borderwoods Alchemist
 3 Brag's Prison
+1 Bridge Guardian
 1 Burning Plain Directive
 1 Burst of Speed
 1 Caged Rift
@@ -4772,7 +4683,6 @@
 1 Call to Arms
 1 Cemetery Rift
 1 Centrifuge
-1 Chaotic Whirlwind
 1 Chart the Possibilities
 1 Clang-Blade Duelist
 1 Cleave
@@ -4796,7 +4706,6 @@
 1 Cosmic Justice
 1 Councilor Corsovo
 2 Counter
-1 Countervailing Force
 1 Crackling Hurricane
 2 Crippling Shot
 1 Cunning Arbiter
@@ -4813,7 +4722,6 @@
 1 Demonic Bargain
 1 Demonic Harbinger
 1 Depleted Relic
-1 Desperate Stand
 1 Devastating Landslide
 1 Devout Adventurer
 1 Devout Cleric
@@ -4831,6 +4739,7 @@
 1 Dreamflame Channeler
 1 Eager Explorer
 1 Earthquake
+1 Efficient Arbiter
 1 Elderly Monk
 1 Embargo
 1 Embrace the Ephemeral
@@ -4846,13 +4755,11 @@
 1 Eruption
 1 Escape to Dream
 1 Ethereal Voice
-1 Evacuation
 1 Evasive Scribe
 1 Excavation Automaton
 1 Expedition Leader
 1 Experienced Traveler
 1 Expert Smith
-1 Explosive Breakthrough
 1 Exposed Leyline
 1 Extreme Heat
 1 Eye for an Eye
@@ -4871,7 +4778,6 @@
 1 Flank
 1 Force Field
 1 Foretold Cataclysm
-1 Forge-Priest of Brag
 1 Forsaken Chanter
 1 Forsaken Cultist
 1 Forsaken Displacer
@@ -4881,8 +4787,8 @@
 1 Forsaken Reveller
 1 Forsaken Voidcaller
 1 Fortress Automaton
+1 Fractal Prism
 1 Futuresight Ritual
-1 General Akkir
 1 General Falfar Kelwyn
 1 General's Directive
 1 Generous Merchant
@@ -4908,9 +4814,9 @@
 1 Hourglass of Ages
 1 Hunter's Hawk
 1 Hwain's Disciple
-1 Hymn to the Pale Sun
 1 Illusory Chains
 1 Imposing Presence
+1 Inevitable Failure
 1 Inkblood Librarian
 2 Inquisitor's Cage-Charm
 1 Inquisitor's Directive
@@ -4919,17 +4825,15 @@
 1 Inspiring Banner
 2 Interrupt
 1 Investigate the Scene
-1 Invisible Wraith
 1 Journey Through Dream
-1 Kindling Mage
 1 Knight of the Book
 1 Knight of the Coin
 1 Knight of the Moon
+1 Knight of the Poppy
 1 Knight of the Torch
 1 Knight of the Wheat
 1 Knight's Familiar
 1 Knight's Glyph
-1 Knightly Mentor
 1 Knightly Reinforcements
 1 Legion Assassin
 1 Legion Cannoneer
@@ -4965,7 +4869,6 @@
 1 Lost Tome
 1 Lost in The Borderwood
 1 Lure into Danger
-1 Malfunctioning Law
 1 Manifest Fears
 1 Marla, Respected Chef
 1 Master Duelist
@@ -4975,6 +4878,7 @@
 1 Mind Control
 1 Mirage Glyph
 1 Mnem Directive
+1 Mobilize
 1 Moon's Favor
 1 Mud Golem
 1 Myrkur Phantom
@@ -4987,7 +4891,6 @@
 1 Nullify Magic
 1 Oana's Divination
 1 Obliterate
-1 Ogre Chronomancer
 1 Ogre Tactician
 1 Ogre of Mnem
 1 Oguth of Mnem
@@ -5000,7 +4903,6 @@
 1 Outlander's Familiar
 1 Outlands Brawler
 1 Outlands Cleric
-1 Outlands Commander
 1 Overcharged Circuit
 1 Ozen's Directive
 1 Ozen's Faithful
@@ -5008,7 +4910,6 @@
 1 Ozen's Temple
 1 Pact of Aeons
 1 Pact of Annihilation
-1 Pale Immortal
 1 Pale Mountain Directive
 1 Pale Prophet Zurani
 1 Pale Sun Initiate
@@ -5018,7 +4919,6 @@
 1 Pax Directive
 1 Pax Nova Battlemage
 1 Pax Nova Directive
-1 Pax Seeker
 1 Pax Valley Wyvern
 2 Plasma Bolt
 1 Possessed Legionnaire
@@ -5031,12 +4931,12 @@
 1 Prophet of Ozen
 1 Pull of the Abyss
 1 Rash Chieftain
-1 Read the Stars
 1 Reawaken in Dream
 1 Reckless Acolyte
 1 Reckless Sculptor
 1 Recollect
 1 Recurring Nightmare
+1 Recursive Law
 1 Reforge in Flame
 1 Relic Channeler
 1 Relic Recovery
@@ -5076,6 +4976,7 @@
 1 Scorched Earth
 1 Scour the Ruins
 1 Scour the Signs
+1 Scramble Magic
 1 Scrap Compactor
 1 Scrap Summoning
 1 Scrap Technician
@@ -5131,6 +5032,7 @@
 1 Team Up
 1 Temple Artificer
 1 Temple Librarian
+1 Temporal Berserker
 1 Thought Extraction
 1 Thunderous Fury
 1 Toglu
@@ -5171,7 +5073,6 @@
 1 Watch Quartermaster
 1 What You Can Carry
 1 Whirring Contraption
-1 Wild Wizard
 1 Wildfire
 1 Will o' the Wisp
 1 Wizard's Familiar
