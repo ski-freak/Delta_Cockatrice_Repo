@@ -1,9 +1,8 @@
 5 Arca Zelor Core
 4 Dungeon
 3 Pale Sun Initiate
-3 Aulvan Writings
 2 Void Snap
-2 Rift Surge
+3 Rift Surge
 3 Arcane Revenant
 2 Enhance Spell
 3 Arcane Amalgam
@@ -13,14 +12,14 @@
 2 Cemetery Rift
 3 Pax Directive
 3 Corrupted River Spirit
-3 Rousing Tale
-1 Reprise the Past
+2 Reprise the Past
 3 Sorvald's Ignition
 3 Scour the Signs
-2 Divergent Dreams
+1 Divergent Dreams
 3 Vampire's Bite
-1 Fated Return
-1 Patriotic Directive
+2 Patriotic Directive
+3 Stochastic Ignition
+2 Thought Extraction
 
 1 Aton
 1 The College of Dreams

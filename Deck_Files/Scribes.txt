@@ -1,5 +1,4 @@
 9 Neutral Ground
-3 Energy Drain
 3 Worldly Scribe
 3 Filibuster Specialist
 3 Long-Winded Orator
@@ -7,8 +6,9 @@
 3 Logistics Expert
 1 Shield of Earth
 1 Sublimate
+1 Scribe Tactician
 3 Councilor Corsovo
-1 Watch Bureaucrat
+2 Watch Bureaucrat
 1 Vexing Scribe
 3 Lost in the Borderwood
 3 Glyph of Sending
@@ -18,7 +18,7 @@
 2 Logol of the Mirror
 2 Selfless Lawmage
 3 Novice Spellsealer
-1 Lekvian Butler
+2 Lekvian Butler
 3 Crackling Hurricane
 1 Old Watch Directive
 1 Defender of the Gate
