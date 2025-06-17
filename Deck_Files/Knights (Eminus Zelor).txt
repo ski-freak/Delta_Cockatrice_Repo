@@ -4,12 +4,13 @@
 3 Feigned Weakness
 3 Enlarge
 3 Prodigal Champion
-2 Sorvald's Ignition
+1 Sorvald's Ignition
 3 Nullify Magic
 3 Liase of the Two Scrolls
 3 Heretic of the Torch
 3 Steel Resolve
-2 Beckon Home
+1 Banishment
+1 Selfless Lawmage
 2 Thunderous Fury
 3 Stochastic Ignition
 3 Knight of the Moon
@@ -17,6 +18,7 @@
 3 Burst of Speed
 3 Pax Nova Directive
 3 Wizard's Familiar
+1 Arcane Shield
 
 2 The College of Dreams
 1 The Old Watch

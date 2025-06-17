@@ -198,6 +198,10 @@
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Arbiter's%20Denial.png">Del1</set>
     </card>
     <card>
+        <name>Arbiter's Familiar</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Arbiter's%20Familiar.png">Del1</set>
+    </card>
+    <card>
         <name>Arca Eminus Core</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Arca%20Eminus%20Core.png">Del1</set>
     </card>
@@ -312,6 +316,10 @@
     <card>
         <name>Atnia</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Atnia.png">Del1</set>
+    </card>
+    <card>
+        <name>Atnian Guide</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Atnian%20Guide.png">Del1</set>
     </card>
     <card>
         <name>Aton Archivist</name>
@@ -464,6 +472,10 @@
     <card>
         <name>Beckon Home</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Beckon%20Home.png">Del1</set>
+    </card>
+    <card>
+        <name>Benevolent Nightmare</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Benevolent%20Nightmare.png">Del1</set>
     </card>
     <card>
         <name>Benjamin</name>
@@ -1698,6 +1710,10 @@
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Forsaken%20Dreamweaver.png">Del1</set>
     </card>
     <card>
+        <name>Forsaken Ideologue</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Forsaken%20Ideologue.png">Del1</set>
+    </card>
+    <card>
         <name>Forsaken Initiate</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Forsaken%20Initiate.png">Del1</set>
     </card>
@@ -2088,6 +2104,10 @@
     <card>
         <name>Inevitable Failure</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Inevitable%20Failure.png">Del1</set>
+    </card>
+    <card>
+        <name>Infected Cleric</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Infected%20Cleric.png">Del1</set>
     </card>
     <card>
         <name>Infiltration Mission</name>
@@ -3262,6 +3282,10 @@
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Pull%20of%20the%20Abyss.png">Del1</set>
     </card>
     <card>
+        <name>Pulsating Tablet</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Pulsating%20Tablet.png">Del1</set>
+    </card>
+    <card>
         <name>Punishing Strike</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Punishing%20Strike.png">Del1</set>
     </card>
@@ -3432,6 +3456,10 @@
     <card>
         <name>Reserve Tactics</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Reserve%20Tactics.png">Del1</set>
+    </card>
+    <card>
+        <name>Reserved Scholar</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Reserved%20Scholar.png">Del1</set>
     </card>
     <card>
         <name>Resilient Knight</name>
