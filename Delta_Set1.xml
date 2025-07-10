@@ -242,6 +242,10 @@
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Arcane%20Historian.png">Del1</set>
     </card>
     <card>
+        <name>Arcane Insight</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Arcane%20Insight.png">Del1</set>
+    </card>
+    <card>
         <name>Arcane Knight</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Arcane%20Knight.png">Del1</set>
     </card>
@@ -584,6 +588,10 @@
     <card>
         <name>Borderwoods Alchemist</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Borderwoods%20Alchemist.png">Del1</set>
+    </card>
+    <card>
+        <name>Borderwoods Druid</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Borderwoods%20Druid.png">Del1</set>
     </card>
     <card>
         <name>Borrow Time</name>
@@ -1236,6 +1244,10 @@
     <card>
         <name>Dreamscape</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Dreamscape.png">Del1</set>
+    </card>
+    <card>
+        <name>Druid of Distant Lands</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Druid%20of%20Distant%20Lands.png">Del1</set>
     </card>
     <card>
         <name>Duel of Honor</name>
@@ -1964,6 +1976,10 @@
     <card>
         <name>Guardian Angel</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Guardian%20Angel.png">Del1</set>
+    </card>
+    <card>
+        <name>Guardian of Nature</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Guardian%20of%20Nature.png">Del1</set>
     </card>
     <card>
         <name>Guile</name>
@@ -2782,6 +2798,10 @@
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Neutral%20Ground.png">Del1</set>
     </card>
     <card>
+        <name>New Horizons</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/New%20Horizons.png">Del1</set>
+    </card>
+    <card>
         <name>New Recruit</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/New%20Recruit.png">Del1</set>
     </card>
@@ -2824,6 +2844,10 @@
     <card>
         <name>Noncompete</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Noncompete.png">Del1</set>
+    </card>
+    <card>
+        <name>Nostalgic Voyage</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Nostalgic%20Voyage.png">Del1</set>
     </card>
     <card>
         <name>Novice Spellsealer</name>
@@ -3232,6 +3256,10 @@
     <card>
         <name>Priest of Death</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Priest%20of%20Death.png">Del1</set>
+    </card>
+    <card>
+        <name>Priest of the Arcane</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Priest%20of%20the%20Arcane.png">Del1</set>
     </card>
     <card>
         <name>Priest of Vosderon</name>

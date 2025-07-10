@@ -1,0 +1,32 @@
+6 Castle
+1 Militia Leader
+1 Supply Logistics
+2 Reserve Tactics
+3 Lesser War Demon
+2 Legion Warlock
+1 Outlands Brawler
+3 Legion Mageslayer
+1 Young Dragon Spider
+3 Legion Cannoneer
+1 Legion Drill Sergeant
+3 War Elephant
+1 Inspiring Banner
+1 Inspired Charge
+1 Legion Tactician
+3 Legion Courier
+3 Combat Necromancer
+2 Battlefield Rift
+2 Banner of Lentholm
+3 Nomadic Orc
+2 Scavenged Munitions
+3 Selfless Legionnaire
+3 Emergency Supply Kit
+3 Goblin Sharptooth
+1 Swift Rescue
+3 Bold Warrior
+2 Lure into Danger
+
+3 Lentholm
+1 Blood Zombie
+5 Divergent Paths
+1 Outpost
