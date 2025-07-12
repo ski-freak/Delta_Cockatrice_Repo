@@ -27,10 +27,13 @@
 1 False Orders
 1 Survivor Knight
 1 Spectral Agent
-1 Sorvald's Insight
 1 Stochastic Ignition
 1 Honorable Knight
 1 Sunblade Knight
+3 Zelor Eminus Core
+3 Neutral Ground
+2 Camp
+
 
 1 Golem
 1 Night Horror
