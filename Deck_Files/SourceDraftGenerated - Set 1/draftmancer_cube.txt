@@ -21,16 +21,6 @@
         "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Adapt.png"
     },
     {
-        "name": "Advance Supply Convoy",
-        "rarity": "common",
-        "mana_cost": "{1}",
-        "type": "",
-        "subtypes": [
-            ""
-        ],
-        "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Advance Supply Convoy.png"
-    },
-    {
         "name": "Advanced Tactics",
         "rarity": "common",
         "mana_cost": "{1}",
@@ -131,26 +121,6 @@
         "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Ancient Swordsmaster.png"
     },
     {
-        "name": "Ancient Vampire",
-        "rarity": "common",
-        "mana_cost": "{5}",
-        "type": "",
-        "subtypes": [
-            ""
-        ],
-        "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Ancient Vampire.png"
-    },
-    {
-        "name": "Angelic Apparition",
-        "rarity": "common",
-        "mana_cost": "{1}",
-        "type": "",
-        "subtypes": [
-            ""
-        ],
-        "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Angelic Apparition.png"
-    },
-    {
         "name": "Animate",
         "rarity": "common",
         "mana_cost": "{2}",
@@ -211,9 +181,19 @@
         "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Arbiter Marshal.png"
     },
     {
+        "name": "Arbiter's Familiar",
+        "rarity": "common",
+        "mana_cost": "{2}",
+        "type": "",
+        "subtypes": [
+            ""
+        ],
+        "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Arbiter's Familiar.png"
+    },
+    {
         "name": "Arcane Amalgam",
         "rarity": "common",
-        "mana_cost": "{10}",
+        "mana_cost": "{8}",
         "type": "",
         "subtypes": [
             ""
@@ -239,6 +219,16 @@
             ""
         ],
         "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Arcane Historian.png"
+    },
+    {
+        "name": "Arcane Insight",
+        "rarity": "common",
+        "mana_cost": "{1}",
+        "type": "",
+        "subtypes": [
+            ""
+        ],
+        "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Arcane Insight.png"
     },
     {
         "name": "Arcane Revenant",
@@ -291,9 +281,19 @@
         "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Assembly Construct.png"
     },
     {
+        "name": "Atnian Guide",
+        "rarity": "common",
+        "mana_cost": "{3}",
+        "type": "",
+        "subtypes": [
+            ""
+        ],
+        "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Atnian Guide.png"
+    },
+    {
         "name": "Aton Excavation",
         "rarity": "common",
-        "mana_cost": "{2}",
+        "mana_cost": "{3}",
         "type": "",
         "subtypes": [
             ""
@@ -309,16 +309,6 @@
             ""
         ],
         "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Aulvan Cypher.png"
-    },
-    {
-        "name": "Aulvan Writings",
-        "rarity": "common",
-        "mana_cost": "{1}",
-        "type": "",
-        "subtypes": [
-            ""
-        ],
-        "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Aulvan Writings.png"
     },
     {
         "name": "Avatar of Defeat",
@@ -413,7 +403,7 @@
     {
         "name": "Battlefield Rift",
         "rarity": "common",
-        "mana_cost": "{2}",
+        "mana_cost": "{3}",
         "type": "",
         "subtypes": [
             ""
@@ -439,6 +429,16 @@
             ""
         ],
         "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Beckon Home.png"
+    },
+    {
+        "name": "Benevolent Nightmare",
+        "rarity": "common",
+        "mana_cost": "{3}",
+        "type": "",
+        "subtypes": [
+            ""
+        ],
+        "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Benevolent Nightmare.png"
     },
     {
         "name": "Beseech the Gods",
@@ -473,7 +473,7 @@
     {
         "name": "Bloodburst",
         "rarity": "common",
-        "mana_cost": "{3}",
+        "mana_cost": "{2}",
         "type": "",
         "subtypes": [
             ""
@@ -501,16 +501,6 @@
         "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Bloodcrazed Knight.png"
     },
     {
-        "name": "Bold Warrior",
-        "rarity": "common",
-        "mana_cost": "{1}",
-        "type": "",
-        "subtypes": [
-            ""
-        ],
-        "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Bold Warrior.png"
-    },
-    {
         "name": "Borderwoods Alchemist",
         "rarity": "common",
         "mana_cost": "{2}",
@@ -519,6 +509,16 @@
             ""
         ],
         "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Borderwoods Alchemist.png"
+    },
+    {
+        "name": "Borderwoods Druid",
+        "rarity": "common",
+        "mana_cost": "{2}",
+        "type": "",
+        "subtypes": [
+            ""
+        ],
+        "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Borderwoods Druid.png"
     },
     {
         "name": "Brag's Prison",
@@ -561,26 +561,6 @@
         "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Burst of Speed.png"
     },
     {
-        "name": "Caged Rift",
-        "rarity": "common",
-        "mana_cost": "{3}",
-        "type": "",
-        "subtypes": [
-            ""
-        ],
-        "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Caged Rift.png"
-    },
-    {
-        "name": "Call of Destiny",
-        "rarity": "common",
-        "mana_cost": "{3}",
-        "type": "",
-        "subtypes": [
-            ""
-        ],
-        "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Call of Destiny.png"
-    },
-    {
         "name": "Call to Arms",
         "rarity": "common",
         "mana_cost": "{3}",
@@ -621,19 +601,9 @@
         "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Chart the Possibilities.png"
     },
     {
-        "name": "Clang-Blade Duelist",
-        "rarity": "common",
-        "mana_cost": "{3}",
-        "type": "",
-        "subtypes": [
-            ""
-        ],
-        "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Clang-Blade Duelist.png"
-    },
-    {
         "name": "Cleave",
         "rarity": "common",
-        "mana_cost": "{2}",
+        "mana_cost": "{3}",
         "type": "",
         "subtypes": [
             ""
@@ -643,7 +613,7 @@
     {
         "name": "Cleric of Hwain",
         "rarity": "common",
-        "mana_cost": "{3}",
+        "mana_cost": "{2}",
         "type": "",
         "subtypes": [
             ""
@@ -669,26 +639,6 @@
             ""
         ],
         "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Clockwork Assembly.png"
-    },
-    {
-        "name": "Clockwork Duelist",
-        "rarity": "common",
-        "mana_cost": "{2}",
-        "type": "",
-        "subtypes": [
-            ""
-        ],
-        "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Clockwork Duelist.png"
-    },
-    {
-        "name": "Clockwork Generator",
-        "rarity": "common",
-        "mana_cost": "{2}",
-        "type": "",
-        "subtypes": [
-            ""
-        ],
-        "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Clockwork Generator.png"
     },
     {
         "name": "Clockwork Guardian",
@@ -751,6 +701,16 @@
         "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Commander Garis.png"
     },
     {
+        "name": "Common Nightmare",
+        "rarity": "common",
+        "mana_cost": "{2}",
+        "type": "",
+        "subtypes": [
+            ""
+        ],
+        "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Common Nightmare.png"
+    },
+    {
         "name": "Conceal",
         "rarity": "common",
         "mana_cost": "{1}",
@@ -783,7 +743,7 @@
     {
         "name": "Corpse Amalgam",
         "rarity": "common",
-        "mana_cost": "{7}",
+        "mana_cost": "{6}",
         "type": "",
         "subtypes": [
             ""
@@ -871,16 +831,6 @@
         "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Cunning Arbiter.png"
     },
     {
-        "name": "Cursed Tomb",
-        "rarity": "common",
-        "mana_cost": "{2}",
-        "type": "",
-        "subtypes": [
-            ""
-        ],
-        "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Cursed Tomb.png"
-    },
-    {
         "name": "Dark Apostle",
         "rarity": "common",
         "mana_cost": "{5}",
@@ -913,7 +863,7 @@
     {
         "name": "Decree of Peace",
         "rarity": "common",
-        "mana_cost": "{3}",
+        "mana_cost": "{2}",
         "type": "",
         "subtypes": [
             ""
@@ -923,7 +873,7 @@
     {
         "name": "Defender of the Gate",
         "rarity": "common",
-        "mana_cost": "{1}",
+        "mana_cost": "{3}",
         "type": "",
         "subtypes": [
             ""
@@ -939,16 +889,6 @@
             ""
         ],
         "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Defender of the Lake.png"
-    },
-    {
-        "name": "Delayed Circuit",
-        "rarity": "common",
-        "mana_cost": "{1}",
-        "type": "",
-        "subtypes": [
-            ""
-        ],
-        "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Delayed Circuit.png"
     },
     {
         "name": "Demon Chains",
@@ -979,26 +919,6 @@
             ""
         ],
         "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Demonic Bargain.png"
-    },
-    {
-        "name": "Demonic Harbinger",
-        "rarity": "common",
-        "mana_cost": "{3}",
-        "type": "",
-        "subtypes": [
-            ""
-        ],
-        "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Demonic Harbinger.png"
-    },
-    {
-        "name": "Depleted Relic",
-        "rarity": "common",
-        "mana_cost": "{2}",
-        "type": "",
-        "subtypes": [
-            ""
-        ],
-        "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Depleted Relic.png"
     },
     {
         "name": "Devastating Landslide",
@@ -1131,16 +1051,6 @@
         "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Dream Jaunt.png"
     },
     {
-        "name": "Dream of the Dead",
-        "rarity": "common",
-        "mana_cost": "{2}",
-        "type": "",
-        "subtypes": [
-            ""
-        ],
-        "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Dream of the Dead.png"
-    },
-    {
         "name": "Dreamflame Channeler",
         "rarity": "common",
         "mana_cost": "{2}",
@@ -1149,6 +1059,16 @@
             ""
         ],
         "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Dreamflame Channeler.png"
+    },
+    {
+        "name": "Druid of Distant Lands",
+        "rarity": "common",
+        "mana_cost": "{3}",
+        "type": "",
+        "subtypes": [
+            ""
+        ],
+        "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Druid of Distant Lands.png"
     },
     {
         "name": "Eager Explorer",
@@ -1201,16 +1121,6 @@
         "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Embargo.png"
     },
     {
-        "name": "Embrace the Ephemeral",
-        "rarity": "common",
-        "mana_cost": "{2}",
-        "type": "",
-        "subtypes": [
-            ""
-        ],
-        "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Embrace the Ephemeral.png"
-    },
-    {
         "name": "Emergency Supply Kit",
         "rarity": "common",
         "mana_cost": "{1}",
@@ -1223,7 +1133,7 @@
     {
         "name": "Emissary of Fear",
         "rarity": "common",
-        "mana_cost": "{3}",
+        "mana_cost": "{4}",
         "type": "",
         "subtypes": [
             ""
@@ -1251,16 +1161,6 @@
         "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Energy Cell.png"
     },
     {
-        "name": "Energy Drain",
-        "rarity": "common",
-        "mana_cost": "{1}",
-        "type": "",
-        "subtypes": [
-            ""
-        ],
-        "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Energy Drain.png"
-    },
-    {
         "name": "Enhance Spell",
         "rarity": "common",
         "mana_cost": "{1}",
@@ -1279,26 +1179,6 @@
             ""
         ],
         "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Enlarge.png"
-    },
-    {
-        "name": "Entwine Fates",
-        "rarity": "common",
-        "mana_cost": "{3}",
-        "type": "",
-        "subtypes": [
-            ""
-        ],
-        "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Entwine Fates.png"
-    },
-    {
-        "name": "Ephemerality Caster",
-        "rarity": "common",
-        "mana_cost": "{4}",
-        "type": "",
-        "subtypes": [
-            ""
-        ],
-        "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Ephemerality Caster.png"
     },
     {
         "name": "Eruption",
@@ -1391,16 +1271,6 @@
         "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Exposed Leyline.png"
     },
     {
-        "name": "Extreme Heat",
-        "rarity": "common",
-        "mana_cost": "{1}",
-        "type": "",
-        "subtypes": [
-            ""
-        ],
-        "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Extreme Heat.png"
-    },
-    {
         "name": "Eye for an Eye",
         "rarity": "common",
         "mana_cost": "{3}",
@@ -1441,16 +1311,6 @@
         "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Farmland Defender.png"
     },
     {
-        "name": "Fated Return",
-        "rarity": "common",
-        "mana_cost": "{1}",
-        "type": "",
-        "subtypes": [
-            ""
-        ],
-        "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Fated Return.png"
-    },
-    {
         "name": "Feigned Weakness",
         "rarity": "common",
         "mana_cost": "{1}",
@@ -1463,7 +1323,7 @@
     {
         "name": "Fervent Ritual",
         "rarity": "common",
-        "mana_cost": "{2}",
+        "mana_cost": "{1}",
         "type": "",
         "subtypes": [
             ""
@@ -1531,26 +1391,6 @@
         "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Flaming Berserker.png"
     },
     {
-        "name": "Flank",
-        "rarity": "common",
-        "mana_cost": "{2}",
-        "type": "",
-        "subtypes": [
-            ""
-        ],
-        "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Flank.png"
-    },
-    {
-        "name": "Force Field",
-        "rarity": "common",
-        "mana_cost": "{2}",
-        "type": "",
-        "subtypes": [
-            ""
-        ],
-        "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Force Field.png"
-    },
-    {
         "name": "Foretold Cataclysm",
         "rarity": "common",
         "mana_cost": "{2}",
@@ -1563,7 +1403,7 @@
     {
         "name": "Forsaken Chanter",
         "rarity": "common",
-        "mana_cost": "{3}",
+        "mana_cost": "{4}",
         "type": "",
         "subtypes": [
             ""
@@ -1593,12 +1433,22 @@
     {
         "name": "Forsaken Dreamweaver",
         "rarity": "common",
-        "mana_cost": "{1}",
+        "mana_cost": "{2}",
         "type": "",
         "subtypes": [
             ""
         ],
         "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Forsaken Dreamweaver.png"
+    },
+    {
+        "name": "Forsaken Ideologue",
+        "rarity": "common",
+        "mana_cost": "{2}",
+        "type": "",
+        "subtypes": [
+            ""
+        ],
+        "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Forsaken Ideologue.png"
     },
     {
         "name": "Forsaken Initiate",
@@ -1711,16 +1561,6 @@
         "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Giant Bat.png"
     },
     {
-        "name": "Giant Dragonfly",
-        "rarity": "common",
-        "mana_cost": "{1}",
-        "type": "",
-        "subtypes": [
-            ""
-        ],
-        "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Giant Dragonfly.png"
-    },
-    {
         "name": "Gift of Life",
         "rarity": "common",
         "mana_cost": "{2}",
@@ -1799,6 +1639,16 @@
             ""
         ],
         "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Golem Nexus.png"
+    },
+    {
+        "name": "Guardian of Nature",
+        "rarity": "common",
+        "mana_cost": "{2}",
+        "type": "",
+        "subtypes": [
+            ""
+        ],
+        "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Guardian of Nature.png"
     },
     {
         "name": "Guile",
@@ -1941,24 +1791,14 @@
         "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Imposing Presence.png"
     },
     {
-        "name": "Inevitable Failure",
+        "name": "Infected Cleric",
         "rarity": "common",
-        "mana_cost": "{2}",
+        "mana_cost": "{1}",
         "type": "",
         "subtypes": [
             ""
         ],
-        "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Inevitable Failure.png"
-    },
-    {
-        "name": "Inkblood Librarian",
-        "rarity": "common",
-        "mana_cost": "{3}",
-        "type": "",
-        "subtypes": [
-            ""
-        ],
-        "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Inkblood Librarian.png"
+        "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Infected Cleric.png"
     },
     {
         "name": "Inquisitor's Cage-Charm",
@@ -1979,16 +1819,6 @@
             ""
         ],
         "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Inquisitor's Directive.png"
-    },
-    {
-        "name": "Inspired Archaeologist",
-        "rarity": "common",
-        "mana_cost": "{2}",
-        "type": "",
-        "subtypes": [
-            ""
-        ],
-        "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Inspired Archaeologist.png"
     },
     {
         "name": "Inspired Charge",
@@ -2113,12 +1943,22 @@
     {
         "name": "Knight's Glyph",
         "rarity": "common",
-        "mana_cost": "{1}",
+        "mana_cost": "{2}",
         "type": "",
         "subtypes": [
             ""
         ],
         "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Knight's Glyph.png"
+    },
+    {
+        "name": "Knightly Mentor",
+        "rarity": "common",
+        "mana_cost": "{4}",
+        "type": "",
+        "subtypes": [
+            ""
+        ],
+        "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Knightly Mentor.png"
     },
     {
         "name": "Knightly Reinforcements",
@@ -2129,36 +1969,6 @@
             ""
         ],
         "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Knightly Reinforcements.png"
-    },
-    {
-        "name": "Legion Assassin",
-        "rarity": "common",
-        "mana_cost": "{4}",
-        "type": "",
-        "subtypes": [
-            ""
-        ],
-        "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Legion Assassin.png"
-    },
-    {
-        "name": "Legion Cannoneer",
-        "rarity": "common",
-        "mana_cost": "{2}",
-        "type": "",
-        "subtypes": [
-            ""
-        ],
-        "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Legion Cannoneer.png"
-    },
-    {
-        "name": "Legion Chevalier",
-        "rarity": "common",
-        "mana_cost": "{2}",
-        "type": "",
-        "subtypes": [
-            ""
-        ],
-        "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Legion Chevalier.png"
     },
     {
         "name": "Legion Courier",
@@ -2223,7 +2033,7 @@
     {
         "name": "Legion Pyromancer",
         "rarity": "common",
-        "mana_cost": "{3}",
+        "mana_cost": "{4}",
         "type": "",
         "subtypes": [
             ""
@@ -2491,16 +2301,6 @@
         "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Marla, Respected Chef.png"
     },
     {
-        "name": "Master Duelist",
-        "rarity": "common",
-        "mana_cost": "{5}",
-        "type": "",
-        "subtypes": [
-            ""
-        ],
-        "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Master Duelist.png"
-    },
-    {
         "name": "Master Vennan",
         "rarity": "common",
         "mana_cost": "{4}",
@@ -2519,16 +2319,6 @@
             ""
         ],
         "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Midnight Duel.png"
-    },
-    {
-        "name": "Militia Leader",
-        "rarity": "common",
-        "mana_cost": "{3}",
-        "type": "",
-        "subtypes": [
-            ""
-        ],
-        "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Militia Leader.png"
     },
     {
         "name": "Mind Control",
@@ -2561,16 +2351,6 @@
         "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Mnem Directive.png"
     },
     {
-        "name": "Mobilize",
-        "rarity": "common",
-        "mana_cost": "{1}",
-        "type": "",
-        "subtypes": [
-            ""
-        ],
-        "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Mobilize.png"
-    },
-    {
         "name": "Moon's Favor",
         "rarity": "common",
         "mana_cost": "{2}",
@@ -2601,6 +2381,16 @@
         "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Myrkur Phantom.png"
     },
     {
+        "name": "New Horizons",
+        "rarity": "common",
+        "mana_cost": "{1}",
+        "type": "",
+        "subtypes": [
+            ""
+        ],
+        "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/New Horizons.png"
+    },
+    {
         "name": "Nightfall",
         "rarity": "common",
         "mana_cost": "{3}",
@@ -2611,19 +2401,9 @@
         "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Nightfall.png"
     },
     {
-        "name": "No Retreat",
-        "rarity": "common",
-        "mana_cost": "{2}",
-        "type": "",
-        "subtypes": [
-            ""
-        ],
-        "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/No Retreat.png"
-    },
-    {
         "name": "Noble Ancestor",
         "rarity": "common",
-        "mana_cost": "{3}",
+        "mana_cost": "{4}",
         "type": "",
         "subtypes": [
             ""
@@ -2651,9 +2431,19 @@
         "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Nomadic Orc.png"
     },
     {
-        "name": "Novice Spellsealer",
+        "name": "Nostalgic Voyage",
         "rarity": "common",
         "mana_cost": "{2}",
+        "type": "",
+        "subtypes": [
+            ""
+        ],
+        "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Nostalgic Voyage.png"
+    },
+    {
+        "name": "Novice Spellsealer",
+        "rarity": "common",
+        "mana_cost": "{3}",
         "type": "",
         "subtypes": [
             ""
@@ -2689,16 +2479,6 @@
             ""
         ],
         "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Obliterate.png"
-    },
-    {
-        "name": "Ogre Tactician",
-        "rarity": "common",
-        "mana_cost": "{4}",
-        "type": "",
-        "subtypes": [
-            ""
-        ],
-        "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Ogre Tactician.png"
     },
     {
         "name": "Ogre of Mnem",
@@ -2749,16 +2529,6 @@
             ""
         ],
         "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Oln's Binding.png"
-    },
-    {
-        "name": "Oln's Chosen",
-        "rarity": "common",
-        "mana_cost": "{3}",
-        "type": "",
-        "subtypes": [
-            ""
-        ],
-        "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Oln's Chosen.png"
     },
     {
         "name": "Omen of Winter",
@@ -2873,12 +2643,22 @@
     {
         "name": "Pact of Annihilation",
         "rarity": "common",
-        "mana_cost": "{4}",
+        "mana_cost": "{3}",
         "type": "",
         "subtypes": [
             ""
         ],
         "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Pact of Annihilation.png"
+    },
+    {
+        "name": "Pale Immortal",
+        "rarity": "common",
+        "mana_cost": "{3}",
+        "type": "",
+        "subtypes": [
+            ""
+        ],
+        "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Pale Immortal.png"
     },
     {
         "name": "Pale Mountain Directive",
@@ -2913,7 +2693,7 @@
     {
         "name": "Pale Sun's Influence",
         "rarity": "common",
-        "mana_cost": "{4}",
+        "mana_cost": "{5}",
         "type": "",
         "subtypes": [
             ""
@@ -3021,26 +2801,6 @@
         "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Prepared Scribe.png"
     },
     {
-        "name": "Priest of Calamity",
-        "rarity": "common",
-        "mana_cost": "{6}",
-        "type": "",
-        "subtypes": [
-            ""
-        ],
-        "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Priest of Calamity.png"
-    },
-    {
-        "name": "Priest of Vosderon",
-        "rarity": "common",
-        "mana_cost": "{3}",
-        "type": "",
-        "subtypes": [
-            ""
-        ],
-        "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Priest of Vosderon.png"
-    },
-    {
         "name": "Prodigal Champion",
         "rarity": "common",
         "mana_cost": "{1}",
@@ -3063,7 +2823,7 @@
     {
         "name": "Prophet of Ozen",
         "rarity": "common",
-        "mana_cost": "{4}",
+        "mana_cost": "{3}",
         "type": "",
         "subtypes": [
             ""
@@ -3073,12 +2833,22 @@
     {
         "name": "Pull of the Abyss",
         "rarity": "common",
-        "mana_cost": "{3}",
+        "mana_cost": "{2}",
         "type": "",
         "subtypes": [
             ""
         ],
         "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Pull of the Abyss.png"
+    },
+    {
+        "name": "Pulsating Tablet",
+        "rarity": "common",
+        "mana_cost": "{2}",
+        "type": "",
+        "subtypes": [
+            ""
+        ],
+        "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Pulsating Tablet.png"
     },
     {
         "name": "Rash Chieftain",
@@ -3111,19 +2881,9 @@
         "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Reckless Acolyte.png"
     },
     {
-        "name": "Reckless Sculptor",
-        "rarity": "common",
-        "mana_cost": "{2}",
-        "type": "",
-        "subtypes": [
-            ""
-        ],
-        "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Reckless Sculptor.png"
-    },
-    {
         "name": "Recollect",
         "rarity": "common",
-        "mana_cost": "{3}",
+        "mana_cost": "{2}",
         "type": "",
         "subtypes": [
             ""
@@ -3171,26 +2931,6 @@
         "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Relic Channeler.png"
     },
     {
-        "name": "Relic Recovery",
-        "rarity": "common",
-        "mana_cost": "{2}",
-        "type": "",
-        "subtypes": [
-            ""
-        ],
-        "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Relic Recovery.png"
-    },
-    {
-        "name": "Relic Scavenger",
-        "rarity": "common",
-        "mana_cost": "{3}",
-        "type": "",
-        "subtypes": [
-            ""
-        ],
-        "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Relic Scavenger.png"
-    },
-    {
         "name": "Remake",
         "rarity": "common",
         "mana_cost": "{2}",
@@ -3223,12 +2963,22 @@
     {
         "name": "Reserve Tactics",
         "rarity": "common",
-        "mana_cost": "{2}",
+        "mana_cost": "{3}",
         "type": "",
         "subtypes": [
             ""
         ],
         "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Reserve Tactics.png"
+    },
+    {
+        "name": "Reserved Scholar",
+        "rarity": "common",
+        "mana_cost": "{1}",
+        "type": "",
+        "subtypes": [
+            ""
+        ],
+        "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Reserved Scholar.png"
     },
     {
         "name": "Resilient Knight",
@@ -3239,16 +2989,6 @@
             ""
         ],
         "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Resilient Knight.png"
-    },
-    {
-        "name": "Resourceful Cleric",
-        "rarity": "common",
-        "mana_cost": "{3}",
-        "type": "",
-        "subtypes": [
-            ""
-        ],
-        "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Resourceful Cleric.png"
     },
     {
         "name": "Restore Barrier",
@@ -3293,7 +3033,7 @@
     {
         "name": "Revenants of War",
         "rarity": "common",
-        "mana_cost": "{2}",
+        "mana_cost": "{3}",
         "type": "",
         "subtypes": [
             ""
@@ -3303,12 +3043,22 @@
     {
         "name": "Rewind",
         "rarity": "common",
-        "mana_cost": "{3}",
+        "mana_cost": "{4}",
         "type": "",
         "subtypes": [
             ""
         ],
         "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Rewind.png"
+    },
+    {
+        "name": "Rift Cache",
+        "rarity": "common",
+        "mana_cost": "{1}",
+        "type": "",
+        "subtypes": [
+            ""
+        ],
+        "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Rift Cache.png"
     },
     {
         "name": "Rift Channeler",
@@ -3451,16 +3201,6 @@
         "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Rosilie D'Avron.png"
     },
     {
-        "name": "Rousing Tale",
-        "rarity": "common",
-        "mana_cost": "{2}",
-        "type": "",
-        "subtypes": [
-            ""
-        ],
-        "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Rousing Tale.png"
-    },
-    {
         "name": "Rugged Outlander",
         "rarity": "common",
         "mana_cost": "{3}",
@@ -3491,16 +3231,6 @@
         "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Salt Alliance Directive.png"
     },
     {
-        "name": "Scatter to the Ages",
-        "rarity": "common",
-        "mana_cost": "{4}",
-        "type": "",
-        "subtypes": [
-            ""
-        ],
-        "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Scatter to the Ages.png"
-    },
-    {
         "name": "Scavenged Munitions",
         "rarity": "common",
         "mana_cost": "{1}",
@@ -3511,16 +3241,6 @@
         "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Scavenged Munitions.png"
     },
     {
-        "name": "Scorched Earth",
-        "rarity": "common",
-        "mana_cost": "{6}",
-        "type": "",
-        "subtypes": [
-            ""
-        ],
-        "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Scorched Earth.png"
-    },
-    {
         "name": "Scour the Ruins",
         "rarity": "common",
         "mana_cost": "{1}",
@@ -3529,16 +3249,6 @@
             ""
         ],
         "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Scour the Ruins.png"
-    },
-    {
-        "name": "Scour the Signs",
-        "rarity": "common",
-        "mana_cost": "{1}",
-        "type": "",
-        "subtypes": [
-            ""
-        ],
-        "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Scour the Signs.png"
     },
     {
         "name": "Scramble Magic",
@@ -3561,16 +3271,6 @@
         "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Scrap Compactor.png"
     },
     {
-        "name": "Scrap Summoning",
-        "rarity": "common",
-        "mana_cost": "{3}",
-        "type": "",
-        "subtypes": [
-            ""
-        ],
-        "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Scrap Summoning.png"
-    },
-    {
         "name": "Scrap Technician",
         "rarity": "common",
         "mana_cost": "{3}",
@@ -3589,16 +3289,6 @@
             ""
         ],
         "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Scribe Tactician.png"
-    },
-    {
-        "name": "Search for Omnipotence",
-        "rarity": "common",
-        "mana_cost": "{1}",
-        "type": "",
-        "subtypes": [
-            ""
-        ],
-        "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Search for Omnipotence.png"
     },
     {
         "name": "Seasonal Festeval",
@@ -3649,16 +3339,6 @@
             ""
         ],
         "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Selfless Legionnaire.png"
-    },
-    {
-        "name": "Serene Dove",
-        "rarity": "common",
-        "mana_cost": "{3}",
-        "type": "",
-        "subtypes": [
-            ""
-        ],
-        "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Serene Dove.png"
     },
     {
         "name": "Set Ablaze",
@@ -3731,16 +3411,6 @@
         "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Siphon Strength.png"
     },
     {
-        "name": "Skilled Lawmage",
-        "rarity": "common",
-        "mana_cost": "{4}",
-        "type": "",
-        "subtypes": [
-            ""
-        ],
-        "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Skilled Lawmage.png"
-    },
-    {
         "name": "Skyhaven Archer",
         "rarity": "common",
         "mana_cost": "{3}",
@@ -3773,22 +3443,12 @@
     {
         "name": "Slow Magic",
         "rarity": "common",
-        "mana_cost": "{3}",
-        "type": "",
-        "subtypes": [
-            ""
-        ],
-        "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Slow Magic.png"
-    },
-    {
-        "name": "Smoldering Embers",
-        "rarity": "common",
         "mana_cost": "{2}",
         "type": "",
         "subtypes": [
             ""
         ],
-        "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Smoldering Embers.png"
+        "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Slow Magic.png"
     },
     {
         "name": "Sorvald's Ignition",
@@ -3883,7 +3543,7 @@
     {
         "name": "Squelch",
         "rarity": "common",
-        "mana_cost": "{3}",
+        "mana_cost": "{2}",
         "type": "",
         "subtypes": [
             ""
@@ -3959,16 +3619,6 @@
             ""
         ],
         "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Stronghold Dispatch.png"
-    },
-    {
-        "name": "Stronghold Guard",
-        "rarity": "common",
-        "mana_cost": "{2}",
-        "type": "",
-        "subtypes": [
-            ""
-        ],
-        "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Stronghold Guard.png"
     },
     {
         "name": "Sublimate",
@@ -4081,16 +3731,6 @@
         "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Team Up.png"
     },
     {
-        "name": "Temple Artificer",
-        "rarity": "common",
-        "mana_cost": "{3}",
-        "type": "",
-        "subtypes": [
-            ""
-        ],
-        "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Temple Artificer.png"
-    },
-    {
         "name": "Temple Librarian",
         "rarity": "common",
         "mana_cost": "{3}",
@@ -4099,16 +3739,6 @@
             ""
         ],
         "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Temple Librarian.png"
-    },
-    {
-        "name": "Temporal Berserker",
-        "rarity": "common",
-        "mana_cost": "{3}",
-        "type": "",
-        "subtypes": [
-            ""
-        ],
-        "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Temporal Berserker.png"
     },
     {
         "name": "Thought Extraction",
@@ -4149,16 +3779,6 @@
             ""
         ],
         "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Tome of Knowledge.png"
-    },
-    {
-        "name": "Tower Mage",
-        "rarity": "common",
-        "mana_cost": "{3}",
-        "type": "",
-        "subtypes": [
-            ""
-        ],
-        "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Tower Mage.png"
     },
     {
         "name": "Tower Thief",
@@ -4279,16 +3899,6 @@
             ""
         ],
         "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Untimely Investigation.png"
-    },
-    {
-        "name": "Valorous Triumph",
-        "rarity": "common",
-        "mana_cost": "{2}",
-        "type": "",
-        "subtypes": [
-            ""
-        ],
-        "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Valorous Triumph.png"
     },
     {
         "name": "Vampire's Bite",
@@ -4443,7 +4053,7 @@
     {
         "name": "War Elephant",
         "rarity": "common",
-        "mana_cost": "{2}",
+        "mana_cost": "{3}",
         "type": "",
         "subtypes": [
             ""
@@ -4459,16 +4069,6 @@
             ""
         ],
         "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Warden of the Portals.png"
-    },
-    {
-        "name": "Warrior's Training",
-        "rarity": "common",
-        "mana_cost": "{1}",
-        "type": "",
-        "subtypes": [
-            ""
-        ],
-        "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Warrior's Training.png"
     },
     {
         "name": "Watch Bureaucrat",
@@ -4513,7 +4113,7 @@
     {
         "name": "Wildfire",
         "rarity": "common",
-        "mana_cost": "{2}",
+        "mana_cost": "{3}",
         "type": "",
         "subtypes": [
             ""
@@ -4553,7 +4153,7 @@
     {
         "name": "Wolkk Twinspear",
         "rarity": "common",
-        "mana_cost": "{2}",
+        "mana_cost": "{3}",
         "type": "",
         "subtypes": [
             ""
@@ -4623,8 +4223,7 @@
 ]
 [MainSheet()]
 1 Absence
-2 Adapt
-1 Advance Supply Convoy
+1 Adapt
 1 Advanced Tactics
 1 Alliance Beastcaller
 1 Alliance Berserker
@@ -4635,25 +4234,25 @@
 1 Amnesia
 1 Anachronistic Artificer
 1 Ancient Swordsmaster
-1 Ancient Vampire
-1 Angelic Apparition
 1 Animate
-2 Annul
+1 Annul
 1 Antimagic Haze
 1 Anvil of Souls
 1 Apprentice Arbiter
 1 Arbiter Marshal
+1 Arbiter's Familiar
 1 Arcane Amalgam
 1 Arcane Archer
 1 Arcane Historian
+1 Arcane Insight
 1 Arcane Revenant
 1 Arcane Shield
 1 Arcane Tower
 1 Arcane War Cry
 1 Assembly Construct
+1 Atnian Guide
 1 Aton Excavation
 1 Aulvan Cypher
-1 Aulvan Writings
 1 Avatar of Defeat
 1 Avatar of Terror
 1 Avatar of the Winds
@@ -4666,62 +4265,55 @@
 1 Battlefield Rift
 1 Battlemaster of The Wall
 1 Beckon Home
+1 Benevolent Nightmare
 1 Beseech the Gods
 1 Blessed Harvest
 1 Blood Channeler
 1 Bloodburst
 1 Bloodcaster
 1 Bloodcrazed Knight
-1 Bold Warrior
 1 Borderwoods Alchemist
-3 Brag's Prison
+1 Borderwoods Druid
+1 Brag's Prison
 1 Bridge Guardian
 1 Burning Plain Directive
 1 Burst of Speed
-1 Caged Rift
-1 Call of Destiny
 1 Call to Arms
 1 Cemetery Rift
 1 Centrifuge
 1 Chart the Possibilities
-1 Clang-Blade Duelist
 1 Cleave
 1 Cleric of Hwain
 1 Cloaked Inquisitor
 1 Clockwork Assembly
-1 Clockwork Duelist
-1 Clockwork Generator
 1 Clockwork Guardian
 1 Clockwork Soldier
 1 College of Dreams Directive
 1 Combat Necromancer
 1 Command
 1 Commander Garis
+1 Common Nightmare
 1 Conceal
-2 Condescend
+1 Condescend
 1 Consume Flesh
 1 Corpse Amalgam
 1 Corrupt Chef
 1 Corrupted River Spirit
 1 Cosmic Justice
 1 Councilor Corsovo
-2 Counter
+1 Counter
 1 Crackling Hurricane
-2 Crippling Shot
+1 Crippling Shot
 1 Cunning Arbiter
-1 Cursed Tomb
 1 Dark Apostle
-2 Deadly Strike
+1 Deadly Strike
 1 Decode the Runes
-2 Decree of Peace
+1 Decree of Peace
 1 Defender of the Gate
 1 Defender of the Lake
-1 Delayed Circuit
-2 Demon Chains
+1 Demon Chains
 1 Demon of Consumption
 1 Demonic Bargain
-1 Demonic Harbinger
-1 Depleted Relic
 1 Devastating Landslide
 1 Devout Adventurer
 1 Devout Cleric
@@ -4730,28 +4322,24 @@
 1 Disciple of Nyka
 1 Disciple of The Shattered Mirror
 1 Divergent Dreams
-2 Divine Intervention
+1 Divine Intervention
 1 Doomed Prophet
 1 Doomsday Prophet
 1 Dream Haven
 1 Dream Jaunt
-1 Dream of the Dead
 1 Dreamflame Channeler
+1 Druid of Distant Lands
 1 Eager Explorer
 1 Earthquake
 1 Efficient Arbiter
 1 Elderly Monk
 1 Embargo
-1 Embrace the Ephemeral
 1 Emergency Supply Kit
 1 Emissary of Fear
 1 Encroaching Inevitability
 1 Energy Cell
-1 Energy Drain
 1 Enhance Spell
 1 Enlarge
-1 Entwine Fates
-1 Ephemerality Caster
 1 Eruption
 1 Escape to Dream
 1 Ethereal Voice
@@ -4761,27 +4349,24 @@
 1 Experienced Traveler
 1 Expert Smith
 1 Exposed Leyline
-1 Extreme Heat
 1 Eye for an Eye
 1 Fallen Angel
 1 False Orders
 1 Farmland Defender
-1 Fated Return
 1 Feigned Weakness
 1 Fervent Ritual
 1 Festering Penitent
 1 Filibuster Specialist
 1 Fire Shield
-2 Fireball
+1 Fireball
 1 Flame Oracle
 1 Flaming Berserker
-1 Flank
-1 Force Field
 1 Foretold Cataclysm
 1 Forsaken Chanter
 1 Forsaken Cultist
 1 Forsaken Displacer
 1 Forsaken Dreamweaver
+1 Forsaken Ideologue
 1 Forsaken Initiate
 1 Forsaken Loremaster
 1 Forsaken Reveller
@@ -4793,15 +4378,15 @@
 1 General's Directive
 1 Generous Merchant
 1 Giant Bat
-1 Giant Dragonfly
 1 Gift of Life
 1 Glyph of Alarm
 1 Glyph of Distress
 1 Glyph of Sending
 1 Glyph of Summoning
-2 Glyph of Warding
+1 Glyph of Warding
 1 Goblin Sharptooth
 1 Golem Nexus
+1 Guardian of Nature
 1 Guile
 1 Healing Amulet
 1 Healing Potion
@@ -4816,14 +4401,12 @@
 1 Hwain's Disciple
 1 Illusory Chains
 1 Imposing Presence
-1 Inevitable Failure
-1 Inkblood Librarian
-2 Inquisitor's Cage-Charm
+1 Infected Cleric
+1 Inquisitor's Cage-Charm
 1 Inquisitor's Directive
-1 Inspired Archaeologist
 1 Inspired Charge
 1 Inspiring Banner
-2 Interrupt
+1 Interrupt
 1 Investigate the Scene
 1 Journey Through Dream
 1 Knight of the Book
@@ -4834,15 +4417,13 @@
 1 Knight of the Wheat
 1 Knight's Familiar
 1 Knight's Glyph
+1 Knightly Mentor
 1 Knightly Reinforcements
-1 Legion Assassin
-1 Legion Cannoneer
-1 Legion Chevalier
 1 Legion Courier
 1 Legion Directive
 1 Legion Drill Sergeant
 1 Legion Infiltrator
-2 Legion Mageslayer
+1 Legion Mageslayer
 1 Legion Messenger
 1 Legion Pyromancer
 1 Legion Quartermaster
@@ -4871,33 +4452,29 @@
 1 Lure into Danger
 1 Manifest Fears
 1 Marla, Respected Chef
-1 Master Duelist
 1 Master Vennan
 1 Midnight Duel
-1 Militia Leader
 1 Mind Control
 1 Mirage Glyph
 1 Mnem Directive
-1 Mobilize
 1 Moon's Favor
 1 Mud Golem
 1 Myrkur Phantom
+1 New Horizons
 1 Nightfall
-1 No Retreat
 1 Noble Ancestor
 1 Noble Orator
 1 Nomadic Orc
+1 Nostalgic Voyage
 1 Novice Spellsealer
 1 Nullify Magic
 1 Oana's Divination
 1 Obliterate
-1 Ogre Tactician
 1 Ogre of Mnem
 1 Oguth of Mnem
 1 Old Watch Directive
 1 Old-World Scholar
-2 Oln's Binding
-1 Oln's Chosen
+1 Oln's Binding
 1 Omen of Winter
 1 Oruva Scout
 1 Outlander's Familiar
@@ -4910,6 +4487,7 @@
 1 Ozen's Temple
 1 Pact of Aeons
 1 Pact of Annihilation
+1 Pale Immortal
 1 Pale Mountain Directive
 1 Pale Prophet Zurani
 1 Pale Sun Initiate
@@ -4920,39 +4498,36 @@
 1 Pax Nova Battlemage
 1 Pax Nova Directive
 1 Pax Valley Wyvern
-2 Plasma Bolt
+1 Plasma Bolt
 1 Possessed Legionnaire
 1 Possessed Sycophant
 1 Prepared Scribe
-1 Priest of Calamity
-1 Priest of Vosderon
 1 Prodigal Champion
 1 Profane Blessing
 1 Prophet of Ozen
 1 Pull of the Abyss
+1 Pulsating Tablet
 1 Rash Chieftain
 1 Reawaken in Dream
 1 Reckless Acolyte
-1 Reckless Sculptor
 1 Recollect
 1 Recurring Nightmare
 1 Recursive Law
 1 Reforge in Flame
 1 Relic Channeler
-1 Relic Recovery
-1 Relic Scavenger
 1 Remake
 1 Reorganize
 1 Reprise the Past
-2 Reserve Tactics
+1 Reserve Tactics
+1 Reserved Scholar
 1 Resilient Knight
-1 Resourceful Cleric
-2 Restore Barrier
+1 Restore Barrier
 1 Restore Order
 1 Retreating Slice
 1 Return to Dust
 1 Revenants of War
 1 Rewind
+1 Rift Cache
 1 Rift Channeler
 1 Rift Directive
 1 Rift Fire
@@ -4961,46 +4536,37 @@
 1 Rift Summoning
 1 Rift Surge
 1 Rift Whispers
-2 Rift's Grasp
+1 Rift's Grasp
 1 Riftcursed Farmer
 1 Righteous Edict
-2 Rockfall
+1 Rockfall
 1 Rolead the Swift
 1 Rosilie D'Avron
-1 Rousing Tale
 1 Rugged Outlander
 1 Rune of Antiquity
 1 Salt Alliance Directive
-1 Scatter to the Ages
 1 Scavenged Munitions
-1 Scorched Earth
 1 Scour the Ruins
-1 Scour the Signs
 1 Scramble Magic
 1 Scrap Compactor
-1 Scrap Summoning
 1 Scrap Technician
 1 Scribe Tactician
-3 Search for Omnipotence
 1 Seasonal Festeval
 1 Seasoned Arbiter
 1 Selfless Cultist
 1 Selfless Lawmage
 1 Selfless Legionnaire
-1 Serene Dove
 1 Set Ablaze
 1 Shadow of the Nightmare
 1 Shard of The Mirror
-3 Shem's Binding
+1 Shem's Binding
 1 Shield of Earth
-2 Sinkhole
+1 Sinkhole
 1 Siphon Strength
-1 Skilled Lawmage
 1 Skyhaven Archer
 1 Skyhaven Directive
 1 Sleep Eater
 1 Slow Magic
-1 Smoldering Embers
 1 Sorvald's Ignition
 1 Sorvald's Insight
 1 Soul Shift
@@ -5010,7 +4576,7 @@
 1 Spirit Guide
 1 Spiritual Awakening
 1 Sputtering Conduit
-2 Squelch
+1 Squelch
 1 Stall
 1 Stare into the Sun
 1 Steel Resolve
@@ -5018,27 +4584,23 @@
 1 Storm Rune
 1 Stronghold Directive
 1 Stronghold Dispatch
-1 Stronghold Guard
-2 Sublimate
-2 Sudden Drop
+1 Sublimate
+1 Sudden Drop
 1 Sunblade Knight
-2 Supply Logistics
+1 Supply Logistics
 1 Supply-Line Runner
 1 Survivor Knight
 1 Swift Rescue
-2 Symbol of Hwain
-2 Symbol of Vosderon
+1 Symbol of Hwain
+1 Symbol of Vosderon
 1 Ta's Sight
 1 Team Up
-1 Temple Artificer
 1 Temple Librarian
-1 Temporal Berserker
 1 Thought Extraction
 1 Thunderous Fury
 1 Toglu
 1 Tome of Knowledge
-1 Tower Mage
-2 Tower Thief
+1 Tower Thief
 1 Trade Insight
 1 Traverse Dream
 1 Truce
@@ -5050,7 +4612,6 @@
 1 Unstable Core
 1 Unstable Staff
 1 Untimely Investigation
-1 Valorous Triumph
 1 Vampire's Bite
 1 Vaporize
 1 Veriglas Directive
@@ -5061,14 +4622,13 @@
 1 Void Drake
 1 Void Replication
 1 Void Snap
-2 Void Spike
+1 Void Spike
 1 Voidsworn Apostle
 1 Vosderon's Wrath
 1 Wall Directive
 1 Wandering Protector
 1 War Elephant
 1 Warden of the Portals
-1 Warrior's Training
 1 Watch Bureaucrat
 1 Watch Quartermaster
 1 What You Can Carry

@@ -4,7 +4,6 @@
 1 Survivor
 1 Blood Zombie
 1 Knight of Redemption
-12 Ancient Secret
 1 Forgotten Relic
 1 Rift
 1 Village
