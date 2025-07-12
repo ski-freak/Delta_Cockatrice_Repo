@@ -111,6 +111,16 @@
         "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Anachronistic Artificer.png"
     },
     {
+        "name": "Ancient Grounds",
+        "rarity": "common",
+        "mana_cost": "{0}",
+        "type": "",
+        "subtypes": [
+            ""
+        ],
+        "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Ancient Grounds.png"
+    },
+    {
         "name": "Ancient Swordsmaster",
         "rarity": "common",
         "mana_cost": "{3}",
@@ -239,6 +249,16 @@
             ""
         ],
         "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Arcane Revenant.png"
+    },
+    {
+        "name": "Arcane Sanctum",
+        "rarity": "common",
+        "mana_cost": "{0}",
+        "type": "",
+        "subtypes": [
+            ""
+        ],
+        "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Arcane Sanctum.png"
     },
     {
         "name": "Arcane Shield",
@@ -619,6 +639,16 @@
             ""
         ],
         "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Cleric of Hwain.png"
+    },
+    {
+        "name": "Cliffside Village",
+        "rarity": "common",
+        "mana_cost": "{0}",
+        "type": "",
+        "subtypes": [
+            ""
+        ],
+        "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Cliffside Village.png"
     },
     {
         "name": "Cloaked Inquisitor",
@@ -1481,6 +1511,16 @@
         "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Forsaken Reveller.png"
     },
     {
+        "name": "Forsaken Village",
+        "rarity": "common",
+        "mana_cost": "",
+        "type": "",
+        "subtypes": [
+            ""
+        ],
+        "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Forsaken Village.png"
+    },
+    {
         "name": "Forsaken Voidcaller",
         "rarity": "common",
         "mana_cost": "{2}",
@@ -1659,6 +1699,16 @@
             ""
         ],
         "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Guile.png"
+    },
+    {
+        "name": "Haunted Residence",
+        "rarity": "common",
+        "mana_cost": "",
+        "type": "",
+        "subtypes": [
+            ""
+        ],
+        "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Haunted Residence.png"
     },
     {
         "name": "Healing Amulet",
@@ -2101,6 +2151,16 @@
         "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Legion Warlock.png"
     },
     {
+        "name": "Legion's Forge",
+        "rarity": "common",
+        "mana_cost": "{0}",
+        "type": "",
+        "subtypes": [
+            ""
+        ],
+        "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Legion's Forge.png"
+    },
+    {
         "name": "Lekvian Butler",
         "rarity": "common",
         "mana_cost": "{1}",
@@ -2291,6 +2351,16 @@
         "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Manifest Fears.png"
     },
     {
+        "name": "Marla's Tavern",
+        "rarity": "common",
+        "mana_cost": "",
+        "type": "",
+        "subtypes": [
+            ""
+        ],
+        "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Marla's Tavern.png"
+    },
+    {
         "name": "Marla, Respected Chef",
         "rarity": "common",
         "mana_cost": "{2}",
@@ -2379,6 +2449,26 @@
             ""
         ],
         "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Myrkur Phantom.png"
+    },
+    {
+        "name": "Mysterious Cemetery",
+        "rarity": "common",
+        "mana_cost": "{0}",
+        "type": "",
+        "subtypes": [
+            ""
+        ],
+        "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Mysterious Cemetery.png"
+    },
+    {
+        "name": "Mystic Ruins",
+        "rarity": "common",
+        "mana_cost": "",
+        "type": "",
+        "subtypes": [
+            ""
+        ],
+        "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Mystic Ruins.png"
     },
     {
         "name": "New Horizons",
@@ -2749,6 +2839,16 @@
             ""
         ],
         "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Pax Nova Directive.png"
+    },
+    {
+        "name": "Pax Nova Farmland",
+        "rarity": "common",
+        "mana_cost": "",
+        "type": "",
+        "subtypes": [
+            ""
+        ],
+        "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Pax Nova Farmland.png"
     },
     {
         "name": "Pax Valley Wyvern",
@@ -3741,6 +3841,26 @@
         "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Temple Librarian.png"
     },
     {
+        "name": "Temple of Rebirth",
+        "rarity": "common",
+        "mana_cost": "",
+        "type": "",
+        "subtypes": [
+            ""
+        ],
+        "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Temple of Rebirth.png"
+    },
+    {
+        "name": "The Borderwoods",
+        "rarity": "common",
+        "mana_cost": "",
+        "type": "",
+        "subtypes": [
+            ""
+        ],
+        "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/The Borderwoods.png"
+    },
+    {
         "name": "Thought Extraction",
         "rarity": "common",
         "mana_cost": "{1}",
@@ -3891,6 +4011,16 @@
         "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Unstable Staff.png"
     },
     {
+        "name": "Untamed Wilds",
+        "rarity": "common",
+        "mana_cost": "{0}",
+        "type": "",
+        "subtypes": [
+            ""
+        ],
+        "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Untamed Wilds.png"
+    },
+    {
         "name": "Untimely Investigation",
         "rarity": "common",
         "mana_cost": "{2}",
@@ -4019,6 +4149,16 @@
             ""
         ],
         "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Voidsworn Apostle.png"
+    },
+    {
+        "name": "Volcanic Cliffs",
+        "rarity": "common",
+        "mana_cost": "",
+        "type": "",
+        "subtypes": [
+            ""
+        ],
+        "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Volcanic Cliffs.png"
     },
     {
         "name": "Vosderon's Wrath",
@@ -4233,6 +4373,7 @@
 1 Ambush
 1 Amnesia
 1 Anachronistic Artificer
+1 Ancient Grounds
 1 Ancient Swordsmaster
 1 Animate
 1 Annul
@@ -4246,6 +4387,7 @@
 1 Arcane Historian
 1 Arcane Insight
 1 Arcane Revenant
+1 Arcane Sanctum
 1 Arcane Shield
 1 Arcane Tower
 1 Arcane War Cry
@@ -4284,6 +4426,7 @@
 1 Chart the Possibilities
 1 Cleave
 1 Cleric of Hwain
+1 Cliffside Village
 1 Cloaked Inquisitor
 1 Clockwork Assembly
 1 Clockwork Guardian
@@ -4370,6 +4513,7 @@
 1 Forsaken Initiate
 1 Forsaken Loremaster
 1 Forsaken Reveller
+1 Forsaken Village
 1 Forsaken Voidcaller
 1 Fortress Automaton
 1 Fractal Prism
@@ -4388,6 +4532,7 @@
 1 Golem Nexus
 1 Guardian of Nature
 1 Guile
+1 Haunted Residence
 1 Healing Amulet
 1 Healing Potion
 1 Heretic of the Torch
@@ -4432,6 +4577,7 @@
 1 Legion Sergeant
 1 Legion Tactician
 1 Legion Warlock
+1 Legion's Forge
 1 Lekvian Butler
 1 Lekvian Vampire
 1 Lentholm Directive
@@ -4451,6 +4597,7 @@
 1 Lost in The Borderwood
 1 Lure into Danger
 1 Manifest Fears
+1 Marla's Tavern
 1 Marla, Respected Chef
 1 Master Vennan
 1 Midnight Duel
@@ -4460,6 +4607,8 @@
 1 Moon's Favor
 1 Mud Golem
 1 Myrkur Phantom
+1 Mysterious Cemetery
+1 Mystic Ruins
 1 New Horizons
 1 Nightfall
 1 Noble Ancestor
@@ -4497,6 +4646,7 @@
 1 Pax Directive
 1 Pax Nova Battlemage
 1 Pax Nova Directive
+1 Pax Nova Farmland
 1 Pax Valley Wyvern
 1 Plasma Bolt
 1 Possessed Legionnaire
@@ -4596,6 +4746,8 @@
 1 Ta's Sight
 1 Team Up
 1 Temple Librarian
+1 Temple of Rebirth
+1 The Borderwoods
 1 Thought Extraction
 1 Thunderous Fury
 1 Toglu
@@ -4611,6 +4763,7 @@
 1 Unstable Contract
 1 Unstable Core
 1 Unstable Staff
+1 Untamed Wilds
 1 Untimely Investigation
 1 Vampire's Bite
 1 Vaporize
@@ -4624,6 +4777,7 @@
 1 Void Snap
 1 Void Spike
 1 Voidsworn Apostle
+1 Volcanic Cliffs
 1 Vosderon's Wrath
 1 Wall Directive
 1 Wandering Protector

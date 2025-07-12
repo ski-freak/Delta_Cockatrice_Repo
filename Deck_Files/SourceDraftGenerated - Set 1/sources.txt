@@ -47,6 +47,8 @@
 1 Ta's Sight
 1 Arcane Insight
 1 Guile
+1 Arcane Sanctum
+1 Haunted Residence
 
 Eminus
 1 Righteous Edict
@@ -93,6 +95,8 @@ Eminus
 1 Arcane Archer
 1 Steel Resolve
 1 Prodigal Champion
+1 Cliffside Village
+1 Pax Nova Farmland
 
 Materia
 1 Watch Bureaucrat
@@ -148,6 +152,8 @@ Materia
 1 Borderwoods Druid
 1 Guardian of Nature
 1 Nostalgic Voyage
+1 Untamed Wilds
+1 The Borderwoods
 
 Epoca
 1 Scrap Compactor
@@ -206,9 +212,13 @@ Epoca
 1 Storm Rune
 1 Glyph of Warding
 1 Outlands Cleric
+1 Mystic Ruins
+1 Ancient Grounds
 
 Zelor
 1 Amnesia
+1 Forsaken Village
+1 Volcanic Cliffs
 1 Thought Extraction
 1 Wizard's Familiar
 1 Set Ablaze
@@ -319,6 +329,8 @@ Talentus
 1 Legion Infiltrator
 1 Selfless Legionnaire
 1 Midnight Duel
+1 Legion's Forge
+1 Marla's Tavern
 
 Deitas
 1 Oln's Binding
@@ -370,4 +382,6 @@ Deitas
 1 Blessed Harvest
 1 Generous Merchant
 1 Eye for an Eye
-1 Wizened Cleric"
+1 Wizened Cleric
+1 Temple of Rebirth
+1 Mysterious Cemetery"
