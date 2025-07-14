@@ -1513,7 +1513,7 @@
     {
         "name": "Forsaken Village",
         "rarity": "common",
-        "mana_cost": "",
+        "mana_cost": "{0}",
         "type": "",
         "subtypes": [
             ""
@@ -1703,7 +1703,7 @@
     {
         "name": "Haunted Residence",
         "rarity": "common",
-        "mana_cost": "",
+        "mana_cost": "{0}",
         "type": "",
         "subtypes": [
             ""
@@ -2353,7 +2353,7 @@
     {
         "name": "Marla's Tavern",
         "rarity": "common",
-        "mana_cost": "",
+        "mana_cost": "{0}",
         "type": "",
         "subtypes": [
             ""
@@ -2421,6 +2421,16 @@
         "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Mnem Directive.png"
     },
     {
+        "name": "Momentus Expedition",
+        "rarity": "common",
+        "mana_cost": "",
+        "type": "",
+        "subtypes": [
+            ""
+        ],
+        "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Momentus Expedition.png"
+    },
+    {
         "name": "Moon's Favor",
         "rarity": "common",
         "mana_cost": "{2}",
@@ -2463,7 +2473,7 @@
     {
         "name": "Mystic Ruins",
         "rarity": "common",
-        "mana_cost": "",
+        "mana_cost": "{0}",
         "type": "",
         "subtypes": [
             ""
@@ -2843,7 +2853,7 @@
     {
         "name": "Pax Nova Farmland",
         "rarity": "common",
-        "mana_cost": "",
+        "mana_cost": "{0}",
         "type": "",
         "subtypes": [
             ""
@@ -3843,7 +3853,7 @@
     {
         "name": "Temple of Rebirth",
         "rarity": "common",
-        "mana_cost": "",
+        "mana_cost": "{0}",
         "type": "",
         "subtypes": [
             ""
@@ -3853,7 +3863,7 @@
     {
         "name": "The Borderwoods",
         "rarity": "common",
-        "mana_cost": "",
+        "mana_cost": "{0}",
         "type": "",
         "subtypes": [
             ""
@@ -4153,7 +4163,7 @@
     {
         "name": "Volcanic Cliffs",
         "rarity": "common",
-        "mana_cost": "",
+        "mana_cost": "{0}",
         "type": "",
         "subtypes": [
             ""
@@ -4604,6 +4614,7 @@
 1 Mind Control
 1 Mirage Glyph
 1 Mnem Directive
+1 Momentus Expedition
 1 Moon's Favor
 1 Mud Golem
 1 Myrkur Phantom

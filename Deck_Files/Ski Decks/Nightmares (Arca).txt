@@ -1,4 +1,5 @@
-5 Portal
+2 Portal
+3 Arcane Insight
 3 Void Drake
 3 Giant Bat
 3 Voidsworn Apostle

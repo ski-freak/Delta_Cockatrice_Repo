@@ -1,0 +1,44 @@
+8 Dungeon
+3 Lhorish, Nightmare Tendril
+2 Restore Order
+3 Antimagic Haze
+1 Counter
+3 Void Snap
+3 Illusory Chains
+2 Pact of Annihilation
+3 Myrkur Phantom
+3 Twist of Fate
+3 Condescend
+3 Embargo
+3 Scour the Ruins
+3 Lost Tome
+3 Pale Sun Initiate
+2 Storm Rune
+3 Excavation Automaton
+3 Oruva Scout
+3 Unstable Contract
+3 Knight of the Book
+
+1 Golem
+1 Night Horror
+1 Law-Mage
+1 Survivor
+1 Blood Zombie
+1 Knight of Redemption
+1 Forgotten Relic
+1 Rift
+1 Village
+1 Grove
+1 Ruins
+1 Dreamscape
+1 Outpost
+1 Shrine
+1 Helpful Automaton
+1 The Old Watch
+1 The College of Dreams
+1 Aton
+1 Skyhaven
+1 Pax Nova
+1 Lentholm
+1 Deitas Start
+1 Divergent Paths
