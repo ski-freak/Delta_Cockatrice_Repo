@@ -2221,6 +2221,16 @@
         "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Leyline Summoning.png"
     },
     {
+        "name": "Lhorish, Nightmare Tendril",
+        "rarity": "common",
+        "mana_cost": "",
+        "type": "",
+        "subtypes": [
+            ""
+        ],
+        "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Lhorish, Nightmare Tendril.png"
+    },
+    {
         "name": "Liase of the Two Scrolls",
         "rarity": "common",
         "mana_cost": "{2}",
@@ -4594,6 +4604,7 @@
 1 Lesser War Demon
 1 Leyline Conduit
 1 Leyline Summoning
+1 Lhorish, Nightmare Tendril
 1 Liase of the Two Scrolls
 1 Liev Arbiter
 1 Lightning Prophecy

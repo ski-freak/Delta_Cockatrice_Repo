@@ -215,6 +215,7 @@ Epoca
 1 Outlands Cleric
 1 Mystic Ruins
 1 Ancient Grounds
+1 Lhorish, Nightmare Tendril
 
 Zelor
 1 Amnesia
