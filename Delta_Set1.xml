@@ -1102,6 +1102,10 @@
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Desert%20Sentinel.png">Del1</set>
     </card>
     <card>
+        <name>Desolate Roads</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Desolate%20Roads.png">Del1</set>
+    </card>
+    <card>
         <name>Desperate Stand</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Desperate%20Stand.png">Del1</set>
     </card>
@@ -2458,6 +2462,10 @@
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Leyline%20Summoning.png">Del1</set>
     </card>
     <card>
+        <name>Lhorish, Nightmare Tendril</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Lhorish,%20Nightmare%20Tendril.png">Del1</set>
+    </card>
+    <card>
         <name>Liase of the Two Scrolls</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Liase%20of%20the%20Two%20Scrolls.png">Del1</set>
     </card>
@@ -2716,6 +2724,10 @@
     <card>
         <name>Moment of Silence</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Moment%20of%20Silence.png">Del1</set>
+    </card>
+    <card>
+        <name>Momentus Expedition</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Momentus%20Expedition.png">Del1</set>
     </card>
     <card>
         <name>Moon's Favor</name>
@@ -4352,6 +4364,10 @@
     <card>
         <name>Tactical Maneuver</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Tactical%20Maneuver.png">Del1</set>
+    </card>
+    <card>
+        <name>Tactical Retreat</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Tactical%20Retreat.png">Del1</set>
     </card>
     <card>
         <name>Take a Break</name>
