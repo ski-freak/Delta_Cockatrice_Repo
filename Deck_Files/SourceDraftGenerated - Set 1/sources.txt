@@ -376,7 +376,6 @@ Deitas
 1 Prophet of Ozen
 1 Inquisitor's Cage-Charm
 1 Soul Shift
-1 Ozen's Temple
 1 Living Relic
 1 Ozen's Fury
 1 Cosmic Justice

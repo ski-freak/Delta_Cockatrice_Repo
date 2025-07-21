@@ -1,4 +1,3 @@
----Arca-Zelor
 Vampire's Bite
 Burning Plain Directive
 Rift Fire
@@ -11,7 +10,7 @@ Pale Mountain Directive
 Pact of Aeons
 Balance the Cosmos
 ---Zelor-Eminus
-Burst of Speed
+Tactical Retreat
 Knight of the Poppy
 Pax Nova Directive
 ---Zelor-Deitas

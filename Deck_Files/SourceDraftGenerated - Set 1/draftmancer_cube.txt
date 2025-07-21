@@ -571,16 +571,6 @@
         "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Burning Plain Directive.png"
     },
     {
-        "name": "Burst of Speed",
-        "rarity": "common",
-        "mana_cost": "{1}",
-        "type": "",
-        "subtypes": [
-            ""
-        ],
-        "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Burst of Speed.png"
-    },
-    {
         "name": "Call to Arms",
         "rarity": "common",
         "mana_cost": "{3}",
@@ -949,6 +939,16 @@
             ""
         ],
         "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Demonic Bargain.png"
+    },
+    {
+        "name": "Desolate Roads",
+        "rarity": "common",
+        "mana_cost": "{4}",
+        "type": "",
+        "subtypes": [
+            ""
+        ],
+        "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Desolate Roads.png"
     },
     {
         "name": "Devastating Landslide",
@@ -2223,7 +2223,7 @@
     {
         "name": "Lhorish, Nightmare Tendril",
         "rarity": "common",
-        "mana_cost": "",
+        "mana_cost": "{1}",
         "type": "",
         "subtypes": [
             ""
@@ -2433,7 +2433,7 @@
     {
         "name": "Momentus Expedition",
         "rarity": "common",
-        "mana_cost": "",
+        "mana_cost": "{2}",
         "type": "",
         "subtypes": [
             ""
@@ -2729,16 +2729,6 @@
             ""
         ],
         "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Ozen's Fury.png"
-    },
-    {
-        "name": "Ozen's Temple",
-        "rarity": "common",
-        "mana_cost": "{2}",
-        "type": "",
-        "subtypes": [
-            ""
-        ],
-        "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Ozen's Temple.png"
     },
     {
         "name": "Pact of Aeons",
@@ -3841,6 +3831,16 @@
         "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Ta's Sight.png"
     },
     {
+        "name": "Tactical Retreat",
+        "rarity": "common",
+        "mana_cost": "{1}",
+        "type": "",
+        "subtypes": [
+            ""
+        ],
+        "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Tactical Retreat.png"
+    },
+    {
         "name": "Team Up",
         "rarity": "common",
         "mana_cost": "{2}",
@@ -4439,7 +4439,6 @@
 1 Brag's Prison
 1 Bridge Guardian
 1 Burning Plain Directive
-1 Burst of Speed
 1 Call to Arms
 1 Cemetery Rift
 1 Centrifuge
@@ -4477,6 +4476,7 @@
 1 Demon Chains
 1 Demon of Consumption
 1 Demonic Bargain
+1 Desolate Roads
 1 Devastating Landslide
 1 Devout Adventurer
 1 Devout Cleric
@@ -4655,7 +4655,6 @@
 1 Ozen's Directive
 1 Ozen's Faithful
 1 Ozen's Fury
-1 Ozen's Temple
 1 Pact of Aeons
 1 Pact of Annihilation
 1 Pale Immortal
@@ -4766,6 +4765,7 @@
 1 Symbol of Hwain
 1 Symbol of Vosderon
 1 Ta's Sight
+1 Tactical Retreat
 1 Team Up
 1 Temple Librarian
 1 Temple of Rebirth
