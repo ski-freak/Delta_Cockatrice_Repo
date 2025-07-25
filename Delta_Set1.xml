@@ -482,6 +482,10 @@
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Beckon%20Home.png">Del1</set>
     </card>
     <card>
+        <name>Beloved Chef</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Beloved%20Chef.png">Del1</set>
+    </card>
+    <card>
         <name>Benevolent Nightmare</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Benevolent%20Nightmare.png">Del1</set>
     </card>
@@ -1974,6 +1978,10 @@
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Great%20Greatsword.png">Del1</set>
     </card>
     <card>
+        <name>Gregory</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Gregory.png">Del1</set>
+    </card>
+    <card>
         <name>Grim Meddling</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Grim%20Meddling.png">Del1</set>
     </card>
@@ -2250,6 +2258,10 @@
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Itemvial.png">Del1</set>
     </card>
     <card>
+        <name>John</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/John.png">Del1</set>
+    </card>
+    <card>
         <name>Journey Through Dream</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Journey%20Through%20Dream.png">Del1</set>
     </card>
@@ -2260,6 +2272,10 @@
     <card>
         <name>Kaboom</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Kaboom.png">Del1</set>
+    </card>
+    <card>
+        <name>Kevin</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Kevin.png">Del1</set>
     </card>
     <card>
         <name>Kill</name>
@@ -2752,6 +2768,10 @@
     <card>
         <name>More Useful Dead</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/More%20Useful%20Dead.png">Del1</set>
+    </card>
+    <card>
+        <name>Mortician</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Mortician.png">Del1</set>
     </card>
     <card>
         <name>Mountain Warrior</name>

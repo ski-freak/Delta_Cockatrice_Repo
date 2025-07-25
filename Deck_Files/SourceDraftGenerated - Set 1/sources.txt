@@ -224,6 +224,7 @@ Zelor
 1 Volcanic Cliffs
 1 Thought Extraction
 1 Wizard's Familiar
+1 Battle Training
 1 Set Ablaze
 1 Fireball
 1 Living Lightning
