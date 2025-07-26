@@ -33,7 +33,7 @@
     {
         "name": "Alliance Beastcaller",
         "rarity": "common",
-        "mana_cost": "{5}",
+        "mana_cost": "{4}",
         "type": "",
         "subtypes": [
             ""
@@ -411,6 +411,16 @@
         "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Battle Rage.png"
     },
     {
+        "name": "Battle Training",
+        "rarity": "common",
+        "mana_cost": "{1}",
+        "type": "",
+        "subtypes": [
+            ""
+        ],
+        "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Battle Training.png"
+    },
+    {
         "name": "Battlefield Looter",
         "rarity": "common",
         "mana_cost": "{2}",
@@ -449,6 +459,16 @@
             ""
         ],
         "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Beckon Home.png"
+    },
+    {
+        "name": "Beloved Chef",
+        "rarity": "common",
+        "mana_cost": "{3}",
+        "type": "",
+        "subtypes": [
+            ""
+        ],
+        "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Beloved Chef.png"
     },
     {
         "name": "Benevolent Nightmare",
@@ -1681,6 +1701,16 @@
         "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Golem Nexus.png"
     },
     {
+        "name": "Gregory",
+        "rarity": "common",
+        "mana_cost": "{3}",
+        "type": "",
+        "subtypes": [
+            ""
+        ],
+        "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Gregory.png"
+    },
+    {
         "name": "Guardian of Nature",
         "rarity": "common",
         "mana_cost": "{2}",
@@ -1911,6 +1941,16 @@
         "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Investigate the Scene.png"
     },
     {
+        "name": "John",
+        "rarity": "common",
+        "mana_cost": "{3}",
+        "type": "",
+        "subtypes": [
+            ""
+        ],
+        "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/John.png"
+    },
+    {
         "name": "Journey Through Dream",
         "rarity": "common",
         "mana_cost": "{2}",
@@ -1919,6 +1959,16 @@
             ""
         ],
         "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Journey Through Dream.png"
+    },
+    {
+        "name": "Kevin",
+        "rarity": "common",
+        "mana_cost": "{3}",
+        "type": "",
+        "subtypes": [
+            ""
+        ],
+        "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Kevin.png"
     },
     {
         "name": "Knight of the Book",
@@ -2449,6 +2499,16 @@
             ""
         ],
         "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Moon's Favor.png"
+    },
+    {
+        "name": "Mortician",
+        "rarity": "common",
+        "mana_cost": "{3}",
+        "type": "",
+        "subtypes": [
+            ""
+        ],
+        "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Mortician.png"
     },
     {
         "name": "Mud Golem",
@@ -3043,7 +3103,7 @@
     {
         "name": "Remake",
         "rarity": "common",
-        "mana_cost": "{2}",
+        "mana_cost": "{1}",
         "type": "",
         "subtypes": [
             ""
@@ -4321,16 +4381,6 @@
         "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Wolkk Twinspear.png"
     },
     {
-        "name": "Workshop Automaton",
-        "rarity": "common",
-        "mana_cost": "{1}",
-        "type": "",
-        "subtypes": [
-            ""
-        ],
-        "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Workshop Automaton.png"
-    },
-    {
         "name": "Worldly Scribe",
         "rarity": "common",
         "mana_cost": "{2}",
@@ -4423,10 +4473,12 @@
 1 Banner of Lentholm
 1 Battle Plans
 1 Battle Rage
+1 Battle Training
 1 Battlefield Looter
 1 Battlefield Rift
 1 Battlemaster of The Wall
 1 Beckon Home
+1 Beloved Chef
 1 Benevolent Nightmare
 1 Beseech the Gods
 1 Blessed Harvest
@@ -4550,6 +4602,7 @@
 1 Glyph of Warding
 1 Goblin Sharptooth
 1 Golem Nexus
+1 Gregory
 1 Guardian of Nature
 1 Guile
 1 Haunted Residence
@@ -4573,7 +4626,9 @@
 1 Inspiring Banner
 1 Interrupt
 1 Investigate the Scene
+1 John
 1 Journey Through Dream
+1 Kevin
 1 Knight of the Book
 1 Knight of the Coin
 1 Knight of the Moon
@@ -4627,6 +4682,7 @@
 1 Mnem Directive
 1 Momentus Expedition
 1 Moon's Favor
+1 Mortician
 1 Mud Golem
 1 Myrkur Phantom
 1 Mysterious Cemetery
@@ -4814,7 +4870,6 @@
 1 Wizard's Familiar
 1 Wizened Cleric
 1 Wolkk Twinspear
-1 Workshop Automaton
 1 Worldly Scribe
 1 Yeo
 1 Young Adventurer

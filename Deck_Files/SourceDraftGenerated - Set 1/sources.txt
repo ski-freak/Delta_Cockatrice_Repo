@@ -97,6 +97,7 @@ Eminus
 1 Prodigal Champion
 1 Cliffside Village
 1 Pax Nova Farmland
+1 Gregory
 
 Materia
 1 Watch Bureaucrat
@@ -129,7 +130,6 @@ Materia
 1 Clockwork Soldier
 1 Evasive Scribe
 1 Fortress Automaton
-1 Workshop Automaton
 1 Sorvald's Insight
 1 Healing Potion
 1 Devastating Landslide
@@ -156,6 +156,7 @@ Materia
 1 The Borderwoods
 1 Momentus Expedition
 1 Desolate Roads
+1 John
 
 Epoca
 1 Scrap Compactor
@@ -217,6 +218,7 @@ Epoca
 1 Mystic Ruins
 1 Ancient Grounds
 1 Lhorish, Nightmare Tendril
+1 Kevin
 
 Zelor
 1 Amnesia
@@ -283,6 +285,7 @@ Talentus
 1 Legion Sergeant
 1 Tower Thief
 1 Expert Smith
+1 Beloved Chef
 1 Inspiring Banner
 1 Legion Scout
 1 Legion Messenger
@@ -345,6 +348,7 @@ Deitas
 1 Infected Cleric
 1 Decree of Peace
 1 Reforge in Flame
+1 Mortician
 1 Undying Duty
 1 Doomsday Prophet
 1 Reawaken in Dream
