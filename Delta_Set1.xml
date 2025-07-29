@@ -378,6 +378,10 @@
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Auto%20Crusher%20MK2.png">Del1</set>
     </card>
     <card>
+        <name>Automaton Conjuration</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Automaton%20Conjuration.png">Del1</set>
+    </card>
+    <card>
         <name>Automaton Summoning</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Automaton%20Summoning.png">Del1</set>
     </card>
@@ -4528,6 +4532,10 @@
     <card>
         <name>The Fire Mage</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/The%20Fire%20Mage.png">Del1</set>
+    </card>
+    <card>
+        <name>The Great Factory</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/The%20Great%20Factory.png">Del1</set>
     </card>
     <card>
         <name>The Great Heron</name>

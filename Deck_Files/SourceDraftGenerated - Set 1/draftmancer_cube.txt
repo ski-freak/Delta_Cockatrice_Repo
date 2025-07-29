@@ -2951,16 +2951,6 @@
         "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Pale Mountain Directive.png"
     },
     {
-        "name": "Pale Prophet Zurani",
-        "rarity": "common",
-        "mana_cost": "{3}",
-        "type": "",
-        "subtypes": [
-            ""
-        ],
-        "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Pale Prophet Zurani.png"
-    },
-    {
         "name": "Pale Sun Initiate",
         "rarity": "common",
         "mana_cost": "{2}",
@@ -4867,7 +4857,6 @@
 1 Pact of Annihilation
 1 Pale Immortal
 1 Pale Mountain Directive
-1 Pale Prophet Zurani
 1 Pale Sun Initiate
 1 Pale Sun's Influence
 1 Pale Zealot
