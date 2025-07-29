@@ -341,6 +341,16 @@
         "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Aulvan Cypher.png"
     },
     {
+        "name": "Automaton Conjuration",
+        "rarity": "common",
+        "mana_cost": "{2}",
+        "type": "",
+        "subtypes": [
+            ""
+        ],
+        "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Automaton Conjuration.png"
+    },
+    {
         "name": "Avatar of Defeat",
         "rarity": "common",
         "mana_cost": "{3}",
@@ -4061,6 +4071,16 @@
         "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/The Borderwoods.png"
     },
     {
+        "name": "The Great Factory",
+        "rarity": "common",
+        "mana_cost": "{5}",
+        "type": "",
+        "subtypes": [
+            ""
+        ],
+        "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/The Great Factory.png"
+    },
+    {
         "name": "The Unfathomable",
         "rarity": "common",
         "mana_cost": "{5}",
@@ -4531,16 +4551,6 @@
         "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Yeo.png"
     },
     {
-        "name": "Young Adventurer",
-        "rarity": "common",
-        "mana_cost": "{2}",
-        "type": "",
-        "subtypes": [
-            ""
-        ],
-        "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Young Adventurer.png"
-    },
-    {
         "name": "Young Dragon Spider",
         "rarity": "common",
         "mana_cost": "{2}",
@@ -4596,6 +4606,7 @@
 1 Astral Speculation
 1 Atnian Guide
 1 Aulvan Cypher
+1 Automaton Conjuration
 1 Avatar of Defeat
 1 Avatar of Terror
 1 Avatar of Zoggir
@@ -4968,6 +4979,7 @@
 1 Temple Librarian
 1 Temple of Rebirth
 1 The Borderwoods
+1 The Great Factory
 1 The Unfathomable
 1 Thought Extraction
 1 Thunderous Fury
@@ -5015,6 +5027,5 @@
 1 Wolkk Twinspear
 1 Worldly Scribe
 1 Yeo
-1 Young Adventurer
 1 Young Dragon Spider
 1 Zoggir's Directive

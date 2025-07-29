@@ -6,7 +6,6 @@
 1 Giant Bat
 1 Void Drake
 1 Arcane Revenant
-1 Arcane Historian
 1 Emissary of Fear
 1 Rift Channeler
 1 Arcane Amalgam
@@ -187,6 +186,7 @@ Epoca
 1 Pale Sun Initiate
 1 Decode the Runes
 1 Seasoned Arbiter
+1 Arcane Historian
 1 Overcharged Circuit
 1 Energy Cell
 1 Chart the Possibilities
@@ -199,7 +199,6 @@ Epoca
 1 Hourglass of Ages
 1 Pax Valley Wyvern
 1 Oguth of Mnem
-1 Young Adventurer
 1 Arbiter's Familiar
 1 Rune of Antiquity
 1 Deny
@@ -221,6 +220,8 @@ Epoca
 1 Priest of the Forge
 1 Arbiter's Foundry
 1 Goblin Smuggler
+1 The Great Factory
+1 Automaton Conjuration
 
 Zelor
 1 Amnesia

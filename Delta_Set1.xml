@@ -2614,6 +2614,10 @@
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Lure%20into%20Danger.png">Del1</set>
     </card>
     <card>
+        <name>Mad Scientist</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Mad%20Scientist.png">Del1</set>
+    </card>
+    <card>
         <name>Madman</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Madman.png">Del1</set>
     </card>
@@ -5152,6 +5156,10 @@
     <card>
         <name>Zoggir's Directive</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Zoggir's%20Directive.png">Del1</set>
+    </card>
+    <card>
+        <name>Zombie Bait</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Zombie%20Bait.png">Del1</set>
     </card>
     <card>
         <name>Zombie General</name>
