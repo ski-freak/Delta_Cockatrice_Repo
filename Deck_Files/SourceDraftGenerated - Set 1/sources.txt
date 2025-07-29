@@ -49,6 +49,9 @@
 1 Guile
 1 Arcane Sanctum
 1 Haunted Residence
+1 Memory Wraith
+1 Eudoxia Unshackled
+1 Void Blast
 
 Eminus
 1 Righteous Edict
@@ -98,6 +101,9 @@ Eminus
 1 Cliffside Village
 1 Pax Nova Farmland
 1 Gregory
+1 Forgotten Knight
+1 Everyone Forgets
+1 Champion's Crown
 
 Materia
 1 Watch Bureaucrat
@@ -106,11 +112,9 @@ Materia
 1 Sudden Drop
 1 Sinkhole
 1 Worldly Scribe
-1 Hired Hands
 1 Siphon Strength
 1 Lekvian Vampire
 1 Rugged Outlander
-1 Scribe Tactician
 1 Prepared Scribe
 1 Rosilie D'Avron
 1 Lost in The Borderwood
@@ -130,6 +134,7 @@ Materia
 1 Clockwork Soldier
 1 Evasive Scribe
 1 Fortress Automaton
+1 Glyph of Survival
 1 Sorvald's Insight
 1 Healing Potion
 1 Devastating Landslide
@@ -157,6 +162,9 @@ Materia
 1 Momentus Expedition
 1 Desolate Roads
 1 John
+1 Remove from History
+1 Final Stand
+1 Ritual of the Seven
 
 Epoca
 1 Scrap Compactor
@@ -169,13 +177,9 @@ Epoca
 1 Animate
 1 Knight of the Coin
 1 Gift of Life
-1 Centrifuge
 1 Stronghold Dispatch
-1 Underground Station
 1 Condescend
 1 Futuresight Ritual
-1 Clockwork Assembly
-1 Golem Nexus
 1 Remake
 1 Will o' the Wisp
 1 Squelch
@@ -184,12 +188,8 @@ Epoca
 1 Pale Sun Initiate
 1 Decode the Runes
 1 Seasoned Arbiter
-1 Sputtering Conduit
-1 Hindsight Crystal
 1 Overcharged Circuit
 1 Energy Cell
-1 Whirring Contraption
-1 Leyline Conduit
 1 Chart the Possibilities
 1 Interrupt
 1 Annul
@@ -202,16 +202,13 @@ Epoca
 1 Oguth of Mnem
 1 Young Adventurer
 1 Arbiter's Familiar
-1 Aton Excavation
 1 Rune of Antiquity
-1 Expedition Leader
-1 Outlander's Familiar
+1 Deny
 1 Oana's Divination
 1 Restore Order
 1 Return to Dust
 1 Scour the Ruins
 1 Reserved Scholar
-1 Mirage Glyph
 1 Storm Rune
 1 Glyph of Warding
 1 Outlands Cleric
@@ -219,6 +216,12 @@ Epoca
 1 Ancient Grounds
 1 Lhorish, Nightmare Tendril
 1 Kevin
+1 Forbidden Knowledge
+1 Tundra Elemental
+1 Shadowy Explosion
+1 Priest of the Forge
+1 Arbiter's Foundry
+1 Goblin Smuggler
 
 Zelor
 1 Amnesia
@@ -227,7 +230,6 @@ Zelor
 1 Thought Extraction
 1 Wizard's Familiar
 1 Battle Training
-1 Set Ablaze
 1 Fireball
 1 Living Lightning
 1 Thunderous Fury
@@ -258,6 +260,7 @@ Zelor
 1 Dream Haven
 1 Dream Jaunt
 1 Omen of Winter
+1 Flame Glyph
 1 Pale Zealot
 1 Amatuer Illusionist
 1 Forsaken Displacer
@@ -277,6 +280,9 @@ Zelor
 1 Pax Nova Battlemage
 1 Call to Arms
 1 Common Nightmare
+1 Astral Speculation
+1 Righteous Fury
+1 Mind Demolition
 
 Talentus
 1 Crippling Shot
@@ -338,6 +344,9 @@ Talentus
 1 Midnight Duel
 1 Legion's Forge
 1 Marla's Tavern
+1 Ogre Arbiter
+1 Avatar of Zoggir
+1 Expert Navigator
 
 Deitas
 1 Oln's Binding
@@ -362,7 +371,6 @@ Deitas
 1 Beseech the Gods
 1 Healing Amulet
 1 Doomed Prophet
-1 Spiritual Awakening
 1 Spark of Divinity
 1 Possessed Sycophant
 1 Void Cleric
@@ -391,4 +399,9 @@ Deitas
 1 Eye for an Eye
 1 Wizened Cleric
 1 Temple of Rebirth
-1 Mysterious Cemetery"
+1 Mysterious Cemetery
+1 Molten Image
+1 Orb of Binding
+1 Fabricated Angel
+1 Largeius the Big
+1 The Unfathomable"
