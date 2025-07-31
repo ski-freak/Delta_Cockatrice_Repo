@@ -1,24 +1,24 @@
-2 Portal
-3 Arcane Insight
-3 Void Drake
-3 Giant Bat
-3 Voidsworn Apostle
-3 Rift Whispers
-3 Void Snap
-3 Visions of the End
-3 Unstable Contract
-3 Void Axe
-3 Myrkur Phantom
-3 Recurring Nightmare
-3 Blood Channeler
-3 Avatar of Terror
-3 Encroaching Inevitability
-2 Twist of Fate
-3 Enhance Spell
-3 Manifest Fears
-3 Oruva Scout
-3 Corpse Amalgam
-2 Rift Screech
+2 Haunted Residence
+2 Void Drake
+2 Giant Bat
+2 Voidsworn Apostle
+2 Rift Whispers
+2 Void Snap
+2 Visions of the End
+2 Unstable Contract
+2 Void Axe
+2 Myrkur Phantom
+2 Recurring Nightmare
+2 Blood Channeler
+2 Avatar of Terror
+2 Encroaching Inevitability
+2 Enhance Spell
+2 Manifest Fears
+2 Oruva Scout
+2 Corpse Amalgam
+2 Arcane Insight
+1 Twist of Fate
+1 Rift Screech
 
 3 Aton
 1 Rift

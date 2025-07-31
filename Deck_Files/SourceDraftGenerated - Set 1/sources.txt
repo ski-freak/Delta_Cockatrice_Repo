@@ -187,7 +187,6 @@ Epoca
 1 Decode the Runes
 1 Seasoned Arbiter
 1 Arcane Historian
-1 Overcharged Circuit
 1 Energy Cell
 1 Chart the Possibilities
 1 Interrupt
@@ -222,6 +221,7 @@ Epoca
 1 Goblin Smuggler
 1 The Great Factory
 1 Automaton Conjuration
+1 Mad Scientist
 
 Zelor
 1 Amnesia
@@ -328,6 +328,7 @@ Talentus
 1 Legion Courier
 1 Banner of Lentholm
 1 Deadly Strike
+1 Zombie Bait
 1 Inspired Charge
 1 What You Can Carry
 1 Reorganize

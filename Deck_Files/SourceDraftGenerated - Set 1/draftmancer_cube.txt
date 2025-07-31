@@ -2501,6 +2501,16 @@
         "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Lure into Danger.png"
     },
     {
+        "name": "Mad Scientist",
+        "rarity": "common",
+        "mana_cost": "{2}",
+        "type": "",
+        "subtypes": [
+            ""
+        ],
+        "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Mad Scientist.png"
+    },
+    {
         "name": "Manifest Fears",
         "rarity": "common",
         "mana_cost": "{1}",
@@ -2879,16 +2889,6 @@
             ""
         ],
         "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Outlands Cleric.png"
-    },
-    {
-        "name": "Overcharged Circuit",
-        "rarity": "common",
-        "mana_cost": "{2}",
-        "type": "",
-        "subtypes": [
-            ""
-        ],
-        "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Overcharged Circuit.png"
     },
     {
         "name": "Ozen's Directive",
@@ -4569,6 +4569,16 @@
             ""
         ],
         "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Zoggir's Directive.png"
+    },
+    {
+        "name": "Zombie Bait",
+        "rarity": "common",
+        "mana_cost": "{2}",
+        "type": "",
+        "subtypes": [
+            ""
+        ],
+        "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Zombie Bait.png"
     }
 ]
 [MainSheet()]
@@ -4822,6 +4832,7 @@
 1 Lost Tome
 1 Lost in The Borderwood
 1 Lure into Danger
+1 Mad Scientist
 1 Manifest Fears
 1 Marla's Tavern
 1 Marla, Respected Chef
@@ -4860,7 +4871,6 @@
 1 Oruva Scout
 1 Outlands Brawler
 1 Outlands Cleric
-1 Overcharged Circuit
 1 Ozen's Directive
 1 Ozen's Faithful
 1 Ozen's Fury
@@ -5029,3 +5039,4 @@
 1 Yeo
 1 Young Dragon Spider
 1 Zoggir's Directive
+1 Zombie Bait
