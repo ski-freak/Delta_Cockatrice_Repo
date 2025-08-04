@@ -1,14 +1,14 @@
 ---Arca-Zelor
 Vampire's Bite
-Burning Plain Directive
-Rift Fire
+Thunderous Insight
+Pulsating Tablet
 ---Arca-Eminus
-College of Dreams Directive
+Evacuation
 Mind Control
-Recursive Law
----Arca-Deitas
-Pale Mountain Directive
 Pact of Aeons
+---Arca-Deitas
+Moon's Favor
+Necromancer's Will
 Balance the Cosmos
 ---Zelor-Eminus
 Tactical Retreat
@@ -16,15 +16,15 @@ Knight of the Poppy
 Pax Nova Directive
 ---Zelor-Deitas
 Ozen's Directive
-Moon's Favor
+Avatar of Vosderon
 Vosderon's Wrath
 ---Zelor-Epoca
 Patriotic Directive
 Lightning Prophecy
 Unstable Core
 ---Eminus-Deitas
-Inquisitor's Directive
-Imposing Presence
+Soulbomb
+Relic of Control
 Arcane Tower
 ---Eminus-Epoca
 Stronghold Directive
@@ -39,49 +39,49 @@ Veriglas Directive
 Temple Librarian
 Shard of The Mirror
 ---Deitas-Talentus
-Zoggir's Directive
+Desperate Stand
 Fervent Ritual
 Relic Channeler
 ---Deitas-Materia
 Mnem Directive
-Rash Chieftain
+Wizz, Mid Mage
 Anvil of Souls
 ---Epoca-Talentus
-Legion Directive
+Mirror Gateway
 Disciple of Nyka
 Battlefield Engineer
 ---Epoca-Materia
-Twilight Isle Directive
+Twofold Destruction
 Obliterate
 Efficient Arbiter
 ---Epoca-Arca
-Pax Directive
+Presence of the Nightmare
 Corrupted River Spirit
 Rift Herald
 ---Talentus-Materia
-Salt Alliance Directive
+Wild Beast
 Toglu
 Yeo
 ---Talentus-Arca
-Rift Directive
+Read the Future
 Arcane War Cry
 Fractal Prism
 ---Talentus-Zelor
-Wall Directive
+General Akkir
 Legion Pyromancer
 Commander Garis
 ---Materia-Arca
-Skyhaven Directive
+Caged Rift
 Pale Immortal
 Rift Summoning
 ---Materia-Zelor
-Lentholm Directive
+Survivor's Grit
 Bridge Guardian
-Pulsating Tablet
+Tempest Knight
 ---Materia-Eminus
-Old Watch Directive
+Loanweaver
 Master Vennan
-Hunter's Hawk
+Hunter's Companion
 
 
 ---RealEnd

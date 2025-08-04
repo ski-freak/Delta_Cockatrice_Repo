@@ -16,6 +16,7 @@
 1 Absence
 1 Void Snap
 1 Forsaken Dreamweaver
+1 Recursive Law
 1 Void Replication
 1 Voidsworn Apostle
 1 Rift Whispers
@@ -50,6 +51,7 @@
 1 Memory Wraith
 1 Eudoxia Unshackled
 1 Void Blast
+1 Spellhoarder
 
 Eminus
 1 Righteous Edict
@@ -85,7 +87,6 @@ Eminus
 1 Sunblade Knight
 1 Glyph of Summoning
 1 Glyph of Alarm
-1 Tome of Knowledge
 1 Defender of the Gate
 1 Sound the Alarm
 1 Corrupt Chef
@@ -102,6 +103,8 @@ Eminus
 1 Forgotten Knight
 1 Everyone Forgets
 1 Champion's Crown
+1 Arbiter Mechanic
+1 Infused Knight
 
 Materia
 1 Watch Bureaucrat
@@ -114,17 +117,12 @@ Materia
 1 Lekvian Vampire
 1 Rugged Outlander
 1 Prepared Scribe
-1 Rosilie D'Avron
 1 Lost in The Borderwood
 1 Mud Golem
 1 Vexing Scribe
 1 Long-Winded Orator
 1 Councilor Corsovo
 1 Consume Flesh
-1 Assembly Construct
-1 Alliance Beastcaller
-1 Clockwork Guardian
-1 Scrap Technician
 1 Leyline Summoning
 1 Borderwoods Alchemist
 1 Lekvian Butler
@@ -133,14 +131,12 @@ Materia
 1 Evasive Scribe
 1 Fortress Automaton
 1 Glyph of Survival
-1 Sorvald's Insight
 1 Healing Potion
 1 Devastating Landslide
 1 Alliance Berserker
 1 Shield of Earth
 1 Filibuster Specialist
 1 Crackling Hurricane
-1 Ogre of Mnem
 1 Skyhaven Archer
 1 Farmland Defender
 1 Bloodcaster
@@ -159,10 +155,17 @@ Materia
 1 The Borderwoods
 1 Momentus Expedition
 1 Desolate Roads
-1 John
+1 Sorvald's Insight
 1 Remove from History
 1 Final Stand
 1 Ritual of the Seven
+1 Lifeless Walker
+1 Alliance Summoner
+1 Radiation Ray
+1 Summoning Circle
+1 Walking Stones
+1 Radiant Elk
+1 Wildlife Researcher
 
 Epoca
 1 Scrap Compactor
@@ -201,6 +204,7 @@ Epoca
 1 Arbiter's Familiar
 1 Rune of Antiquity
 1 Deny
+1 Supercharge
 1 Oana's Divination
 1 Restore Order
 1 Return to Dust
@@ -292,8 +296,6 @@ Talentus
 1 Tower Thief
 1 Expert Smith
 1 Beloved Chef
-1 Inspiring Banner
-1 Legion Scout
 1 Legion Messenger
 1 Team Up
 1 Lure into Danger
@@ -358,11 +360,9 @@ Deitas
 1 Infected Cleric
 1 Decree of Peace
 1 Reforge in Flame
-1 Mortician
+1 Everlasting Conviction
 1 Undying Duty
-1 Doomsday Prophet
 1 Reawaken in Dream
-1 Devout Healer
 1 Devout Cleric
 1 Stare into the Sun
 1 Elderly Monk
@@ -370,7 +370,6 @@ Deitas
 1 Selfless Cultist
 1 Pale Sun's Influence
 1 Beseech the Gods
-1 Healing Amulet
 1 Doomed Prophet
 1 Spark of Divinity
 1 Possessed Sycophant
@@ -396,7 +395,6 @@ Deitas
 1 Shem's Binding
 1 Brag's Prison
 1 Blessed Harvest
-1 Generous Merchant
 1 Eye for an Eye
 1 Wizened Cleric
 1 Temple of Rebirth
@@ -405,4 +403,11 @@ Deitas
 1 Orb of Binding
 1 Fabricated Angel
 1 Largeius the Big
-1 The Unfathomable"
+1 Tome of Knowledge
+1 Pilgrim
+1 Veriglas Preacher
+1 Veriglas Zelot
+1 Priest of the Veriglas
+1 Veriglas Cleric
+1 Statue of Luglamien
+1 Reflection of Cyrvo"
