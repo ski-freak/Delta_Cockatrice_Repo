@@ -52,7 +52,7 @@ Disciple of Nyka
 Battlefield Engineer
 ---Epoca-Materia
 Twofold Destruction
-Obliterate
+Corvallis, the Law Druid
 Efficient Arbiter
 ---Epoca-Arca
 Presence of the Nightmare
@@ -82,8 +82,3 @@ Tempest Knight
 Loanweaver
 Master Vennan
 Hunter's Companion
-
-
----RealEnd
-
-

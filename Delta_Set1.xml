@@ -938,6 +938,10 @@
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Corrupted%20River%20Spirit.png">Del1</set>
     </card>
     <card>
+        <name>Corvallis, the Law Druid</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Corvallis,%20the%20Law%20Druid.png">Del1</set>
+    </card>
+    <card>
         <name>Cosmic Contemplation</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Cosmic%20Contemplation.png">Del1</set>
     </card>
@@ -1020,6 +1024,10 @@
     <card>
         <name>Currency Conversion</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Currency%20Conversion.png">Del1</set>
+    </card>
+    <card>
+        <name>Cursed Amulet</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Cursed%20Amulet.png">Del1</set>
     </card>
     <card>
         <name>Cursed Eye</name>
@@ -1648,6 +1656,10 @@
     <card>
         <name>Farsight Telescope</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Farsight%20Telescope.png">Del1</set>
+    </card>
+    <card>
+        <name>Farsight</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Farsight.png">Del1</set>
     </card>
     <card>
         <name>Fatal Error</name>
@@ -2722,6 +2734,10 @@
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Meditation.png">Del1</set>
     </card>
     <card>
+        <name>Memento</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Memento.png">Del1</set>
+    </card>
+    <card>
         <name>Memory Failure</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Memory%20Failure.png">Del1</set>
     </card>
@@ -2964,6 +2980,10 @@
     <card>
         <name>Nightfall</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Nightfall.png">Del1</set>
+    </card>
+    <card>
+        <name>Nightmare Vortex</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Nightmare%20Vortex.png">Del1</set>
     </card>
     <card>
         <name>No Rest for the Wicked</name>
@@ -4342,6 +4362,10 @@
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Stall.png">Del1</set>
     </card>
     <card>
+        <name>Stance Shift</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Stance%20Shift.png">Del1</set>
+    </card>
+    <card>
         <name>Standoff</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Standoff.png">Del1</set>
     </card>
@@ -4646,6 +4670,10 @@
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/The%20Great%20Sink.png">Del1</set>
     </card>
     <card>
+        <name>The Inkblood Library</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/The%20Inkblood%20Library.png">Del1</set>
+    </card>
+    <card>
         <name>The Old Watch</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/The%20Old%20Watch.png">Del1</set>
     </card>
@@ -4708,6 +4736,10 @@
     <card>
         <name>Timeline Collapse</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Timeline%20Collapse.png">Del1</set>
+    </card>
+    <card>
+        <name>Timeline Jump</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Timeline%20Jump.png">Del1</set>
     </card>
     <card>
         <name>Timely Fable</name>
@@ -4780,6 +4812,10 @@
     <card>
         <name>Trinket</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Trinket.png">Del1</set>
+    </card>
+    <card>
+        <name>Trinketeer</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Trinketeer.png">Del1</set>
     </card>
     <card>
         <name>Truce</name>
@@ -4860,6 +4896,10 @@
     <card>
         <name>Unknowable Horror</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Unknowable%20Horror.png">Del1</set>
+    </card>
+    <card>
+        <name>Unleash Energy</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Unleash%20Energy.png">Del1</set>
     </card>
     <card>
         <name>Unstable Contract</name>
@@ -5246,6 +5286,10 @@
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Wretched%20Ritual.png">Del1</set>
     </card>
     <card>
+        <name>xyzPax Nova Garrison</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/xyzPax%20Nova%20Garrison.png">Del1</set>
+    </card>
+    <card>
         <name>Yeet</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Yeet.png">Del1</set>
     </card>
@@ -5316,6 +5360,10 @@
     <card>
         <name>Zombieball</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Zombieball.png">Del1</set>
+    </card>
+    <card>
+        <name>zyxUnyielding Blade</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/zyxUnyielding%20Blade.png">Del1</set>
     </card>
     <card>
         <name>[to rename]</name>

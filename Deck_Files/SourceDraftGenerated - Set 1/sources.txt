@@ -52,6 +52,13 @@
 1 Eudoxia Unshackled
 1 Void Blast
 1 Spellhoarder
+1 Pale Prophet Zurani
+1 The Inkblood Library
+1 Nightmare Vortex
+1 Farsight Telescope
+1 Cursed Amulet
+1 Unleash Energy
+1 Fallen Wizard
 
 Eminus
 1 Righteous Edict
@@ -87,6 +94,7 @@ Eminus
 1 Sunblade Knight
 1 Glyph of Summoning
 1 Glyph of Alarm
+1 Farsight
 1 Defender of the Gate
 1 Sound the Alarm
 1 Corrupt Chef
@@ -105,6 +113,13 @@ Eminus
 1 Champion's Crown
 1 Arbiter Mechanic
 1 Infused Knight
+1 Champion of the Book
+1 Combat Wizardry
+1 Unyielding Blade
+1 Stance Shift
+1 Memento
+1 Pax Nova Garrison
+1 Timeline Jump
 
 Materia
 1 Watch Bureaucrat
@@ -131,6 +146,7 @@ Materia
 1 Evasive Scribe
 1 Fortress Automaton
 1 Glyph of Survival
+1 Vanish
 1 Healing Potion
 1 Devastating Landslide
 1 Alliance Berserker
@@ -191,7 +207,7 @@ Epoca
 1 Seasoned Arbiter
 1 Arcane Historian
 1 Energy Cell
-1 Chart the Possibilities
+1 Trinketeer
 1 Interrupt
 1 Annul
 1 Counter
@@ -226,6 +242,8 @@ Epoca
 1 The Great Factory
 1 Automaton Conjuration
 1 Mad Scientist
+1 Glugg, the Resourceful
+1 Book of Brag
 
 Zelor
 1 Amnesia
@@ -292,7 +310,6 @@ Talentus
 1 Crippling Shot
 1 Reserve Tactics
 1 Young Dragon Spider
-1 Legion Sergeant
 1 Tower Thief
 1 Expert Smith
 1 Beloved Chef
