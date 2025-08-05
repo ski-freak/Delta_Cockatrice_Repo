@@ -626,6 +626,10 @@
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Bonfire.png">Del1</set>
     </card>
     <card>
+        <name>Book of Brag</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Book%20of%20Brag.png">Del1</set>
+    </card>
+    <card>
         <name>Book of Negation</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Book%20of%20Negation.png">Del1</set>
     </card>
