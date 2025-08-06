@@ -2461,14 +2461,14 @@
         "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Logistics Expert.png"
     },
     {
-        "name": "Logol of The Mirror",
+        "name": "Logol of the Mirror",
         "rarity": "common",
-        "mana_cost": "",
+        "mana_cost": "{3}",
         "type": "",
         "subtypes": [
             ""
         ],
-        "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Logol of The Mirror.png"
+        "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Logol of the Mirror.png"
     },
     {
         "name": "Long-Winded Orator",
@@ -5048,7 +5048,7 @@
 1 Living Relic
 1 Loanweaver
 1 Logistics Expert
-1 Logol of The Mirror
+1 Logol of the Mirror
 1 Long-Winded Orator
 1 Lopsided Truce
 1 Lost Tome
