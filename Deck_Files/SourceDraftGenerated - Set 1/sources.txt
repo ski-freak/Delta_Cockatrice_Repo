@@ -1,4 +1,4 @@
-"Arca
+Arca
 1 Benevolent Nightmare
 1 Hwain's Disciple
 1 Void Axe
@@ -51,7 +51,6 @@
 1 Memory Wraith
 1 Eudoxia Unshackled
 1 Void Blast
-1 Spellhoarder
 1 Pale Prophet Zurani
 1 The Inkblood Library
 1 Nightmare Vortex
@@ -149,7 +148,6 @@ Materia
 1 Vanish
 1 Healing Potion
 1 Devastating Landslide
-1 Alliance Berserker
 1 Shield of Earth
 1 Filibuster Specialist
 1 Crackling Hurricane
@@ -427,4 +425,4 @@ Deitas
 1 Priest of the Veriglas
 1 Veriglas Cleric
 1 Statue of Luglamien
-1 Reflection of Cyrvo"
+1 Reflection of Cyrvo

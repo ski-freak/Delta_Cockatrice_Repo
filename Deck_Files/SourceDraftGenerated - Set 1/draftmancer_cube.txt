@@ -31,16 +31,6 @@
         "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Advanced Tactics.png"
     },
     {
-        "name": "Alliance Berserker",
-        "rarity": "common",
-        "mana_cost": "{3}",
-        "type": "",
-        "subtypes": [
-            ""
-        ],
-        "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Alliance Berserker.png"
-    },
-    {
         "name": "Alliance General",
         "rarity": "common",
         "mana_cost": "{5}",
@@ -93,7 +83,7 @@
     {
         "name": "Amnesia",
         "rarity": "common",
-        "mana_cost": "{3}",
+        "mana_cost": "{2}",
         "type": "",
         "subtypes": [
             ""
@@ -813,7 +803,7 @@
     {
         "name": "Consume Flesh",
         "rarity": "common",
-        "mana_cost": "{4}",
+        "mana_cost": "{3}",
         "type": "",
         "subtypes": [
             ""
@@ -1053,7 +1043,7 @@
     {
         "name": "Devastating Landslide",
         "rarity": "common",
-        "mana_cost": "{6}",
+        "mana_cost": "{5}",
         "type": "",
         "subtypes": [
             ""
@@ -1193,7 +1183,7 @@
     {
         "name": "Earthquake",
         "rarity": "common",
-        "mana_cost": "{5}",
+        "mana_cost": "{3}",
         "type": "",
         "subtypes": [
             ""
@@ -1293,7 +1283,7 @@
     {
         "name": "Eruption",
         "rarity": "common",
-        "mana_cost": "{5}",
+        "mana_cost": "{3}",
         "type": "",
         "subtypes": [
             ""
@@ -2053,7 +2043,7 @@
     {
         "name": "Inquisitor's Cage-Charm",
         "rarity": "common",
-        "mana_cost": "{5}",
+        "mana_cost": "{4}",
         "type": "",
         "subtypes": [
             ""
@@ -2523,7 +2513,7 @@
     {
         "name": "Mad Scientist",
         "rarity": "common",
-        "mana_cost": "{2}",
+        "mana_cost": "{1}",
         "type": "",
         "subtypes": [
             ""
@@ -3333,7 +3323,7 @@
     {
         "name": "Remove from History",
         "rarity": "common",
-        "mana_cost": "{2}",
+        "mana_cost": "{1}",
         "type": "",
         "subtypes": [
             ""
@@ -3353,7 +3343,7 @@
     {
         "name": "Reprise the Past",
         "rarity": "common",
-        "mana_cost": "{1}",
+        "mana_cost": "{2}",
         "type": "",
         "subtypes": [
             ""
@@ -3423,7 +3413,7 @@
     {
         "name": "Return to Dust",
         "rarity": "common",
-        "mana_cost": "{7}",
+        "mana_cost": "{6}",
         "type": "",
         "subtypes": [
             ""
@@ -3869,16 +3859,6 @@
             ""
         ],
         "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Spectral Agent.png"
-    },
-    {
-        "name": "Spellhoarder",
-        "rarity": "common",
-        "mana_cost": "{2}",
-        "type": "",
-        "subtypes": [
-            ""
-        ],
-        "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Spellhoarder.png"
     },
     {
         "name": "Spirit Guide",
@@ -4693,7 +4673,7 @@
     {
         "name": "Wildfire",
         "rarity": "common",
-        "mana_cost": "{3}",
+        "mana_cost": "{2}",
         "type": "",
         "subtypes": [
             ""
@@ -4805,7 +4785,6 @@
 1 Absence
 1 Adapt
 1 Advanced Tactics
-1 Alliance Berserker
 1 Alliance General
 1 Alliance Pyromancer
 1 Alliance Summoner
@@ -5189,7 +5168,6 @@
 1 Sound the Alarm
 1 Spark of Divinity
 1 Spectral Agent
-1 Spellhoarder
 1 Spirit Guide
 1 Squelch
 1 Stall
