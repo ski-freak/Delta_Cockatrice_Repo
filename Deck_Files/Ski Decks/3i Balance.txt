@@ -1,31 +1,47 @@
 4 Nameless Shrine
 4 Arca Zelor Core
 3 Arcane Insight
-1 Divergent Dreams
-1 Fireball
 2 Wildfire
 3 Vosderon's Wrath
-3 Ozen's Directive
-3 Thought Extraction
+2 Ozen's Directive
+2 Thought Extraction
 3 Balance the Cosmos
 3 Vampire's Bite
 3 Giant Bat
-3 Rift Surge
-3 Doomsday Prophet
-3 Riftcursed Farmer
-1 Illusory Chains
 2 Void Snap
 3 Encroaching Inevitability
-3 Rift Whispers
-2 Manifest Fears
-2 Burning Plain Directive
 3 Stochastic Ignition
+3 Amnesia
+3 The Inkblood Library
 3 Forsaken Dreamweaver
+3 Avatar of Vosderon
+3 Final Stand
+2 Astral Speculation
+1 Illusory Chains
+1 Knight of the Book
+1 Twist of Fate
+3 Rift Cache
 
+1 Golem
+1 Night Horror
+1 Law-Mage
+1 Survivor
+1 Blood Zombie
+1 Knight of Redemption
+1 Forgotten Relic
+1 Rift
+1 Village
+1 Grove
+1 Ruins
+1 Dreamscape
+1 Outpost
+1 Shrine
+1 Helpful Automaton
+1 The Old Watch
 1 The College of Dreams
 1 Aton
+1 Skyhaven
+1 Pax Nova
+1 Lentholm
 1 Deitas Start
-1 Rift
-1 Shrine
-1 Dreamscape
-4 Night Horror
+1 Divergent Paths
