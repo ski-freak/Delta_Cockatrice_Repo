@@ -21,7 +21,7 @@ Vosderon's Wrath
 ---Zelor-Epoca
 Patriotic Directive
 Lightning Prophecy
-Unstable Core
+Consume Thoughts
 ---Eminus-Deitas
 Soulbomb
 Relic of Control
@@ -82,3 +82,4 @@ Tempest Knight
 Loanweaver
 Master Vennan
 Hunter's Companion
+

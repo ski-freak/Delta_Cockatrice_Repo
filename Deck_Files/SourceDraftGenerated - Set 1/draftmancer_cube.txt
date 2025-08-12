@@ -801,6 +801,16 @@
         "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Consume Flesh.png"
     },
     {
+        "name": "Consume Thoughts",
+        "rarity": "common",
+        "mana_cost": "{2}",
+        "type": "",
+        "subtypes": [
+            ""
+        ],
+        "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Consume Thoughts.png"
+    },
+    {
         "name": "Corpse Amalgam",
         "rarity": "common",
         "mana_cost": "{6}",
@@ -4872,6 +4882,7 @@
 1 Conceal
 1 Condescend
 1 Consume Flesh
+1 Consume Thoughts
 1 Corpse Amalgam
 1 Corrupt Chef
 1 Corrupted River Spirit
@@ -5228,7 +5239,7 @@
 1 Undying Duty
 1 Unleash Energy
 1 Unstable Contract
-2 Unstable Core
+1 Unstable Core
 1 Unstable Staff
 1 Untamed Wilds
 1 Untimely Investigation
