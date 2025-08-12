@@ -119,6 +119,7 @@ Eminus
 1 Memento
 1 Pax Nova Garrison
 1 Timeline Jump
+1 Knight's Path
 
 Materia
 1 Watch Bureaucrat
@@ -206,6 +207,7 @@ Epoca
 1 Arcane Historian
 1 Energy Cell
 1 Trinketeer
+1 Tariff
 1 Interrupt
 1 Annul
 1 Counter
@@ -236,7 +238,6 @@ Epoca
 1 Shadowy Explosion
 1 Priest of the Forge
 1 Arbiter's Foundry
-1 Goblin Smuggler
 1 The Great Factory
 1 Automaton Conjuration
 1 Mad Scientist
@@ -280,7 +281,7 @@ Zelor
 1 Dream Haven
 1 Dream Jaunt
 1 Omen of Winter
-1 Flame Glyph
+1 Unstable Core
 1 Pale Zealot
 1 Amatuer Illusionist
 1 Forsaken Displacer
@@ -303,6 +304,7 @@ Zelor
 1 Astral Speculation
 1 Righteous Fury
 1 Mind Demolition
+1 Replication Incantation
 
 Talentus
 1 Crippling Shot
@@ -326,7 +328,7 @@ Talentus
 1 Supply Logistics
 1 Legion Rider
 1 Ancient Swordsmaster
-1 Adapt
+1 Force Field
 1 Legion Drill Sergeant
 1 Investigate the Scene
 1 Combat Necromancer

@@ -11,16 +11,6 @@
         "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Absence.png"
     },
     {
-        "name": "Adapt",
-        "rarity": "common",
-        "mana_cost": "{1}",
-        "type": "",
-        "subtypes": [
-            ""
-        ],
-        "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Adapt.png"
-    },
-    {
         "name": "Advanced Tactics",
         "rarity": "common",
         "mana_cost": "{1}",
@@ -453,7 +443,7 @@
     {
         "name": "Battlefield Engineer",
         "rarity": "common",
-        "mana_cost": "{2}",
+        "mana_cost": "{3}",
         "type": "",
         "subtypes": [
             ""
@@ -843,7 +833,7 @@
     {
         "name": "Corvallis, the Law Druid",
         "rarity": "common",
-        "mana_cost": "{3}",
+        "mana_cost": "{4}",
         "type": "",
         "subtypes": [
             ""
@@ -1193,7 +1183,7 @@
     {
         "name": "Efficient Arbiter",
         "rarity": "common",
-        "mana_cost": "{2}",
+        "mana_cost": "{3}",
         "type": "",
         "subtypes": [
             ""
@@ -1483,7 +1473,7 @@
     {
         "name": "Farsight Telescope",
         "rarity": "common",
-        "mana_cost": "{1}",
+        "mana_cost": "{3}",
         "type": "",
         "subtypes": [
             ""
@@ -1561,16 +1551,6 @@
         "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Fireball.png"
     },
     {
-        "name": "Flame Glyph",
-        "rarity": "common",
-        "mana_cost": "{2}",
-        "type": "",
-        "subtypes": [
-            ""
-        ],
-        "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Flame Glyph.png"
-    },
-    {
         "name": "Flame Oracle",
         "rarity": "common",
         "mana_cost": "{1}",
@@ -1599,6 +1579,16 @@
             ""
         ],
         "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Forbidden Knowledge.png"
+    },
+    {
+        "name": "Force Field",
+        "rarity": "common",
+        "mana_cost": "{2}",
+        "type": "",
+        "subtypes": [
+            ""
+        ],
+        "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Force Field.png"
     },
     {
         "name": "Foretold Cataclysm",
@@ -1879,16 +1869,6 @@
             ""
         ],
         "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Goblin Sharptooth.png"
-    },
-    {
-        "name": "Goblin Smuggler",
-        "rarity": "common",
-        "mana_cost": "{3}",
-        "type": "",
-        "subtypes": [
-            ""
-        ],
-        "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Goblin Smuggler.png"
     },
     {
         "name": "Gregory",
@@ -2179,6 +2159,16 @@
             ""
         ],
         "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Knight's Glyph.png"
+    },
+    {
+        "name": "Knight's Path",
+        "rarity": "common",
+        "mana_cost": "{1}",
+        "type": "",
+        "subtypes": [
+            ""
+        ],
+        "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Knight's Path.png"
     },
     {
         "name": "Knightly Mentor",
@@ -2853,7 +2843,7 @@
     {
         "name": "Omen of Winter",
         "rarity": "common",
-        "mana_cost": "{3}",
+        "mana_cost": "{2}",
         "type": "",
         "subtypes": [
             ""
@@ -3339,6 +3329,16 @@
             ""
         ],
         "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Reorganize.png"
+    },
+    {
+        "name": "Replication Incantation",
+        "rarity": "common",
+        "mana_cost": "{3}",
+        "type": "",
+        "subtypes": [
+            ""
+        ],
+        "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Replication Incantation.png"
     },
     {
         "name": "Reprise the Past",
@@ -3963,7 +3963,7 @@
     {
         "name": "Stronghold Dispatch",
         "rarity": "common",
-        "mana_cost": "{2}",
+        "mana_cost": "{3}",
         "type": "",
         "subtypes": [
             ""
@@ -4013,7 +4013,7 @@
     {
         "name": "Supercharge",
         "rarity": "common",
-        "mana_cost": "{1}",
+        "mana_cost": "{2}",
         "type": "",
         "subtypes": [
             ""
@@ -4111,6 +4111,16 @@
         "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Tactical Retreat.png"
     },
     {
+        "name": "Tariff",
+        "rarity": "common",
+        "mana_cost": "{1}",
+        "type": "",
+        "subtypes": [
+            ""
+        ],
+        "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Tariff.png"
+    },
+    {
         "name": "Team Up",
         "rarity": "common",
         "mana_cost": "{2}",
@@ -4173,7 +4183,7 @@
     {
         "name": "The Inkblood Library",
         "rarity": "common",
-        "mana_cost": "{1}",
+        "mana_cost": "{3}",
         "type": "",
         "subtypes": [
             ""
@@ -4363,7 +4373,7 @@
     {
         "name": "Unstable Staff",
         "rarity": "common",
-        "mana_cost": "{1}",
+        "mana_cost": "{2}",
         "type": "",
         "subtypes": [
             ""
@@ -4783,7 +4793,6 @@
 ]
 [MainSheet()]
 1 Absence
-1 Adapt
 1 Advanced Tactics
 1 Alliance General
 1 Alliance Pyromancer
@@ -4938,10 +4947,10 @@
 1 Final Stand
 1 Fire Shield
 1 Fireball
-1 Flame Glyph
 1 Flame Oracle
 1 Flaming Berserker
 1 Forbidden Knowledge
+1 Force Field
 1 Foretold Cataclysm
 1 Forgotten Knight
 1 Forsaken Chanter
@@ -4970,7 +4979,6 @@
 1 Glyph of Survival
 1 Glyph of Warding
 1 Goblin Sharptooth
-1 Goblin Smuggler
 1 Gregory
 1 Guardian of Nature
 1 Guile
@@ -5000,6 +5008,7 @@
 1 Knight of the Wheat
 1 Knight's Familiar
 1 Knight's Glyph
+1 Knight's Path
 1 Knightly Mentor
 1 Knightly Reinforcements
 1 Largeius the Big
@@ -5116,6 +5125,7 @@
 1 Remake
 1 Remove from History
 1 Reorganize
+1 Replication Incantation
 1 Reprise the Past
 1 Reserve Tactics
 1 Reserved Scholar
@@ -5193,6 +5203,7 @@
 1 Symbol of Vosderon
 1 Ta's Sight
 1 Tactical Retreat
+1 Tariff
 1 Team Up
 1 Tempest Knight
 1 Temple Librarian
@@ -5217,7 +5228,7 @@
 1 Undying Duty
 1 Unleash Energy
 1 Unstable Contract
-1 Unstable Core
+2 Unstable Core
 1 Unstable Staff
 1 Untamed Wilds
 1 Untimely Investigation

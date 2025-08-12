@@ -918,6 +918,10 @@
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Consume%20Flesh.png">Del1</set>
     </card>
     <card>
+        <name>Consume Thoughts</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Consume%20Thoughts.png">Del1</set>
+    </card>
+    <card>
         <name>Corpse Amalgam</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Corpse%20Amalgam.png">Del1</set>
     </card>
@@ -1528,6 +1532,10 @@
     <card>
         <name>Eudoxia Unshackled</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Eudoxia%20Unshackled.png">Del1</set>
+    </card>
+    <card>
+        <name>Eudoxia's Will</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Eudoxia's%20Will.png">Del1</set>
     </card>
     <card>
         <name>Evacuation</name>
@@ -2420,6 +2428,10 @@
     <card>
         <name>Knight's Glyph</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Knight's%20Glyph.png">Del1</set>
+    </card>
+    <card>
+        <name>Knight's Path</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Knight's%20Path.png">Del1</set>
     </card>
     <card>
         <name>Knightly Mentor</name>
@@ -3682,6 +3694,10 @@
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Reorganize.png">Del1</set>
     </card>
     <card>
+        <name>Replication Incantation</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Replication%20Incantation.png">Del1</set>
+    </card>
+    <card>
         <name>Reprise the Past</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Reprise%20the%20Past.png">Del1</set>
     </card>
@@ -4584,6 +4600,10 @@
     <card>
         <name>Talent Snatcher</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Talent%20Snatcher.png">Del1</set>
+    </card>
+    <card>
+        <name>Tariff</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Tariff.png">Del1</set>
     </card>
     <card>
         <name>Team Up</name>

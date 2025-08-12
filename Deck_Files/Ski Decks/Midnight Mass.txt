@@ -9,16 +9,15 @@
 1 Eudoxia Unshackled
 3 Arcane Amalgam
 3 Blessed Harvest
-2 Reforge in Flame
-2 Divine Intervention
-3 Rift Herald
+3 Reforge in Flame
 1 Void Snap
 3 Riftcursed Farmer
 3 Spark of Divinity
-3 Beseech the Gods
-2 Cosmic Justice
 3 Pact of Annihilation
-7 Nameless Shrine
+8 Nameless Shrine
+3 Rift Screech
+3 Void Drake
+2 Giant Bat
 
 1 Golem
 1 Night Horror
