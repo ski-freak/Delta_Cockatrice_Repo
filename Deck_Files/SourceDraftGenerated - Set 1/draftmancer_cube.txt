@@ -1603,7 +1603,7 @@
     {
         "name": "Foretold Cataclysm",
         "rarity": "common",
-        "mana_cost": "{2}",
+        "mana_cost": "{3}",
         "type": "",
         "subtypes": [
             ""

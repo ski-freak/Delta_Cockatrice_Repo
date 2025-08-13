@@ -220,7 +220,6 @@ Epoca
 1 Arbiter's Familiar
 1 Rune of Antiquity
 1 Deny
-1 Supercharge
 1 Oana's Divination
 1 Restore Order
 1 Return to Dust
@@ -327,6 +326,7 @@ Talentus
 1 Revenants of War
 1 Supply Logistics
 1 Legion Rider
+1 Supercharge
 1 Ancient Swordsmaster
 1 Force Field
 1 Legion Drill Sergeant
