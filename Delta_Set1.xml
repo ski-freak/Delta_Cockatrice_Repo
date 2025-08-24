@@ -10,6 +10,10 @@
 </sets>
 <cards>
     <card>
+        <name>--- Scrolls</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/---%20Scrolls.png">Del1</set>
+    </card>
+    <card>
         <name>4 Dimensional Clock</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/4%20Dimensional%20Clock.png">Del1</set>
     </card>
@@ -192,6 +196,10 @@
     <card>
         <name>Arbiter Captain</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Arbiter%20Captain.png">Del1</set>
+    </card>
+    <card>
+        <name>Arbiter Convergence</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Arbiter%20Convergence.png">Del1</set>
     </card>
     <card>
         <name>Arbiter Fabricator</name>
@@ -4920,6 +4928,10 @@
     <card>
         <name>Unleash Energy</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Unleash%20Energy.png">Del1</set>
+    </card>
+    <card>
+        <name>Unrelenting Flames</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Unrelenting%20Flames.png">Del1</set>
     </card>
     <card>
         <name>Unstable Contract</name>
