@@ -58,6 +58,8 @@
 1 Cursed Amulet
 1 Unleash Energy
 1 Fallen Wizard
+1 Void Spike
+1 Rift's Grasp
 
 Eminus
 1 Righteous Edict
@@ -101,7 +103,7 @@ Eminus
 1 Slow Magic
 1 Beckon Home
 1 Wolkk Twinspear
-1 Arcane Archer
+1 Arbiter Convergence
 1 Steel Resolve
 1 Prodigal Champion
 1 Cliffside Village
@@ -120,6 +122,8 @@ Eminus
 1 Pax Nova Garrison
 1 Timeline Jump
 1 Knight's Path
+1 Banishment
+1 Untimely Investigation
 
 Materia
 1 Watch Bureaucrat
@@ -181,6 +185,8 @@ Materia
 1 Walking Stones
 1 Radiant Elk
 1 Wildlife Researcher
+1 Vaporize
+1 Sinkhole
 
 Epoca
 1 Scrap Compactor
@@ -242,6 +248,8 @@ Epoca
 1 Mad Scientist
 1 Glugg, the Resourceful
 1 Book of Brag
+1 Counter
+1 Condescend
 
 Zelor
 1 Amnesia
@@ -304,6 +312,9 @@ Zelor
 1 Righteous Fury
 1 Mind Demolition
 1 Replication Incantation
+1 Unrelenting Flames
+1 Fireball
+1 Cleave
 
 Talentus
 1 Crippling Shot
@@ -367,8 +378,12 @@ Talentus
 1 Ogre Arbiter
 1 Avatar of Zoggir
 1 Expert Navigator
+1 Deadly Strike
+1 Crippling Shot
 
 Deitas
+1 Oln's Binding
+1 Symbol of Hwain
 1 Oln's Binding
 1 Symbol of Hwain
 1 Festering Penitent

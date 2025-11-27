@@ -161,6 +161,16 @@
         "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Apprentice Arbiter.png"
     },
     {
+        "name": "Arbiter Convergence",
+        "rarity": "common",
+        "mana_cost": "{3}",
+        "type": "",
+        "subtypes": [
+            ""
+        ],
+        "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Arbiter Convergence.png"
+    },
+    {
         "name": "Arbiter Marshal",
         "rarity": "common",
         "mana_cost": "{3}",
@@ -209,16 +219,6 @@
             ""
         ],
         "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Arcane Amalgam.png"
-    },
-    {
-        "name": "Arcane Archer",
-        "rarity": "common",
-        "mana_cost": "{2}",
-        "type": "",
-        "subtypes": [
-            ""
-        ],
-        "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Arcane Archer.png"
     },
     {
         "name": "Arcane Historian",
@@ -2943,7 +2943,7 @@
     {
         "name": "Pact of Annihilation",
         "rarity": "common",
-        "mana_cost": "{3}",
+        "mana_cost": "{1}",
         "type": "",
         "subtypes": [
             ""
@@ -3603,7 +3603,7 @@
     {
         "name": "Rune of Antiquity",
         "rarity": "common",
-        "mana_cost": "{2}",
+        "mana_cost": "{1}",
         "type": "",
         "subtypes": [
             ""
@@ -3633,7 +3633,7 @@
     {
         "name": "Scramble Magic",
         "rarity": "common",
-        "mana_cost": "{3}",
+        "mana_cost": "{4}",
         "type": "",
         "subtypes": [
             ""
@@ -4361,6 +4361,16 @@
         "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Unleash Energy.png"
     },
     {
+        "name": "Unrelenting Flames",
+        "rarity": "common",
+        "mana_cost": "{5}",
+        "type": "",
+        "subtypes": [
+            ""
+        ],
+        "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Unrelenting Flames.png"
+    },
+    {
         "name": "Unstable Contract",
         "rarity": "common",
         "mana_cost": "{1}",
@@ -4818,12 +4828,12 @@
 1 Antimagic Haze
 1 Anvil of Souls
 1 Apprentice Arbiter
+1 Arbiter Convergence
 1 Arbiter Marshal
 1 Arbiter Mechanic
 1 Arbiter's Familiar
 1 Arbiter's Foundry
 1 Arcane Amalgam
-1 Arcane Archer
 1 Arcane Historian
 1 Arcane Insight
 1 Arcane Revenant
@@ -4841,7 +4851,7 @@
 1 Avatar of Zoggir
 1 Avatar of the Winds
 1 Balance the Cosmos
-1 Banishment
+2 Banishment
 1 Banner of Lentholm
 1 Battle Plans
 1 Battle Rage
@@ -4869,7 +4879,7 @@
 1 Cemetery Rift
 1 Champion of the Book
 1 Champion's Crown
-1 Cleave
+2 Cleave
 1 Cleric of Hwain
 1 Cliffside Village
 1 Cloaked Inquisitor
@@ -4880,7 +4890,7 @@
 1 Commander Garis
 1 Common Nightmare
 1 Conceal
-1 Condescend
+2 Condescend
 1 Consume Flesh
 1 Consume Thoughts
 1 Corpse Amalgam
@@ -4889,13 +4899,13 @@
 1 Corvallis, the Law Druid
 1 Cosmic Justice
 1 Councilor Corsovo
-1 Counter
+2 Counter
 1 Crackling Hurricane
-1 Crippling Shot
+2 Crippling Shot
 1 Cunning Arbiter
 1 Cursed Amulet
 1 Dark Apostle
-1 Deadly Strike
+2 Deadly Strike
 1 Decode the Runes
 1 Decree of Peace
 1 Defender of the Gate
@@ -4957,7 +4967,7 @@
 1 Filibuster Specialist
 1 Final Stand
 1 Fire Shield
-1 Fireball
+2 Fireball
 1 Flame Oracle
 1 Flaming Berserker
 1 Forbidden Knowledge
@@ -5086,7 +5096,7 @@
 1 Ogre Arbiter
 1 Oguth of Mnem
 1 Old-World Scholar
-1 Oln's Binding
+2 Oln's Binding
 1 Omen of Winter
 1 Orb of Binding
 1 Oruva Scout
@@ -5154,7 +5164,7 @@
 1 Rift Summoning
 1 Rift Surge
 1 Rift Whispers
-1 Rift's Grasp
+2 Rift's Grasp
 1 Riftcursed Farmer
 1 Righteous Edict
 1 Righteous Fury
@@ -5177,7 +5187,7 @@
 1 Shard of The Mirror
 1 Shem's Binding
 1 Shield of Earth
-1 Sinkhole
+2 Sinkhole
 1 Siphon Strength
 1 Skyhaven Archer
 1 Sleep Eater
@@ -5210,7 +5220,7 @@
 1 Survivor Knight
 1 Survivor's Grit
 1 Swift Rescue
-1 Symbol of Hwain
+2 Symbol of Hwain
 1 Symbol of Vosderon
 1 Ta's Sight
 1 Tactical Retreat
@@ -5238,15 +5248,16 @@
 1 Twofold Destruction
 1 Undying Duty
 1 Unleash Energy
+1 Unrelenting Flames
 1 Unstable Contract
 1 Unstable Core
 1 Unstable Staff
 1 Untamed Wilds
-1 Untimely Investigation
+2 Untimely Investigation
 1 Unyielding Blade
 1 Vampire's Bite
 1 Vanish
-1 Vaporize
+2 Vaporize
 1 Veriglas Cleric
 1 Veriglas Directive
 1 Veriglas Preacher
@@ -5259,7 +5270,7 @@
 1 Void Drake
 1 Void Replication
 1 Void Snap
-1 Void Spike
+2 Void Spike
 1 Voidsworn Apostle
 1 Volcanic Cliffs
 1 Vosderon's Wrath

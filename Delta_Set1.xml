@@ -3110,6 +3110,10 @@
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Old%20Watchtower.png">Del1</set>
     </card>
     <card>
+        <name>OLD Whirring Contraption</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/OLD%20Whirring%20Contraption.png">Del1</set>
+    </card>
+    <card>
         <name>Old-World Scholar</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Old-World%20Scholar.png">Del1</set>
     </card>
@@ -3838,6 +3842,10 @@
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Rite%20of%20Death.png">Del1</set>
     </card>
     <card>
+        <name>Ritual of Consumption</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Ritual%20of%20Consumption.png">Del1</set>
+    </card>
+    <card>
         <name>Ritual of the Seven</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Ritual%20of%20the%20Seven.png">Del1</set>
     </card>
@@ -4422,6 +4430,10 @@
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Storm%20Rune.png">Del1</set>
     </card>
     <card>
+        <name>Stratagem</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Stratagem.png">Del1</set>
+    </card>
+    <card>
         <name>Strategize</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Strategize.png">Del1</set>
     </card>
@@ -4656,6 +4668,10 @@
     <card>
         <name>Terrifying Vision</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Terrifying%20Vision.png">Del1</set>
+    </card>
+    <card>
+        <name>The Beancounter</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/The%20Beancounter.png">Del1</set>
     </card>
     <card>
         <name>The Borderwoods</name>
