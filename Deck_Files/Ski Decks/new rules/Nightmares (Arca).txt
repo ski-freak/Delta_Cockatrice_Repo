@@ -21,6 +21,7 @@
 1 Rift Screech
 20 Portal
 
+1 Atnia
 1 Portal
 1 Rift
 3 Night Horror

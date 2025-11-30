@@ -159,7 +159,6 @@ Materia
 1 Skyhaven Archer
 1 Farmland Defender
 1 Bloodcaster
-1 Eager Explorer
 1 Earthquake
 1 Alliance General
 1 Logistics Expert
@@ -187,6 +186,10 @@ Materia
 1 Wildlife Researcher
 1 Vaporize
 1 Sinkhole
+1 War Druid
+1 Giant Elk
+1 Esmund's Staff
+1 Worldly Wisdom
 
 Epoca
 1 Scrap Compactor
@@ -196,7 +199,6 @@ Epoca
 1 Embargo
 1 Aulvan Cypher
 1 Antimagic Haze
-1 Animate
 1 Knight of the Coin
 1 Gift of Life
 1 Stronghold Dispatch
@@ -357,6 +359,7 @@ Talentus
 1 Lesser War Demon
 1 Legion Courier
 1 Banner of Lentholm
+1 Stratagem
 1 Deadly Strike
 1 Zombie Bait
 1 Inspired Charge
@@ -435,7 +438,6 @@ Deitas
 1 Orb of Binding
 1 Fabricated Angel
 1 Largeius the Big
-1 Tome of Knowledge
 1 Pilgrim
 1 Veriglas Preacher
 1 Veriglas Zelot

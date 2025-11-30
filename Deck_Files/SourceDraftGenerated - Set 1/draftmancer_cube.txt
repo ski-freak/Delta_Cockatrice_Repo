@@ -111,16 +111,6 @@
         "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Ancient Swordsmaster.png"
     },
     {
-        "name": "Animate",
-        "rarity": "common",
-        "mana_cost": "{2}",
-        "type": "",
-        "subtypes": [
-            ""
-        ],
-        "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Animate.png"
-    },
-    {
         "name": "Annul",
         "rarity": "common",
         "mana_cost": "{1}",
@@ -1023,7 +1013,7 @@
     {
         "name": "Desolate Roads",
         "rarity": "common",
-        "mana_cost": "{5}",
+        "mana_cost": "{4}",
         "type": "",
         "subtypes": [
             ""
@@ -1171,16 +1161,6 @@
         "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Druid of Distant Lands.png"
     },
     {
-        "name": "Eager Explorer",
-        "rarity": "common",
-        "mana_cost": "{2}",
-        "type": "",
-        "subtypes": [
-            ""
-        ],
-        "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Eager Explorer.png"
-    },
-    {
         "name": "Earthquake",
         "rarity": "common",
         "mana_cost": "{3}",
@@ -1299,6 +1279,16 @@
             ""
         ],
         "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Escape to Dream.png"
+    },
+    {
+        "name": "Esmund's Staff",
+        "rarity": "common",
+        "mana_cost": "{2}",
+        "type": "",
+        "subtypes": [
+            ""
+        ],
+        "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Esmund's Staff.png"
     },
     {
         "name": "Ethereal Voice",
@@ -1453,7 +1443,7 @@
     {
         "name": "False Orders",
         "rarity": "common",
-        "mana_cost": "{5}",
+        "mana_cost": "{4}",
         "type": "",
         "subtypes": [
             ""
@@ -1483,7 +1473,7 @@
     {
         "name": "Farsight Telescope",
         "rarity": "common",
-        "mana_cost": "{3}",
+        "mana_cost": "{2}",
         "type": "",
         "subtypes": [
             ""
@@ -1791,6 +1781,16 @@
         "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Giant Bat.png"
     },
     {
+        "name": "Giant Elk",
+        "rarity": "common",
+        "mana_cost": "{3}",
+        "type": "",
+        "subtypes": [
+            ""
+        ],
+        "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Giant Elk.png"
+    },
+    {
         "name": "Gift of Life",
         "rarity": "common",
         "mana_cost": "{2}",
@@ -1823,7 +1823,7 @@
     {
         "name": "Glyph of Distress",
         "rarity": "common",
-        "mana_cost": "{2}",
+        "mana_cost": "{1}",
         "type": "",
         "subtypes": [
             ""
@@ -1969,6 +1969,16 @@
             ""
         ],
         "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Hostage Negotiations.png"
+    },
+    {
+        "name": "Hostile Landscape",
+        "rarity": "common",
+        "mana_cost": "{0}",
+        "type": "",
+        "subtypes": [
+            ""
+        ],
+        "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Hostile Landscape.png"
     },
     {
         "name": "Hourglass of Ages",
@@ -2643,7 +2653,7 @@
     {
         "name": "Momentus Expedition",
         "rarity": "common",
-        "mana_cost": "{2}",
+        "mana_cost": "{1}",
         "type": "",
         "subtypes": [
             ""
@@ -3263,7 +3273,7 @@
     {
         "name": "Recursive Law",
         "rarity": "common",
-        "mana_cost": "{5}",
+        "mana_cost": "{4}",
         "type": "",
         "subtypes": [
             ""
@@ -3783,7 +3793,7 @@
     {
         "name": "Sleep Eater",
         "rarity": "common",
-        "mana_cost": "{3}",
+        "mana_cost": "{2}",
         "type": "",
         "subtypes": [
             ""
@@ -3959,6 +3969,16 @@
             ""
         ],
         "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Storm Rune.png"
+    },
+    {
+        "name": "Stratagem",
+        "rarity": "common",
+        "mana_cost": "{1}",
+        "type": "",
+        "subtypes": [
+            ""
+        ],
+        "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Stratagem.png"
     },
     {
         "name": "Stronghold Directive",
@@ -4193,7 +4213,7 @@
     {
         "name": "The Inkblood Library",
         "rarity": "common",
-        "mana_cost": "{3}",
+        "mana_cost": "{2}",
         "type": "",
         "subtypes": [
             ""
@@ -4641,6 +4661,16 @@
         "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Wandering Protector.png"
     },
     {
+        "name": "War Druid",
+        "rarity": "common",
+        "mana_cost": "{2}",
+        "type": "",
+        "subtypes": [
+            ""
+        ],
+        "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/War Druid.png"
+    },
+    {
         "name": "War Elephant",
         "rarity": "common",
         "mana_cost": "{3}",
@@ -4763,7 +4793,7 @@
     {
         "name": "Wolkk Twinspear",
         "rarity": "common",
-        "mana_cost": "{3}",
+        "mana_cost": "{2}",
         "type": "",
         "subtypes": [
             ""
@@ -4779,6 +4809,16 @@
             ""
         ],
         "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Worldly Scribe.png"
+    },
+    {
+        "name": "Worldly Wisdom",
+        "rarity": "common",
+        "mana_cost": "{1}",
+        "type": "",
+        "subtypes": [
+            ""
+        ],
+        "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Worldly Wisdom.png"
     },
     {
         "name": "Yeo",
@@ -4823,7 +4863,6 @@
 1 Anachronistic Artificer
 1 Ancient Grounds
 1 Ancient Swordsmaster
-1 Animate
 1 Annul
 1 Antimagic Haze
 1 Anvil of Souls
@@ -4929,7 +4968,6 @@
 1 Dream Jaunt
 1 Dreamflame Channeler
 1 Druid of Distant Lands
-1 Eager Explorer
 1 Earthquake
 1 Efficient Arbiter
 1 Elderly Monk
@@ -4942,6 +4980,7 @@
 1 Enlarge
 1 Eruption
 1 Escape to Dream
+1 Esmund's Staff
 1 Ethereal Voice
 1 Eudoxia Unshackled
 1 Evacuation
@@ -4991,6 +5030,7 @@
 1 General Falfar Kelwyn
 1 General's Directive
 1 Giant Bat
+1 Giant Elk
 1 Gift of Life
 1 Glugg, the Resourceful
 1 Glyph of Alarm
@@ -5009,6 +5049,7 @@
 1 Heroic Moment
 1 Honorable Knight
 1 Hostage Negotiations
+1 Hostile Landscape
 1 Hourglass of Ages
 1 Hunter's Companion
 1 Hwain's Disciple
@@ -5208,6 +5249,7 @@
 1 Steel Resolve
 1 Stochastic Ignition
 1 Storm Rune
+1 Stratagem
 1 Stronghold Directive
 1 Stronghold Dispatch
 1 Sublimate
@@ -5276,6 +5318,7 @@
 1 Vosderon's Wrath
 1 Walking Stones
 1 Wandering Protector
+1 War Druid
 1 War Elephant
 1 Warden of the Portals
 1 Watch Bureaucrat
@@ -5290,6 +5333,7 @@
 1 Wizz, Mid Mage
 1 Wolkk Twinspear
 1 Worldly Scribe
+1 Worldly Wisdom
 1 Yeo
 1 Young Dragon Spider
 1 Zombie Bait

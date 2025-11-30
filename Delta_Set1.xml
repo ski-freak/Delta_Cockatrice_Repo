@@ -1518,6 +1518,10 @@
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Esmund's%20Divination.png">Del1</set>
     </card>
     <card>
+        <name>Esmund's Staff</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Esmund's%20Staff.png">Del1</set>
+    </card>
+    <card>
         <name>Eternal Guard</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Eternal%20Guard.png">Del1</set>
     </card>
@@ -1974,6 +1978,10 @@
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Giant%20Dragonfly.png">Del1</set>
     </card>
     <card>
+        <name>Giant Elk</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Giant%20Elk.png">Del1</set>
+    </card>
+    <card>
         <name>Giant Mantis</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Giant%20Mantis.png">Del1</set>
     </card>
@@ -2200,6 +2208,10 @@
     <card>
         <name>Hostage Negotiations</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Hostage%20Negotiations.png">Del1</set>
+    </card>
+    <card>
+        <name>Hostile Landscape</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Hostile%20Landscape.png">Del1</set>
     </card>
     <card>
         <name>Hourglass of Ages</name>
@@ -5158,6 +5170,10 @@
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Wandering%20Protector.png">Del1</set>
     </card>
     <card>
+        <name>War Druid</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/War%20Druid.png">Del1</set>
+    </card>
+    <card>
         <name>War Elephant</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/War%20Elephant.png">Del1</set>
     </card>
@@ -5318,6 +5334,10 @@
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Worldly%20Scribe.png">Del1</set>
     </card>
     <card>
+        <name>Worldly Wisdom</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Worldly%20Wisdom.png">Del1</set>
+    </card>
+    <card>
         <name>Worldseal</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Worldseal.png">Del1</set>
     </card>
@@ -5416,6 +5436,10 @@
     <card>
         <name>zyxUnyielding Blade</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/zyxUnyielding%20Blade.png">Del1</set>
+    </card>
+    <card>
+        <name>zzzMomentus Expedition</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/zzzMomentus%20Expedition.png">Del1</set>
     </card>
     <card>
         <name>[to rename]</name>
