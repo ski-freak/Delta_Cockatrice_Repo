@@ -511,16 +511,6 @@
         "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Beseech the Gods.png"
     },
     {
-        "name": "Blessed Harvest",
-        "rarity": "common",
-        "mana_cost": "{1}",
-        "type": "",
-        "subtypes": [
-            ""
-        ],
-        "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Blessed Harvest.png"
-    },
-    {
         "name": "Blood Channeler",
         "rarity": "common",
         "mana_cost": "{2}",
@@ -1179,16 +1169,6 @@
             ""
         ],
         "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Efficient Arbiter.png"
-    },
-    {
-        "name": "Elderly Monk",
-        "rarity": "common",
-        "mana_cost": "{2}",
-        "type": "",
-        "subtypes": [
-            ""
-        ],
-        "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Elderly Monk.png"
     },
     {
         "name": "Embargo",
@@ -4903,7 +4883,6 @@
 1 Beloved Chef
 1 Benevolent Nightmare
 1 Beseech the Gods
-1 Blessed Harvest
 1 Blood Channeler
 1 Bloodburst
 1 Bloodcaster
@@ -4970,7 +4949,6 @@
 1 Druid of Distant Lands
 1 Earthquake
 1 Efficient Arbiter
-1 Elderly Monk
 1 Embargo
 1 Emergency Supply Kit
 1 Emissary of Fear
