@@ -1882,6 +1882,10 @@
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Fost%20Feac%20Magehunter.png">Del1</set>
     </card>
     <card>
+        <name>Fractal Chamber</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Fractal%20Chamber.png">Del1</set>
+    </card>
+    <card>
         <name>Fractal Prism</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Fractal%20Prism.png">Del1</set>
     </card>
@@ -2052,6 +2056,10 @@
     <card>
         <name>Goblin Spellslinger</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Goblin%20Spellslinger.png">Del1</set>
+    </card>
+    <card>
+        <name>Gods' Meddling</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Gods'%20Meddling.png">Del1</set>
     </card>
     <card>
         <name>Golem Nexus</name>
@@ -2654,6 +2662,10 @@
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Living%20Relic.png">Del1</set>
     </card>
     <card>
+        <name>Living Temple</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Living%20Temple.png">Del1</set>
+    </card>
+    <card>
         <name>Loanweaver</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Loanweaver.png">Del1</set>
     </card>
@@ -2860,6 +2872,10 @@
     <card>
         <name>Mirage Glyph</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Mirage%20Glyph.png">Del1</set>
+    </card>
+    <card>
+        <name>Mirage</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Mirage.png">Del1</set>
     </card>
     <card>
         <name>Mirror Gateway</name>
@@ -5088,6 +5104,10 @@
     <card>
         <name>Void Blast</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Void%20Blast.png">Del1</set>
+    </card>
+    <card>
+        <name>Void Chain</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Void%20Chain.png">Del1</set>
     </card>
     <card>
         <name>Void Cleric</name>
