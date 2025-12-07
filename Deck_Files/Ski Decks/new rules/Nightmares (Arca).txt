@@ -19,7 +19,7 @@
 2 Arcane Insight
 1 Twist of Fate
 1 Rift Screech
-20 Portal
+15 Portal
 
 1 Atnia
 1 Portal

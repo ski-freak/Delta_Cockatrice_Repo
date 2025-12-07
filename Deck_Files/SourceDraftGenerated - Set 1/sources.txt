@@ -108,7 +108,6 @@ Eminus
 1 Prodigal Champion
 1 Cliffside Village
 1 Pax Nova Farmland
-1 Gregory
 1 Forgotten Knight
 1 Everyone Forgets
 1 Champion's Crown
@@ -155,7 +154,6 @@ Materia
 1 Devastating Landslide
 1 Shield of Earth
 1 Filibuster Specialist
-1 Crackling Hurricane
 1 Skyhaven Archer
 1 Farmland Defender
 1 Bloodcaster
@@ -239,7 +237,7 @@ Epoca
 1 Mystic Ruins
 1 Ancient Grounds
 1 Lhorish, Nightmare Tendril
-1 Kevin
+1 Fractal Chamber
 1 Forbidden Knowledge
 1 Tundra Elemental
 1 Shadowy Explosion
@@ -260,6 +258,7 @@ Zelor
 1 Thought Extraction
 1 Wizard's Familiar
 1 Battle Training
+1 Mirage
 1 Fireball
 1 Living Lightning
 1 Thunderous Fury
@@ -324,7 +323,6 @@ Talentus
 1 Young Dragon Spider
 1 Tower Thief
 1 Expert Smith
-1 Beloved Chef
 1 Legion Messenger
 1 Team Up
 1 Lure into Danger
@@ -400,7 +398,9 @@ Deitas
 1 Reawaken in Dream
 1 Devout Cleric
 1 Stare into the Sun
+1 Living Temple
 1 Noble Ancestor
+1 Gods' Meddling
 1 Selfless Cultist
 1 Pale Sun's Influence
 1 Beseech the Gods
@@ -424,7 +424,6 @@ Deitas
 1 Inquisitor's Cage-Charm
 1 Soul Shift
 1 Living Relic
-1 Ozen's Fury
 1 Cosmic Justice
 1 Shem's Binding
 1 Brag's Prison

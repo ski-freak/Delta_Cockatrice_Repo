@@ -481,16 +481,6 @@
         "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Beckon Home.png"
     },
     {
-        "name": "Beloved Chef",
-        "rarity": "common",
-        "mana_cost": "{3}",
-        "type": "",
-        "subtypes": [
-            ""
-        ],
-        "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Beloved Chef.png"
-    },
-    {
         "name": "Benevolent Nightmare",
         "rarity": "common",
         "mana_cost": "{3}",
@@ -861,16 +851,6 @@
         "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Counter.png"
     },
     {
-        "name": "Crackling Hurricane",
-        "rarity": "common",
-        "mana_cost": "{5}",
-        "type": "",
-        "subtypes": [
-            ""
-        ],
-        "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Crackling Hurricane.png"
-    },
-    {
         "name": "Crippling Shot",
         "rarity": "common",
         "mana_cost": "{2}",
@@ -1093,7 +1073,7 @@
     {
         "name": "Divine Intervention",
         "rarity": "common",
-        "mana_cost": "{5}",
+        "mana_cost": "{4}",
         "type": "",
         "subtypes": [
             ""
@@ -1701,6 +1681,16 @@
         "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Fortress Automaton.png"
     },
     {
+        "name": "Fractal Chamber",
+        "rarity": "common",
+        "mana_cost": "{0}",
+        "type": "",
+        "subtypes": [
+            ""
+        ],
+        "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Fractal Chamber.png"
+    },
+    {
         "name": "Fractal Prism",
         "rarity": "common",
         "mana_cost": "{1}",
@@ -1861,14 +1851,14 @@
         "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Goblin Sharptooth.png"
     },
     {
-        "name": "Gregory",
+        "name": "Gods' Meddling",
         "rarity": "common",
-        "mana_cost": "{3}",
+        "mana_cost": "{1}",
         "type": "",
         "subtypes": [
             ""
         ],
-        "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Gregory.png"
+        "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Gods' Meddling.png"
     },
     {
         "name": "Guardian of Nature",
@@ -2069,16 +2059,6 @@
             ""
         ],
         "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Journey Through Dream.png"
-    },
-    {
-        "name": "Kevin",
-        "rarity": "common",
-        "mana_cost": "{3}",
-        "type": "",
-        "subtypes": [
-            ""
-        ],
-        "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Kevin.png"
     },
     {
         "name": "Knight of the Book",
@@ -2393,7 +2373,7 @@
     {
         "name": "Lightning Prophecy",
         "rarity": "common",
-        "mana_cost": "{3}",
+        "mana_cost": "{4}",
         "type": "",
         "subtypes": [
             ""
@@ -2403,7 +2383,7 @@
     {
         "name": "Living Lightning",
         "rarity": "common",
-        "mana_cost": "{3}",
+        "mana_cost": "{2}",
         "type": "",
         "subtypes": [
             ""
@@ -2419,6 +2399,16 @@
             ""
         ],
         "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Living Relic.png"
+    },
+    {
+        "name": "Living Temple",
+        "rarity": "common",
+        "mana_cost": "{0}",
+        "type": "",
+        "subtypes": [
+            ""
+        ],
+        "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Living Temple.png"
     },
     {
         "name": "Loanweaver",
@@ -2599,6 +2589,16 @@
             ""
         ],
         "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Mind Demolition.png"
+    },
+    {
+        "name": "Mirage",
+        "rarity": "common",
+        "mana_cost": "{0}",
+        "type": "",
+        "subtypes": [
+            ""
+        ],
+        "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Mirage.png"
     },
     {
         "name": "Mirror Gateway",
@@ -2909,16 +2909,6 @@
             ""
         ],
         "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Ozen's Faithful.png"
-    },
-    {
-        "name": "Ozen's Fury",
-        "rarity": "common",
-        "mana_cost": "{2}",
-        "type": "",
-        "subtypes": [
-            ""
-        ],
-        "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Ozen's Fury.png"
     },
     {
         "name": "Pact of Aeons",
@@ -4173,7 +4163,7 @@
     {
         "name": "The Borderwoods",
         "rarity": "common",
-        "mana_cost": "{0}",
+        "mana_cost": "{1}",
         "type": "",
         "subtypes": [
             ""
@@ -4303,7 +4293,7 @@
     {
         "name": "Truce",
         "rarity": "common",
-        "mana_cost": "{3}",
+        "mana_cost": "{4}",
         "type": "",
         "subtypes": [
             ""
@@ -4880,7 +4870,6 @@
 1 Battlefield Rift
 1 Battlemaster of The Wall
 1 Beckon Home
-1 Beloved Chef
 1 Benevolent Nightmare
 1 Beseech the Gods
 1 Blood Channeler
@@ -4918,7 +4907,6 @@
 1 Cosmic Justice
 1 Councilor Corsovo
 2 Counter
-1 Crackling Hurricane
 2 Crippling Shot
 1 Cunning Arbiter
 1 Cursed Amulet
@@ -5002,6 +4990,7 @@
 1 Forsaken Village
 1 Forsaken Voidcaller
 1 Fortress Automaton
+1 Fractal Chamber
 1 Fractal Prism
 1 Futuresight Ritual
 1 General Akkir
@@ -5018,7 +5007,7 @@
 1 Glyph of Survival
 1 Glyph of Warding
 1 Goblin Sharptooth
-1 Gregory
+1 Gods' Meddling
 1 Guardian of Nature
 1 Guile
 1 Haunted Residence
@@ -5039,7 +5028,6 @@
 1 Interrupt
 1 Investigate the Scene
 1 Journey Through Dream
-1 Kevin
 1 Knight of the Book
 1 Knight of the Coin
 1 Knight of the Moon
@@ -5074,6 +5062,7 @@
 1 Lightning Prophecy
 1 Living Lightning
 1 Living Relic
+1 Living Temple
 1 Loanweaver
 1 Logistics Expert
 1 Logol of the Mirror
@@ -5092,6 +5081,7 @@
 1 Midnight Duel
 1 Mind Control
 1 Mind Demolition
+1 Mirage
 1 Mirror Gateway
 1 Mnem Directive
 1 Molten Image
@@ -5123,7 +5113,6 @@
 1 Outlands Cleric
 1 Ozen's Directive
 1 Ozen's Faithful
-1 Ozen's Fury
 1 Pact of Aeons
 1 Pact of Annihilation
 1 Pale Immortal
