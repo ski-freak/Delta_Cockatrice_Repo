@@ -12,14 +12,13 @@
 2 Blood Channeler
 2 Avatar of Terror
 2 Encroaching Inevitability
-2 Enhance Spell
 2 Manifest Fears
 2 Oruva Scout
 2 Corpse Amalgam
 2 Arcane Insight
 1 Twist of Fate
 1 Rift Screech
-15 Portal
+14 Portal
 
 1 Atnia
 1 Portal
