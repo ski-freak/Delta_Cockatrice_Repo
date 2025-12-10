@@ -4294,6 +4294,10 @@
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Soul%20Link.png">Del1</set>
     </card>
     <card>
+        <name>Soul Mirror</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Soul%20Mirror.png">Del1</set>
+    </card>
+    <card>
         <name>Soul Shield</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Soul%20Shield.png">Del1</set>
     </card>
@@ -4940,6 +4944,10 @@
     <card>
         <name>Twofold Destruction</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Twofold%20Destruction.png">Del1</set>
+    </card>
+    <card>
+        <name>Uncertain Atnian</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Uncertain%20Atnian.png">Del1</set>
     </card>
     <card>
         <name>Underground Station</name>

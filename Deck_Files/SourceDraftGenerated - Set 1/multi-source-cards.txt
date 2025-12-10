@@ -83,5 +83,6 @@ Loanweaver
 Master Vennan
 Hunter's Companion
 --- No ideals
-Hostile Landscape
 Tome of Knowledge
+Soul Mirror
+Uncertain Atnian
