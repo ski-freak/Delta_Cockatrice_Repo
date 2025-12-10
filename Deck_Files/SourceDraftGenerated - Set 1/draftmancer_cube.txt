@@ -81,16 +81,6 @@
         "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Amnesia.png"
     },
     {
-        "name": "Anachronistic Artificer",
-        "rarity": "common",
-        "mana_cost": "{2}",
-        "type": "",
-        "subtypes": [
-            ""
-        ],
-        "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Anachronistic Artificer.png"
-    },
-    {
         "name": "Ancient Grounds",
         "rarity": "common",
         "mana_cost": "{0}",
@@ -571,16 +561,6 @@
         "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Book of Brag.png"
     },
     {
-        "name": "Borderwoods Alchemist",
-        "rarity": "common",
-        "mana_cost": "{2}",
-        "type": "",
-        "subtypes": [
-            ""
-        ],
-        "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Borderwoods Alchemist.png"
-    },
-    {
         "name": "Borderwoods Druid",
         "rarity": "common",
         "mana_cost": "{3}",
@@ -811,16 +791,6 @@
         "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Corpse Amalgam.png"
     },
     {
-        "name": "Corrupt Chef",
-        "rarity": "common",
-        "mana_cost": "{2}",
-        "type": "",
-        "subtypes": [
-            ""
-        ],
-        "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Corrupt Chef.png"
-    },
-    {
         "name": "Corrupted River Spirit",
         "rarity": "common",
         "mana_cost": "{2}",
@@ -1041,16 +1011,6 @@
         "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Devout Adventurer.png"
     },
     {
-        "name": "Devout Cleric",
-        "rarity": "common",
-        "mana_cost": "{2}",
-        "type": "",
-        "subtypes": [
-            ""
-        ],
-        "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Devout Cleric.png"
-    },
-    {
         "name": "Devout Knight",
         "rarity": "common",
         "mana_cost": "{1}",
@@ -1129,16 +1089,6 @@
             ""
         ],
         "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Dream Jaunt.png"
-    },
-    {
-        "name": "Dreamflame Channeler",
-        "rarity": "common",
-        "mana_cost": "{2}",
-        "type": "",
-        "subtypes": [
-            ""
-        ],
-        "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Dreamflame Channeler.png"
     },
     {
         "name": "Druid of Distant Lands",
@@ -1381,19 +1331,9 @@
         "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Expert Navigator.png"
     },
     {
-        "name": "Expert Smith",
-        "rarity": "common",
-        "mana_cost": "{2}",
-        "type": "",
-        "subtypes": [
-            ""
-        ],
-        "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Expert Smith.png"
-    },
-    {
         "name": "Exposed Leyline",
         "rarity": "common",
-        "mana_cost": "{3}",
+        "mana_cost": "{2}",
         "type": "",
         "subtypes": [
             ""
@@ -1709,16 +1649,6 @@
             ""
         ],
         "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Forsaken Village.png"
-    },
-    {
-        "name": "Forsaken Voidcaller",
-        "rarity": "common",
-        "mana_cost": "{2}",
-        "type": "",
-        "subtypes": [
-            ""
-        ],
-        "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Forsaken Voidcaller.png"
     },
     {
         "name": "Fortress Automaton",
@@ -3753,7 +3683,7 @@
     {
         "name": "Shem's Binding",
         "rarity": "common",
-        "mana_cost": "{2}",
+        "mana_cost": "{1}",
         "type": "",
         "subtypes": [
             ""
@@ -3843,7 +3773,7 @@
     {
         "name": "Soul Mirror",
         "rarity": "common",
-        "mana_cost": "",
+        "mana_cost": "{2}",
         "type": "",
         "subtypes": [
             ""
@@ -3943,7 +3873,7 @@
     {
         "name": "Stare into the Sun",
         "rarity": "common",
-        "mana_cost": "{2}",
+        "mana_cost": "{1}",
         "type": "",
         "subtypes": [
             ""
@@ -4013,7 +3943,7 @@
     {
         "name": "Stronghold Dispatch",
         "rarity": "common",
-        "mana_cost": "{3}",
+        "mana_cost": "{2}",
         "type": "",
         "subtypes": [
             ""
@@ -4343,7 +4273,7 @@
     {
         "name": "Truce",
         "rarity": "common",
-        "mana_cost": "{4}",
+        "mana_cost": "{3}",
         "type": "",
         "subtypes": [
             ""
@@ -4369,6 +4299,16 @@
             ""
         ],
         "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Twofold Destruction.png"
+    },
+    {
+        "name": "Uncertain Atnian",
+        "rarity": "common",
+        "mana_cost": "{2}",
+        "type": "",
+        "subtypes": [
+            ""
+        ],
+        "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Uncertain Atnian.png"
     },
     {
         "name": "Undying Duty",
@@ -4880,7 +4820,6 @@
 1 Amatuer Illusionist
 1 Ambush
 1 Amnesia
-1 Anachronistic Artificer
 1 Ancient Grounds
 1 Ancient Superstructure
 1 Ancient Swordsmaster
@@ -4929,7 +4868,6 @@
 1 Bloodcaster
 1 Bloodcrazed Knight
 1 Book of Brag
-1 Borderwoods Alchemist
 1 Borderwoods Druid
 1 Brag's Prison
 1 Bridge Guardian
@@ -4953,7 +4891,6 @@
 1 Consume Flesh
 1 Consume Thoughts
 1 Corpse Amalgam
-1 Corrupt Chef
 1 Corrupted River Spirit
 1 Corvallis, the Law Druid
 1 Cosmic Justice
@@ -4976,7 +4913,6 @@
 1 Desperate Stand
 1 Devastating Landslide
 1 Devout Adventurer
-1 Devout Cleric
 1 Devout Knight
 1 Disciple of Nyka
 1 Disciple of The Shattered Mirror
@@ -4985,7 +4921,6 @@
 1 Doomed Prophet
 1 Dream Haven
 1 Dream Jaunt
-1 Dreamflame Channeler
 1 Druid of Distant Lands
 1 Earthquake
 1 Efficient Arbiter
@@ -5010,7 +4945,6 @@
 1 Excavation Automaton
 1 Experienced Traveler
 1 Expert Navigator
-1 Expert Smith
 1 Exposed Leyline
 1 Extract Essence
 1 Eye for an Eye
@@ -5043,7 +4977,6 @@
 1 Forsaken Loremaster
 1 Forsaken Reveller
 1 Forsaken Village
-1 Forsaken Voidcaller
 1 Fortress Automaton
 1 Fractal Chamber
 1 Futuresight Ritual
@@ -5309,6 +5242,7 @@
 1 Truce
 1 Tundra Elemental
 1 Twofold Destruction
+1 Uncertain Atnian
 1 Undying Duty
 1 Unleash Energy
 1 Unrelenting Flames
