@@ -71,7 +71,7 @@ General Akkir
 Legion Pyromancer
 Commander Garis
 ---Materia-Arca
-Caged Rift
+Blood Ritual
 Pale Immortal
 Rift Summoning
 ---Materia-Zelor
@@ -86,3 +86,4 @@ Hunter's Companion
 Tome of Knowledge
 Soul Mirror
 Uncertain Atnian
+Fractal Chamber

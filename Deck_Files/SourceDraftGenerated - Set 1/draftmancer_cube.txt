@@ -3,7 +3,7 @@
     {
         "name": "Absence",
         "rarity": "common",
-        "mana_cost": "{3}",
+        "mana_cost": "{2}",
         "type": "",
         "subtypes": [
             ""
@@ -521,6 +521,16 @@
         "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Blood Channeler.png"
     },
     {
+        "name": "Blood Ritual",
+        "rarity": "common",
+        "mana_cost": "{1}",
+        "type": "",
+        "subtypes": [
+            ""
+        ],
+        "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Blood Ritual.png"
+    },
+    {
         "name": "Bloodburst",
         "rarity": "common",
         "mana_cost": "{2}",
@@ -589,16 +599,6 @@
             ""
         ],
         "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Bridge Guardian.png"
-    },
-    {
-        "name": "Caged Rift",
-        "rarity": "common",
-        "mana_cost": "{2}",
-        "type": "",
-        "subtypes": [
-            ""
-        ],
-        "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Caged Rift.png"
     },
     {
         "name": "Call to Arms",
@@ -729,6 +729,16 @@
             ""
         ],
         "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Commander Garis.png"
+    },
+    {
+        "name": "Commander Gerald",
+        "rarity": "common",
+        "mana_cost": "{4}",
+        "type": "",
+        "subtypes": [
+            ""
+        ],
+        "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Commander Gerald.png"
     },
     {
         "name": "Common Nightmare",
@@ -1759,16 +1769,6 @@
             ""
         ],
         "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Glyph of Alarm.png"
-    },
-    {
-        "name": "Glyph of Distress",
-        "rarity": "common",
-        "mana_cost": "{1}",
-        "type": "",
-        "subtypes": [
-            ""
-        ],
-        "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Glyph of Distress.png"
     },
     {
         "name": "Glyph of Sending",
@@ -4864,6 +4864,7 @@
 1 Beseech the Gods
 1 Blessed Harvest
 1 Blood Channeler
+1 Blood Ritual
 1 Bloodburst
 1 Bloodcaster
 1 Bloodcrazed Knight
@@ -4871,7 +4872,6 @@
 1 Borderwoods Druid
 1 Brag's Prison
 1 Bridge Guardian
-1 Caged Rift
 1 Call to Arms
 1 Cemetery Rift
 1 Champion of the Book
@@ -4885,6 +4885,7 @@
 1 Combat Wizardry
 1 Command
 1 Commander Garis
+1 Commander Gerald
 1 Common Nightmare
 1 Conceal
 2 Condescend
@@ -4988,7 +4989,6 @@
 1 Gift of Life
 1 Glugg, the Resourceful
 1 Glyph of Alarm
-1 Glyph of Distress
 1 Glyph of Sending
 1 Glyph of Summoning
 1 Glyph of Survival

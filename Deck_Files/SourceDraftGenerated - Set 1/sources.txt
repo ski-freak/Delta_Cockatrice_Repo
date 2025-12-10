@@ -201,7 +201,6 @@ Epoca
 1 Remake
 1 Will o' the Wisp
 1 Squelch
-1 Glyph of Distress
 1 Warden of the Portals
 1 Pale Sun Initiate
 1 Decode the Runes
@@ -233,7 +232,6 @@ Epoca
 1 Mystic Ruins
 1 Ancient Grounds
 1 Lhorish, Nightmare Tendril
-1 Fractal Chamber
 1 Forbidden Knowledge
 1 Tundra Elemental
 1 Shadowy Explosion
@@ -329,6 +327,7 @@ Talentus
 1 Outlands Brawler
 1 Legion Warlock
 1 Revenants of War
+1 Commander Gerald
 1 Supply Logistics
 1 Legion Rider
 1 Supercharge
