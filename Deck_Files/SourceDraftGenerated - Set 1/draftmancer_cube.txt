@@ -501,6 +501,16 @@
         "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Beseech the Gods.png"
     },
     {
+        "name": "Blackmail",
+        "rarity": "common",
+        "mana_cost": "{2}",
+        "type": "",
+        "subtypes": [
+            ""
+        ],
+        "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Blackmail.png"
+    },
+    {
         "name": "Blessed Harvest",
         "rarity": "common",
         "mana_cost": "{1}",
@@ -801,6 +811,16 @@
         "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Corpse Amalgam.png"
     },
     {
+        "name": "Corrupt Chef",
+        "rarity": "common",
+        "mana_cost": "{2}",
+        "type": "",
+        "subtypes": [
+            ""
+        ],
+        "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Corrupt Chef.png"
+    },
+    {
         "name": "Corrupted River Spirit",
         "rarity": "common",
         "mana_cost": "{2}",
@@ -851,6 +871,16 @@
         "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Counter.png"
     },
     {
+        "name": "Crackling Hurricane",
+        "rarity": "common",
+        "mana_cost": "{5}",
+        "type": "",
+        "subtypes": [
+            ""
+        ],
+        "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Crackling Hurricane.png"
+    },
+    {
         "name": "Crippling Shot",
         "rarity": "common",
         "mana_cost": "{2}",
@@ -859,16 +889,6 @@
             ""
         ],
         "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Crippling Shot.png"
-    },
-    {
-        "name": "Cunning Arbiter",
-        "rarity": "common",
-        "mana_cost": "{2}",
-        "type": "",
-        "subtypes": [
-            ""
-        ],
-        "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Cunning Arbiter.png"
     },
     {
         "name": "Cursed Amulet",
@@ -999,16 +1019,6 @@
             ""
         ],
         "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Desperate Stand.png"
-    },
-    {
-        "name": "Devastating Landslide",
-        "rarity": "common",
-        "mana_cost": "{5}",
-        "type": "",
-        "subtypes": [
-            ""
-        ],
-        "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Devastating Landslide.png"
     },
     {
         "name": "Devout Adventurer",
@@ -1619,16 +1629,6 @@
             ""
         ],
         "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Forsaken Ideologue.png"
-    },
-    {
-        "name": "Forsaken Initiate",
-        "rarity": "common",
-        "mana_cost": "{2}",
-        "type": "",
-        "subtypes": [
-            ""
-        ],
-        "image": "https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Forsaken Initiate.png"
     },
     {
         "name": "Forsaken Loremaster",
@@ -4862,6 +4862,7 @@
 1 Beckon Home
 1 Benevolent Nightmare
 1 Beseech the Gods
+1 Blackmail
 1 Blessed Harvest
 1 Blood Channeler
 1 Blood Ritual
@@ -4892,13 +4893,14 @@
 1 Consume Flesh
 1 Consume Thoughts
 1 Corpse Amalgam
+1 Corrupt Chef
 1 Corrupted River Spirit
 1 Corvallis, the Law Druid
 1 Cosmic Justice
 1 Councilor Corsovo
 2 Counter
+1 Crackling Hurricane
 2 Crippling Shot
-1 Cunning Arbiter
 1 Cursed Amulet
 1 Dark Apostle
 2 Deadly Strike
@@ -4912,7 +4914,6 @@
 1 Deny
 1 Desolate Roads
 1 Desperate Stand
-1 Devastating Landslide
 1 Devout Adventurer
 1 Devout Knight
 1 Disciple of Nyka
@@ -4974,7 +4975,6 @@
 1 Forsaken Displacer
 1 Forsaken Dreamweaver
 1 Forsaken Ideologue
-1 Forsaken Initiate
 1 Forsaken Loremaster
 1 Forsaken Reveller
 1 Forsaken Village

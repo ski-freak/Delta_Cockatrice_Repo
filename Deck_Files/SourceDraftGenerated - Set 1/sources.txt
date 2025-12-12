@@ -82,7 +82,7 @@ Eminus
 1 Banishment
 1 Arbiter Marshal
 1 Apprentice Arbiter
-1 Cunning Arbiter
+1 Corrupt Chef
 1 Spectral Agent
 1 Novice Spellsealer
 1 Command
@@ -101,8 +101,6 @@ Eminus
 1 Slow Magic
 1 Beckon Home
 1 Wolkk Twinspear
-1 Arbiter Convergence
-1 Steel Resolve
 1 Prodigal Champion
 1 Cliffside Village
 1 Pax Nova Farmland
@@ -149,9 +147,10 @@ Materia
 1 Glyph of Survival
 1 Vanish
 1 Healing Potion
-1 Devastating Landslide
+1 Crackling Hurricane
 1 Shield of Earth
 1 Filibuster Specialist
+1 Steel Resolve
 1 Skyhaven Archer
 1 Farmland Defender
 1 Bloodcaster
@@ -188,6 +187,7 @@ Materia
 
 Epoca
 1 Scrap Compactor
+1 Blackmail
 1 Lost Tome
 1 Old-World Scholar
 1 Embargo
@@ -206,6 +206,7 @@ Epoca
 1 Decode the Runes
 1 Seasoned Arbiter
 1 Arcane Historian
+1 Arbiter Convergence
 1 Energy Cell
 1 Trinketeer
 1 Tariff
@@ -298,7 +299,6 @@ Zelor
 1 Alliance Pyromancer
 1 Flaming Berserker
 1 Plasma Bolt
-1 Forsaken Initiate
 1 Pax Nova Battlemage
 1 Call to Arms
 1 Common Nightmare
