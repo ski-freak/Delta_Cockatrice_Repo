@@ -1,8 +1,18 @@
+Arcane Shield
+Feigned Weakness
+Devout Knight
+Prodigal Champion
+Command
+Nullify Magic
+Liase of the Two Scrolls
+Liev Arbiter
+Logol of the Mirror
+Scramble Magic
+Forgotten Knight
 Enlarge
 Stochastic Ignition
 Battle Training
-Dream Jaunt
-Wizards Familiar
+Wizard's Familiar
 Survivor Knight
 Fireball
 Thunderous Fury
@@ -10,22 +20,6 @@ Knight of the Moon
 Cleave
 Heretic of the Torch
 Astral Speculation
-Righteous Fury
-Arcane Shield
-Feigned Weakness
-Farsight
-Devout Knight
-Prodigal Champion
-Command
-Slow Magic
-Nullify Magic
-Wolkk Twinspear
-Liase of the Two Scrolls
-Liev Arbiter
-Logol of the Mirror
-Scramble Magic
-Forgotten Knight
 Knight of the Poppy
-Pax Nova Directive
 4 Town Hall
 3 Campsite
