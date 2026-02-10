@@ -23,3 +23,7 @@ Astral Speculation
 Knight of the Poppy
 4 Town Hall
 3 Campsite
+
+1 Village
+1 Dreamscape
+1 Knight of Redemption
