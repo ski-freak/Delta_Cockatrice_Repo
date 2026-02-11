@@ -111,7 +111,7 @@ Eminus
 1 Infused Knight
 1 Champion of the Book
 1 Combat Wizardry
-1 Nullifying Blast
+1 Unyielding Blade
 1 Stance Shift
 1 Memento
 1 Pax Nova Garrison
@@ -374,7 +374,6 @@ Talentus
 1 Expert Navigator
 1 Deadly Strike
 1 Crippling Shot
-1 Henry
 
 Deitas
 1 Oln's Binding
