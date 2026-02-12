@@ -238,6 +238,10 @@
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Arbiter's%20Foundry.png">Del1</set>
     </card>
     <card>
+        <name>Arbiters' Stronghold</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Arbiters'%20Stronghold.png">Del1</set>
+    </card>
+    <card>
         <name>Arca Eminus Core</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Arca%20Eminus%20Core.png">Del1</set>
     </card>
@@ -2740,6 +2744,10 @@
     <card>
         <name>Manifest Fears</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Manifest%20Fears.png">Del1</set>
+    </card>
+    <card>
+        <name>Map of Atnia</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Map%20of%20Atnia.png">Del1</set>
     </card>
     <card>
         <name>Marla's Tavern</name>
