@@ -59,7 +59,7 @@
 1 Fallen Wizard
 1 Void Spike
 1 Rift's Grasp
-1 Void Slap
+1 Arcane Ignition
 
 Eminus
 1 Righteous Edict
