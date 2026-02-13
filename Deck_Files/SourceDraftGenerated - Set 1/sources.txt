@@ -102,6 +102,7 @@ Eminus
 1 Slow Magic
 1 Beckon Home
 1 Wolkk Twinspear
+1 Arbiters' Stronghold
 1 Prodigal Champion
 1 Cliffside Village
 1 Pax Nova Farmland
