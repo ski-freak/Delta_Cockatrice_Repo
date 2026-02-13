@@ -301,6 +301,7 @@ Zelor
 1 Alliance Pyromancer
 1 Flaming Berserker
 1 Plasma Bolt
+1 Forsaken Initiate
 1 Pax Nova Battlemage
 1 Call to Arms
 1 Common Nightmare
