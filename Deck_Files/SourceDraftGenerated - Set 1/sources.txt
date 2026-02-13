@@ -59,6 +59,7 @@
 1 Fallen Wizard
 1 Void Spike
 1 Rift's Grasp
+1 Void Slap
 
 Eminus
 1 Righteous Edict
@@ -119,11 +120,12 @@ Eminus
 1 Knight's Path
 1 Banishment
 1 Untimely Investigation
+1 Timeline Sink
 
 Materia
 1 Watch Bureaucrat
 1 Sublimate
-1 Rockfall
+1 Hemokinesis
 1 Sudden Drop
 1 Sinkhole
 1 Worldly Scribe
@@ -342,6 +344,7 @@ Talentus
 1 Emergency Supply Kit
 1 Conceal
 1 Nomadic Orc
+1 Adapt
 1 Battlefield Rift
 1 Goblin Sharptooth
 1 Trade Insight

@@ -2190,6 +2190,10 @@
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Helpful%20Automaton.png">Del1</set>
     </card>
     <card>
+        <name>Hemokinesis</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Hemokinesis.png">Del1</set>
+    </card>
+    <card>
         <name>Henry</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Henry.png">Del1</set>
     </card>
@@ -4844,6 +4848,10 @@
     <card>
         <name>Timeline Jump</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Timeline%20Jump.png">Del1</set>
+    </card>
+    <card>
+        <name>Timeline Sink</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Timeline%20Sink.png">Del1</set>
     </card>
     <card>
         <name>Timely Fable</name>
