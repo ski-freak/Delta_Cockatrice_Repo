@@ -2490,6 +2490,10 @@
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Knight's%20Path.png">Del1</set>
     </card>
     <card>
+        <name>Knight's Resolve</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Knight's%20Resolve.png">Del1</set>
+    </card>
+    <card>
         <name>Knightly Mentor</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Knightly%20Mentor.png">Del1</set>
     </card>
@@ -2508,6 +2512,10 @@
     <card>
         <name>Knights' Prowess</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Knights'%20Prowess.png">Del1</set>
+    </card>
+    <card>
+        <name>Knowledge from the Future</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Knowledge%20from%20the%20Future.png">Del1</set>
     </card>
     <card>
         <name>Knowledge Keeper</name>
@@ -5412,6 +5420,10 @@
     <card>
         <name>Worldseal</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Worldseal.png">Del1</set>
+    </card>
+    <card>
+        <name>Wormhole</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Wormhole.png">Del1</set>
     </card>
     <card>
         <name>Worn Scroll</name>
