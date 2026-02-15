@@ -122,6 +122,8 @@ Eminus
 1 Banishment
 1 Untimely Investigation
 1 Timeline Sink
+1 Knowledge from the Future
+1 Knight's Resolve
 
 Materia
 1 Watch Bureaucrat
@@ -343,7 +345,6 @@ Talentus
 1 Heroic Moment
 1 General Falfar Kelwyn
 1 Scavenged Munitions
-1 Emergency Supply Kit
 1 Conceal
 1 Nomadic Orc
 1 Adapt
@@ -403,6 +404,7 @@ Deitas
 1 Beseech the Gods
 1 Extract Essence
 1 Doomed Prophet
+1 Wormhole
 1 Spark of Divinity
 1 Possessed Sycophant
 1 Void Cleric

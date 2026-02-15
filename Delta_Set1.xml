@@ -466,6 +466,10 @@
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Backup%20Stash.png">Del1</set>
     </card>
     <card>
+        <name>Bake Into a Quiche</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Bake%20Into%20a%20Quiche.png">Del1</set>
+    </card>
+    <card>
         <name>Balance the Cosmos</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Balance%20the%20Cosmos.png">Del1</set>
     </card>
@@ -1670,6 +1674,10 @@
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Fallen%20Scribe.png">Del1</set>
     </card>
     <card>
+        <name>Fallen Soldier</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Fallen%20Soldier.png">Del1</set>
+    </card>
+    <card>
         <name>Fallen Wizard</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Fallen%20Wizard.png">Del1</set>
     </card>
@@ -2374,6 +2382,10 @@
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Interceptor.png">Del1</set>
     </card>
     <card>
+        <name>Interrupt Thoughts</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Interrupt%20Thoughts.png">Del1</set>
+    </card>
+    <card>
         <name>Interrupt</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Interrupt.png">Del1</set>
     </card>
@@ -2492,6 +2504,10 @@
     <card>
         <name>Knight's Resolve</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Knight's%20Resolve.png">Del1</set>
+    </card>
+    <card>
+        <name>Knight's Support</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Knight's%20Support.png">Del1</set>
     </card>
     <card>
         <name>Knightly Mentor</name>
