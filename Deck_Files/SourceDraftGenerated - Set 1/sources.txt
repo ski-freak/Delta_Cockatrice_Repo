@@ -9,7 +9,6 @@
 1 Emissary of Fear
 1 Rift Channeler
 1 Arcane Amalgam
-1 Nightfall
 1 Myrkur Phantom
 1 Corpse Amalgam
 1 Rift Screech
@@ -84,16 +83,13 @@ Eminus
 1 Arbiter Marshal
 1 Apprentice Arbiter
 1 Corrupt Chef
-1 Spectral Agent
 1 Novice Spellsealer
 1 Command
 1 Cloaked Inquisitor
 1 Selfless Lawmage
 1 Ozen's Faithful
 1 Glyph of Sending
-1 Knight's Familiar
 1 Sunblade Knight
-1 Glyph of Summoning
 1 Glyph of Alarm
 1 Farsight
 1 Defender of the Gate
@@ -124,6 +120,7 @@ Eminus
 1 Timeline Sink
 1 Knowledge from the Future
 1 Knight's Resolve
+1 Knight's Support
 
 Materia
 1 Watch Bureaucrat
@@ -186,7 +183,6 @@ Materia
 1 Vaporize
 1 Sinkhole
 1 War Druid
-1 Giant Elk
 1 Esmund's Staff
 1 Worldly Wisdom
 
@@ -219,12 +215,10 @@ Epoca
 1 Annul
 1 Counter
 1 Restore Barrier
-1 Cleric of Hwain
 1 Excavation Automaton
 1 Hourglass of Ages
 1 Pax Valley Wyvern
 1 Oguth of Mnem
-1 Arbiter's Familiar
 1 Rune of Antiquity
 1 Deny
 1 Oana's Divination
@@ -234,7 +228,6 @@ Epoca
 1 Reserved Scholar
 1 Storm Rune
 1 Glyph of Warding
-1 Outlands Cleric
 1 Mystic Ruins
 1 Ancient Grounds
 1 Forbidden Knowledge
@@ -314,6 +307,7 @@ Zelor
 1 Unrelenting Flames
 1 Fireball
 1 Cleave
+1 Disintegrate
 
 Talentus
 1 Crippling Shot
@@ -380,6 +374,8 @@ Talentus
 1 Deadly Strike
 1 Crippling Shot
 1 Henry
+1 Bake Into a Quiche
+1 Fallen Soldier
 
 Deitas
 1 Oln's Binding
@@ -436,7 +432,6 @@ Deitas
 1 Mysterious Cemetery
 1 Molten Image
 1 Orb of Binding
-1 Fabricated Angel
 1 Largeius the Big
 1 Ancient Superstructure
 1 Pilgrim

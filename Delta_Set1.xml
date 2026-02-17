@@ -398,6 +398,10 @@
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Atonian%20Phoenix.png">Del1</set>
     </card>
     <card>
+        <name>Aulvan Cipher</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Aulvan%20Cipher.png">Del1</set>
+    </card>
+    <card>
         <name>Aulvan Cypher</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Aulvan%20Cypher.png">Del1</set>
     </card>
@@ -2508,6 +2512,10 @@
     <card>
         <name>Knight's Support</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Knight's%20Support.png">Del1</set>
+    </card>
+    <card>
+        <name>Knight's Supportzzz</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Knight's%20Supportzzz.png">Del1</set>
     </card>
     <card>
         <name>Knightly Mentor</name>
