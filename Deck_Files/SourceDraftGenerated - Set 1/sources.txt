@@ -23,7 +23,7 @@
 1 Pull of the Abyss
 1 Void Spike
 1 Illusory Chains
-1 Manifest Fears
+1 Swirling Thoughts
 1 Recurring Nightmare
 1 Pact of Annihilation
 1 Rift's Grasp
@@ -51,7 +51,6 @@
 1 Void Blast
 1 Pale Prophet Zurani
 1 The Inkblood Library
-1 Nightmare Vortex
 1 Farsight Telescope
 1 Cursed Amulet
 1 Unleash Energy
@@ -70,7 +69,6 @@ Eminus
 1 Devout Knight
 1 Noble Orator
 1 Honorable Knight
-1 Resilient Knight
 1 Liev Arbiter
 1 Nullify Magic
 1 Stall
@@ -102,6 +100,7 @@ Eminus
 1 Prodigal Champion
 1 Cliffside Village
 1 Pax Nova Farmland
+1 Glyph of Summoning
 1 Forgotten Knight
 1 Everyone Forgets
 1 Champion's Crown
@@ -120,7 +119,6 @@ Eminus
 1 Timeline Sink
 1 Knowledge from the Future
 1 Knight's Resolve
-1 Knight's Support
 
 Materia
 1 Watch Bureaucrat
@@ -228,6 +226,7 @@ Epoca
 1 Reserved Scholar
 1 Storm Rune
 1 Glyph of Warding
+1 Recoverer of the Forgotten
 1 Mystic Ruins
 1 Ancient Grounds
 1 Forbidden Knowledge
@@ -277,6 +276,7 @@ Zelor
 1 Journey Through Dream
 1 Knight of the Wheat
 1 Knight of the Torch
+1 Knight's Support
 1 Dream Haven
 1 Dream Jaunt
 1 Omen of Winter
@@ -308,6 +308,7 @@ Zelor
 1 Fireball
 1 Cleave
 1 Disintegrate
+1 Soulfire
 
 Talentus
 1 Crippling Shot
@@ -406,7 +407,9 @@ Deitas
 1 Void Cleric
 1 Fallen Angel
 1 Profane Blessing
+1 Localized Calamity
 1 Spirit Guide
+1 Patient Schemer
 1 Symbol of Vosderon
 1 Divine Intervention
 1 Ethereal Voice
@@ -422,10 +425,13 @@ Deitas
 1 Inquisitor's Cage-Charm
 1 Soul Shift
 1 Elderly Monk
+1 Tithe Gatherer
 1 Living Relic
+1 Conspicuous Gravestone
 1 Cosmic Justice
 1 Shem's Binding
 1 Brag's Prison
+1 Svetian Idolator
 1 Eye for an Eye
 1 Wizened Cleric
 1 Temple of Rebirth
@@ -440,4 +446,5 @@ Deitas
 1 Priest of the Veriglas
 1 Veriglas Cleric
 1 Statue of Luglamien
-1 Reflection of Cyrvo"
+1 Reflection of Cyrvo
+1 Glyph of Strength"
