@@ -309,6 +309,7 @@ Zelor
 1 Cleave
 1 Disintegrate
 1 Soulfire
+1 Interrupt Thoughts
 
 Talentus
 1 Crippling Shot
