@@ -81,6 +81,7 @@ Eminus
 1 Arbiter Marshal
 1 Apprentice Arbiter
 1 Corrupt Chef
+1 Forensics Specialist
 1 Novice Spellsealer
 1 Command
 1 Cloaked Inquisitor
@@ -229,6 +230,8 @@ Epoca
 1 Recoverer of the Forgotten
 1 Mystic Ruins
 1 Ancient Grounds
+1 Ruins Researcher
+1 Doomsday Prophet
 1 Forbidden Knowledge
 1 Tundra Elemental
 1 Shadowy Explosion

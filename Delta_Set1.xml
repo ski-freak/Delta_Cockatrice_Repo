@@ -1310,6 +1310,10 @@
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Doomsday%20Prophet.png">Del1</set>
     </card>
     <card>
+        <name>Doomsday Prophetzz</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Doomsday%20Prophetzz.png">Del1</set>
+    </card>
+    <card>
         <name>Doppelgang</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Doppelgang.png">Del1</set>
     </card>
@@ -1824,6 +1828,10 @@
     <card>
         <name>Forced Retreat</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Forced%20Retreat.png">Del1</set>
+    </card>
+    <card>
+        <name>Forensics Specialist</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Forensics%20Specialist.png">Del1</set>
     </card>
     <card>
         <name>Foretold Cataclysm</name>
@@ -4024,6 +4032,10 @@
     <card>
         <name>Rugged Runner</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Rugged%20Runner.png">Del1</set>
+    </card>
+    <card>
+        <name>Ruins Researcher</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Ruins%20Researcher.png">Del1</set>
     </card>
     <card>
         <name>Ruins</name>
