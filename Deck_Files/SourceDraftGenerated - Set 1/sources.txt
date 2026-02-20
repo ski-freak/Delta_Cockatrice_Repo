@@ -58,6 +58,7 @@
 1 Void Spike
 1 Rift's Grasp
 1 Arcane Ignition
+1 Dream of the Dead
 
 Eminus
 1 Righteous Edict
@@ -151,7 +152,7 @@ Materia
 1 Crackling Hurricane
 1 Shield of Earth
 1 Filibuster Specialist
-1 Steel Resolve
+1 Monsoon
 1 Skyhaven Archer
 1 Farmland Defender
 1 Bloodcaster
@@ -191,7 +192,7 @@ Epoca
 1 Lost Tome
 1 Old-World Scholar
 1 Embargo
-1 Aulvan Cypher
+1 Aulvan Cipher
 1 Antimagic Haze
 1 Knight of the Coin
 1 Gift of Life
@@ -244,6 +245,7 @@ Epoca
 1 Book of Brag
 1 Counter
 1 Condescend
+1 Outlands Cleric
 
 Zelor
 1 Amnesia
@@ -262,6 +264,7 @@ Zelor
 1 Fire Shield
 1 Cleave
 1 Divergent Dreams
+1 Steel Resolve
 1 Knight of the Moon
 1 Survivor Knight
 1 Battlemaster of The Wall
@@ -363,7 +366,6 @@ Talentus
 1 Legion Quartermaster
 1 Rolead the Swift
 1 Hostage Negotiations
-1 Battlefield Looter
 1 Marla, Respected Chef
 1 Watch Quartermaster
 1 Battle Plans
@@ -381,6 +383,8 @@ Talentus
 1 Henry
 1 Bake Into a Quiche
 1 Fallen Soldier
+1 Outlands Surveyor
+1 Wormhole Technician
 
 Deitas
 1 Oln's Binding
@@ -451,4 +455,6 @@ Deitas
 1 Veriglas Cleric
 1 Statue of Luglamien
 1 Reflection of Cyrvo
-1 Glyph of Strength"
+1 Glyph of Strength
+1 Myrkur Seer
+1 The Architect"
