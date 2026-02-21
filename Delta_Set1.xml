@@ -1706,6 +1706,10 @@
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Fallen%20Wizard.png">Del1</set>
     </card>
     <card>
+        <name>False Dragon</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/False%20Dragon.png">Del1</set>
+    </card>
+    <card>
         <name>False Orders</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/False%20Orders.png">Del1</set>
     </card>
@@ -2344,6 +2348,10 @@
     <card>
         <name>Inevitable Failure</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Inevitable%20Failure.png">Del1</set>
+    </card>
+    <card>
+        <name>Inevitable Wisdom</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Inevitable%20Wisdom.png">Del1</set>
     </card>
     <card>
         <name>Infected Cleric</name>
@@ -3348,6 +3356,10 @@
     <card>
         <name>Outlands Guide</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Outlands%20Guide.png">Del1</set>
+    </card>
+    <card>
+        <name>Outlands Leader</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Outlands%20Leader.png">Del1</set>
     </card>
     <card>
         <name>Outlands Surveyor</name>
