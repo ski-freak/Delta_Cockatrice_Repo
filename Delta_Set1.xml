@@ -1814,6 +1814,10 @@
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Flank.png">Del1</set>
     </card>
     <card>
+        <name>Flarier</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Flarier.png">Del1</set>
+    </card>
+    <card>
         <name>Flash Freeze</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Flash%20Freeze.png">Del1</set>
     </card>
@@ -1890,6 +1894,10 @@
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Forsaken%20Displacer.png">Del1</set>
     </card>
     <card>
+        <name>Forsaken Dreamcaster</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Forsaken%20Dreamcaster.png">Del1</set>
+    </card>
+    <card>
         <name>Forsaken Dreamweaver</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Forsaken%20Dreamweaver.png">Del1</set>
     </card>
@@ -1912,6 +1920,10 @@
     <card>
         <name>Forsaken Reveller</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Forsaken%20Reveller.png">Del1</set>
+    </card>
+    <card>
+        <name>Forsaken Spellweaver</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Forsaken%20Spellweaver.png">Del1</set>
     </card>
     <card>
         <name>Forsaken Village</name>

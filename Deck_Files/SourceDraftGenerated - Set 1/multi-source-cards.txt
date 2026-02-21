@@ -53,7 +53,7 @@ Battlefield Engineer
 ---Epoca-Materia
 Twofold Destruction
 Corvallis, the Law Druid
-Efficient Arbiter
+Mage Bandit
 ---Epoca-Arca
 Presence of the Nightmare
 Corrupted River Spirit
@@ -76,7 +76,7 @@ Pale Immortal
 Rift Summoning
 ---Materia-Zelor
 Survivor's Grit
-Bridge Guardian
+
 Tempest Knight
 ---Materia-Eminus
 Loanweaver

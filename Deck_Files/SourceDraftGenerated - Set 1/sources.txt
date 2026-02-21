@@ -34,6 +34,7 @@
 1 Riftcursed Farmer
 1 Avatar of Terror
 1 Bloodcrazed Knight
+1 Inevitable Wisdom
 1 Rift Cache
 1 Unstable Contract
 1 Knight of the Book
@@ -171,7 +172,7 @@ Materia
 1 Desolate Roads
 1 Sorvald's Insight
 1 Remove from History
-1 Final Stand
+1 Outlands Leader
 1 Ritual of the Seven
 1 Lifeless Walker
 1 Alliance Summoner
@@ -309,13 +310,15 @@ Zelor
 1 Astral Speculation
 1 Righteous Fury
 1 Mind Demolition
-1 Replication Incantation
 1 Unrelenting Flames
 1 Fireball
 1 Cleave
 1 Disintegrate
 1 Soulfire
 1 Interrupt Thoughts
+1 False Dragon
+1 Forsaken Dreamcaster
+1 Flarier
 
 Talentus
 1 Crippling Shot
@@ -346,7 +349,6 @@ Talentus
 1 Experienced Traveler
 1 Heroic Moment
 1 General Falfar Kelwyn
-1 Scavenged Munitions
 1 Conceal
 1 Nomadic Orc
 1 Adapt
