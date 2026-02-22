@@ -203,12 +203,14 @@ Epoca
 1 Remake
 1 Will o' the Wisp
 1 Squelch
+1 Skill-Stealing
 1 Warden of the Portals
 1 Pale Sun Initiate
 1 Decode the Runes
 1 Seasoned Arbiter
 1 Arcane Historian
 1 Arbiter Convergence
+1 Nationwide Alignment
 1 Energy Cell
 1 Trinketeer
 1 Tariff
@@ -319,6 +321,7 @@ Zelor
 1 False Dragon
 1 Forsaken Dreamcaster
 1 Flarier
+1 Datro's Cat
 
 Talentus
 1 Crippling Shot
@@ -405,7 +408,6 @@ Deitas
 1 Stare into the Sun
 1 Living Temple
 1 Noble Ancestor
-1 Gods' Meddling
 1 Selfless Cultist
 1 Pale Sun's Influence
 1 Beseech the Gods
@@ -448,6 +450,7 @@ Deitas
 1 Mysterious Cemetery
 1 Molten Image
 1 Orb of Binding
+1 Captain A
 1 Largeius the Big
 1 Ancient Superstructure
 1 Pilgrim
