@@ -222,6 +222,10 @@
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Arbiter%20Squadron.png">Del1</set>
     </card>
     <card>
+        <name>Arbiter Trainer</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Arbiter%20Trainer.png">Del1</set>
+    </card>
+    <card>
         <name>Arbiter's Automaton</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Arbiter's%20Automaton.png">Del1</set>
     </card>
@@ -584,6 +588,10 @@
     <card>
         <name>Bird Statue</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Bird%20Statue.png">Del1</set>
+    </card>
+    <card>
+        <name>Bird Watcher</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Bird%20Watcher.png">Del1</set>
     </card>
     <card>
         <name>Blackmail</name>
@@ -1058,6 +1066,10 @@
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Crypt%20Skeletons.png">Del1</set>
     </card>
     <card>
+        <name>Cryptic Commander</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Cryptic%20Commander.png">Del1</set>
+    </card>
+    <card>
         <name>Cryptic Drake</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Cryptic%20Drake.png">Del1</set>
     </card>
@@ -1204,6 +1216,10 @@
     <card>
         <name>Demonic Mirror</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Demonic%20Mirror.png">Del1</set>
+    </card>
+    <card>
+        <name>Demonic Mirrorzz</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Demonic%20Mirrorzz.png">Del1</set>
     </card>
     <card>
         <name>Demonic Power</name>
@@ -1598,6 +1614,10 @@
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Ethereal%20Knight.png">Del1</set>
     </card>
     <card>
+        <name>Ethereal Swan</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Ethereal%20Swan.png">Del1</set>
+    </card>
+    <card>
         <name>Ethereal Voice</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Ethereal%20Voice.png">Del1</set>
     </card>
@@ -1840,6 +1860,10 @@
     <card>
         <name>Flashback</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Flashback.png">Del1</set>
+    </card>
+    <card>
+        <name>Flying Lawmage</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Flying%20Lawmage.png">Del1</set>
     </card>
     <card>
         <name>Flying Squirrel</name>
@@ -2956,6 +2980,10 @@
     <card>
         <name>Mesa Smuggler</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Mesa%20Smuggler.png">Del1</set>
+    </card>
+    <card>
+        <name>Messenger Pigeon</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Messenger%20Pigeon.png">Del1</set>
     </card>
     <card>
         <name>Metallic Axe</name>
@@ -4732,6 +4760,10 @@
     <card>
         <name>Supply-Line Runner</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Supply-Line%20Runner.png">Del1</set>
+    </card>
+    <card>
+        <name>Surprise Arbiter</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Surprise%20Arbiter.png">Del1</set>
     </card>
     <card>
         <name>Surprise Surveillance</name>

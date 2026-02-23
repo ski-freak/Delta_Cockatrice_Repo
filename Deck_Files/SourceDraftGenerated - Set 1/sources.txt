@@ -100,6 +100,7 @@ Eminus
 1 Beckon Home
 1 Wolkk Twinspear
 1 Arbiters' Stronghold
+1 Flying Lawmage
 1 Prodigal Champion
 1 Cliffside Village
 1 Pax Nova Farmland
@@ -241,6 +242,7 @@ Epoca
 1 Shadowy Explosion
 1 Priest of the Forge
 1 Arbiter's Foundry
+1 Construct Friend
 1 The Great Factory
 1 Automaton Conjuration
 1 Mad Scientist
@@ -249,6 +251,13 @@ Epoca
 1 Counter
 1 Condescend
 1 Outlands Cleric
+1 Demonic Mirror
+1 Cryptic Commander
+1 Bird Watcher
+1 Arbiter Trainer
+1 Ethereal Swan
+1 Surprise Arbiter
+1 Messenger Pigeon
 
 Zelor
 1 Amnesia
@@ -344,7 +353,6 @@ Talentus
 1 Supply Logistics
 1 Legion Rider
 1 Supercharge
-1 Ancient Swordsmaster
 1 Force Field
 1 Legion Drill Sergeant
 1 Investigate the Scene
