@@ -2522,6 +2522,10 @@
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Itemvial.png">Del1</set>
     </card>
     <card>
+        <name>Jacob</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Jacob.png">Del1</set>
+    </card>
+    <card>
         <name>John</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/John.png">Del1</set>
     </card>
@@ -2914,6 +2918,10 @@
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Mass%20Recall.png">Del1</set>
     </card>
     <card>
+        <name>Master Tactician</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Master%20Tactician.png">Del1</set>
+    </card>
+    <card>
         <name>Master Vennan</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Master%20Vennan.png">Del1</set>
     </card>
@@ -3190,8 +3198,24 @@
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Necromancer's%20Will.png">Del1</set>
     </card>
     <card>
+        <name>Neutral Agent</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Neutral%20Agent.png">Del1</set>
+    </card>
+    <card>
+        <name>Neutral Flames</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Neutral%20Flames.png">Del1</set>
+    </card>
+    <card>
         <name>Neutral Ground</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Neutral%20Ground.png">Del1</set>
+    </card>
+    <card>
+        <name>Neutral Knowledge</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Neutral%20Knowledge.png">Del1</set>
+    </card>
+    <card>
+        <name>Neutral Strength</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Neutral%20Strength.png">Del1</set>
     </card>
     <card>
         <name>New Horizons</name>

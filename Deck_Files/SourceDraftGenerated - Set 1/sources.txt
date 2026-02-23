@@ -23,7 +23,6 @@
 1 Pull of the Abyss
 1 Void Spike
 1 Illusory Chains
-1 Swirling Thoughts
 1 Recurring Nightmare
 1 Pact of Annihilation
 1 Rift's Grasp
@@ -154,6 +153,7 @@ Materia
 1 Crackling Hurricane
 1 Shield of Earth
 1 Filibuster Specialist
+1 Wild Beast
 1 Monsoon
 1 Skyhaven Archer
 1 Farmland Defender
@@ -187,6 +187,7 @@ Materia
 1 War Druid
 1 Esmund's Staff
 1 Worldly Wisdom
+1 Neutral Agent
 
 Epoca
 1 Scrap Compactor
@@ -198,6 +199,7 @@ Epoca
 1 Antimagic Haze
 1 Knight of the Coin
 1 Gift of Life
+1 Neutral Knowledge
 1 Stronghold Dispatch
 1 Condescend
 1 Futuresight Ritual
@@ -321,6 +323,7 @@ Zelor
 1 Astral Speculation
 1 Righteous Fury
 1 Mind Demolition
+1 Neutral Flames
 1 Unrelenting Flames
 1 Fireball
 1 Cleave
@@ -379,6 +382,7 @@ Talentus
 1 Legion Quartermaster
 1 Rolead the Swift
 1 Hostage Negotiations
+1 Neutral Strength
 1 Marla, Respected Chef
 1 Watch Quartermaster
 1 Battle Plans
@@ -398,6 +402,7 @@ Talentus
 1 Fallen Soldier
 1 Outlands Surveyor
 1 Wormhole Technician
+1 Master Tactician
 
 Deitas
 1 Oln's Binding
