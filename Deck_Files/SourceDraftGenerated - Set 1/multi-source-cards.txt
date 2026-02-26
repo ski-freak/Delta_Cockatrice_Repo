@@ -43,7 +43,7 @@ Desperate Stand
 Fervent Ritual
 Relic Channeler
 ---Deitas-Materia
-Mnem Directive
+Rift Summoning
 Wizz, Mid Mage
 Anvil of Souls
 ---Epoca-Talentus
@@ -73,13 +73,13 @@ Commander Garis
 ---Materia-Arca
 Blood Ritual
 Pale Immortal
-Rift Summoning
+
 ---Materia-Zelor
 Survivor's Grit
-
+Guide to Terrain
 Tempest Knight
 ---Materia-Eminus
-Loanweaver
+
 Master Vennan
 Hunter's Companion
 --- No ideals
