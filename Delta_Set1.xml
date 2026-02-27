@@ -774,6 +774,10 @@
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Call%20of%20Destiny.png">Del1</set>
     </card>
     <card>
+        <name>Call of Pax-Nova</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Call%20of%20Pax-Nova.png">Del1</set>
+    </card>
+    <card>
         <name>Call to Arms</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Call%20to%20Arms.png">Del1</set>
     </card>
@@ -1392,6 +1396,10 @@
     <card>
         <name>Dream Stalker</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Dream%20Stalker.png">Del1</set>
+    </card>
+    <card>
+        <name>Dream Warden</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Dream%20Warden.png">Del1</set>
     </card>
     <card>
         <name>Dream Web</name>
@@ -2172,6 +2180,10 @@
     <card>
         <name>Glyph of Survival</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Glyph%20of%20Survival.png">Del1</set>
+    </card>
+    <card>
+        <name>Glyph of Swiftness</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Glyph%20of%20Swiftness.png">Del1</set>
     </card>
     <card>
         <name>Glyph of Warding</name>

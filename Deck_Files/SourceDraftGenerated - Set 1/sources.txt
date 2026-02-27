@@ -52,6 +52,7 @@
 1 Iridescence
 1 Pale Prophet Zurani
 1 The Inkblood Library
+1 Strength of Dream
 1 Farsight Telescope
 1 Cursed Amulet
 1 Unleash Energy
@@ -61,6 +62,9 @@
 1 Arcane Ignition
 1 Dream of the Dead
 1 Lhorish
+1 Strength of Dream
+1 Glyph of Swiftness
+1 Dream Warden
 
 Eminus
 1 Righteous Edict
@@ -97,7 +101,6 @@ Eminus
 1 Farsight
 1 Defender of the Gate
 1 Sound the Alarm
-1 Intangible Knight
 1 Slow Magic
 1 Beckon Home
 1 Wolkk Twinspear
@@ -125,6 +128,7 @@ Eminus
 1 Timeline Sink
 1 Knowledge from the Future
 1 Knight's Resolve
+1 Call of Pax-Nova
 
 Materia
 1 Watch Bureaucrat
@@ -445,7 +449,6 @@ Deitas
 1 Disciple of The Shattered Mirror
 1 Reckless Acolyte
 1 Demonic Bargain
-1 Vosderon, God of Math Equations
 1 Devout Adventurer
 1 Invincibility Aura
 1 Demon of Consumption
