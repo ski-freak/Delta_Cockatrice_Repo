@@ -23,6 +23,7 @@
 1 Pull of the Abyss
 1 Void Spike
 1 Illusory Chains
+1 Void Slap
 1 Recurring Nightmare
 1 Pact of Annihilation
 1 Rift's Grasp
@@ -104,7 +105,7 @@ Eminus
 1 Slow Magic
 1 Beckon Home
 1 Wolkk Twinspear
-1 Arbiters' Stronghold
+1 Knights' Beacon
 1 Flying Lawmage
 1 Prodigal Champion
 1 Cliffside Village
