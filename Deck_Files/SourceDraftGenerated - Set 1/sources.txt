@@ -9,6 +9,7 @@
 1 Emissary of Fear
 1 Rift Channeler
 1 Arcane Amalgam
+1 Fogswept Ravages
 1 Myrkur Phantom
 1 Corpse Amalgam
 1 Rift Screech
@@ -28,7 +29,6 @@
 1 Pact of Annihilation
 1 Rift's Grasp
 1 Forsaken Cultist
-1 Enhance Spell
 1 Visions of the End
 1 Blood Channeler
 1 Riftcursed Farmer
@@ -66,6 +66,7 @@
 1 Strength of Dream
 1 Glyph of Swiftness
 1 Dream Warden
+1 Skyhaven Looter
 
 Eminus
 1 Righteous Edict
@@ -77,6 +78,7 @@ Eminus
 1 Devout Knight
 1 Noble Orator
 1 Honorable Knight
+1 Watchful Ogre
 1 Liev Arbiter
 1 Nullify Magic
 1 Stall
@@ -88,20 +90,21 @@ Eminus
 1 Banishment
 1 Arbiter Marshal
 1 Apprentice Arbiter
-1 Corrupt Chef
 1 Forensics Specialist
 1 Novice Spellsealer
 1 Command
-1 Cloaked Inquisitor
 1 Selfless Lawmage
 1 Ozen's Faithful
 1 Glyph of Sending
+1 Forsaken Knight
 1 Sunblade Knight
 1 Queen Eudoxia
 1 Glyph of Alarm
 1 Farsight
 1 Defender of the Gate
 1 Sound the Alarm
+1 Summoning Sloth
+1 Potential Man
 1 Slow Magic
 1 Beckon Home
 1 Wolkk Twinspear
@@ -130,6 +133,11 @@ Eminus
 1 Knowledge from the Future
 1 Knight's Resolve
 1 Call of Pax-Nova
+1 Rule of Three
+1 Gakt
+1 Intangible Knight
+1 Variety Fan
+1 Reconnaissance
 
 Materia
 1 Watch Bureaucrat
@@ -150,6 +158,7 @@ Materia
 1 Councilor Corsovo
 1 Consume Flesh
 1 Leyline Summoning
+1 Borderwoods Mossbeast
 1 Lekvian Butler
 1 Bloodburst
 1 Clockwork Soldier
@@ -159,6 +168,7 @@ Materia
 1 Vanish
 1 Healing Potion
 1 Crackling Hurricane
+1 Druid of Decomposition
 1 Shield of Earth
 1 Filibuster Specialist
 1 Wild Beast
@@ -194,6 +204,7 @@ Materia
 1 Vaporize
 1 Sinkhole
 1 War Druid
+1 Devouring Ooze
 1 Esmund's Staff
 1 Worldly Wisdom
 1 Neutral Agent
@@ -211,6 +222,8 @@ Epoca
 1 Stronghold Dispatch
 1 Condescend
 1 Futuresight Ritual
+1 Trinket Bird
+1 Relic Collector
 1 Remake
 1 Will o' the Wisp
 1 Squelch
@@ -222,7 +235,6 @@ Epoca
 1 Arbiter Convergence
 1 Nationwide Alignment
 1 Energy Cell
-1 Trinketeer
 1 Tariff
 1 Interrupt
 1 Annul
@@ -253,7 +265,6 @@ Epoca
 1 Construct Friend
 1 The Great Factory
 1 Automaton Conjuration
-1 Mad Scientist
 1 Glugg, the Resourceful
 1 Book of Brag
 1 Counter
@@ -264,7 +275,7 @@ Epoca
 1 Bird Watcher
 1 Arbiter Trainer
 1 Ethereal Swan
-1 Surprise Arbiter
+1 Hejira's Familiar
 1 Messenger Pigeon
 
 Zelor
@@ -287,7 +298,7 @@ Zelor
 1 Steel Resolve
 1 Knight of the Moon
 1 Survivor Knight
-1 Battlemaster of The Wall
+1 The Mindscrambler
 1 Sleep Eater
 1 Avatar of Defeat
 1 Seasonal Festeval
@@ -309,7 +320,7 @@ Zelor
 1 Unstable Core
 1 Pale Zealot
 1 Amatuer Illusionist
-1 Forsaken Displacer
+1 Lucas
 1 Battle Rage
 1 Forsaken Chanter
 1 Forsaken Reveller
@@ -341,8 +352,10 @@ Zelor
 1 Flarier
 1 Datro's Cat
 1 Fiery Earthmaw
-1 Trueish Dragon
+1 Dragon Figurine
 1 Phoenix
+1 Enhance Spell
+1 Setup Man
 
 Talentus
 1 Crippling Shot
@@ -355,6 +368,7 @@ Talentus
 1 Legion Tactician
 1 Advanced Tactics
 1 Ambush
+1 Soulcaster
 1 Legion Mageslayer
 1 Swift Rescue
 1 Lopsided Truce
@@ -365,6 +379,7 @@ Talentus
 1 Supply Logistics
 1 Legion Rider
 1 Supercharge
+1 Investigator Snoopy
 1 Force Field
 1 Legion Drill Sergeant
 1 Investigate the Scene
@@ -378,7 +393,6 @@ Talentus
 1 Battlefield Rift
 1 Goblin Sharptooth
 1 Trade Insight
-1 War Elephant
 1 Lesser War Demon
 1 Legion Courier
 1 Banner of Lentholm
@@ -388,6 +402,7 @@ Talentus
 1 Inspired Charge
 1 What You Can Carry
 1 Reorganize
+1 Battlefield Bard
 1 Legion Quartermaster
 1 Rolead the Swift
 1 Hostage Negotiations
@@ -411,8 +426,6 @@ Talentus
 1 Outlands Surveyor
 1 Wormhole Technician
 1 Master Tactician
-1 Fearless Leader
-1 Endless Hordes
 
 Deitas
 1 Oln's Binding
@@ -430,6 +443,7 @@ Deitas
 1 Stare into the Sun
 1 Living Temple
 1 Noble Ancestor
+1 Unstable Necromancer
 1 Selfless Cultist
 1 Pale Sun's Influence
 1 Guardian Angel
@@ -464,15 +478,17 @@ Deitas
 1 Shem's Binding
 1 Brag's Prison
 1 Svetian Idolator
+1 Titanic Cleric
 1 Eye for an Eye
 1 Wizened Cleric
 1 Temple of Rebirth
 1 Mysterious Cemetery
 1 Molten Image
 1 Orb of Binding
-1 Captain A
+1 Culture Enthusiast
 1 Largeius the Big
 1 Ancient Superstructure
+1 Big Spell Fan
 1 Pilgrim
 1 Veriglas Preacher
 1 Veriglas Zelot
@@ -482,4 +498,6 @@ Deitas
 1 Reflection of Cyrvo
 1 Glyph of Strength
 1 Myrkur Seer
-1 The Architect"
+1 The Architect
+1 Minor Prophecy
+1 Vengeful Cleric"
