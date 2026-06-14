@@ -2,7 +2,6 @@
 1 Benevolent Nightmare
 1 Hwain's Disciple
 1 Void Axe
-1 Oruva Scout
 1 Giant Bat
 1 Void Drake
 1 Arcane Revenant
@@ -98,7 +97,6 @@ Eminus
 1 Glyph of Sending
 1 Forsaken Knight
 1 Sunblade Knight
-1 Queen Eudoxia
 1 Glyph of Alarm
 1 Farsight
 1 Defender of the Gate
