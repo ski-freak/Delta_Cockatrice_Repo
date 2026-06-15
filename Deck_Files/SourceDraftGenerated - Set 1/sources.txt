@@ -172,7 +172,6 @@ Materia
 1 Wild Beast
 1 Monsoon
 1 Skyhaven Archer
-1 Farmland Defender
 1 Bloodcaster
 1 Earthquake
 1 Alliance General
@@ -263,6 +262,7 @@ Epoca
 1 Construct Friend
 1 The Great Factory
 1 Automaton Conjuration
+1 Master of Disguises
 1 Glugg, the Resourceful
 1 Book of Brag
 1 Counter
