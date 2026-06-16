@@ -2,6 +2,7 @@
 1 Benevolent Nightmare
 1 Hwain's Disciple
 1 Void Axe
+1 Forsaken Schemer
 1 Giant Bat
 1 Void Drake
 1 Arcane Revenant
@@ -28,6 +29,7 @@
 1 Pact of Annihilation
 1 Rift's Grasp
 1 Forsaken Cultist
+1 Emotion Vampire
 1 Visions of the End
 1 Blood Channeler
 1 Riftcursed Farmer
@@ -66,6 +68,8 @@
 1 Glyph of Swiftness
 1 Dream Warden
 1 Skyhaven Looter
+1 Twist of Fate
+1 Spellcaster's Scroll
 
 Eminus
 1 Righteous Edict
@@ -89,6 +93,7 @@ Eminus
 1 Banishment
 1 Arbiter Marshal
 1 Apprentice Arbiter
+1 Brazen Outlaw
 1 Forensics Specialist
 1 Novice Spellsealer
 1 Command
@@ -97,6 +102,7 @@ Eminus
 1 Glyph of Sending
 1 Forsaken Knight
 1 Sunblade Knight
+1 Resize
 1 Glyph of Alarm
 1 Farsight
 1 Defender of the Gate
@@ -136,6 +142,8 @@ Eminus
 1 Intangible Knight
 1 Variety Fan
 1 Reconnaissance
+1 Undercover Arbiter
+1 Angel's Rebuke
 
 Materia
 1 Watch Bureaucrat
@@ -172,7 +180,9 @@ Materia
 1 Wild Beast
 1 Monsoon
 1 Skyhaven Archer
+1 Sedric
 1 Bloodcaster
+1 Largeius the Benevolent
 1 Earthquake
 1 Alliance General
 1 Logistics Expert
@@ -203,6 +213,7 @@ Materia
 1 War Druid
 1 Devouring Ooze
 1 Esmund's Staff
+1 Jim
 1 Worldly Wisdom
 1 Neutral Agent
 
@@ -214,9 +225,12 @@ Epoca
 1 Embargo
 1 Aulvan Cipher
 1 Antimagic Haze
+1 Prepare
 1 Knight of the Coin
 1 Gift of Life
+1 Possessed Mask
 1 Stronghold Dispatch
+1 Questing Wizard
 1 Condescend
 1 Futuresight Ritual
 1 Trinket Bird
@@ -315,7 +329,6 @@ Zelor
 1 Dream Haven
 1 Dream Jaunt
 1 Omen of Winter
-1 Unstable Core
 1 Pale Zealot
 1 Amatuer Illusionist
 1 Lucas
@@ -354,12 +367,20 @@ Zelor
 1 Phoenix
 1 Enhance Spell
 1 Setup Man
+1 Aulvan Ruins
+1 Dragon's Breath
+1 Unstable Core
+1 Dragon Researcher
 
 Talentus
 1 Crippling Shot
 1 Reserve Tactics
 1 Young Dragon Spider
+1 Shield Wall
 1 Tower Thief
+1 Legion Student
+1 The Collector
+1 Stasis Snare
 1 Legion Messenger
 1 Team Up
 1 Lure into Danger
@@ -436,8 +457,10 @@ Deitas
 1 Infected Cleric
 1 Decree of Peace
 1 Reforge in Flame
+1 Disciple of Oln
 1 Undying Duty
 1 Reawaken in Dream
+1 Visions of Vosderon
 1 Stare into the Sun
 1 Living Temple
 1 Noble Ancestor
@@ -462,6 +485,8 @@ Deitas
 1 Disciple of The Shattered Mirror
 1 Reckless Acolyte
 1 Demonic Bargain
+1 Strength of the Dead
+1 Eternal Slumber
 1 Devout Adventurer
 1 Invincibility Aura
 1 Demon of Consumption
@@ -498,4 +523,5 @@ Deitas
 1 Myrkur Seer
 1 The Architect
 1 Minor Prophecy
-1 Vengeful Cleric"
+1 Vengeful Cleric
+1 Kidnap"
