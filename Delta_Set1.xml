@@ -902,6 +902,10 @@
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Bring%20it%20On.png">Del1</set>
     </card>
     <card>
+        <name>Bringer of Winds</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Bringer%20of%20Winds.png">Del1</set>
+    </card>
+    <card>
         <name>Burning Ascent</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Burning%20Ascent.png">Del1</set>
     </card>
@@ -952,6 +956,10 @@
     <card>
         <name>Captain A</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Captain%20A.png">Del1</set>
+    </card>
+    <card>
+        <name>Carl</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Carl.png">Del1</set>
     </card>
     <card>
         <name>Castle</name>
@@ -2196,6 +2204,10 @@
     <card>
         <name>Form of Force</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Form%20of%20Force.png">Del1</set>
+    </card>
+    <card>
+        <name>Forsaken Chant</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Forsaken%20Chant.png">Del1</set>
     </card>
     <card>
         <name>Forsaken Chanter</name>

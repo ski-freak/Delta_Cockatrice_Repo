@@ -99,7 +99,6 @@ Eminus
 1 Command
 1 Selfless Lawmage
 1 Ozen's Faithful
-1 Glyph of Sending
 1 Forsaken Knight
 1 Sunblade Knight
 1 Resize
@@ -186,7 +185,6 @@ Materia
 1 Earthquake
 1 Alliance General
 1 Logistics Expert
-1 Supply-Line Runner
 1 Vaporize
 1 New Horizons
 1 Druid of Distant Lands
@@ -262,8 +260,10 @@ Epoca
 1 Return to Dust
 1 Scour the Ruins
 1 Reserved Scholar
+1 Bringer of Winds
 1 Storm Rune
 1 Glyph of Warding
+1 Carl
 1 Mystic Ruins
 1 Ancient Grounds
 1 Ruins Researcher
@@ -273,7 +273,6 @@ Epoca
 1 Shadowy Explosion
 1 Priest of the Forge
 1 Arbiter's Foundry
-1 Construct Friend
 1 The Great Factory
 1 Automaton Conjuration
 1 Master of Disguises
@@ -333,7 +332,7 @@ Zelor
 1 Amatuer Illusionist
 1 Lucas
 1 Battle Rage
-1 Forsaken Chanter
+1 Forsaken Chant
 1 Forsaken Reveller
 1 Traverse Dream
 1 Escape to Dream
@@ -524,5 +523,5 @@ Deitas
 1 The Architect
 1 Minor Prophecy
 1 Vengeful Cleric
-1 Kidnap
+1 Voidwalker
 1 Fisherman"
