@@ -524,4 +524,5 @@ Deitas
 1 The Architect
 1 Minor Prophecy
 1 Vengeful Cleric
-1 Kidnap"
+1 Kidnap
+1 Fisherman"

@@ -50,6 +50,10 @@
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/2Cursed%20Amulet.png">Del1</set>
     </card>
     <card>
+        <name>2Force Field</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/2Force%20Field.png">Del1</set>
+    </card>
+    <card>
         <name>2Glyph of Summoning</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/2Glyph%20of%20Summoning.png">Del1</set>
     </card>
@@ -2084,6 +2088,10 @@
     <card>
         <name>First Blood</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/First%20Blood.png">Del1</set>
+    </card>
+    <card>
+        <name>Fisherman</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Fisherman.png">Del1</set>
     </card>
     <card>
         <name>Flame Channeler</name>
@@ -6088,6 +6096,10 @@
     <card>
         <name>Voidsworn Apostle</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Voidsworn%20Apostle.png">Del1</set>
+    </card>
+    <card>
+        <name>Voidwalker</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Voidwalker.png">Del1</set>
     </card>
     <card>
         <name>Volcanic Cliffs</name>
