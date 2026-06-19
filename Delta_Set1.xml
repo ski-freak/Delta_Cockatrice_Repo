@@ -38,6 +38,42 @@
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/--.png">Del1</set>
     </card>
     <card>
+        <name>--Arca</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/--Arca.png">Del1</set>
+    </card>
+    <card>
+        <name>--Eminus</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/--Eminus.png">Del1</set>
+    </card>
+    <card>
+        <name>--Faith</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/--Faith.png">Del1</set>
+    </card>
+    <card>
+        <name>--Martial</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/--Martial.png">Del1</set>
+    </card>
+    <card>
+        <name>--Material</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/--Material.png">Del1</set>
+    </card>
+    <card>
+        <name>--Rates Removal</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/--Rates%20Removal.png">Del1</set>
+    </card>
+    <card>
+        <name>--Spells</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/--Spells.png">Del1</set>
+    </card>
+    <card>
+        <name>--Zelor</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/--Zelor.png">Del1</set>
+    </card>
+    <card>
+        <name>-</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/-.png">Del1</set>
+    </card>
+    <card>
         <name>-Real</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/-Real.png">Del1</set>
     </card>
@@ -2472,6 +2508,10 @@
     <card>
         <name>Glyph of Swiftness</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Glyph%20of%20Swiftness.png">Del1</set>
+    </card>
+    <card>
+        <name>Glyph of Ward</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Glyph%20of%20Ward.png">Del1</set>
     </card>
     <card>
         <name>Glyph of Warding</name>
