@@ -84,8 +84,6 @@ Eminus
 1 Watchful Ogre
 1 Liev Arbiter
 1 Nullify Magic
-1 Stall
-1 False Orders
 1 Rewind
 1 Untimely Investigation
 1 Scramble Magic
@@ -148,7 +146,6 @@ Materia
 1 Watch Bureaucrat
 1 Sublimate
 1 Hemokinesis
-1 Sudden Drop
 1 Sinkhole
 1 Worldly Scribe
 1 The Borderwoods
@@ -253,6 +250,7 @@ Epoca
 1 Hourglass of Ages
 1 Pax Valley Wyvern
 1 Oguth of Mnem
+1 Wingsmith
 1 Rune of Antiquity
 1 Deny
 1 Oana's Divination
@@ -324,10 +322,8 @@ Zelor
 1 Journey Through Dream
 1 Knight of the Wheat
 1 Knight of the Torch
-1 Knight's Support
 1 Dream Haven
 1 Dream Jaunt
-1 Omen of Winter
 1 Pale Zealot
 1 Amatuer Illusionist
 1 Lucas
@@ -335,7 +331,6 @@ Zelor
 1 Forsaken Chant
 1 Forsaken Reveller
 1 Traverse Dream
-1 Escape to Dream
 1 Atnian Guide
 1 Recollect
 1 Unstable Staff
@@ -424,11 +419,11 @@ Talentus
 1 Legion Quartermaster
 1 Rolead the Swift
 1 Hostage Negotiations
+1 Bear Trap
 1 Marla, Respected Chef
 1 Watch Quartermaster
 1 Battle Plans
 1 Possessed Legionnaire
-1 Legion Infiltrator
 1 Selfless Legionnaire
 1 Midnight Duel
 1 Legion's Forge
@@ -450,7 +445,6 @@ Deitas
 1 Symbol of Hwain
 1 Oln's Binding
 1 Symbol of Hwain
-1 Festering Penitent
 1 Wandering Protector
 1 Dark Apostle
 1 Infected Cleric

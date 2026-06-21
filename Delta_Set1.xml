@@ -122,6 +122,10 @@
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/4%20Dimensional%20Clock.png">Del1</set>
     </card>
     <card>
+        <name>4 Trick</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/4%20Trick.png">Del1</set>
+    </card>
+    <card>
         <name>4-1 Man</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/4-1%20Man.png">Del1</set>
     </card>
@@ -728,6 +732,10 @@
     <card>
         <name>Beacon of Last Light</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Beacon%20of%20Last%20Light.png">Del1</set>
+    </card>
+    <card>
+        <name>Bear Trap</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Bear%20Trap.png">Del1</set>
     </card>
     <card>
         <name>Beckon Home</name>
@@ -6336,6 +6344,10 @@
     <card>
         <name>Windy Day</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Windy%20Day.png">Del1</set>
+    </card>
+    <card>
+        <name>Wingsmith</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Wingsmith.png">Del1</set>
     </card>
     <card>
         <name>Wizard's Familiar</name>
