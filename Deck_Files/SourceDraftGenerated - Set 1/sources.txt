@@ -204,7 +204,6 @@ Materia
 1 Outlands Leader
 1 Ritual of the Seven
 1 Lifeless Walker
-1 Alliance Summoner
 1 Radiation Ray
 1 Summoning Circle
 1 Walking Stones
@@ -446,6 +445,7 @@ Talentus
 1 Outlands Surveyor
 1 Wormhole Technician
 1 Master Tactician
+1 Supply-Line Runner
 
 Deitas
 1 Oln's Binding
@@ -476,7 +476,6 @@ Deitas
 1 Void Cleric
 1 Fallen Angel
 1 Profane Blessing
-1 Localized Calamity
 1 Spirit Guide
 1 Patient Schemer
 1 Symbol of Vosderon
