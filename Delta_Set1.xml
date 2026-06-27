@@ -106,6 +106,10 @@
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/2Singularity.png">Del1</set>
     </card>
     <card>
+        <name>2Supply-Line Runner</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/2Supply-Line%20Runner.png">Del1</set>
+    </card>
+    <card>
         <name>2Twist of Fate</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/2Twist%20of%20Fate.png">Del1</set>
     </card>
@@ -1170,6 +1174,10 @@
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Combo%20Class.png">Del1</set>
     </card>
     <card>
+        <name>Comeuppance</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Comeuppance.png">Del1</set>
+    </card>
+    <card>
         <name>Command</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Command.png">Del1</set>
     </card>
@@ -1568,6 +1576,10 @@
     <card>
         <name>Disintegrate</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Disintegrate.png">Del1</set>
+    </card>
+    <card>
+        <name>Dismantling Technique</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Dismantling%20Technique.png">Del1</set>
     </card>
     <card>
         <name>Dispel</name>
@@ -2162,8 +2174,16 @@
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Finishing%20Move.png">Del1</set>
     </card>
     <card>
+        <name>Fire and Ice</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Fire%20and%20Ice.png">Del1</set>
+    </card>
+    <card>
         <name>Fire Shield</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Fire%20Shield.png">Del1</set>
+    </card>
+    <card>
+        <name>Fire-Breather</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Fire-Breather.png">Del1</set>
     </card>
     <card>
         <name>Fireball</name>
@@ -2404,6 +2424,10 @@
     <card>
         <name>Frost Glyphs</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Frost%20Glyphs.png">Del1</set>
+    </card>
+    <card>
+        <name>Frost Lich</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Frost%20Lich.png">Del1</set>
     </card>
     <card>
         <name>Frost Sprint</name>

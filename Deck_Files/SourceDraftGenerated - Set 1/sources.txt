@@ -77,6 +77,8 @@
 1 Campsite
 1 Castle
 1 Temple
+1 Ancient Nightmare
+1 Frost Lich
 
 Eminus
 1 Righteous Edict
@@ -425,11 +427,11 @@ Talentus
 1 Legion Quartermaster
 1 Rolead the Swift
 1 Hostage Negotiations
-1 Bear Trap
 1 Marla, Respected Chef
 1 Watch Quartermaster
 1 Battle Plans
 1 Possessed Legionnaire
+1 Dismantling Technique
 1 Selfless Legionnaire
 1 Midnight Duel
 1 Legion's Forge
@@ -452,6 +454,7 @@ Deitas
 1 Symbol of Hwain
 1 Oln's Binding
 1 Symbol of Hwain
+1 Meditation
 1 Wandering Protector
 1 Dark Apostle
 1 Infected Cleric
@@ -476,6 +479,7 @@ Deitas
 1 Void Cleric
 1 Fallen Angel
 1 Profane Blessing
+1 Comeuppance
 1 Spirit Guide
 1 Patient Schemer
 1 Symbol of Vosderon
