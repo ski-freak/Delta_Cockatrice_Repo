@@ -479,7 +479,7 @@ Deitas
 1 Void Cleric
 1 Fallen Angel
 1 Profane Blessing
-1 Comeuppance
+1 Smite
 1 Spirit Guide
 1 Patient Schemer
 1 Symbol of Vosderon
