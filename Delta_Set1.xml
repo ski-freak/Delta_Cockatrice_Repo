@@ -4482,6 +4482,10 @@
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Radiation%20Ray.png">Del1</set>
     </card>
     <card>
+        <name>Ragecaster</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Ragecaster.png">Del1</set>
+    </card>
+    <card>
         <name>Raiding</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Raiding.png">Del1</set>
     </card>
@@ -5864,6 +5868,10 @@
     <card>
         <name>Timely Fable</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Timely%20Fable.png">Del1</set>
+    </card>
+    <card>
+        <name>Tiny Toolbox</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Tiny%20Toolbox.png">Del1</set>
     </card>
     <card>
         <name>Titanic Cleric</name>
