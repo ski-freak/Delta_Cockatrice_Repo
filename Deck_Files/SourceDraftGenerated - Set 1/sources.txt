@@ -91,7 +91,6 @@ Eminus
 1 Noble Orator
 1 Honorable Knight
 1 Watchful Ogre
-1 Liev Arbiter
 1 Nullify Magic
 1 Rewind
 1 Untimely Investigation
@@ -150,6 +149,7 @@ Eminus
 1 Reconnaissance
 1 Undercover Arbiter
 1 Angel's Rebuke
+1 Tiny Toolbox
 
 Materia
 1 Watch Bureaucrat
@@ -526,6 +526,5 @@ Deitas
 1 Myrkur Seer
 1 The Architect
 1 Minor Prophecy
-1 Vengeful Cleric
 1 Voidwalker
 1 Fisherman"
