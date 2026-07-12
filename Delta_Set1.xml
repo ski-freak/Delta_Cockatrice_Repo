@@ -1194,6 +1194,10 @@
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Liase%20of%20the%20Two%20Scrolls.png">Del1</set>
     </card>
     <card>
+        <name>Library</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Library.png">Del1</set>
+    </card>
+    <card>
         <name>Lifeless Walker</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Lifeless%20Walker.png">Del1</set>
     </card>
@@ -1990,6 +1994,10 @@
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Studies%20of%20Warfare.png">Del1</set>
     </card>
     <card>
+        <name>Study</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Study.png">Del1</set>
+    </card>
+    <card>
         <name>Sublimate</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Sublimate.png">Del1</set>
     </card>
@@ -2244,6 +2252,10 @@
     <card>
         <name>Variety Fan</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Variety%20Fan.png">Del1</set>
+    </card>
+    <card>
+        <name>Vault</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Vault.png">Del1</set>
     </card>
     <card>
         <name>Veriglas Cleric</name>
