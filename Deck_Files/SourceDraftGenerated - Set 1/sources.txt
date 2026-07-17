@@ -79,6 +79,27 @@
 1 Temple
 1 Ancient Nightmare
 1 Frost Lich
+1 Arcane Drake
+1 Mind Plunder
+1 Mastermind
+1 Moat Crocodile
+1 Shieldmaster
+1 Watch Gatekeeper
+1 Escaped Prisoner
+1 Distracting Presence
+1 Manipulative Watchman
+1 Leech Rider
+1 Mindpiercer
+1 Weapon Thief
+1 Mirror Mage
+1 Soul Eater
+1 Forsaken Investigator
+1 Entrail Reader
+1 Mindtwisting Mage
+1 The Planner
+1 Naturalist
+1 The Thinker
+1 Knight of the Mirror
 
 Eminus
 1 Righteous Edict
@@ -92,6 +113,8 @@ Eminus
 1 Honorable Knight
 1 Watchful Ogre
 1 Nullify Magic
+1 Trevor
+1 Steven
 1 Rewind
 1 Untimely Investigation
 1 Scramble Magic
@@ -191,6 +214,7 @@ Materia
 1 Earthquake
 1 Alliance General
 1 Logistics Expert
+1 Flinger
 1 Vaporize
 1 New Horizons
 1 Druid of Distant Lands
@@ -332,6 +356,7 @@ Zelor
 1 Knight of the Torch
 1 Dream Haven
 1 Dream Jaunt
+1 Kinetic Crystal
 1 Pale Zealot
 1 Amatuer Illusionist
 1 Lucas
@@ -339,6 +364,7 @@ Zelor
 1 Forsaken Chant
 1 Forsaken Reveller
 1 Traverse Dream
+1 Clear the Mind
 1 Atnian Guide
 1 Recollect
 1 Unstable Staff
@@ -526,5 +552,7 @@ Deitas
 1 Myrkur Seer
 1 The Architect
 1 Minor Prophecy
+1 Tire Roller
 1 Voidwalker
-1 Fisherman"
+1 Fisherman
+1 The Afflicted"
