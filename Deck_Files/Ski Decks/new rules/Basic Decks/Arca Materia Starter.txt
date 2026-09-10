@@ -14,6 +14,7 @@
 2 Forsaken Mage
 2 Fearless Outlander
 2 Haunting Figure
-9 Portal
+12 Portal
 
 3 Grove
+3 Rift

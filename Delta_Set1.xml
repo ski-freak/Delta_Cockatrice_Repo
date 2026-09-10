@@ -10,6 +10,14 @@
 </sets>
 <cards>
     <card>
+        <name>2Glyph of Summoning</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/2Glyph%20of%20Summoning.png">Del1</set>
+    </card>
+    <card>
+        <name>2Glyph of Survival</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/2Glyph%20of%20Survival.png">Del1</set>
+    </card>
+    <card>
         <name>Absence</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Absence.png">Del1</set>
     </card>
@@ -1658,6 +1666,10 @@
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Priest%20of%20the%20Veriglas.png">Del1</set>
     </card>
     <card>
+        <name>Prisoner Exchange</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Prisoner%20Exchange.png">Del1</set>
+    </card>
+    <card>
         <name>Prodigal Champion</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Prodigal%20Champion.png">Del1</set>
     </card>
@@ -2018,6 +2030,10 @@
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Spirit%20Guide.png">Del1</set>
     </card>
     <card>
+        <name>Spiteful Scout</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Spiteful%20Scout.png">Del1</set>
+    </card>
+    <card>
         <name>Squelch</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Squelch.png">Del1</set>
     </card>
@@ -2276,6 +2292,10 @@
     <card>
         <name>Traverse Dream</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Traverse%20Dream.png">Del1</set>
+    </card>
+    <card>
+        <name>Treacherous Mercenary</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Treacherous%20Mercenary.png">Del1</set>
     </card>
     <card>
         <name>Trevor</name>
