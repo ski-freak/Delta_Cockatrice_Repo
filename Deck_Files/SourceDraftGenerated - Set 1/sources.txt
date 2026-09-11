@@ -1,5 +1,4 @@
 "Arca
-1 Benevolent Nightmare
 1 Hwain's Disciple
 1 Void Axe
 1 Giant Bat
@@ -28,6 +27,7 @@
 1 Pact of Annihilation
 1 Rift's Grasp
 1 Forsaken Cultist
+1 Outlands Brawler
 1 Visions of the End
 1 Blood Channeler
 1 Riftcursed Farmer
@@ -105,7 +105,6 @@ Eminus
 1 Liase of the Two Scrolls
 1 Devout Knight
 1 Noble Orator
-1 Honorable Knight
 1 Watchful Ogre
 1 Glyph of Survival
 1 Nullify Magic
@@ -140,7 +139,7 @@ Eminus
 1 Prodigal Champion
 1 Cliffside Village
 1 Pax Nova Farmland
-1 Forgotten Knight
+1 Prisoner Exchange
 1 Everyone Forgets
 1 Champion's Crown
 1 Arbiter Mechanic
@@ -198,7 +197,6 @@ Materia
 1 Filibuster Specialist
 1 Wild Beast
 1 Monsoon
-1 Skyhaven Archer
 1 Bloodcaster
 1 Earthquake
 1 Alliance General
@@ -219,6 +217,7 @@ Materia
 1 Outlands Leader
 1 Ritual of the Seven
 1 Lifeless Walker
+1 Spiteful Scout
 1 Radiation Ray
 1 Summoning Circle
 1 Walking Stones
@@ -290,7 +289,6 @@ Epoca
 1 Arbiter's Foundry
 1 The Great Factory
 1 Automaton Conjuration
-1 Master of Disguises
 1 Glugg, the Resourceful
 1 Book of Brag
 1 Counter
@@ -299,7 +297,6 @@ Epoca
 1 Demonic Mirror
 1 Cryptic Commander
 1 Bird Watcher
-1 Arbiter Trainer
 1 Ethereal Swan
 1 Hejira's Familiar
 1 Messenger Pigeon
@@ -313,7 +310,6 @@ Zelor
 1 Battle Training
 1 Mirage
 1 Fireball
-1 Living Lightning
 1 Thunderous Fury
 1 Stochastic Ignition
 1 Enlarge
@@ -339,13 +335,13 @@ Zelor
 1 Journey Through Dream
 1 Knight of the Wheat
 1 Knight of the Torch
+1 Treacherous Mercenary
 1 Dream Haven
 1 Dream Jaunt
 1 Kinetic Crystal
 1 Pale Zealot
 1 Amatuer Illusionist
 1 Lucas
-1 Battle Rage
 1 Forsaken Chant
 1 Forsaken Reveller
 1 Traverse Dream
@@ -397,12 +393,10 @@ Talentus
 1 Legion Mageslayer
 1 Swift Rescue
 1 Lopsided Truce
-1 Outlands Brawler
 1 Legion Warlock
 1 Revenants of War
 1 Commander Gerald
 1 Supply Logistics
-1 Legion Rider
 1 Supercharge
 1 Investigator Snoopy
 1 Legion Drill Sergeant
@@ -440,7 +434,6 @@ Talentus
 1 Legion's Forge
 1 Marla's Tavern
 1 Ogre Arbiter
-1 Avatar of Zoggir
 1 Expert Navigator
 1 Deadly Strike
 1 Crippling Shot
