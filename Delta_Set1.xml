@@ -466,6 +466,10 @@
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Defender%20of%20the%20Lake.png">Del1</set>
     </card>
     <card>
+        <name>Defensive_Zone</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Defensive_Zone.png">Del1</set>
+    </card>
+    <card>
         <name>Demon of Consumption</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Demon%20of%20Consumption.png">Del1</set>
     </card>
@@ -946,6 +950,10 @@
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Glyph%20of%20Ward.png">Del1</set>
     </card>
     <card>
+        <name>Glyph of Warding</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Glyph%20of%20Warding.png">Del1</set>
+    </card>
+    <card>
         <name>Goblin Sharptooth</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Goblin%20Sharptooth.png">Del1</set>
     </card>
@@ -1318,6 +1326,10 @@
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Marla,%20Respected%20Chef.png">Del1</set>
     </card>
     <card>
+        <name>Mass Miniaturization</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Mass%20Miniaturization.png">Del1</set>
+    </card>
+    <card>
         <name>Master of Disguises</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Master%20of%20Disguises.png">Del1</set>
     </card>
@@ -1496,6 +1508,10 @@
     <card>
         <name>Obliterate</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Obliterate.png">Del1</set>
+    </card>
+    <card>
+        <name>Offensive_Zone</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Offensive_Zone.png">Del1</set>
     </card>
     <card>
         <name>Ogre Arbiter</name>
@@ -1722,6 +1738,10 @@
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Reckless%20Acolyte.png">Del1</set>
     </card>
     <card>
+        <name>Reckless Alchemist</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Reckless%20Alchemist.png">Del1</set>
+    </card>
+    <card>
         <name>Recollect</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Recollect.png">Del1</set>
     </card>
@@ -1886,6 +1906,10 @@
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Rune%20of%20Antiquity.png">Del1</set>
     </card>
     <card>
+        <name>Safe_Zone</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Safe_Zone.png">Del1</set>
+    </card>
+    <card>
         <name>Scour the Ruins</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Scour%20the%20Ruins.png">Del1</set>
     </card>
@@ -1944,6 +1968,10 @@
     <card>
         <name>Shrine</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Shrine.png">Del1</set>
+    </card>
+    <card>
+        <name>Shrink Ray</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Shrink%20Ray.png">Del1</set>
     </card>
     <card>
         <name>Singularity</name>
