@@ -862,6 +862,10 @@
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Forsaken%20Loremaster.png">Del1</set>
     </card>
     <card>
+        <name>Forsaken Mage</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Forsaken%20Mage.png">Del1</set>
+    </card>
+    <card>
         <name>Forsaken Reveller</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Forsaken%20Reveller.png">Del1</set>
     </card>

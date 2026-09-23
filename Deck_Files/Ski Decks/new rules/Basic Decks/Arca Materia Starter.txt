@@ -18,3 +18,7 @@
 
 3 Grove
 3 Rift
+1 Safe_Area
+1 Defensive_Area
+1 Offensive_Area
+1 Pass

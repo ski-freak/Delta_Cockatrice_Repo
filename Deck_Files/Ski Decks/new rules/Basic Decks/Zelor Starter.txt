@@ -3,7 +3,6 @@
 2 Enlarge
 2 Soulfire
 2 Piercing Slice
-1 Battle Rage
 1 Seasonal Festeval
 2 Clear the Mind
 2 Knight of the Sun
@@ -15,5 +14,10 @@
 2 Duelist
 2 Atnian Dragon
 2 Lucas
+1 Disintegrate
 
 6 Dreamscape
+1 Safe_Area
+1 Defensive_Area
+1 Offensive_Area
+1 Pass
