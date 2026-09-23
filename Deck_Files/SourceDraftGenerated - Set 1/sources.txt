@@ -1,6 +1,7 @@
 "Arca
 1 Hwain's Disciple
-1 Void Axe
+1 Mass Miniaturization
+1 Shrink Ray
 1 Giant Bat
 1 Void Drake
 1 Arcane Revenant
@@ -77,6 +78,13 @@
 1 Arcane Drake
 1 Mind Plunder
 1 Mastermind
+1 Rift
+1 Village
+1 Grove
+1 Ruins
+1 Dreamscape
+1 Outpost
+1 Shrine
 1 Moat Crocodile
 1 Shieldmaster
 1 Watch Gatekeeper
@@ -130,7 +138,6 @@ Eminus
 1 Defender of the Gate
 1 Sound the Alarm
 1 Summoning Sloth
-1 Potential Man
 1 Slow Magic
 1 Beckon Home
 1 Wolkk Twinspear
@@ -145,7 +152,7 @@ Eminus
 1 Arbiter Mechanic
 1 Infused Knight
 1 Champion of the Book
-1 Combat Wizardry
+1 Reckless Alchemist
 1 Nullifying Blast
 1 Stance Shift
 1 Memento
@@ -277,7 +284,6 @@ Epoca
 1 Bringer of Winds
 1 Storm Rune
 1 Glyph of Warding
-1 Carl
 1 Mystic Ruins
 1 Ancient Grounds
 1 Ruins Researcher
@@ -441,7 +447,6 @@ Talentus
 1 Bake Into a Quiche
 1 Fallen Soldier
 1 Outlands Surveyor
-1 Wormhole Technician
 1 Master Tactician
 1 Supply-Line Runner
 
@@ -518,5 +523,4 @@ Deitas
 1 The Architect
 1 Minor Prophecy
 1 Tire Roller
-1 Voidwalker
-1 The Afflicted"
+1 Voidwalker"
