@@ -237,6 +237,11 @@ Materia
 1 Esmund's Staff
 1 Worldly Wisdom
 1 Neutral Agent
+1 Houndmaster Ertha
+1 Herald of Largeius
+1 Vegan Vampire
+1 Shrunken Giant
+1 Summoning of Largeius
 
 Epoca
 1 Scrap Compactor
