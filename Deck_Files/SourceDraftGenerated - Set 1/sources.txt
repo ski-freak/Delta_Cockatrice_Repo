@@ -315,7 +315,6 @@ Epoca
 Zelor
 1 Amnesia
 1 Forsaken Village
-1 Volcanic Cliffs
 1 Thought Extraction
 1 Wizard's Familiar
 1 Battle Training
@@ -349,7 +348,8 @@ Zelor
 1 Treacherous Mercenary
 1 Dream Haven
 1 Dream Jaunt
-1 Kinetic Crystal
+1 Volcanic Cliffs
+1 Legion's Forge
 1 Pale Zealot
 1 Amatuer Illusionist
 1 Lucas
@@ -442,7 +442,6 @@ Talentus
 1 Dismantling Technique
 1 Selfless Legionnaire
 1 Midnight Duel
-1 Legion's Forge
 1 Marla's Tavern
 1 Ogre Arbiter
 1 Expert Navigator
