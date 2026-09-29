@@ -518,7 +518,7 @@ Deitas
 1 Pilgrim
 1 Veriglas Preacher
 1 Veriglas Zelot
-1 Priest of the Veriglas
+1 Veriglas Church
 1 Veriglas Cleric
 1 Statue of Luglamien
 1 Reflection of Cyrvo
