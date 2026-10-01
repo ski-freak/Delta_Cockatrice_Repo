@@ -594,6 +594,10 @@
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Druid%20of%20Distant%20Lands.png">Del1</set>
     </card>
     <card>
+        <name>Duelist Coach</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Duelist%20Coach.png">Del1</set>
+    </card>
+    <card>
         <name>Duelist</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Duelist.png">Del1</set>
     </card>
