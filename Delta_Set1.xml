@@ -74,6 +74,10 @@
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Angel's%20Rebuke.png">Del1</set>
     </card>
     <card>
+        <name>Angelic Ruins</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Angelic%20Ruins.png">Del1</set>
+    </card>
+    <card>
         <name>Annoying Lawyer</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Annoying%20Lawyer.png">Del1</set>
     </card>
@@ -112,6 +116,10 @@
     <card>
         <name>Arbiter's Foundry</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Arbiter's%20Foundry.png">Del1</set>
+    </card>
+    <card>
+        <name>Arbiters' Stronghold</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Arbiters'%20Stronghold.png">Del1</set>
     </card>
     <card>
         <name>Arcane Amalgam</name>
@@ -322,6 +330,10 @@
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Castle.png">Del1</set>
     </card>
     <card>
+        <name>Cat Shaped Urn</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Cat%20Shaped%20Urn.png">Del1</set>
+    </card>
+    <card>
         <name>Cemetery Rift</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Cemetery%20Rift.png">Del1</set>
     </card>
@@ -348,6 +360,10 @@
     <card>
         <name>Clockwork Soldier</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Clockwork%20Soldier.png">Del1</set>
+    </card>
+    <card>
+        <name>Coin</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Coin.png">Del1</set>
     </card>
     <card>
         <name>Combat Necromancer</name>
@@ -786,6 +802,10 @@
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Fireball.png">Del1</set>
     </card>
     <card>
+        <name>Firing Squad</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Firing%20Squad.png">Del1</set>
+    </card>
+    <card>
         <name>Fisherman</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Fisherman.png">Del1</set>
     </card>
@@ -894,6 +914,10 @@
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Fractal%20Chamber.png">Del1</set>
     </card>
     <card>
+        <name>Fredrick</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Fredrick.png">Del1</set>
+    </card>
+    <card>
         <name>Friendly Giant</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Friendly%20Giant.png">Del1</set>
     </card>
@@ -992,6 +1016,10 @@
     <card>
         <name>Guile</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Guile.png">Del1</set>
+    </card>
+    <card>
+        <name>Gust of Wind</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Gust%20of%20Wind.png">Del1</set>
     </card>
     <card>
         <name>Haunted Residence</name>
@@ -1344,6 +1372,10 @@
     <card>
         <name>Marla, Respected Chef</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Marla,%20Respected%20Chef.png">Del1</set>
+    </card>
+    <card>
+        <name>Mass Grave</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Mass%20Grave.png">Del1</set>
     </card>
     <card>
         <name>Mass Miniaturization</name>
@@ -1830,6 +1862,10 @@
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Restore%20Barrier.png">Del1</set>
     </card>
     <card>
+        <name>Restore History</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Restore%20History.png">Del1</set>
+    </card>
+    <card>
         <name>Restore Order</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Restore%20Order.png">Del1</set>
     </card>
@@ -2134,6 +2170,10 @@
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Strength%20of%20the%20Dead.png">Del1</set>
     </card>
     <card>
+        <name>Strike Coordinator</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Strike%20Coordinator.png">Del1</set>
+    </card>
+    <card>
         <name>Stronghold Directive</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Stronghold%20Directive.png">Del1</set>
     </card>
@@ -2148,6 +2188,10 @@
     <card>
         <name>Study</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Study.png">Del1</set>
+    </card>
+    <card>
+        <name>Stun Man</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Stun%20Man.png">Del1</set>
     </card>
     <card>
         <name>Sublimate</name>
@@ -2184,6 +2228,10 @@
     <card>
         <name>Survivor Knight</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Survivor%20Knight.png">Del1</set>
+    </card>
+    <card>
+        <name>Survivor's Encampment</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Survivor's%20Encampment.png">Del1</set>
     </card>
     <card>
         <name>Survivor's Grit</name>
@@ -2264,6 +2312,10 @@
     <card>
         <name>The Collector</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/The%20Collector.png">Del1</set>
+    </card>
+    <card>
+        <name>The Dinker</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/The%20Dinker.png">Del1</set>
     </card>
     <card>
         <name>The Great Factory</name>
@@ -2378,6 +2430,10 @@
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Uncertain%20Atnian.png">Del1</set>
     </card>
     <card>
+        <name>Undead Raiders</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Undead%20Raiders.png">Del1</set>
+    </card>
+    <card>
         <name>Undercover Arbiter</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Undercover%20Arbiter.png">Del1</set>
     </card>
@@ -2440,6 +2496,10 @@
     <card>
         <name>Vegan Vampire</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Vegan%20Vampire.png">Del1</set>
+    </card>
+    <card>
+        <name>Veriglas Cathedral</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Veriglas%20Cathedral.png">Del1</set>
     </card>
     <card>
         <name>Veriglas Church</name>
@@ -2584,6 +2644,10 @@
     <card>
         <name>Will o' the Wisp</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Will%20o'%20the%20Wisp.png">Del1</set>
+    </card>
+    <card>
+        <name>Windmill Technician</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Windmill%20Technician.png">Del1</set>
     </card>
     <card>
         <name>Wingsmith</name>

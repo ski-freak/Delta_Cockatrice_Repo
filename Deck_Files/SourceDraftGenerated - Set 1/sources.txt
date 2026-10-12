@@ -1,4 +1,5 @@
 "Arca
+1 Duelist Coach
 1 Hwain's Disciple
 1 Mass Miniaturization
 1 Shrink Ray
@@ -20,18 +21,16 @@
 1 Voidsworn Apostle
 1 Rift Whispers
 1 Cemetery Rift
-1 Pull of the Abyss
-1 Void Spike
+1 Shem's Binding
+1 Symbol of Hwain
 1 Illusory Chains
-1 Void Slap
+1 Oln's Binding
 1 Recurring Nightmare
 1 Pact of Annihilation
-1 Rift's Grasp
+1 Arbiter Marshal
 1 Forsaken Cultist
 1 Outlands Brawler
-1 Visions of the End
 1 Blood Channeler
-1 Riftcursed Farmer
 1 Avatar of Terror
 1 Bloodcrazed Knight
 1 Inevitable Wisdom
@@ -53,18 +52,15 @@
 1 Iridescence
 1 Pale Prophet Zurani
 1 The Inkblood Library
-1 Strength of Dream
 1 Farsight Telescope
 1 Unleash Energy
 1 Fallen Wizard
 1 Void Spike
-1 Rift's Grasp
 1 Arcane Ignition
 1 Dream of the Dead
 1 Lhorish
 1 Strength of Dream
 1 Glyph of Swiftness
-1 Dream Warden
 1 Skyhaven Looter
 1 Portal
 1 Town Hall
@@ -86,7 +82,6 @@
 1 Outpost
 1 Shrine
 1 Moat Crocodile
-1 Shieldmaster
 1 Watch Gatekeeper
 1 Escaped Prisoner
 1 Distracting Presence
@@ -108,7 +103,6 @@ Eminus
 1 Righteous Edict
 1 Feigned Weakness
 1 Logol of the Mirror
-1 Knightly Reinforcements
 1 Defender of the Lake
 1 Liase of the Two Scrolls
 1 Devout Knight
@@ -119,11 +113,7 @@ Eminus
 1 Trevor
 1 Steven
 1 Rewind
-1 Untimely Investigation
-1 Scramble Magic
 1 Truce
-1 Banishment
-1 Arbiter Marshal
 1 Apprentice Arbiter
 1 Glyph of Summoning
 1 Forensics Specialist
@@ -136,26 +126,19 @@ Eminus
 1 Glyph of Alarm
 1 Farsight
 1 Defender of the Gate
-1 Sound the Alarm
 1 Summoning Sloth
-1 Slow Magic
 1 Beckon Home
 1 Wolkk Twinspear
 1 Knights' Beacon
 1 Flying Lawmage
-1 Prodigal Champion
 1 Cliffside Village
 1 Pax Nova Farmland
-1 Prisoner Exchange
 1 Everyone Forgets
 1 Champion's Crown
 1 Arbiter Mechanic
-1 Infused Knight
-1 Champion of the Book
 1 Reckless Alchemist
 1 Nullifying Blast
 1 Stance Shift
-1 Memento
 1 Pax Nova Garrison
 1 Timeline Jump
 1 Knight's Path
@@ -174,9 +157,7 @@ Eminus
 
 Materia
 1 Watch Bureaucrat
-1 Sublimate
 1 Hemokinesis
-1 Sinkhole
 1 Worldly Scribe
 1 The Borderwoods
 1 Siphon Strength
@@ -196,7 +177,7 @@ Materia
 1 Clockwork Soldier
 1 Evasive Scribe
 1 Fortress Automaton
-1 Vanish
+1 Restore History
 1 Healing Potion
 1 Crackling Hurricane
 1 Druid of Decomposition
@@ -209,7 +190,6 @@ Materia
 1 Alliance General
 1 Logistics Expert
 1 Flinger
-1 Vaporize
 1 New Horizons
 1 Druid of Distant Lands
 1 Borderwoods Druid
@@ -218,7 +198,6 @@ Materia
 1 Untamed Wilds
 1 Annoying Lawyer
 1 Momentus Expedition
-1 Desolate Roads
 1 Sorvald's Insight
 1 Remove from History
 1 Outlands Leader
@@ -231,17 +210,21 @@ Materia
 1 Radiant Elk
 1 Wildlife Researcher
 1 Vaporize
-1 Sinkhole
+1 Crystal Ball
 1 War Druid
 1 Devouring Ooze
 1 Esmund's Staff
+1 Sedric
 1 Worldly Wisdom
 1 Neutral Agent
 1 Houndmaster Ertha
 1 Herald of Largeius
-1 Vegan Vampire
 1 Shrunken Giant
 1 Summoning of Largeius
+1 The Dinker
+1 Windmill Technician
+1 Gust of Wind
+1 Stun Man
 
 Epoca
 1 Scrap Compactor
@@ -254,7 +237,6 @@ Epoca
 1 Knight of the Coin
 1 Gift of Life
 1 Stronghold Dispatch
-1 Condescend
 1 Futuresight Ritual
 1 Trinket Bird
 1 Relic Collector
@@ -264,16 +246,11 @@ Epoca
 1 Skill-Stealing
 1 Warden of the Portals
 1 Pale Sun Initiate
-1 Decode the Runes
 1 Arcane Historian
 1 Arbiter Convergence
 1 Nationwide Alignment
 1 Energy Cell
 1 Tariff
-1 Interrupt
-1 Annul
-1 Counter
-1 Restore Barrier
 1 Excavation Automaton
 1 Hourglass of Ages
 1 Pax Valley Wyvern
@@ -285,13 +262,10 @@ Epoca
 1 Restore Order
 1 Return to Dust
 1 Scour the Ruins
-1 Reserved Scholar
 1 Bringer of Winds
 1 Storm Rune
 1 Glyph of Warding
-1 Mystic Ruins
 1 Ancient Grounds
-1 Ruins Researcher
 1 Doomsday Prophet
 1 Forbidden Knowledge
 1 Tundra Elemental
@@ -299,11 +273,9 @@ Epoca
 1 Priest of the Forge
 1 Arbiter's Foundry
 1 The Great Factory
-1 Automaton Conjuration
 1 Glugg, the Resourceful
 1 Book of Brag
 1 Counter
-1 Condescend
 1 Outlands Cleric
 1 Demonic Mirror
 1 Cryptic Commander
@@ -319,13 +291,9 @@ Zelor
 1 Wizard's Familiar
 1 Battle Training
 1 Mirage
-1 Fireball
-1 Thunderous Fury
 1 Stochastic Ignition
 1 Enlarge
 1 Sorvald's Ignition
-1 Fire Shield
-1 Cleave
 1 Divergent Dreams
 1 Steel Resolve
 1 Knight of the Moon
@@ -351,7 +319,7 @@ Zelor
 1 Volcanic Cliffs
 1 Legion's Forge
 1 Pale Zealot
-1 Amatuer Illusionist
+1 Amateur Illusionist
 1 Lucas
 1 Forsaken Chant
 1 Forsaken Reveller
@@ -367,7 +335,6 @@ Zelor
 1 Forsaken Initiate
 1 Pax Nova Battlemage
 1 Call to Arms
-1 Common Nightmare
 1 Astral Speculation
 1 Righteous Fury
 1 Mind Demolition
@@ -382,17 +349,14 @@ Zelor
 1 Forsaken Dreamcaster
 1 Flarier
 1 Datro's Cat
-1 Fiery Earthmaw
 1 Dragon Figurine
 1 Phoenix
 1 Enhance Spell
-1 Setup Man
+1 Firing Squad
 
 Talentus
-1 Crippling Shot
 1 Reserve Tactics
 1 Young Dragon Spider
-1 Shield Wall
 1 Tower Thief
 1 Legion Messenger
 1 Team Up
@@ -418,7 +382,6 @@ Talentus
 1 General Falfar Kelwyn
 1 Conceal
 1 Nomadic Orc
-1 Adapt
 1 Battlefield Rift
 1 Goblin Sharptooth
 1 Trade Insight
@@ -426,7 +389,6 @@ Talentus
 1 Legion Courier
 1 Banner of Lentholm
 1 Stratagem
-1 Deadly Strike
 1 Zombie Bait
 1 Inspired Charge
 1 What You Can Carry
@@ -434,9 +396,7 @@ Talentus
 1 Battlefield Bard
 1 Legion Quartermaster
 1 Rolead the Swift
-1 Hostage Negotiations
 1 Marla, Respected Chef
-1 Watch Quartermaster
 1 Battle Plans
 1 Possessed Legionnaire
 1 Dismantling Technique
@@ -453,12 +413,14 @@ Talentus
 1 Outlands Surveyor
 1 Master Tactician
 1 Supply-Line Runner
+1 Mass Grave
+1 Questing Wizard
+1 Fredrick
+1 Strike Coordinator
+1 Undead Raiders
+1 Forsaken Schemer
 
 Deitas
-1 Oln's Binding
-1 Symbol of Hwain
-1 Oln's Binding
-1 Symbol of Hwain
 1 Meditation
 1 Wandering Protector
 1 Dark Apostle
@@ -471,7 +433,6 @@ Deitas
 1 Living Temple
 1 Noble Ancestor
 1 Unstable Necromancer
-1 Selfless Cultist
 1 Pale Sun's Influence
 1 Guardian Angel
 1 Extract Essence
@@ -482,7 +443,6 @@ Deitas
 1 Void Cleric
 1 Fallen Angel
 1 Profane Blessing
-1 Smite
 1 Spirit Guide
 1 Patient Schemer
 1 Symbol of Vosderon
@@ -491,7 +451,9 @@ Deitas
 1 Disciple of The Shattered Mirror
 1 Reckless Acolyte
 1 Demonic Bargain
+1 Cat Shaped Urn
 1 Devout Adventurer
+1 Arbiters' Stronghold
 1 Demon of Consumption
 1 Prophet of Ozen
 1 Inquisitor's Cage-Charm
@@ -501,7 +463,6 @@ Deitas
 1 Living Relic
 1 Conspicuous Gravestone
 1 Cosmic Justice
-1 Shem's Binding
 1 Brag's Prison
 1 Svetian Idolator
 1 Titanic Cleric
@@ -510,13 +471,13 @@ Deitas
 1 Temple of Rebirth
 1 Mysterious Cemetery
 1 Molten Image
-1 Orb of Binding
+1 Void Slap
 1 Culture Enthusiast
 1 Largeius the Big
-1 Ancient Superstructure
+1 Angelic Ruins
 1 Big Spell Fan
 1 Pilgrim
-1 Veriglas Preacher
+1 Knight of the Sun
 1 Veriglas Zelot
 1 Veriglas Church
 1 Veriglas Cleric
@@ -527,4 +488,6 @@ Deitas
 1 The Architect
 1 Minor Prophecy
 1 Tire Roller
-1 Voidwalker"
+1 Voidwalker
+1 Veriglas Cathedral
+1 Survivor's Encampment"
