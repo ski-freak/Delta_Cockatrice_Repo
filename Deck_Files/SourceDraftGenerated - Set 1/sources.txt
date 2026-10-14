@@ -107,12 +107,14 @@ Eminus
 1 Liase of the Two Scrolls
 1 Devout Knight
 1 Noble Orator
+1 Coin Crush
 1 Watchful Ogre
 1 Glyph of Survival
 1 Nullify Magic
 1 Trevor
 1 Steven
 1 Rewind
+1 Federal Reserve Employee
 1 Truce
 1 Apprentice Arbiter
 1 Glyph of Summoning
@@ -154,6 +156,14 @@ Eminus
 1 Variety Fan
 1 Reconnaissance
 1 Tiny Toolbox
+1 Yulia of the Lake
+1 Supportive Friend
+1 Mimic
+1 Your Mom
+1 Twinspell
+1 Duel Wielding Expert
+1 Knight of the River
+1 Solemn Angel
 
 Materia
 1 Watch Bureaucrat
@@ -170,7 +180,6 @@ Materia
 1 Long-Winded Orator
 1 Councilor Corsovo
 1 Consume Flesh
-1 Leyline Summoning
 1 Borderwoods Mossbeast
 1 Lekvian Butler
 1 Bloodburst
@@ -234,8 +243,10 @@ Epoca
 1 Embargo
 1 Aulvan Cipher
 1 Antimagic Haze
+1 Coin
 1 Knight of the Coin
 1 Gift of Life
+1 Survivor
 1 Stronghold Dispatch
 1 Futuresight Ritual
 1 Trinket Bird
@@ -251,17 +262,24 @@ Epoca
 1 Nationwide Alignment
 1 Energy Cell
 1 Tariff
+1 Divergent Paths
+1 Golem
+1 Blood Zombie
+1 Law-Mage
+1 Knight of Redemption
 1 Excavation Automaton
 1 Hourglass of Ages
 1 Pax Valley Wyvern
 1 Oguth of Mnem
-1 Wingsmith
+1 Shapeshifter
 1 Rune of Antiquity
 1 Deny
+1 Friendly Crow
 1 Oana's Divination
 1 Restore Order
 1 Return to Dust
 1 Scour the Ruins
+1 Coin Gunner
 1 Bringer of Winds
 1 Storm Rune
 1 Glyph of Warding
@@ -328,7 +346,6 @@ Zelor
 1 Atnian Guide
 1 Recollect
 1 Unstable Staff
-1 Flame Oracle
 1 Alliance Pyromancer
 1 Flaming Berserker
 1 Plasma Bolt

@@ -362,6 +362,14 @@
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Clockwork%20Soldier.png">Del1</set>
     </card>
     <card>
+        <name>Coin Crush</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Coin%20Crush.png">Del1</set>
+    </card>
+    <card>
+        <name>Coin Gunner</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Coin%20Gunner.png">Del1</set>
+    </card>
+    <card>
         <name>Coin</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Coin.png">Del1</set>
     </card>
@@ -610,6 +618,10 @@
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Druid%20of%20Distant%20Lands.png">Del1</set>
     </card>
     <card>
+        <name>Duel Wielding Expert</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Duel%20Wielding%20Expert.png">Del1</set>
+    </card>
+    <card>
         <name>Duelist Coach</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Duelist%20Coach.png">Del1</set>
     </card>
@@ -770,6 +782,10 @@
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Fearless%20Outlander.png">Del1</set>
     </card>
     <card>
+        <name>Federal Reserve Employee</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Federal%20Reserve%20Employee.png">Del1</set>
+    </card>
+    <card>
         <name>Feigned Weakness</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Feigned%20Weakness.png">Del1</set>
     </card>
@@ -916,6 +932,10 @@
     <card>
         <name>Fredrick</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Fredrick.png">Del1</set>
+    </card>
+    <card>
+        <name>Friendly Crow</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Friendly%20Crow.png">Del1</set>
     </card>
     <card>
         <name>Friendly Giant</name>
@@ -1174,6 +1194,10 @@
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Knight%20of%20the%20Ring.png">Del1</set>
     </card>
     <card>
+        <name>Knight of the River</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Knight%20of%20the%20River.png">Del1</set>
+    </card>
+    <card>
         <name>Knight of the Sun</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Knight%20of%20the%20Sun.png">Del1</set>
     </card>
@@ -1416,6 +1440,10 @@
     <card>
         <name>Midnight Duel</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Midnight%20Duel.png">Del1</set>
+    </card>
+    <card>
+        <name>Mimic</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Mimic.png">Del1</set>
     </card>
     <card>
         <name>Mind Control</name>
@@ -2010,6 +2038,10 @@
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Shadowy%20Explosion.png">Del1</set>
     </card>
     <card>
+        <name>Shapeshifter</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Shapeshifter.png">Del1</set>
+    </card>
+    <card>
         <name>Shard of The Mirror</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Shard%20of%20The%20Mirror.png">Del1</set>
     </card>
@@ -2068,6 +2100,10 @@
     <card>
         <name>Smite</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Smite.png">Del1</set>
+    </card>
+    <card>
+        <name>Solemn Angel</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Solemn%20Angel.png">Del1</set>
     </card>
     <card>
         <name>Sorvald's Ignition</name>
@@ -2224,6 +2260,10 @@
     <card>
         <name>Supply-Line Runner</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Supply-Line%20Runner.png">Del1</set>
+    </card>
+    <card>
+        <name>Supportive Friend</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Supportive%20Friend.png">Del1</set>
     </card>
     <card>
         <name>Survivor Knight</name>
@@ -2420,6 +2460,10 @@
     <card>
         <name>Tundra Elemental</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Tundra%20Elemental.png">Del1</set>
+    </card>
+    <card>
+        <name>Twinspell</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Twinspell.png">Del1</set>
     </card>
     <card>
         <name>Twist of Fate</name>
@@ -2700,6 +2744,14 @@
     <card>
         <name>Young Knight</name>
         <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Young%20Knight.png">Del1</set>
+    </card>
+    <card>
+        <name>Your Mom</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Your%20Mom.png">Del1</set>
+    </card>
+    <card>
+        <name>Yulia of the Lake</name>
+        <set picurl="https://raw.githubusercontent.com/ski-freak/Delta_Cockatrice_Repo/main/Picurl_Images/Yulia%20of%20the%20Lake.png">Del1</set>
     </card>
     <card>
         <name>Zombie Bait</name>
